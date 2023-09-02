@@ -203,6 +203,9 @@
 
 ## C++ 
 
+- [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
+- [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
+- [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
 - [OpenCalib/SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) - 
 - [StephenYang190/rangenet_lib](https://github.com/StephenYang190/rangenet_lib) - Rangenet lib in TensorRT8
 - [T-head-Semi/open_source_ISP](https://github.com/T-head-Semi/open_source_ISP) - 
@@ -1252,6 +1255,7 @@
 
 ## Others 
 
+- [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
 - [hht1996ok/IC-FPS](https://github.com/hht1996ok/IC-FPS) - 
 - [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com
 - [JohnsonSign/MaST-Pre](https://github.com/JohnsonSign/MaST-Pre) - 
@@ -1337,7 +1341,7 @@
 - [industrialtablet/RK3588-Development-Board](https://github.com/industrialtablet/RK3588-Development-Board) - This repository is RK3588 Development Board Documents from HYY Technology Co.,Ltd.
 - [HeBangYan/PF-Attack](https://github.com/HeBangYan/PF-Attack) - The code for AAAI2023 (Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization)
 - [AngelLM/Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) - "Multi-Level Intermediate Representation" Compiler Infrastructure
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [faridghm/Meta-SeL](https://github.com/faridghm/Meta-SeL) - 
@@ -1455,6 +1459,14 @@
 
 ## Python 
 
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
+- [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - The first LVLM based IAD method!
+- [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
+- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - 
+- [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
+- [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [IDEA-Research/3D-deformable-attention](https://github.com/IDEA-Research/3D-deformable-attention) - [ICCV 2023] Official implementation of the paper "DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting"
 - [deeptibhegde/AttentivePrototypeSFUDA](https://github.com/deeptibhegde/AttentivePrototypeSFUDA) - Official implementation for the paper "Attentive Prototypes for Source-free Unsupervised Domain Adaptive 3D Object Detection"
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
@@ -1787,7 +1799,7 @@
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [ajhamdi/mvtorch](https://github.com/ajhamdi/mvtorch) - a Pytorch library for multi-view 3D understanding and generation
 - [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - Code for "A Comprehensive Study and Comparison of the Robustness of 3D Object Detectors Against Adversarial Attacks".
-- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation (IJCV2023)
+- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation
 - [Sense-GVT/Fast-BEV](https://github.com/Sense-GVT/Fast-BEV) - Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
@@ -2350,7 +2362,7 @@
 - [rayguan97/M3DETR](https://github.com/rayguan97/M3DETR) - Code base for M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [once-for-auto-driving/once_devkit](https://github.com/once-for-auto-driving/once_devkit) - 
-- [AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN) - Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations [ECCV-PAD-2020]
+- [AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN) - [ECCV-PAD-2020] Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations
 - [tianweiy/CenterPoint-KITTI](https://github.com/tianweiy/CenterPoint-KITTI) - 
 - [paul007pl/VRCNet](https://github.com/paul007pl/VRCNet) - [CVPR 2021 Oral] Variational Relational Point Completion Network
 - [qiqihaer/3DSSD-pytorch-openPCDet](https://github.com/qiqihaer/3DSSD-pytorch-openPCDet) - The successful implementation of 3DSSD in Pytorch
@@ -2644,7 +2656,7 @@
 - [honeyhaoyan/Grid_GCN](https://github.com/honeyhaoyan/Grid_GCN) - 
 - [honeyhaoyan/python_version_Grid_GCN](https://github.com/honeyhaoyan/python_version_Grid_GCN) - This is a python version Grid_GCN model
 - [Jittor/PointCloudLib](https://github.com/Jittor/PointCloudLib) - Jittor Library for Point Cloud Processing
-- [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - SA-Det3D: Self-attention based Context-Aware 3D Object Detection [ICCV-AvVision-2021]
+- [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - [ICCV-AvVision-2021] SA-Det3D: Self-attention based Context-Aware 3D Object Detection
 - [cuge1995/PointCutMix](https://github.com/cuge1995/PointCutMix) - our code for paper 'PointCutMix: Regularization Strategy for Point Cloud Classification', Neurocomputing, 2022
 - [lucidrains/point-transformer-pytorch](https://github.com/lucidrains/point-transformer-pytorch) - Implementation of the Point Transformer layer, in Pytorch
 - [zhihao-lin/3dgcn](https://github.com/zhihao-lin/3dgcn) - Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis
