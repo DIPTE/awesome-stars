@@ -271,6 +271,7 @@
 
 ## awesome 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
@@ -286,6 +287,7 @@
 
 ## awesome-list 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
@@ -343,6 +345,7 @@
 
 ## cli 
 
+- [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
 ## clojure 
@@ -963,10 +966,12 @@
 
 ## gis 
 
+- [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
 
 ## github 
 
+- [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
@@ -1077,6 +1082,7 @@
 
 ## json 
 
+- [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 
 ## jupyter-notebook 
@@ -1416,6 +1422,15 @@
 
 ## others 
 
+- [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
+- [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
+- [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
+- [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - The first LVLM based IAD method!
+- [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
+- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - 
+- [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
 - [hht1996ok/IC-FPS](https://github.com/hht1996ok/IC-FPS) - 
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
 - [IDEA-Research/3D-deformable-attention](https://github.com/IDEA-Research/3D-deformable-attention) - [ICCV 2023] Official implementation of the paper "DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting"
@@ -1999,7 +2014,7 @@
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - Code for "A Comprehensive Study and Comparison of the Robustness of 3D Object Detectors Against Adversarial Attacks".
-- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation (IJCV2023)
+- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation
 - [LeapLabTHU/Text4Point](https://github.com/LeapLabTHU/Text4Point) - 
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
@@ -2114,7 +2129,7 @@
 - [HeBangYan/PF-Attack](https://github.com/HeBangYan/PF-Attack) - The code for AAAI2023 (Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization)
 - [Serenos/LWSIS](https://github.com/Serenos/LWSIS) - An official implementation of AAAI2023 paper "LWSIS: LiDAR-guided Weakly Supervised Instance Segmentation for Autonomous Driving"
 - [hailanyi/TED](https://github.com/hailanyi/TED) - Transformation-Equivariant 3D Object Detection for Autonomous Driving
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) - "Multi-Level Intermediate Representation" Compiler Infrastructure
 - [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) - compiler learning resources collect.
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
@@ -2899,7 +2914,7 @@
 - [once-for-auto-driving/once_devkit](https://github.com/once-for-auto-driving/once_devkit) - 
 - [once-for-auto-driving/once-for-auto-driving.github.io](https://github.com/once-for-auto-driving/once-for-auto-driving.github.io) - webpage for the ONCE dataset
 - [QingyongHu/SensatUrban](https://github.com/QingyongHu/SensatUrban) - 🔥Urban-scale point cloud dataset (CVPR 2021 & IJCV 2022)
-- [AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN) - Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations [ECCV-PAD-2020]
+- [AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN) - [ECCV-PAD-2020] Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations
 - [horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression) - This is a compression technique that targets for LiDAR-generated point cloud
 - [tianweiy/CenterPoint-KITTI](https://github.com/tianweiy/CenterPoint-KITTI) - 
 - [qiqihaer/3DSSD-pytorch-openPCDet](https://github.com/qiqihaer/3DSSD-pytorch-openPCDet) - The successful implementation of 3DSSD in Pytorch
@@ -3637,6 +3652,7 @@
 
 ## python 
 
+- [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
@@ -3920,7 +3936,7 @@
 - [yhenon/pytorch-retinanet](https://github.com/yhenon/pytorch-retinanet) - Pytorch implementation of RetinaNet object detection.
 - [qq456cvb/SPRIN](https://github.com/qq456cvb/SPRIN) - PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
-- [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - SA-Det3D: Self-attention based Context-Aware 3D Object Detection [ICCV-AvVision-2021]
+- [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - [ICCV-AvVision-2021] SA-Det3D: Self-attention based Context-Aware 3D Object Detection
 - [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron) - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera 
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
 - [erikwijmans/Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch) - PyTorch implementation of Pointnet2/Pointnet++
