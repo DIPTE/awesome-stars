@@ -752,7 +752,7 @@
 - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) - C++ library based on tensorrt integration
 - [jiachens/ModelNet40-C](https://github.com/jiachens/ModelNet40-C) - Repo for "Benchmarking Robustness of 3D Point Cloud Recognition against Common Corruptions"  https://arxiv.org/abs/2201.12296
 - [4DVLab/Vision-Centric-BEV-Perception](https://github.com/4DVLab/Vision-Centric-BEV-Perception) - Vision-Centric BEV Perception: A Survey
-- [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Towards a General Purpose CNN for Long Range Dependencies in N-D" https://arxiv.org/abs/2206.03398.
+- [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Modelling Long Range Dependencies in ND: From Task-Specific to a General Purpose CNN" https://arxiv.org/abs/2301.10540.
 - [DerrickXuNu/v2x-vit](https://github.com/DerrickXuNu/v2x-vit) - [ECCV2022] Official Implementation of  paper "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer"
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -1528,7 +1528,7 @@
 - [fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet) - 
 - [OpenDriveLab/OpenScene](https://github.com/OpenDriveLab/OpenScene) - 3D Occupancy Prediction Benchmark in Autonomous Driving
 - [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
-- [ymzis69/HybirdSORT](https://github.com/ymzis69/HybirdSORT) - Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
+- [ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT) - Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
 - [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 - [BICLab/EMS-YOLO](https://github.com/BICLab/EMS-YOLO) - Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (ICCV2023)
 - [mengtan00/SA-BEV](https://github.com/mengtan00/SA-BEV) - This is the implementation of the paper "SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection" (ICCV 2023)
@@ -3866,7 +3866,7 @@
 - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) - C++ library based on tensorrt integration
 - [jiachens/ModelNet40-C](https://github.com/jiachens/ModelNet40-C) - Repo for "Benchmarking Robustness of 3D Point Cloud Recognition against Common Corruptions"  https://arxiv.org/abs/2201.12296
 - [BIGBALLON/PyTorch-CPP](https://github.com/BIGBALLON/PyTorch-CPP) - PyTorch C++ inference with LibTorch
-- [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Towards a General Purpose CNN for Long Range Dependencies in N-D" https://arxiv.org/abs/2206.03398.
+- [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Modelling Long Range Dependencies in ND: From Task-Specific to a General Purpose CNN" https://arxiv.org/abs/2301.10540.
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [DerrickXuNu/v2x-vit](https://github.com/DerrickXuNu/v2x-vit) - [ECCV2022] Official Implementation of  paper "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer"
 - [haotian-liu/yolact_edge](https://github.com/haotian-liu/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
