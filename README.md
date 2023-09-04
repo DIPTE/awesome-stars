@@ -1534,7 +1534,7 @@
 - [fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet) - 
 - [OpenDriveLab/OpenScene](https://github.com/OpenDriveLab/OpenScene) - 3D Occupancy Prediction Benchmark in Autonomous Driving
 - [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
-- [ymzis69/HybirdSORT](https://github.com/ymzis69/HybirdSORT) - Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
+- [ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT) - Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
 - [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 - [mengtan00/SA-BEV](https://github.com/mengtan00/SA-BEV) - This is the implementation of the paper "SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection" (ICCV 2023)
 - [UMass-Foundation-Model/3D-LLM](https://github.com/UMass-Foundation-Model/3D-LLM) - Preliminary Code for  3D-LLM: Injecting the 3D World into Large Language Models
@@ -2172,7 +2172,7 @@
 - [google-research/deeplab2](https://github.com/google-research/deeplab2) - DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.
 - [aleksandrkim61/PolarMOT](https://github.com/aleksandrkim61/PolarMOT) - Official code for "PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?" [ECCV 2022]
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - ONNX2Pytorch
-- [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Towards a General Purpose CNN for Long Range Dependencies in N-D" https://arxiv.org/abs/2206.03398.
+- [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Modelling Long Range Dependencies in ND: From Task-Specific to a General Purpose CNN" https://arxiv.org/abs/2301.10540.
 - [dvlab-research/FocalsConv](https://github.com/dvlab-research/FocalsConv) - Focal Sparse Convolutional Networks for 3D Object Detection (CVPR 2022, Oral)
 - [dvlab-research/DeepVision3D](https://github.com/dvlab-research/DeepVision3D) - DeepVision3D is an open source toolbox for point-cloud understanding.
 - [open-mmlab/mim](https://github.com/open-mmlab/mim) - MIM Installs OpenMMLab Packages
