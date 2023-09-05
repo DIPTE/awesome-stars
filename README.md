@@ -203,6 +203,7 @@
 
 ## C++ 
 
+- [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
 - [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
@@ -764,7 +765,7 @@
 - [lbin/DCNv2](https://github.com/lbin/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
 - [badaix/aixlog](https://github.com/badaix/aixlog) - Header-only C++ logging library
 - [salehjg/MeshToPointcloudFPS](https://github.com/salehjg/MeshToPointcloudFPS) - A mesh to pointcloud converter with FPS algorithm and HDF5 output generator
-- [OpenDriveLab/OpenLane](https://github.com/OpenDriveLab/OpenLane) - [ECCV 2022 oral] OpenLane: Large-scale Realistic 3D Lane Dataset
+- [OpenDriveLab/OpenLane](https://github.com/OpenDriveLab/OpenLane) - [ECCV 2022 Oral] OpenLane: Large-scale Realistic 3D Lane Dataset
 - [calibtoolkit/calibration_kit](https://github.com/calibtoolkit/calibration_kit) - 
 - [salehjg/DGCNN-on-FPGA](https://github.com/salehjg/DGCNN-on-FPGA) - PLEASE USE THE NEW REPO https://github.com/salehjg/DeepPoint-V2-FPGA . The deprecated in-order-queue-based repository for "DGCNN on FPGA: Acceleration of The Point CloudClassifier Using FPGAs".
 - [Xharlie/DISN](https://github.com/Xharlie/DISN) - (latest updates and bug fixed) DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
@@ -1058,7 +1059,7 @@
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [yossilevii100/EPiC](https://github.com/yossilevii100/EPiC) - Ensemble of Partial Points Clouds for Robust Classification
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
-- [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - OpenLane-V2: The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving
+- [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - OpenLane-V2: The First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for k
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1255,6 +1256,8 @@
 
 ## Others 
 
+- [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
+- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
 - [hht1996ok/IC-FPS](https://github.com/hht1996ok/IC-FPS) - 
 - [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com
@@ -1459,6 +1462,8 @@
 
 ## Python 
 
+- [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
+- [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - The first LVLM based IAD method!
@@ -2362,7 +2367,7 @@
 - [rayguan97/M3DETR](https://github.com/rayguan97/M3DETR) - Code base for M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [once-for-auto-driving/once_devkit](https://github.com/once-for-auto-driving/once_devkit) - 
-- [AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN) - [ECCV-PAD-2020] Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations
+- [AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN) - [ECCVW-2020] Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations
 - [tianweiy/CenterPoint-KITTI](https://github.com/tianweiy/CenterPoint-KITTI) - 
 - [paul007pl/VRCNet](https://github.com/paul007pl/VRCNet) - [CVPR 2021 Oral] Variational Relational Point Completion Network
 - [qiqihaer/3DSSD-pytorch-openPCDet](https://github.com/qiqihaer/3DSSD-pytorch-openPCDet) - The successful implementation of 3DSSD in Pytorch
@@ -2656,7 +2661,7 @@
 - [honeyhaoyan/Grid_GCN](https://github.com/honeyhaoyan/Grid_GCN) - 
 - [honeyhaoyan/python_version_Grid_GCN](https://github.com/honeyhaoyan/python_version_Grid_GCN) - This is a python version Grid_GCN model
 - [Jittor/PointCloudLib](https://github.com/Jittor/PointCloudLib) - Jittor Library for Point Cloud Processing
-- [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - [ICCV-AvVision-2021] SA-Det3D: Self-attention based Context-Aware 3D Object Detection
+- [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - [ICCVW-2021] SA-Det3D: Self-attention based Context-Aware 3D Object Detection
 - [cuge1995/PointCutMix](https://github.com/cuge1995/PointCutMix) - our code for paper 'PointCutMix: Regularization Strategy for Point Cloud Classification', Neurocomputing, 2022
 - [lucidrains/point-transformer-pytorch](https://github.com/lucidrains/point-transformer-pytorch) - Implementation of the Point Transformer layer, in Pytorch
 - [zhihao-lin/3dgcn](https://github.com/zhihao-lin/3dgcn) - Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis
