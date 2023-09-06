@@ -2140,7 +2140,6 @@
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - row-major matmul optimization
 - [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake) - 你还在学CMake的过程中毫无头绪吗？你还在为复杂程序库依赖发愁吗？你是否觉得原生CMake的编写冗余而低效？那就快来学习和使用PICMake吧！只需要一行，无论是可执行，动态库还是静态库，轻松搞定！同时高效支持多目标，复杂库的编译安装，从此告别大量冗余CMake代码，专注开发核心应用程序，编译不再愁！ 例如下面是使用PICMake编译一个依赖OpenGL的可执行文件，只需要一行！
-- [MrZhouWenBo/3DInspectPost](https://github.com/MrZhouWenBo/3DInspectPost) - 3D检测模型后处理部分代码编写记录
 - [MrZhouWenBo/openPCDetExportONNX](https://github.com/MrZhouWenBo/openPCDetExportONNX) - 
 - [UM-ARM-Lab/pytorch_collision_checker](https://github.com/UM-ARM-Lab/pytorch_collision_checker) - PyTorch Collision Checker
 - [LoyalLumber/Benchmark_3DOD](https://github.com/LoyalLumber/Benchmark_3DOD) - 
