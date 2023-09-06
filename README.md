@@ -1234,7 +1234,6 @@
 
 - [JeffyCN/rockchip_mirrors](https://github.com/JeffyCN/rockchip_mirrors) - Mirrors of a few Rockchip BSP repositories, some others in https://github.com/JeffyCN/mirrors.
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi
-- [MrZhouWenBo/3DInspectPost](https://github.com/MrZhouWenBo/3DInspectPost) - 3D检测模型后处理部分代码编写记录
 - [Y-pandaman/miivii_gmsl_camera](https://github.com/Y-pandaman/miivii_gmsl_camera) - 
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [zherlock030/YOLOv5_Torchscript](https://github.com/zherlock030/YOLOv5_Torchscript) - C++ code for running a yolov5s model.
