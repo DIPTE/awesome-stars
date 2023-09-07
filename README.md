@@ -1062,6 +1062,7 @@
 - [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - OpenLane-V2: The First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for k
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [jediofgever/PointNet_Custom_Object_Detection](https://github.com/jediofgever/PointNet_Custom_Object_Detection) - A project that show cases, train and testing of PointNet with custom objects/datasets
 - [MediaBrain-SJTU/LED](https://github.com/MediaBrain-SJTU/LED) - [CVPR2023] Leapfrog Diffusion Model for Stochastic Trajectory Prediction
@@ -1255,6 +1256,9 @@
 
 ## Others 
 
+- [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
+- [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
+- [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - 
 - [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
 - [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
@@ -1461,6 +1465,8 @@
 
 ## Python 
 
+- [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
+- [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
@@ -1622,7 +1628,6 @@
 - [zhangyp15/OccFormer](https://github.com/zhangyp15/OccFormer) - [ICCV 2023] OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
 - [azhuantou/HSSDA](https://github.com/azhuantou/HSSDA) - [CVPR 2023] Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection
 - [valeoai/SALUDA](https://github.com/valeoai/SALUDA) - SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [baaivision/Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
 - [pengyang1225/mobileone-yolov5](https://github.com/pengyang1225/mobileone-yolov5) - 
 - [JiayuZou2020/DiffBEV](https://github.com/JiayuZou2020/DiffBEV) - Official PyTorch implementation for a conditional diffusion probability model in BEV perception
@@ -1824,7 +1829,7 @@
 - [dvlab-research/LargeKernel3D](https://github.com/dvlab-research/LargeKernel3D) - LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs (CVPR 2023)
 - [liang3588/MeshMAE](https://github.com/liang3588/MeshMAE) - MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis
 - [zhangzhao2022/pointscatter](https://github.com/zhangzhao2022/pointscatter) - [ECCV'22 Oral] PointScatter: Point Set Representation for Tubular Structure Extraction
-- [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks"
+- [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks" "RevColv2"
 - [junjie18/CMT](https://github.com/junjie18/CMT) - [ICCV 2023] Cross Modal Transformer: Towards Fast and Robust 3D Object Detection
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - A tool to build ROS and ROS2 workspaces for various targets
 - [swords123/IDA-3D](https://github.com/swords123/IDA-3D) - IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for Autonomous Driving, in CVPR2020
