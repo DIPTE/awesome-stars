@@ -401,7 +401,7 @@
 - [neka-nat/cuimage](https://github.com/neka-nat/cuimage) - Rust implementation of image processing library with CUDA
 - [joffman/ros_object_recognition](https://github.com/joffman/ros_object_recognition) - A framework for ROS-based 2D and 3D object recognition.
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
-- [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks"
+- [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks" "RevColv2"
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
 - [ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation) - Python scripts for performing 6D pose estimation and shape reconstruction using the CenterSnap model in ONNX
@@ -1424,6 +1424,11 @@
 
 ## others 
 
+- [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
+- [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
+- [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
+- [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
+- [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - 
 - [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
@@ -3804,7 +3809,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3D Object Detection for Autonomous Driving Vehicle
-- [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks"
+- [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks" "RevColv2"
 - [hpi-xnor/bitorch](https://github.com/hpi-xnor/bitorch) - BITorch: Open-Source Implementation of Binary Neural Networks with PyTorch
 - [chiehpower/Setup-deeplearning-tools](https://github.com/chiehpower/Setup-deeplearning-tools) - Set up CI in DL/ cuda/ cudnn/ TensorRT/ onnx2trt/ onnxruntime/ onnxsim/ Pytorch/ Triton-Inference-Server/ Bazel/ Tesseract/ PaddleOCR/ NVIDIA-docker/ minIO/ Supervisord on AGX or PC from scratch.
 - [megvii-research/MOTRv2](https://github.com/megvii-research/MOTRv2) - [CVPR2023] MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors
