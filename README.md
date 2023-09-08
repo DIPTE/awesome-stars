@@ -1141,7 +1141,7 @@
 - [simon3dv/PointNet1_2_pytorch_reproduced](https://github.com/simon3dv/PointNet1_2_pytorch_reproduced) - Not finished yet, please wait.
 - [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [21-projects-for-deep-learning/MyBook](https://github.com/21-projects-for-deep-learning/MyBook) - 
-- [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) - This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2
+- [google-deepmind/3d-shapes](https://github.com/google-deepmind/3d-shapes) - This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2
 - [jonathanmasci/EG16_tutorial](https://github.com/jonathanmasci/EG16_tutorial) - Demo material for the EG16 tutorial on "Deep learning for 3D shape analysis"
 - [kimdongsuk1/GCNN](https://github.com/kimdongsuk1/GCNN) - Geodesic Convolutional Neural Network
 - [ctralie/NonrigidFusion](https://github.com/ctralie/NonrigidFusion) - 
@@ -1774,7 +1774,7 @@
 - [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
 - [wzzheng/TPVFormer](https://github.com/wzzheng/TPVFormer) - An academic alternative to Tesla's occupancy network for autonomous driving.
-- [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - A Cross-View Transformer Network for Place Recognition Using LiDAR Data.
+- [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - [TII 2023] A Cross-View Transformer Network for Place Recognition Using LiDAR Data.
 - [MaverickPeter/DiSCO-pytorch](https://github.com/MaverickPeter/DiSCO-pytorch) - Differentiable Scan Context with Orientation
 - [yevgm/DeepAdv3D](https://github.com/yevgm/DeepAdv3D) - 
 - [PointCloudYC/ResPointNet2](https://github.com/PointCloudYC/ResPointNet2) - ResPointNet++ for AutoCon journal paper.
@@ -2163,7 +2163,7 @@
 - [Algolzw/NCNet](https://github.com/Algolzw/NCNet) - [AIM & ECCVW 2022] Fast Nearest Convolution for Real-Time Image Super-Resolution
 - [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 - [hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU) - "Rethinking IoU-based Optimization for Single-stage 3D Object Detection", ECCV2022 accept!
-- [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2023] Official implementation of PeRFception: Perception using Radiance Fields.
+- [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2022] Official implementation of PeRFception: Perception using Radiance Fields.
 - [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - This repo is an implementation of PyTorch version YOLOV
 - [zhangyp15/SimMOD](https://github.com/zhangyp15/SimMOD) - Implementation of SimMOD: A Simple Baseline for Multi-Camera 3D Object Detection
 - [Sense-X/UniHead](https://github.com/Sense-X/UniHead) - Unifying Visual Perception by Dispersible Points Learning (ECCV 2022)
