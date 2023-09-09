@@ -192,7 +192,7 @@
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 A collection of vectorized RL game environments written in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments written in JAX with end-to-end AlphaZero examples
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
 - [kiwicampus/rosboard_client](https://github.com/kiwicampus/rosboard_client) - Client for remotely streaming ROS messages through websockets using rosboard as server
@@ -960,7 +960,7 @@
 
 ## game 
 
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 A collection of vectorized RL game environments written in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments written in JAX with end-to-end AlphaZero examples
 
 ## gamedev 
 
@@ -1144,7 +1144,7 @@
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 A collection of vectorized RL game environments written in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments written in JAX with end-to-end AlphaZero examples
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
@@ -1940,7 +1940,7 @@
 - [aosewski/RidgeDetection](https://github.com/aosewski/RidgeDetection) - Parallel implementation of the ridge detection algorithm for curve reconstruction in CUDA
 - [wzzheng/TPVFormer](https://github.com/wzzheng/TPVFormer) - An academic alternative to Tesla's occupancy network for autonomous driving.
 - [manateelazycat/deepin-terminal](https://github.com/manateelazycat/deepin-terminal) - Deepin Terminal written by vala
-- [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - A Cross-View Transformer Network for Place Recognition Using LiDAR Data.
+- [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - [TII 2023] A Cross-View Transformer Network for Place Recognition Using LiDAR Data.
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [UMich-CURLY/overlapnet_function_angle](https://github.com/UMich-CURLY/overlapnet_function_angle) - OverlapNet with Function Angle
@@ -2635,7 +2635,7 @@
 - [guochengqian/Pix4Point](https://github.com/guochengqian/Pix4Point) - Official Repo for paper `Improving Standard Transformer Models for 3D Point Cloud Understanding with Image Pretraining`
 - [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 - [hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU) - "Rethinking IoU-based Optimization for Single-stage 3D Object Detection", ECCV2022 accept!
-- [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2023] Official implementation of PeRFception: Perception using Radiance Fields.
+- [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2022] Official implementation of PeRFception: Perception using Radiance Fields.
 - [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - This repo is an implementation of PyTorch version YOLOV
 - [zhangyp15/SimMOD](https://github.com/zhangyp15/SimMOD) - Implementation of SimMOD: A Simple Baseline for Multi-Camera 3D Object Detection
 - [Sense-X/UniHead](https://github.com/Sense-X/UniHead) - Unifying Visual Perception by Dispersible Points Learning (ECCV 2022)
@@ -3422,7 +3422,7 @@
 - [charlesq34/flownet3d](https://github.com/charlesq34/flownet3d) - FlowNet3D: Learning Scene Flow in 3D Point Clouds
 - [charlesq34/3dcnn.torch](https://github.com/charlesq34/3dcnn.torch) - Volumetric CNN for feature extraction and object classification on 3D data.
 - [yangyanli/SHREC2016](https://github.com/yangyanli/SHREC2016) - SHREC2016
-- [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) - This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2
+- [google-deepmind/3d-shapes](https://github.com/google-deepmind/3d-shapes) - This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2
 - [paulbaumgart/augment3d](https://github.com/paulbaumgart/augment3d) - Data augmentation utility for machine learning on 3D point clouds
 - [Dogeeeeeee/EE369](https://github.com/Dogeeeeeee/EE369) - Machine Learning Medical 3D Voxel Classification
 - [Hardy-Uint/awesome-3D-vision](https://github.com/Hardy-Uint/awesome-3D-vision) - 3D computer vision incuding SLAM，VSALM，Deep Learning，Structured light，Stereo，Three-dimensional reconstruction，Computer vision，Machine Learning and so on
