@@ -913,7 +913,7 @@
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
 - [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
-- [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - 🐳 Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS 2
+- [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - 🐳 Dockerfiles to provide HTML5 VNC interface to access Ubuntu Desktop + ROS 2
 - [chiehpower/Setup-deeplearning-tools](https://github.com/chiehpower/Setup-deeplearning-tools) - Set up CI in DL/ cuda/ cudnn/ TensorRT/ onnx2trt/ onnxruntime/ onnxsim/ Pytorch/ Triton-Inference-Server/ Bazel/ Tesseract/ PaddleOCR/ NVIDIA-docker/ minIO/ Supervisord on AGX or PC from scratch.
 - [PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving) - A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
@@ -1424,6 +1424,7 @@
 
 ## others 
 
+- [Len-Li/Adv3D](https://github.com/Len-Li/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
@@ -1601,7 +1602,7 @@
 - [JunweiZheng93/APES](https://github.com/JunweiZheng93/APES) - Official repository for paper "Attention-based Point Cloud Edge Sampling" (APES), Highlight@CVPR 2023
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
 - [CGuangyan-BIT/PointGPT](https://github.com/CGuangyan-BIT/PointGPT) - 
-- [austin2035/chatpdf](https://github.com/austin2035/chatpdf) - Chat with pdf.
+- [pinkglow/chatpdf](https://github.com/pinkglow/chatpdf) - Chat with pdf.
 - [xijiu9/Train_Transformers_with_INT4](https://github.com/xijiu9/Train_Transformers_with_INT4) - 
 - [HMX2013/FCC-ROS](https://github.com/HMX2013/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
