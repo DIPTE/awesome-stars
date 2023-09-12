@@ -275,6 +275,7 @@
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
+- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - 🔥The official implementation of SLAMesh.
 - [UMich-BipedLab/LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - This is a package for LiDARTag, described in paper: LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
 - [RemoteSensingFrank/LidarProc](https://github.com/RemoteSensingFrank/LidarProc) - 激光点云处理工具，集成Cesium与Potree实现在线点云查看和处理
 - [mguentner/cannelloni](https://github.com/mguentner/cannelloni) - a SocketCAN over Ethernet tunnel
@@ -1300,7 +1301,6 @@
 - [BraveGroup/FullySparseFusion](https://github.com/BraveGroup/FullySparseFusion) - Fully Sparse Fusion for 3D Object Detection
 - [eriksandstroem/Point-SLAM](https://github.com/eriksandstroem/Point-SLAM) - Point-SLAM: Dense Neural Point Cloud-based SLAM
 - [landyxu/FastViT](https://github.com/landyxu/FastViT) - Our objective is to combine the strengths of ViT, CNN, and GNN to create FastViT, a lightweight and efficient net-work  that  outperforms  CNN-based  models  and  has  fewer parameters  and  a  shorte
-- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - 🔥The official implementation of SLAMesh.
 - [ViTAE-Transformer/BEVSimDet](https://github.com/ViTAE-Transformer/BEVSimDet) - The official repo for [Arxiv'23] "BEVSimDet: Simulated Multi-modal Distillation in Bird’s-Eye View for Multi-view 3D Object Detection"
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
 - [hht1996ok/EA-LSS](https://github.com/hht1996ok/EA-LSS) - EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection
@@ -1465,6 +1465,8 @@
 
 ## Python 
 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
