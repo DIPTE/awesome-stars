@@ -368,6 +368,7 @@
 
 ## computer-vision 
 
+- [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [OpenPerceptionX/PersFormer_3DLane](https://github.com/OpenPerceptionX/PersFormer_3DLane) - [ECCV2022 oral] Perspective Transformer on 3D Lane Detection
@@ -514,6 +515,7 @@
 
 ## cpp 
 
+- [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
@@ -611,6 +613,7 @@
 
 ## deep-learning 
 
+- [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
 - [rui-qian/BADet](https://github.com/rui-qian/BADet) - Rui Qian, Xin Lai, Xirong Li: BADet: Boundary-Aware 3D Object Detection from Point Clouds (Pattern Recognition 2022: IF=8.518)
 - [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com
@@ -1425,6 +1428,19 @@
 
 ## others 
 
+- [JMoonr/LATR](https://github.com/JMoonr/LATR) - [ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer
+- [wangzy22/TAP](https://github.com/wangzy22/TAP) - [ICCV 2023] Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models
+- [mlvlab/SPoTr](https://github.com/mlvlab/SPoTr) - Official pytorch implementation of "Self-positioning Point-based Transformer for Point Cloud Understanding" (CVPR 2023).
+- [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
+- [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
+- [hpc203/Detic-onnxrun-cpp-py](https://github.com/hpc203/Detic-onnxrun-cpp-py) - 使用ONNXRuntime部署Detic检测2万1千种类别的物体，包含C++和Python两个版本的程序
+- [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
+- [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
+- [i-v-s/strong-sort-cpp](https://github.com/i-v-s/strong-sort-cpp) - C++ implementation of the paper "StrongSORT: Make DeepSORT Great Again"
+- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - OC_SORT implemented in C++ with Eigen Library
+- [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
+- [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
+- [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [Len-Li/Adv3D](https://github.com/Len-Li/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
@@ -3664,6 +3680,7 @@
 
 ## python 
 
+- [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -3777,6 +3794,7 @@
 
 ## pytorch 
 
+- [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
