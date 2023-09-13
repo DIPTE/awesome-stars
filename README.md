@@ -203,6 +203,14 @@
 
 ## C++ 
 
+- [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
+- [hpc203/Detic-onnxrun-cpp-py](https://github.com/hpc203/Detic-onnxrun-cpp-py) - 使用ONNXRuntime部署Detic检测2万1千种类别的物体，包含C++和Python两个版本的程序
+- [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
+- [i-v-s/strong-sort-cpp](https://github.com/i-v-s/strong-sort-cpp) - C++ implementation of the paper "StrongSORT: Make DeepSORT Great Again"
+- [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm
+- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - OC_SORT implemented in C++ with Eigen Library
+- [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
+- [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
 - [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
 - [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
@@ -1045,7 +1053,6 @@
 - [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
 - [walzimmer/3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [francisengelmann/PyViz3D](https://github.com/francisengelmann/PyViz3D) - PyViz3D is a web-based visualizer for 3D objects and point clouds.
 - [teadocs/matplotlib-cn](https://github.com/teadocs/matplotlib-cn) - matplotlib中文文档
 - [daerduoCarey/partnet_anno_system](https://github.com/daerduoCarey/partnet_anno_system) - PartNet 3D Web-based Shape Parts Annotation System
 - [xu-pu/ptx-learning-log](https://github.com/xu-pu/ptx-learning-log) - my ramdom learning code
@@ -1053,6 +1060,7 @@
 
 ## Jupyter Notebook 
 
+- [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
 - [WWangYuHsiang/SMILEtrack](https://github.com/WWangYuHsiang/SMILEtrack) - 
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Code for the Recognize Anything Model (RAM) and Tag2Text Model
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
@@ -1257,6 +1265,8 @@
 
 ## Others 
 
+- [JMoonr/LATR](https://github.com/JMoonr/LATR) - [ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer
+- [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
 - [Len-Li/Adv3D](https://github.com/Len-Li/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
@@ -1303,7 +1313,6 @@
 - [landyxu/FastViT](https://github.com/landyxu/FastViT) - Our objective is to combine the strengths of ViT, CNN, and GNN to create FastViT, a lightweight and efficient net-work  that  outperforms  CNN-based  models  and  has  fewer parameters  and  a  shorte
 - [ViTAE-Transformer/BEVSimDet](https://github.com/ViTAE-Transformer/BEVSimDet) - The official repo for [Arxiv'23] "BEVSimDet: Simulated Multi-modal Distillation in Bird’s-Eye View for Multi-view 3D Object Detection"
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
-- [hht1996ok/EA-LSS](https://github.com/hht1996ok/EA-LSS) - EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection
 - [yinjunbo/3DVID](https://github.com/yinjunbo/3DVID) - LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention (CVPR20)
 - [fishros/d2l-ros2](https://github.com/fishros/d2l-ros2) - 动手学ROS2课程配套教程，欢迎关注公众号《鱼香ROS》
 - [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - 
@@ -1465,6 +1474,11 @@
 
 ## Python 
 
+- [wangzy22/TAP](https://github.com/wangzy22/TAP) - [ICCV 2023] Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models
+- [mlvlab/SPoTr](https://github.com/mlvlab/SPoTr) - Official pytorch implementation of "Self-positioning Point-based Transformer for Point Cloud Understanding" (CVPR 2023).
+- [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
+- [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
+- [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
@@ -1647,6 +1661,7 @@
 - [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt
 - [TRI-ML/VEDet](https://github.com/TRI-ML/VEDet) - 
 - [ucla-mobility/V2V4Real](https://github.com/ucla-mobility/V2V4Real) - [CVPR2023 Highlight] The official codebase for paper "V2V4Real: A large-scale real-world dataset for Vehicle-to-Vehicle Cooperative Perception"
+- [hht1996ok/EA-LSS](https://github.com/hht1996ok/EA-LSS) - EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection
 - [bytedance/MRECG](https://github.com/bytedance/MRECG) - 
 - [skyhehe123/MSF](https://github.com/skyhehe123/MSF) - MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences (CVPR 2023)
 - [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
@@ -2660,6 +2675,7 @@
 - [mariogeiger/se3cnn](https://github.com/mariogeiger/se3cnn) - Euclidean Neural Networks
 - [hkust-vgd/shrec17](https://github.com/hkust-vgd/shrec17) - Supplementary code for SHREC 2017 RGB-D Object-to-CAD Retrieval track
 - [pisalore/pointnet_shrec17-classificator](https://github.com/pisalore/pointnet_shrec17-classificator) - Experiments on pointnet capability to detect and recognize geometric patterns
+- [francisengelmann/PyViz3D](https://github.com/francisengelmann/PyViz3D) - PyViz3D is a web-based visualizer for 3D objects and point clouds.
 - [RBirkeland/RotationNet](https://github.com/RBirkeland/RotationNet) - 
 - [MegaYEye/Triangle-Net](https://github.com/MegaYEye/Triangle-Net) - (paper code) Triangle-Net: Towards Robustness in Point Cloud Learning
 - [mrnabati/CenterFusion](https://github.com/mrnabati/CenterFusion) - CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection
