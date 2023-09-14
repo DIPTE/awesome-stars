@@ -203,6 +203,12 @@
 
 ## C++ 
 
+- [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
+- [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
+- [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms
+- [dinglufe/segment-anything-cpp-wrapper](https://github.com/dinglufe/segment-anything-cpp-wrapper) - 
+- [AIDajiangtang/Segment-Anything-CPP](https://github.com/AIDajiangtang/Segment-Anything-CPP) - segment anything（SAM） for CPP Inference
+- [PRBonn/rangenet_lib](https://github.com/PRBonn/rangenet_lib) - Inference module for RangeNet++ (milioto2019iros, chen2019iros)
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [hpc203/Detic-onnxrun-cpp-py](https://github.com/hpc203/Detic-onnxrun-cpp-py) - 使用ONNXRuntime部署Detic检测2万1千种类别的物体，包含C++和Python两个版本的程序
 - [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
@@ -1309,7 +1315,6 @@
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
 - [axlrose/rkdocs](https://github.com/axlrose/rkdocs) - RockChip RK3588 BSP Documents
 - [BraveGroup/FullySparseFusion](https://github.com/BraveGroup/FullySparseFusion) - Fully Sparse Fusion for 3D Object Detection
-- [eriksandstroem/Point-SLAM](https://github.com/eriksandstroem/Point-SLAM) - Point-SLAM: Dense Neural Point Cloud-based SLAM
 - [landyxu/FastViT](https://github.com/landyxu/FastViT) - Our objective is to combine the strengths of ViT, CNN, and GNN to create FastViT, a lightweight and efficient net-work  that  outperforms  CNN-based  models  and  has  fewer parameters  and  a  shorte
 - [ViTAE-Transformer/BEVSimDet](https://github.com/ViTAE-Transformer/BEVSimDet) - The official repo for [Arxiv'23] "BEVSimDet: Simulated Multi-modal Distillation in Bird’s-Eye View for Multi-view 3D Object Detection"
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
@@ -1552,7 +1557,7 @@
 - [NVIDIA/Deep-Learning-Accelerator-SW](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) - NVIDIA DLA-SW, the recipes and tools for running deep learning workloads on NVIDIA DLA cores for inference applications.
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
 - [dsx0511/3DMOTFormer](https://github.com/dsx0511/3DMOTFormer) - Offical implementation of ICCV2023 paper 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking.
-- [chaytonmin/Occ-BEV](https://github.com/chaytonmin/Occ-BEV) - Multi-Camera Unified Pre-training via 3D Scene Reconstruction for DETR3D, BEVFormer, BEVDet, BEVDepth and Semantic Occupancy Prediction
+- [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Multi-Camera Unified Pre-training via 3D Scene Reconstruction for DETR3D, BEVFormer, BEVDet, BEVDepth and Semantic Occupancy Prediction
 - [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
 - [mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF) - Official Implementation (PyTorch) of "Point Cloud Augmentation with Weighted Local Transformations", ICCV 2021
 - [sophgo/sophon_opencv](https://github.com/sophgo/sophon_opencv) - 
@@ -1638,6 +1643,7 @@
 - [OuyangJunyuan/RobDet3D](https://github.com/OuyangJunyuan/RobDet3D) - 
 - [shorie000/3DSSD-TFv2](https://github.com/shorie000/3DSSD-TFv2) - 3DSSD's implementation with TensorFlow v2.
 - [Jazzcharles/OVSegmentor](https://github.com/Jazzcharles/OVSegmentor) - OVSegmentor, CVPR23
+- [eriksandstroem/Point-SLAM](https://github.com/eriksandstroem/Point-SLAM) - Point-SLAM: Dense Neural Point Cloud-based SLAM
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [tianrun-chen/SAM-Adapter-PyTorch](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) - Adapting Meta AI's Segment Anything to Downstream Tasks with Adapters and Prompts
 - [BingfengYan/VISAM](https://github.com/BingfengYan/VISAM) - Combining "segment-anything" with MOT,  it create the era of "MOTS"
