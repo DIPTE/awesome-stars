@@ -515,6 +515,7 @@
 
 ## cpp 
 
+- [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
@@ -613,6 +614,7 @@
 
 ## deep-learning 
 
+- [AIDajiangtang/Segment-Anything-CPP](https://github.com/AIDajiangtang/Segment-Anything-CPP) - segment anything（SAM） for CPP Inference
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
 - [rui-qian/BADet](https://github.com/rui-qian/BADet) - Rui Qian, Xin Lai, Xirong Li: BADet: Boundary-Aware 3D Object Detection from Point Clouds (Pattern Recognition 2022: IF=8.518)
@@ -1428,6 +1430,10 @@
 
 ## others 
 
+- [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
+- [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms
+- [dinglufe/segment-anything-cpp-wrapper](https://github.com/dinglufe/segment-anything-cpp-wrapper) - 
+- [PRBonn/rangenet_lib](https://github.com/PRBonn/rangenet_lib) - Inference module for RangeNet++ (milioto2019iros, chen2019iros)
 - [JMoonr/LATR](https://github.com/JMoonr/LATR) - [ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer
 - [wangzy22/TAP](https://github.com/wangzy22/TAP) - [ICCV 2023] Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models
 - [mlvlab/SPoTr](https://github.com/mlvlab/SPoTr) - Official pytorch implementation of "Self-positioning Point-based Transformer for Point Cloud Understanding" (CVPR 2023).
@@ -1546,7 +1552,7 @@
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
 - [kirushyk/gst-instruments](https://github.com/kirushyk/gst-instruments) - Easy-to-use profiler for GStreamer
 - [dsx0511/3DMOTFormer](https://github.com/dsx0511/3DMOTFormer) - Offical implementation of ICCV2023 paper 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking.
-- [chaytonmin/Occ-BEV](https://github.com/chaytonmin/Occ-BEV) - Multi-Camera Unified Pre-training via 3D Scene Reconstruction for DETR3D, BEVFormer, BEVDet, BEVDepth and Semantic Occupancy Prediction
+- [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Multi-Camera Unified Pre-training via 3D Scene Reconstruction for DETR3D, BEVFormer, BEVDet, BEVDepth and Semantic Occupancy Prediction
 - [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
