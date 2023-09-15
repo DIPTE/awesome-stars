@@ -1430,6 +1430,9 @@
 
 ## others 
 
+- [conceptofmind/toolformer](https://github.com/conceptofmind/toolformer) - 
+- [MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count](https://github.com/MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count) - 
+- [Hassi34/traffic-monitoring-yolov8](https://github.com/Hassi34/traffic-monitoring-yolov8) - Vehicle tracking, counting and speed estimation using Vision AI
 - [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
 - [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms
 - [dinglufe/segment-anything-cpp-wrapper](https://github.com/dinglufe/segment-anything-cpp-wrapper) - 
