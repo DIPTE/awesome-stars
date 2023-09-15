@@ -282,7 +282,6 @@
 - [JiweiMaster/MobileDetBenchmark](https://github.com/JiweiMaster/MobileDetBenchmark) - Mobile Detection Benchmark
 - [zeal-up/Simple-LIO-SAM](https://github.com/zeal-up/Simple-LIO-SAM) - Code for simplified LIO-SAM
 - [m-schuetz/CudaLOD](https://github.com/m-schuetz/CudaLOD) - 
-- [mingj2021/segment-anything-tensorrt](https://github.com/mingj2021/segment-anything-tensorrt) - 
 - [autoexpect/ffmpeg_tutorial](https://github.com/autoexpect/ffmpeg_tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
@@ -1076,8 +1075,8 @@
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - OpenLane-V2: The First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
+- [mingj2021/segment-anything-tensorrt](https://github.com/mingj2021/segment-anything-tensorrt) - 
 - [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for k
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [jediofgever/PointNet_Custom_Object_Detection](https://github.com/jediofgever/PointNet_Custom_Object_Detection) - A project that show cases, train and testing of PointNet with custom objects/datasets
 - [MediaBrain-SJTU/LED](https://github.com/MediaBrain-SJTU/LED) - [CVPR2023] Leapfrog Diffusion Model for Stochastic Trajectory Prediction
@@ -1479,6 +1478,9 @@
 
 ## Python 
 
+- [conceptofmind/toolformer](https://github.com/conceptofmind/toolformer) - 
+- [MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count](https://github.com/MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count) - 
+- [Hassi34/traffic-monitoring-yolov8](https://github.com/Hassi34/traffic-monitoring-yolov8) - Vehicle tracking, counting and speed estimation using Vision AI
 - [wangzy22/TAP](https://github.com/wangzy22/TAP) - [ICCV 2023] Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models
 - [mlvlab/SPoTr](https://github.com/mlvlab/SPoTr) - Official pytorch implementation of "Self-positioning Point-based Transformer for Point Cloud Understanding" (CVPR 2023).
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
@@ -1651,6 +1653,7 @@
 - [zhangyp15/OccFormer](https://github.com/zhangyp15/OccFormer) - [ICCV 2023] OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
 - [azhuantou/HSSDA](https://github.com/azhuantou/HSSDA) - [CVPR 2023] Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection
 - [valeoai/SALUDA](https://github.com/valeoai/SALUDA) - SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [baaivision/Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
 - [pengyang1225/mobileone-yolov5](https://github.com/pengyang1225/mobileone-yolov5) - 
 - [JiayuZou2020/DiffBEV](https://github.com/JiayuZou2020/DiffBEV) - Official PyTorch implementation for a conditional diffusion probability model in BEV perception
