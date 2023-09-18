@@ -993,7 +993,7 @@
 
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، ا
@@ -1270,6 +1270,9 @@
 
 ## Others 
 
+- [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
+- [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - 
+- [IranQin/SupFusion](https://github.com/IranQin/SupFusion) - This is the official code of the paper "SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection"
 - [JMoonr/LATR](https://github.com/JMoonr/LATR) - [ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer
 - [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
 - [Len-Li/Adv3D](https://github.com/Len-Li/Adv3D) - 
@@ -1478,6 +1481,14 @@
 
 ## Python 
 
+- [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
+- [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
+- [Mandylove1993/CUDA-FastBEV](https://github.com/Mandylove1993/CUDA-FastBEV) - TensorRT deploy and PTQ/QAT tools development for FastBEV, total time only need 6.9ms!!!
+- [hollow-503/UniM2AE](https://github.com/hollow-503/UniM2AE) - This is the official implementation of the paper - UniM$^2$AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving
+- [MCG-NJU/LinK](https://github.com/MCG-NJU/LinK) - [CVPR 2023] LinK: Linear Kernel for LiDAR-based 3D Perception
+- [Cuogeihong/CEASC](https://github.com/Cuogeihong/CEASC) - The official implementation of CEASC
+- [ZZY816/COM](https://github.com/ZZY816/COM) - Curricular Object Manipulation in LiDAR-based Object Detection（CVPR 2023）
+- [hkchengrex/Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) - [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
 - [conceptofmind/toolformer](https://github.com/conceptofmind/toolformer) - 
 - [MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count](https://github.com/MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count) - 
 - [Hassi34/traffic-monitoring-yolov8](https://github.com/Hassi34/traffic-monitoring-yolov8) - Vehicle tracking, counting and speed estimation using Vision AI
@@ -1534,7 +1545,7 @@
 - [liuyixin-louis/arxiv2latex](https://github.com/liuyixin-louis/arxiv2latex) - Download the source latex code of multiple arXiv paper with one click
 - [liyingying0113/rope3d-dataset-tools](https://github.com/liyingying0113/rope3d-dataset-tools) - 
 - [DerrickXuNu/MPDA](https://github.com/DerrickXuNu/MPDA) - [ICRA2023] The official implementation of paper "Bridging the Domain Gap for Multi-Agent Perception"
-- [PJLab-ADG/LiDARSimLib-and-Placement-Evaluation](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) - A new LiDAR Simulation Library! Code of "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" (ICRA 2023)
+- [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - A new LiDAR Simulation Library! Code of "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" (ICRA 2023)
 - [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023]CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
 - [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI (2023), "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
 - [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
@@ -1544,7 +1555,7 @@
 - [IRMVLab/ASTA3DConv](https://github.com/IRMVLab/ASTA3DConv) - Codes for TIM2021 paper "Anchor-Based Spatio-Temporal Attention 3-D Convolutional Networks for Dynamic 3-D Point Cloud Sequences"
 - [s-duuu/pred_fusion](https://github.com/s-duuu/pred_fusion) - Object Trajectory Prediction using ROS, YOLOv5, PointPillars, CRAT-Pred
 - [aydnzn/Enhancing-LiDAR-based-3D-Object-Detection](https://github.com/aydnzn/Enhancing-LiDAR-based-3D-Object-Detection) - This repository contains a Master's Thesis on enhancing LiDAR-based 3D Object Detection in autonomous vehicles using synthetic data. The research explores the use of the Ansys AVxcelerate Sensors Simu
-- [zhuoxiao-chen/ReDB-DA-3Ddet](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet) - (ICCV 2023) Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling
+- [zhuoxiao-chen/ReDB-DA-3Ddet](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet) - [ICCV 2023] Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling
 - [ddsediri/IterativePFN](https://github.com/ddsediri/IterativePFN) - Official code implementation for the paper "IterativePFN: True Iterative Point Cloud Filtering" (published in CVPR 2023).
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
 - [wimmerth/scale-equivariant-3d-convnet](https://github.com/wimmerth/scale-equivariant-3d-convnet) - Official implementation of "Scale-Equivariant Deep Learning for 3D Data".
@@ -1618,7 +1629,7 @@
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - FB-BEV and FB-OCC are vision-centric autonomous driving perception algorithm based on forward-backward view transformation strtegies.
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsit
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor provides unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstrea
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
