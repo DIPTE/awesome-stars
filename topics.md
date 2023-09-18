@@ -120,6 +120,7 @@
 
 ## 3d 
 
+- [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
@@ -614,6 +615,7 @@
 
 ## deep-learning 
 
+- [hkchengrex/Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) - [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
 - [AIDajiangtang/Segment-Anything-CPP](https://github.com/AIDajiangtang/Segment-Anything-CPP) - segment anything（SAM） for CPP Inference
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
@@ -632,7 +634,6 @@
 - [mkang315/RCS-YOLO](https://github.com/mkang315/RCS-YOLO) - Official implementation of "RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection".
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsit
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
@@ -991,13 +992,13 @@
 
 ## go 
 
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## golang 
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [thiago-dev/openresty-rtmp-ffmpeg-api](https://github.com/thiago-dev/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -1366,6 +1367,7 @@
 
 ## numpy 
 
+- [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [MegEngine/MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
@@ -1430,6 +1432,15 @@
 
 ## others 
 
+- [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
+- [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
+- [Mandylove1993/CUDA-FastBEV](https://github.com/Mandylove1993/CUDA-FastBEV) - TensorRT deploy and PTQ/QAT tools development for FastBEV, total time only need 6.9ms!!!
+- [hollow-503/UniM2AE](https://github.com/hollow-503/UniM2AE) - This is the official implementation of the paper - UniM$^2$AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving
+- [MCG-NJU/LinK](https://github.com/MCG-NJU/LinK) - [CVPR 2023] LinK: Linear Kernel for LiDAR-based 3D Perception
+- [Cuogeihong/CEASC](https://github.com/Cuogeihong/CEASC) - The official implementation of CEASC
+- [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - 
+- [ZZY816/COM](https://github.com/ZZY816/COM) - Curricular Object Manipulation in LiDAR-based Object Detection（CVPR 2023）
+- [IranQin/SupFusion](https://github.com/IranQin/SupFusion) - This is the official code of the paper "SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection"
 - [conceptofmind/toolformer](https://github.com/conceptofmind/toolformer) - 
 - [MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count](https://github.com/MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count) - 
 - [Hassi34/traffic-monitoring-yolov8](https://github.com/Hassi34/traffic-monitoring-yolov8) - Vehicle tracking, counting and speed estimation using Vision AI
@@ -1520,7 +1531,7 @@
 - [jinlong17/V2VLC](https://github.com/jinlong17/V2VLC) - 
 - [DerrickXuNu/model_anostic](https://github.com/DerrickXuNu/model_anostic) - [ICRA2023] The official implementation of paper "Model-agnostic Multi-agent Perception"
 - [DerrickXuNu/MPDA](https://github.com/DerrickXuNu/MPDA) - [ICRA2023] The official implementation of paper "Bridging the Domain Gap for Multi-Agent Perception"
-- [PJLab-ADG/LiDARSimLib-and-Placement-Evaluation](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) - A new LiDAR Simulation Library! Code of "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" (ICRA 2023)
+- [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - A new LiDAR Simulation Library! Code of "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" (ICRA 2023)
 - [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023]CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
 - [T-head-Semi/open_source_ISP](https://github.com/T-head-Semi/open_source_ISP) - 
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - 
@@ -1537,7 +1548,7 @@
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [jiaweihe1996/BA-Det](https://github.com/jiaweihe1996/BA-Det) - (CVPR 2023) Official PyTorch implementation of the paper: 3D Video Object Detection with Learnable Object-Centric Global Optimization.
 - [Robertwyq/Frustum](https://github.com/Robertwyq/Frustum) - [CVPR 2023] FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection
-- [zhuoxiao-chen/ReDB-DA-3Ddet](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet) - (ICCV 2023) Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling
+- [zhuoxiao-chen/ReDB-DA-3Ddet](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet) - [ICCV 2023] Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling
 - [ddsediri/IterativePFN](https://github.com/ddsediri/IterativePFN) - Official code implementation for the paper "IterativePFN: True Iterative Point Cloud Filtering" (published in CVPR 2023).
 - [wimmerth/scale-equivariant-3d-convnet](https://github.com/wimmerth/scale-equivariant-3d-convnet) - Official implementation of "Scale-Equivariant Deep Learning for 3D Data".
 - [YimingCuiCuiCui/Cloud-RAIN](https://github.com/YimingCuiCuiCui/Cloud-RAIN) - 
@@ -1641,6 +1652,7 @@
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - FB-BEV and FB-OCC are vision-centric autonomous driving perception algorithm based on forward-backward view transformation strtegies.
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor provides unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstrea
 - [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - OpenLane-V2: The First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
@@ -3689,6 +3701,7 @@
 
 ## python 
 
+- [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
