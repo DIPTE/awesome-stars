@@ -418,7 +418,7 @@
 - [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - Intel(R) RealSense(TM) ROS Wrapper for Depth Camera
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
-- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support
+- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6, YOLOv5), nms plugin support
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
 - [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 - [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE is a robust, real-time tightly-coupled multi-sensor fusion framework, which fuses the measurement from the LiDAR, inertial sensor, visual camera to achieve robust, accurate state estimation.
@@ -1270,6 +1270,7 @@
 
 ## Others 
 
+- [Little-Podi/Transformer_Tracking](https://github.com/Little-Podi/Transformer_Tracking) - This repository is a paper digest of Transformer-related approaches in visual tracking tasks.
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
 - [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - 
 - [IranQin/SupFusion](https://github.com/IranQin/SupFusion) - This is the official code of the paper "SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection"
@@ -2155,7 +2156,7 @@
 - [AbangLZU/PointPillars-TF](https://github.com/AbangLZU/PointPillars-TF) - PointPillars implementation using TensorFlow.
 - [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
 - [open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.
-- [yuhuan-wu/P2T](https://github.com/yuhuan-wu/P2T) - Pyramid Pooling Transformer for Scene Understanding [TPAMI22]
+- [yuhuan-wu/P2T](https://github.com/yuhuan-wu/P2T) - [TPAMI22] Pyramid Pooling Transformer for Scene Understanding
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [DerrickXuNu/CoBEVT](https://github.com/DerrickXuNu/CoBEVT) - [CoRL2022] CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers
