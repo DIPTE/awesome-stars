@@ -50,6 +50,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
@@ -289,6 +290,7 @@
 
 ## awesome-list 
 
+- [Little-Podi/Transformer_Tracking](https://github.com/Little-Podi/Transformer_Tracking) - This repository is a paper digest of Transformer-related approaches in visual tracking tasks.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
@@ -474,7 +476,7 @@
 - [xinshuoweng/AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - (IROS 2020, ECCVW 2020) Official Python Implementation for "3D Multi-Object Tracking: A Baseline and New Evaluation Metrics"
 - [mikacuy/pointnetvlad](https://github.com/mikacuy/pointnetvlad) - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, CVPR 2018
 - [extreme-assistant/Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team) - 国内外优秀的计算机视觉团队汇总，极市团队整理
-- [extreme-assistant/ICCV2021-Paper-Code-Interpretation](https://github.com/extreme-assistant/ICCV2021-Paper-Code-Interpretation) - ICCV2021/2019/2017 论文/代码/解读/直播合集，极市团队整理
+- [extreme-assistant/ICCV2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/ICCV2023-Paper-Code-Interpretation) - ICCV2021/2019/2017 论文/代码/解读/直播合集，极市团队整理
 - [Owen-Liuyuxuan/visualDet3D](https://github.com/Owen-Liuyuxuan/visualDet3D) - Official Repo for Ground-aware Monocular 3D Object Detection for Autonomous Driving / YOLOStereo3D: A Step Back to 2D for Efficient Stereo 3D Detection
 - [mit-han-lab/spvnas](https://github.com/mit-han-lab/spvnas) - [ECCV 2020] Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution
 - [zekunhao1995/DualSDF](https://github.com/zekunhao1995/DualSDF) - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. CVPR'20
@@ -820,7 +822,7 @@
 - [mikacuy/pointnetvlad](https://github.com/mikacuy/pointnetvlad) - PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, CVPR 2018
 - [extreme-assistant/Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team) - 国内外优秀的计算机视觉团队汇总，极市团队整理
 - [Jittor/jittor](https://github.com/Jittor/jittor) - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.
-- [extreme-assistant/ICCV2021-Paper-Code-Interpretation](https://github.com/extreme-assistant/ICCV2021-Paper-Code-Interpretation) - ICCV2021/2019/2017 论文/代码/解读/直播合集，极市团队整理
+- [extreme-assistant/ICCV2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/ICCV2023-Paper-Code-Interpretation) - ICCV2021/2019/2017 论文/代码/解读/直播合集，极市团队整理
 - [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 - [Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects) - New distributional and shape attacks on neural networks that process 3D point cloud data.
 - [fitushar/WeaklySupervised-3D-Classification-of-Chest-CT-using-Aggregated-MultiResolution-Segmentation-Feature](https://github.com/fitushar/WeaklySupervised-3D-Classification-of-Chest-CT-using-Aggregated-MultiResolution-Segmentation-Feature) - This Repo contains the updated implementation of our paper "Weakly supervised 3D classification of chest CT using aggregated multi-resolution deep segmentation features", Proc. SPIE 11314, Medical Ima
@@ -1002,6 +1004,10 @@
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [thiago-dev/openresty-rtmp-ffmpeg-api](https://github.com/thiago-dev/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+
+## good-first-issue 
+
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 
 ## hacktoberfest 
 
@@ -1225,7 +1231,7 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [xinshuoweng/AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - (IROS 2020, ECCVW 2020) Official Python Implementation for "3D Multi-Object Tracking: A Baseline and New Evaluation Metrics"
 - [extreme-assistant/Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team) - 国内外优秀的计算机视觉团队汇总，极市团队整理
-- [extreme-assistant/ICCV2021-Paper-Code-Interpretation](https://github.com/extreme-assistant/ICCV2021-Paper-Code-Interpretation) - ICCV2021/2019/2017 论文/代码/解读/直播合集，极市团队整理
+- [extreme-assistant/ICCV2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/ICCV2023-Paper-Code-Interpretation) - ICCV2021/2019/2017 论文/代码/解读/直播合集，极市团队整理
 - [nitinagarwal/QuadricLoss](https://github.com/nitinagarwal/QuadricLoss) - Learning Embedding of 3D models with Quadric Loss
 - [zekunhao1995/DualSDF](https://github.com/zekunhao1995/DualSDF) - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. CVPR'20
 - [minzhang-1/PointHop](https://github.com/minzhang-1/PointHop) - PointHop: An Explainable Machine Learning Method for Point Cloud Classification
@@ -1432,6 +1438,7 @@
 
 ## others 
 
+- [jypjypjypjyp/OccupancyDETR](https://github.com/jypjypjypjyp/OccupancyDETR) - OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection
 - [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
 - [Mandylove1993/CUDA-FastBEV](https://github.com/Mandylove1993/CUDA-FastBEV) - TensorRT deploy and PTQ/QAT tools development for FastBEV, total time only need 6.9ms!!!
@@ -2073,7 +2080,7 @@
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [Nrusher/nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) - shell for MCU. 单片机命令行交互。
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
-- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support
+- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6, YOLOv5), nms plugin support
 - [hku-mars/lidar_car_platfrom](https://github.com/hku-mars/lidar_car_platfrom) - 
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
 - [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
@@ -2599,7 +2606,7 @@
 - [AbangLZU/PointPillars-TF](https://github.com/AbangLZU/PointPillars-TF) - PointPillars implementation using TensorFlow.
 - [AI-OP/image-classifier](https://github.com/AI-OP/image-classifier) - Image classifier to help TensorFlow Lite C++ API usage with Bazel.
 - [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
-- [yuhuan-wu/P2T](https://github.com/yuhuan-wu/P2T) - Pyramid Pooling Transformer for Scene Understanding [TPAMI22]
+- [yuhuan-wu/P2T](https://github.com/yuhuan-wu/P2T) - [TPAMI22] Pyramid Pooling Transformer for Scene Understanding
 - [NVIDIA-AI-IOT/deepstream_parallel_inference_app](https://github.com/NVIDIA-AI-IOT/deepstream_parallel_inference_app) - A project demonstrating how to use nvmetamux to run multiple models in parallel.
 - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson
 - [engcang/ros-yolo-sort](https://github.com/engcang/ros-yolo-sort) - YOLO v3, v4, v5, v6, v7 + SORT tracking + ROS platform. Supporting: YOLO with Darknet, OpenCV(DNN), OpenVINO, TensorRT(tkDNN). SORT supports python(original) and C++. (Not Deep SORT)
@@ -2805,7 +2812,7 @@
 - [luckyluckydadada/HIKROBOT-MVS-CAMERA-ROS](https://github.com/luckyluckydadada/HIKROBOT-MVS-CAMERA-ROS) - The ros driver package of Hikvision Industrial Camera SDK.
 - [Livox-SDK/livox_camera_lidar_calibration](https://github.com/Livox-SDK/livox_camera_lidar_calibration) - Calibrate the extrinsic parameters between Livox LiDAR  and camera
 - [flann-lib/flann](https://github.com/flann-lib/flann) - Fast Library for Approximate Nearest Neighbors
-- [xianyi/OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+- [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [KamitaniLab/docker-images](https://github.com/KamitaniLab/docker-images) - 
 - [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [coin-or/metslib](https://github.com/coin-or/metslib) - An Open Source Tabu Search Metaheuristic framework in C++
