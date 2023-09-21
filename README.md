@@ -203,6 +203,7 @@
 
 ## C++ 
 
+- [Alwaysssssss/nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy是一款最新上线的支持多平台、简单易用、高性能的机器学习部署框架，一套实现可在多端(云、边、端)完成模型的高性能部署。
 - [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms
@@ -1374,7 +1375,6 @@
 - [beedotkiran/Lidar_For_AD_references](https://github.com/beedotkiran/Lidar_For_AD_references) - A list of references on lidar point cloud processing for autonomous driving
 - [LeoQLi/Lidar_For_AD_references](https://github.com/LeoQLi/Lidar_For_AD_references) - A list of references on lidar point cloud processing for autonomous driving
 - [fpthink/GraphCut](https://github.com/fpthink/GraphCut) - Learning Superpoint Graph Cut for 3D Instance Segmentation
-- [dscdyc/MsSVT](https://github.com/dscdyc/MsSVT) - Repo of "MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds".
 - [whucsy/RotTrans](https://github.com/whucsy/RotTrans) - 
 - [LittlePey/Semi-Sampling](https://github.com/LittlePey/Semi-Sampling) - Boosting Semi-Supervised 3D Object Detection with Semi-Sampling
 - [azure-rtos/samples](https://github.com/azure-rtos/samples) - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, STM32CubeID
@@ -1506,7 +1506,7 @@
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - The first LVLM based IAD method!
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
@@ -1969,6 +1969,7 @@
 - [weixmath/PDG](https://github.com/weixmath/PDG) - 
 - [3db/blog_demo](https://github.com/3db/blog_demo) - Data, configs, and code for the walkthrough from the 3DB blogpost: https://gradientscience.org/3db
 - [3db/3db](https://github.com/3db/3db) - A framework for analyzing computer vision models with simulated data
+- [dscdyc/MsSVT](https://github.com/dscdyc/MsSVT) - Repo of "MsSVT: Mixed-scale Sparse Voxel Transformer for 3D Object Detection on Point Clouds".
 - [Haiyang-W/CAGroup3D](https://github.com/Haiyang-W/CAGroup3D) - [NeurIPS2022] This is the official code of "CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds".
 - [CVMI-Lab/SparseKD](https://github.com/CVMI-Lab/SparseKD) - (NeurlPS 2022) Towards Efficient 3D Object Detection with Knowledge Distillation
 - [Sense-X/AGVM](https://github.com/Sense-X/AGVM) - Large-batch Optimization for Dense Visual Predictions (NeurIPS 2022)
