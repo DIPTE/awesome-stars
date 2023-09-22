@@ -71,6 +71,8 @@
 
 ## C 
 
+- [TsingWei/stm32_iot_light_sensor](https://github.com/TsingWei/stm32_iot_light_sensor) - 使用CubeMX(HAL)，STM32+ESP8266+BH1750 通过MQTT协议实现的智能街灯（模拟）
+- [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - 
@@ -203,6 +205,10 @@
 
 ## C++ 
 
+- [Qengineering/YoloV5-NPU-Rock-5](https://github.com/Qengineering/YoloV5-NPU-Rock-5) - YoloV5 NPU for the RK3588 on Rock 5 or Orange Pi 5
+- [hpc203/picodet-onnxruntime](https://github.com/hpc203/picodet-onnxruntime) - 使用ONNXRuntime部署PicoDet目标检测，包含C++和Python两个版本的程序
+- [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
+- [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
 - [Alwaysssssss/nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy是一款最新上线的支持多平台、简单易用、高性能的机器学习部署框架，一套实现可在多端(云、边、端)完成模型的高性能部署。
 - [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
@@ -1013,6 +1019,7 @@
 - [ros-planning/moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [zhukao/AI-EXPRESS](https://github.com/zhukao/AI-EXPRESS) - 
+- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [Ghostish/MM-Track](https://github.com/Ghostish/MM-Track) - The project page of MMTrack (CVPR2022 ORAL)
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
@@ -1067,10 +1074,10 @@
 
 ## Jupyter Notebook 
 
+- [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
 - [WWangYuHsiang/SMILEtrack](https://github.com/WWangYuHsiang/SMILEtrack) - 
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Code for the Recognize Anything Model (RAM) and Tag2Text Model
-- [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [yossilevii100/EPiC](https://github.com/yossilevii100/EPiC) - Ensemble of Partial Points Clouds for Robust Classification
@@ -1272,6 +1279,8 @@
 
 ## Others 
 
+- [TsingWei/LiteTrack](https://github.com/TsingWei/LiteTrack) - A fast and high-performance visual object tracker with real-time speed on Jetson.
+- [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - 
 - [Little-Podi/Transformer_Tracking](https://github.com/Little-Podi/Transformer_Tracking) - This repository is a paper digest of Transformer-related approaches in visual tracking tasks.
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
 - [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - 
@@ -1303,7 +1312,6 @@
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - 
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
-- [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
 - [BICLab/EMS-YOLO](https://github.com/BICLab/EMS-YOLO) - Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (ICCV2023)
@@ -1483,6 +1491,9 @@
 
 ## Python 
 
+- [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
+- [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
+- [apple/ml-fastvit](https://github.com/apple/ml-fastvit) - This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" ICCV 2023
 - [jypjypjypjyp/OccupancyDETR](https://github.com/jypjypjypjyp/OccupancyDETR) - OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
@@ -1531,6 +1542,7 @@
 - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) - 
 - [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
 - [Jamie-Stirling/RetNet](https://github.com/Jamie-Stirling/RetNet) - An implementation of "Retentive Network: A Successor to Transformer for Large Language Models"
+- [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [vinits5/pcrnet_pytorch](https://github.com/vinits5/pcrnet_pytorch) - This is a pytorch implementation of PCRNet
 - [caizhongang/SMPLer-X](https://github.com/caizhongang/SMPLer-X) - 
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
@@ -1572,6 +1584,7 @@
 - [Pointcept/PointBLIP](https://github.com/Pointcept/PointBLIP) - PointBLIP: A Point Cloud Multi-modal model Embracing Diverse Data without Reliance on Image Domain
 - [NVIDIA/Deep-Learning-Accelerator-SW](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) - NVIDIA DLA-SW, the recipes and tools for running deep learning workloads on NVIDIA DLA cores for inference applications.
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
+- [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [dsx0511/3DMOTFormer](https://github.com/dsx0511/3DMOTFormer) - Offical implementation of ICCV2023 paper 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking.
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Multi-Camera Unified Pre-training via 3D Scene Reconstruction for DETR3D, BEVFormer, BEVDet, BEVDepth and Semantic Occupancy Prediction
 - [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
@@ -2107,7 +2120,6 @@
 - [Megvii-BaseDetection/BEVDepth](https://github.com/Megvii-BaseDetection/BEVDepth) - Official code for BEVDepth.
 - [Megvii-BaseDetection/cvpods](https://github.com/Megvii-BaseDetection/cvpods) - All-in-one Toolbox for Computer Vision Research.
 - [wcirq/trt-samples-for-hackathon-cn](https://github.com/wcirq/trt-samples-for-hackathon-cn) - 
-- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [cloudcores/CuAssembler](https://github.com/cloudcores/CuAssembler) - An unofficial cuda assembler, for all generations of SASS, hopefully ：）
 - [Megvii-BaseDetection/BEVStereo](https://github.com/Megvii-BaseDetection/BEVStereo) - Official code for BEVStereo
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
@@ -2523,7 +2535,7 @@
 - [blzq/tf_rodrigues](https://github.com/blzq/tf_rodrigues) - TensorFlow implementation of Rodrigues rotation conversion from axis-angle (rotation vector) to rotation matrix which supports batch inputs
 - [Banconxuan/RTS3D](https://github.com/Banconxuan/RTS3D) - RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving
 - [simon3dv/frustum_pointnets_pytorch](https://github.com/simon3dv/frustum_pointnets_pytorch) - A pytorch version of frustum-pointnets
-- [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - A collection of SOTA real-time, multi-object tracking algorithms for object detectors
+- [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 - [atyshka/Lasernet](https://github.com/atyshka/Lasernet) - Implementing Uber's Lasernet LIDAR detector in Tensorflow 2.0
 - [kareemalsawah/Modified_LaserNet_Pytorch](https://github.com/kareemalsawah/Modified_LaserNet_Pytorch) - This is an implementation of the LaserNet paper, a CNN for Lidar 3D object detection
 - [MartinHahner/SeeingThroughFog](https://github.com/MartinHahner/SeeingThroughFog) - 
