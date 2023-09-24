@@ -21,6 +21,7 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [clojure](#clojure)
+- [code](#code)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -121,6 +122,7 @@
 
 ## 3d 
 
+- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
@@ -193,7 +195,7 @@
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments written in JAX with end-to-end AlphaZero examples
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
@@ -242,7 +244,7 @@
 
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
@@ -350,12 +352,17 @@
 
 ## cli 
 
+- [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
 ## clojure 
 
 - [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
+
+## code 
+
+- [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 
 ## compiler 
 
@@ -371,6 +378,7 @@
 
 ## computer-vision 
 
+- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
@@ -519,6 +527,7 @@
 
 ## cpp 
 
+- [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
@@ -619,6 +628,9 @@
 
 ## deep-learning 
 
+- [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
+- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [Qengineering/YoloV5-NPU-Rock-5](https://github.com/Qengineering/YoloV5-NPU-Rock-5) - YoloV5 NPU for the RK3588 on Rock 5 or Orange Pi 5
 - [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
 - [hkchengrex/Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) - [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
@@ -1154,6 +1166,7 @@
 
 ## machine-learning 
 
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
@@ -1444,6 +1457,12 @@
 
 ## others 
 
+- [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
+- [Vertical-Beach/ByteTrack-cpp](https://github.com/Vertical-Beach/ByteTrack-cpp) - C++ implementation of ByteTrack that does not include an object detection algorithm.
+- [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - Learning a 3D Morphable Face Reflectance Model from Low-cost Data, accepted by CVPR 2023.
+- [gyjun0230/wgs_conversions](https://github.com/gyjun0230/wgs_conversions) - A ROS server implementation of the World Geodetic System (WGS) conversion functions for converting to/from LLA, ENU, and ECEF.
+- [OpenMask3D/openmask3d.github.io](https://github.com/OpenMask3D/openmask3d.github.io) - 
+- [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
 - [TsingWei/stm32_iot_light_sensor](https://github.com/TsingWei/stm32_iot_light_sensor) - 使用CubeMX(HAL)，STM32+ESP8266+BH1750 通过MQTT协议实现的智能街灯（模拟）
 - [TsingWei/LiteTrack](https://github.com/TsingWei/LiteTrack) - A fast and high-performance visual object tracker with real-time speed on Jetson.
@@ -1649,7 +1668,7 @@
 - [danginsburg/opengles3-book](https://github.com/danginsburg/opengles3-book) - OpenGL ES 3.0 Programming Guide Sample Code
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [zyh16143998882/ICCV23-IDPT](https://github.com/zyh16143998882/ICCV23-IDPT) - The code for the paper "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models" (ICCV'23).
-- [youquanl/Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
+- [youquanl/Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - [NeurIPS'23 Spotlight] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
 - [LCH1238/bevdet-tensorrt-cpp](https://github.com/LCH1238/bevdet-tensorrt-cpp) - BEVDet implemented by TensorRT, C++； Achieving real-time performance on Orin
 - [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective
 - [slothfulxtx/MBPTrack3D](https://github.com/slothfulxtx/MBPTrack3D) - [ICCV2023] MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors
@@ -1661,7 +1680,7 @@
 - [doubleZ0108/GeoMVSNet](https://github.com/doubleZ0108/GeoMVSNet) - [CVPR 23'] GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
 - [JunweiZheng93/APES](https://github.com/JunweiZheng93/APES) - Official repository for paper "Attention-based Point Cloud Edge Sampling" (APES), Highlight@CVPR 2023
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
-- [CGuangyan-BIT/PointGPT](https://github.com/CGuangyan-BIT/PointGPT) - 
+- [CGuangyan-BIT/PointGPT](https://github.com/CGuangyan-BIT/PointGPT) - [NeurIPS 2023] PointGPT: Auto-regressively Generative Pre-training from Point Clouds
 - [pinkglow/chatpdf](https://github.com/pinkglow/chatpdf) - Chat with pdf.
 - [xijiu9/Train_Transformers_with_INT4](https://github.com/xijiu9/Train_Transformers_with_INT4) - 
 - [HMX2013/FCC-ROS](https://github.com/HMX2013/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
@@ -1674,8 +1693,8 @@
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - FB-BEV and FB-OCC are vision-centric autonomous driving perception algorithm based on forward-backward view transformation strtegies.
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor provides unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstrea
-- [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - OpenLane-V2: The First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Provide unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstream AI frameworks such as Te
+- [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - [NeurIPS 2023 Track Datasets and Benchmarks] OpenLane-V2: The First Perception and Reasoning Benchmark for Road Driving
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
 - [haibo-qiu/CDFormer](https://github.com/haibo-qiu/CDFormer) - Code for "Collect-and-Distribute Transformer for 3D Point Cloud Analysis"
@@ -1686,7 +1705,7 @@
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - 
 - [OpenCalib/CalibAnything](https://github.com/OpenCalib/CalibAnything) - 
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
-- [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - DetZero
+- [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - [ICCV 2023] OccNet: Scene as Occupancy
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
@@ -1771,7 +1790,7 @@
 - [PJLab-ADG/3DTrans](https://github.com/PJLab-ADG/3DTrans) - An Open-source Codebase for exploring Continuous-learning/Pre-training-oriented Autonomous Driving Task
 - [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - 🔥The official implementation of SLAMesh.
 - [hujiecpp/YOSO](https://github.com/hujiecpp/YOSO) - Code release for paper "You Only Segment Once: Towards Real-Time Panoptic Segmentation" [CVPR 2023]
-- [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR-2023] Towards Any Structural Pruning; LLMs /  Diffusion / Transformers / YOLOv8 / CNNs
+- [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR 2023] Towards Any Structural Pruning; LLMs /  Diffusion / Transformers / YOLOv8 / CNNs
 - [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt
 - [TRI-ML/VEDet](https://github.com/TRI-ML/VEDet) - 
 - [ucla-mobility/V2V4Real](https://github.com/ucla-mobility/V2V4Real) - [CVPR2023 Highlight] The official codebase for paper "V2V4Real: A large-scale real-world dataset for Vehicle-to-Vehicle Cooperative Perception"
@@ -3731,7 +3750,7 @@
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [zellerlab/GECCO](https://github.com/zellerlab/GECCO) - GEne Cluster prediction with COnditional random fields.
@@ -3838,6 +3857,7 @@
 
 ## pytorch 
 
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
