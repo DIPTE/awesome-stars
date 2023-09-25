@@ -424,7 +424,7 @@
 - [Tartisan/MMDet3d-PointPillars](https://github.com/Tartisan/MMDet3d-PointPillars) - PointPillars TensorRT version pretrained on MMDetection3d with WaymoOpenDataset
 - [fateshelled/rknpu2_ros](https://github.com/fateshelled/rknpu2_ros) - ROS 2 Inference sample for using Rockchip NPU.
 - [olibartfast/yolov4-triton-cpp-client](https://github.com/olibartfast/yolov4-triton-cpp-client) - 
-- [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) - Object detection inference from rtsp ip camera stream using gstreamer
+- [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) - C++ object detection inference from video or image input source
 - [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - Intel(R) RealSense(TM) ROS Wrapper for Depth Camera
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
@@ -1050,6 +1050,7 @@
 
 ## JavaScript 
 
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [OpenMask3D/openmask3d.github.io](https://github.com/OpenMask3D/openmask3d.github.io) - 
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
@@ -1496,6 +1497,7 @@
 
 ## Python 
 
+- [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕基于labelImg及YOLOV5的图形化半自动标注工具
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
 - [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - Learning a 3D Morphable Face Reflectance Model from Low-cost Data, accepted by CVPR 2023.
@@ -1799,7 +1801,7 @@
 - [spiralray/canusb](https://github.com/spiralray/canusb) - A ROS node to provide access to LAWICEL CANUSB
 - [vijaysaravana/Lidar3D](https://github.com/vijaysaravana/Lidar3D) - Lidar based 3D Object detection using OpenPCDet on Intel NCS2 Devices with OpenVINO framework
 - [JeffWang987/OpenOccupancy](https://github.com/JeffWang987/OpenOccupancy) - [ICCV 2023] OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception
-- [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion.
+- [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 - [JUGGHM/PENet_ICRA2021](https://github.com/JUGGHM/PENet_ICRA2021) - ICRA 2021 "Towards Precise and Efficient Image Guided Depth Completion"
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
 - [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
