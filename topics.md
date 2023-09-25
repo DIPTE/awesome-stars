@@ -62,6 +62,7 @@
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jquery](#jquery)
+- [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
@@ -597,6 +598,7 @@
 
 ## css 
 
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## dart 
@@ -1043,6 +1045,7 @@
 
 ## html 
 
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 
 ## http 
@@ -1111,6 +1114,10 @@
 ## jquery 
 
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+
+## js 
+
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
 ## json 
 
@@ -1457,6 +1464,7 @@
 
 ## others 
 
+- [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕基于labelImg及YOLOV5的图形化半自动标注工具
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
 - [Vertical-Beach/ByteTrack-cpp](https://github.com/Vertical-Beach/ByteTrack-cpp) - C++ implementation of ByteTrack that does not include an object detection algorithm.
 - [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - Learning a 3D Morphable Face Reflectance Model from Low-cost Data, accepted by CVPR 2023.
@@ -1953,7 +1961,7 @@
 - [ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey](https://github.com/ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey) - Vision-RADAR fusion for Robotics BEV Perception: A Survey
 - [ApoorvRoboticist/VisionBEVDetectionSurvey](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey) - 
 - [JeffWang987/OpenOccupancy](https://github.com/JeffWang987/OpenOccupancy) - [ICCV 2023] OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception
-- [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion.
+- [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
 - [zombieCraig/ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator
 - [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) - QT based cross platform canbus tool
@@ -4222,7 +4230,7 @@
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
-- [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) - Object detection inference from rtsp ip camera stream using gstreamer
+- [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) - C++ object detection inference from video or image input source
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [openxla/iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [NervanaSystems/he-transformer](https://github.com/NervanaSystems/he-transformer) - nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph
