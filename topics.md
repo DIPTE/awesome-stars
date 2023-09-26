@@ -1689,7 +1689,6 @@
 - [JunweiZheng93/APES](https://github.com/JunweiZheng93/APES) - Official repository for paper "Attention-based Point Cloud Edge Sampling" (APES), Highlight@CVPR 2023
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
 - [CGuangyan-BIT/PointGPT](https://github.com/CGuangyan-BIT/PointGPT) - [NeurIPS 2023] PointGPT: Auto-regressively Generative Pre-training from Point Clouds
-- [pinkglow/chatpdf](https://github.com/pinkglow/chatpdf) - Chat with pdf.
 - [xijiu9/Train_Transformers_with_INT4](https://github.com/xijiu9/Train_Transformers_with_INT4) - 
 - [HMX2013/FCC-ROS](https://github.com/HMX2013/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
