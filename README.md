@@ -1055,7 +1055,6 @@
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 - [coperception/where2comm](https://github.com/coperception/where2comm) - [NeurIPS 2022] Where2comm
-- [pinkglow/chatpdf](https://github.com/pinkglow/chatpdf) - Chat with pdf.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
 - [dihuangdh/dihuangdh.github.io](https://github.com/dihuangdh/dihuangdh.github.io) - 
