@@ -693,6 +693,7 @@
 - [tinyvision/DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) - DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [opendr-eu/opendr](https://github.com/opendr-eu/opendr) - A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning
+- [Gorilla-Lab-SCUT/TTAC](https://github.com/Gorilla-Lab-SCUT/TTAC) - [NeurIPS 2022] Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering
 - [Gorilla-Lab-SCUT/SSTNet](https://github.com/Gorilla-Lab-SCUT/SSTNet) - Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks
 - [ThibaultGROUEIX/3D-CODED](https://github.com/ThibaultGROUEIX/3D-CODED) - Pytorch Implementation for the project : `3D-CODED` and `Learning Elementary Structure`
 - [sandeep-krishnamurthy/dl-operator-benchmark](https://github.com/sandeep-krishnamurthy/dl-operator-benchmark) - Framework for benchmarking deep learning operators for Apache MXNet
@@ -1464,6 +1465,19 @@
 
 ## others 
 
+- [zbz96/lidar_centerpoint](https://github.com/zbz96/lidar_centerpoint) - 
+- [Tream733/centerpoint-livox](https://github.com/Tream733/centerpoint-livox) - CenterPoint model trained on livox dataset, and deployed with TensorRT on ros2
+- [newintelligence4/Adaptive-ROI-for-Lidar](https://github.com/newintelligence4/Adaptive-ROI-for-Lidar) - Adaptive Lidar Preprocessing
+- [newintelligence4/BEVfusion_preprocess](https://github.com/newintelligence4/BEVfusion_preprocess) - Multiple Lidar preprocessor for BEVfusion
+- [yule-BUAA/DyGLib](https://github.com/yule-BUAA/DyGLib) - A Library for Dynamic Graph Learning (NeurIPS 2023)
+- [HorizonRDK/parking_perception](https://github.com/HorizonRDK/parking_perception) - 
+- [HorizonRDK/elevation_net](https://github.com/HorizonRDK/elevation_net) - 
+- [HorizonRDK/mono3d_indoor_detection](https://github.com/HorizonRDK/mono3d_indoor_detection) - 
+- [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
+- [JunshengFu/vehicle-detection](https://github.com/JunshengFu/vehicle-detection) - Created vehicle detection pipeline with two approaches: (1) deep neural networks (YOLO framework) and (2) support vector machines ( OpenCV + HOG).
+- [HorizonRDK/hobot_bev](https://github.com/HorizonRDK/hobot_bev) - TROS Bev Node package
+- [HorizonRDK/hobot_llm](https://github.com/HorizonRDK/hobot_llm) - 
+- [HorizonRDK/hobot_centerpoint](https://github.com/HorizonRDK/hobot_centerpoint) - 
 - [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕基于labelImg及YOLOV5的图形化半自动标注工具
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
 - [Vertical-Beach/ByteTrack-cpp](https://github.com/Vertical-Beach/ByteTrack-cpp) - C++ implementation of ByteTrack that does not include an object detection algorithm.
@@ -2244,7 +2258,6 @@
 - [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [DanceTrack/DanceTrack](https://github.com/DanceTrack/DanceTrack) - [CVPR2022] DanceTrack: Multiple Object Tracking in Uniform Appearance and Diverse Motion
 - [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple Object Tracking with Transformer
-- [Gorilla-Lab-SCUT/TTAC](https://github.com/Gorilla-Lab-SCUT/TTAC) - [NeurIPS 2022] Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering
 - [albertotamajo/Shrinking-unit](https://github.com/albertotamajo/Shrinking-unit) - Shrinking unit: a graph convolution-based unit for CNN-like 3D point cloud feature extractors
 - [immortalCO/PointTree](https://github.com/immortalCO/PointTree) - 
 - [keeganhk/PointMCD](https://github.com/keeganhk/PointMCD) - PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition
@@ -3749,6 +3762,7 @@
 
 ## python 
 
+- [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
@@ -4226,6 +4240,7 @@
 
 ## tensorflow 
 
+- [RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution](https://github.com/RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution) - 3D car detection competition on Kaggle : https://www.kaggle.com/c/pku-autonomous-driving/overview
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
@@ -4298,6 +4313,7 @@
 
 ## terminal 
 
+- [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
