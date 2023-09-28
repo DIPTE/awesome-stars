@@ -1032,7 +1032,6 @@
 - [ros-planning/moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [zhukao/AI-EXPRESS](https://github.com/zhukao/AI-EXPRESS) - 
-- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [Ghostish/MM-Track](https://github.com/Ghostish/MM-Track) - The project page of MMTrack (CVPR2022 ORAL)
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
@@ -1536,7 +1535,7 @@
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
@@ -2146,6 +2145,7 @@
 - [Megvii-BaseDetection/BEVDepth](https://github.com/Megvii-BaseDetection/BEVDepth) - Official code for BEVDepth.
 - [Megvii-BaseDetection/cvpods](https://github.com/Megvii-BaseDetection/cvpods) - All-in-one Toolbox for Computer Vision Research.
 - [wcirq/trt-samples-for-hackathon-cn](https://github.com/wcirq/trt-samples-for-hackathon-cn) - 
+- [NVIDIA/trt-samples-for-hackathon-cn](https://github.com/NVIDIA/trt-samples-for-hackathon-cn) - Simple samples for TensorRT programming
 - [cloudcores/CuAssembler](https://github.com/cloudcores/CuAssembler) - An unofficial cuda assembler, for all generations of SASS, hopefully ：）
 - [Megvii-BaseDetection/BEVStereo](https://github.com/Megvii-BaseDetection/BEVStereo) - Official code for BEVStereo
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
