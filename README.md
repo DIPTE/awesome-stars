@@ -1356,7 +1356,7 @@
 - [teddyluo/motion-planning-chs](https://github.com/teddyluo/motion-planning-chs) - 运动规划综述中文翻译
 - [jialeli1/lidarperception3d](https://github.com/jialeli1/lidarperception3d) - A generic repository for LiDAR 3D perception in autonomous driving scenarios such as segmentation, detection, etc. Also the official implementation of ECCV2022 paper (Self-Distillation for Robust LiDA
 - [lymhust/awesome-parking-slot-detection](https://github.com/lymhust/awesome-parking-slot-detection) - papers and codes about parking slot detection
-- [SysCV/TrafficBots](https://github.com/SysCV/TrafficBots) - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. ICRA 2023.
+- [SysCV/TrafficBots](https://github.com/SysCV/TrafficBots) - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. ICRA 2023. Code is now available at https://github.com/zhejz/TrafficBots
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
 - [hku-mars/ROG-Map](https://github.com/hku-mars/ROG-Map) - 
 - [QQxiaoming/quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) - This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development
@@ -1535,7 +1535,7 @@
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
