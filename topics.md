@@ -341,7 +341,7 @@
 
 ## chatgpt 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
@@ -1929,7 +1929,7 @@
 - [zhulf0804/PointPillars](https://github.com/zhulf0804/PointPillars) - A Simple PointPillars PyTorch Implenmentation for 3D Lidar(KITTI) Detection.
 - [DeveshwarH1996/PointPillars2](https://github.com/DeveshwarH1996/PointPillars2) - A modificatoin on the point Pillars algorithsm using hierarchical processing of point clouds
 - [VISION-SJTU/PillarNet](https://github.com/VISION-SJTU/PillarNet) - [ECCV 2022] PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection
-- [SysCV/TrafficBots](https://github.com/SysCV/TrafficBots) - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. ICRA 2023.
+- [SysCV/TrafficBots](https://github.com/SysCV/TrafficBots) - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. ICRA 2023. Code is now available at https://github.com/zhejz/TrafficBots
 - [rstrudel/segmenter](https://github.com/rstrudel/segmenter) - [ICCV2021] Official PyTorch implementation of Segmenter: Transformer for Semantic Segmentation
 - [placeforyiming/IROS21-FIDNet-SemanticKITTI](https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI) - An extremely simple, intuitive, hardware-friendly, and well-performing network structure for LiDAR semantic segmentation on 2D range image. IROS21
 - [lxd-cumt/ABM-SpConv](https://github.com/lxd-cumt/ABM-SpConv) - 
@@ -3765,7 +3765,7 @@
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
