@@ -196,6 +196,7 @@
 ## C# # 
 
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+- [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerator
 - [kendryte/kendryte-flash-windows](https://github.com/kendryte/kendryte-flash-windows) - Kendryte flash utility for Windows
@@ -1094,6 +1095,7 @@
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
 - [WWangYuHsiang/SMILEtrack](https://github.com/WWangYuHsiang/SMILEtrack) - 
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Code for the Recognize Anything Model (RAM) and Tag2Text Model
+- [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [yossilevii100/EPiC](https://github.com/yossilevii100/EPiC) - Ensemble of Partial Points Clouds for Robust Classification
@@ -1505,6 +1507,7 @@
 
 ## Python 
 
+- [yangyuke001/DriveGPT](https://github.com/yangyuke001/DriveGPT) - auto drive from GPT
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [yule-BUAA/DyGLib](https://github.com/yule-BUAA/DyGLib) - A Library for Dynamic Graph Learning (NeurIPS 2023)
 - [RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution](https://github.com/RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution) - 3D car detection competition on Kaggle : https://www.kaggle.com/c/pku-autonomous-driving/overview
@@ -1565,7 +1568,6 @@
 - [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) - 
-- [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
 - [Jamie-Stirling/RetNet](https://github.com/Jamie-Stirling/RetNet) - An implementation of "Retentive Network: A Successor to Transformer for Large Language Models"
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [vinits5/pcrnet_pytorch](https://github.com/vinits5/pcrnet_pytorch) - This is a pytorch implementation of PCRNet
@@ -3224,7 +3226,6 @@
 
 ## TypeScript 
 
-- [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
