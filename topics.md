@@ -1465,6 +1465,7 @@
 
 ## others 
 
+- [yangyuke001/DriveGPT](https://github.com/yangyuke001/DriveGPT) - auto drive from GPT
 - [zbz96/lidar_centerpoint](https://github.com/zbz96/lidar_centerpoint) - 
 - [Tream733/centerpoint-livox](https://github.com/Tream733/centerpoint-livox) - CenterPoint model trained on livox dataset, and deployed with TensorRT on ros2
 - [newintelligence4/Adaptive-ROI-for-Lidar](https://github.com/newintelligence4/Adaptive-ROI-for-Lidar) - Adaptive Lidar Preprocessing
