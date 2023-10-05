@@ -977,7 +977,7 @@
 - [GCaptainNemo/Cuda-Image-Processing](https://github.com/GCaptainNemo/Cuda-Image-Processing) - Using CUDA GPU Programming to speed up image processing.
 - [cudpp/cudpp](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library
 - [xcyuyuyu/My-First-CUDA-Code](https://github.com/xcyuyuyu/My-First-CUDA-Code) - The introduction to cuda, a simple and easy cuda project
-- [NVIDIA/cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++.
+- [NVIDIA/cub](https://github.com/NVIDIA/cub) - [ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl
 - [hangg7/deformable-kernels](https://github.com/hangg7/deformable-kernels) - Deforming kernels to adapt towards object deformation. In ICLR 2020.
 - [ftdlyc/splatnet_pytorch](https://github.com/ftdlyc/splatnet_pytorch) - Unofficial partial implemention of SplatNet
 - [lijx10/KNN_CUDA](https://github.com/lijx10/KNN_CUDA) - pytorch knn [cuda version]
