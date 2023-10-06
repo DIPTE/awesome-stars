@@ -207,6 +207,7 @@
 
 ## C++ 
 
+- [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 - [zbz96/lidar_centerpoint](https://github.com/zbz96/lidar_centerpoint) - 
 - [Tream733/centerpoint-livox](https://github.com/Tream733/centerpoint-livox) - CenterPoint model trained on livox dataset, and deployed with TensorRT on ros2
 - [newintelligence4/Adaptive-ROI-for-Lidar](https://github.com/newintelligence4/Adaptive-ROI-for-Lidar) - Adaptive Lidar Preprocessing
@@ -436,7 +437,6 @@
 - [fateshelled/rknpu2_ros](https://github.com/fateshelled/rknpu2_ros) - ROS 2 Inference sample for using Rockchip NPU.
 - [olibartfast/yolov4-triton-cpp-client](https://github.com/olibartfast/yolov4-triton-cpp-client) - 
 - [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) - C++ object detection inference from video or image input source
-- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - Intel(R) RealSense(TM) ROS Wrapper for Depth Camera
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6, YOLOv5), nms plugin support
@@ -1076,7 +1076,7 @@
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。
 - [PaddlePaddle/Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a web project for Baidu PaddlePaddle, which is an open source deep learning framework running in the browser. Paddle.js can either load a pre-trained model, or transforming a model from p
 - [ZhangGe6/onnx-modifier](https://github.com/ZhangGe6/onnx-modifier) - A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.
-- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [AlexGeControl/3D-Point-Cloud-Analytics](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics) - Portfolio for 3D Point Cloud Processing from www.shenlanxueyuan.com China
 - [naurril/SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS) - 3D Point Cloud Annotation Platform for Autonomous Driving
 - [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
@@ -1302,7 +1302,6 @@
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
 - [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - 
 - [IranQin/SupFusion](https://github.com/IranQin/SupFusion) - This is the official code of the paper "SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection"
-- [JMoonr/LATR](https://github.com/JMoonr/LATR) - [ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer
 - [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
 - [Len-Li/Adv3D](https://github.com/Len-Li/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
@@ -1507,6 +1506,9 @@
 
 ## Python 
 
+- [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
+- [princeton-vl/Oriented1D](https://github.com/princeton-vl/Oriented1D) - Official code for ICCV 2023 paper "Convolutional Networks with Oriented 1D Kernels"
+- [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (Submitted to ICRA'24)
 - [yangyuke001/DriveGPT](https://github.com/yangyuke001/DriveGPT) - auto drive from GPT
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [yule-BUAA/DyGLib](https://github.com/yule-BUAA/DyGLib) - A Library for Dynamic Graph Learning (NeurIPS 2023)
@@ -1533,6 +1535,7 @@
 - [conceptofmind/toolformer](https://github.com/conceptofmind/toolformer) - 
 - [MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count](https://github.com/MehmetOKUYAR/Vehicles-Counting--Tracking-and-Speed-Estimation-with-YOLOv7-DeepSORT-Object-Tracking-and-Zone-Count) - 
 - [Hassi34/traffic-monitoring-yolov8](https://github.com/Hassi34/traffic-monitoring-yolov8) - Vehicle tracking, counting and speed estimation using Vision AI
+- [JMoonr/LATR](https://github.com/JMoonr/LATR) - [ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer
 - [wangzy22/TAP](https://github.com/wangzy22/TAP) - [ICCV 2023] Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models
 - [mlvlab/SPoTr](https://github.com/mlvlab/SPoTr) - Official pytorch implementation of "Self-positioning Point-based Transformer for Point Cloud Understanding" (CVPR 2023).
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
@@ -1882,6 +1885,7 @@
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
 - [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection', ECCV 2020
+- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - Intel(R) RealSense(TM) ROS Wrapper for Depth Camera
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
 - [guofei9987/github_star_counter](https://github.com/guofei9987/github_star_counter) - Count a GitHub user's total stars and forks
 - [ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch) - official repo for the paper "SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images"
@@ -1964,7 +1968,7 @@
 - [LoyalLumber/Benchmark_3DOD](https://github.com/LoyalLumber/Benchmark_3DOD) - 
 - [zju3dv/Vox-Fusion](https://github.com/zju3dv/Vox-Fusion) - Code for "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", ISMAR 2022
 - [zju3dv/Vox-Surf](https://github.com/zju3dv/Vox-Surf) - Code for "Vox-Surf: Voxel-based Implicit Surface Representation", TVCG 2022
-- [zju3dv/ENeRF](https://github.com/zju3dv/ENeRF) - Real-time novel view synthesis for dynamic scenes.
+- [zju3dv/ENeRF](https://github.com/zju3dv/ENeRF) - SIGGRAPH Asia 2022, Real-time novel view synthesis for dynamic scenes.
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
 - [DanceTrack/DanceTrack](https://github.com/DanceTrack/DanceTrack) - [CVPR2022] DanceTrack: Multiple Object Tracking in Uniform Appearance and Diverse Motion
 - [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple Object Tracking with Transformer
