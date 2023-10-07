@@ -25,6 +25,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [KiCad Layout](#kicad-layout)
+- [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -1211,6 +1212,10 @@
 
 - [vedderb/bldc-hardware](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller from Benjamin Vedder
 
+## Kotlin 
+
+- [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
+
 ## LLVM 
 
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
@@ -1506,6 +1511,8 @@
 
 ## Python 
 
+- [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
+- [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
 - [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
 - [princeton-vl/Oriented1D](https://github.com/princeton-vl/Oriented1D) - Official code for ICCV 2023 paper "Convolutional Networks with Oriented 1D Kernels"
 - [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (Submitted to ICRA'24)
@@ -3209,7 +3216,6 @@
 ## Swift 
 
 - [apple/ml-mobileone](https://github.com/apple/ml-mobileone) - This repository contains the official implementation of the research paper, "An Improved One millisecond Mobile Backbone".
-- [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
 - [kingreza/quantization](https://github.com/kingreza/quantization) - A deep dive into Apple's coremltools quantization and how to reduce the size of a Core ML model without losing accuracy and performance
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
