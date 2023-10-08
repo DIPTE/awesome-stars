@@ -208,6 +208,7 @@
 
 ## C++ 
 
+- [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
 - [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 - [zbz96/lidar_centerpoint](https://github.com/zbz96/lidar_centerpoint) - 
 - [Tream733/centerpoint-livox](https://github.com/Tream733/centerpoint-livox) - CenterPoint model trained on livox dataset, and deployed with TensorRT on ros2
@@ -1024,6 +1025,7 @@
 
 ## HTML 
 
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
 - [cgye96/3dfsl.github.io](https://github.com/cgye96/3dfsl.github.io) - project page of few-shot learning for 3d point cloud classification
@@ -1302,6 +1304,7 @@
 
 ## Others 
 
+- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - Embracing Foundation Models into Autonomous Agent and System
 - [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - 
 - [Little-Podi/Transformer_Tracking](https://github.com/Little-Podi/Transformer_Tracking) - This repository is a paper digest of Transformer-related approaches in visual tracking tasks.
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
@@ -1353,7 +1356,6 @@
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
 - [yinjunbo/3DVID](https://github.com/yinjunbo/3DVID) - LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention (CVPR20)
 - [fishros/d2l-ros2](https://github.com/fishros/d2l-ros2) - 动手学ROS2课程配套教程，欢迎关注公众号《鱼香ROS》
-- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - 
 - [colorfulfuture/GC-VRNN](https://github.com/colorfulfuture/GC-VRNN) - 
 - [MediaBrain-SJTU/TBP-Former](https://github.com/MediaBrain-SJTU/TBP-Former) - 
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
@@ -1511,6 +1513,15 @@
 
 ## Python 
 
+- [fishros/yolov_ros2](https://github.com/fishros/yolov_ros2) - 基于 YOLOv5 的 ROS 2 封装，允许用户使用给定的模型文件和图像话题进行实时物体检测。
+- [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) - 基于YOLOV5 的ROS2功能包，可以快速完成物体识别与位姿发布。 A ROS2 package based on YOLOV5 that enables fast object recognition and pose publishing.
+- [leofansq/CBR](https://github.com/leofansq/CBR) - Calibration-free BEV Representation for Infrastructure Perception (IROS2023)
+- [SizheWei/CoBEVFlow](https://github.com/SizheWei/CoBEVFlow) - NeurIPS 2023. Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow.
+- [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
+- [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
+- [SamsungLabs/tr3d](https://github.com/SamsungLabs/tr3d) - [ICIP2023] TR3D: Towards Real-Time Indoor 3D Object Detection
+- [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Topology Reasoning for Scene Perception in Autonomous Driving
+- [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
 - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
 - [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
 - [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
@@ -1556,7 +1567,7 @@
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2)
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - The first LVLM based IAD method!
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
 - [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - 
@@ -1597,7 +1608,7 @@
 - [liuyixin-louis/arxiv2latex](https://github.com/liuyixin-louis/arxiv2latex) - Download the source latex code of multiple arXiv paper with one click
 - [liyingying0113/rope3d-dataset-tools](https://github.com/liyingying0113/rope3d-dataset-tools) - 
 - [DerrickXuNu/MPDA](https://github.com/DerrickXuNu/MPDA) - [ICRA2023] The official implementation of paper "Bridging the Domain Gap for Multi-Agent Perception"
-- [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - A new LiDAR Simulation Library! Code of "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" (ICRA 2023)
+- [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - PCSim: LiDAR Point Cloud Simulation and Sensor Placement! Code of [ICRA 2023] "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" and [ICCV 2023] "Optimizing the Placeme
 - [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023]CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
 - [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI (2023), "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
 - [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
@@ -1747,6 +1758,7 @@
 - [baaivision/EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
 - [zhenyuw16/UniDetector](https://github.com/zhenyuw16/UniDetector) - Code release for our CVPR 2023 paper "Detecting Everything in the Open World: Towards Universal Object Detection".
 - [IDEA-Research/Lite-DETR](https://github.com/IDEA-Research/Lite-DETR) - [CVPR 2023] Official implementation of the paper "Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR"
+- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - 
 - [ADLab-AutoDrive/INT](https://github.com/ADLab-AutoDrive/INT) - Temp
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
 - [wzzheng/OpenOcc](https://github.com/wzzheng/OpenOcc) - Open Source 3D Occupancy Prediction Library.
@@ -1859,7 +1871,7 @@
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [naver-ai/BlendNeRF](https://github.com/naver-ai/BlendNeRF) - Official pytorch implementation of BlendNeRF (ICCV 2023)
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
-- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - 
+- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - Accepted to IJCV 2023
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
 - [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
