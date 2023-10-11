@@ -367,6 +367,7 @@
 
 ## compiler 
 
+- [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
@@ -528,6 +529,8 @@
 
 ## cpp 
 
+- [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
@@ -981,6 +984,7 @@
 
 ## framework 
 
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## frontend 
@@ -1386,6 +1390,7 @@
 
 ## nlp 
 
+- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & more LLMs
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
@@ -1470,6 +1475,7 @@
 
 ## others 
 
+- [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
@@ -1671,7 +1677,7 @@
 - [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 - [BICLab/EMS-YOLO](https://github.com/BICLab/EMS-YOLO) - Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (ICCV2023)
 - [mengtan00/SA-BEV](https://github.com/mengtan00/SA-BEV) - This is the implementation of the paper "SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection" (ICCV 2023)
-- [UMass-Foundation-Model/3D-LLM](https://github.com/UMass-Foundation-Model/3D-LLM) - Preliminary Code for  3D-LLM: Injecting the 3D World into Large Language Models
+- [UMass-Foundation-Model/3D-LLM](https://github.com/UMass-Foundation-Model/3D-LLM) - Code for  3D-LLM: Injecting the 3D World into Large Language Models
 - [HVXLab/HVDetFusion](https://github.com/HVXLab/HVDetFusion) - This repository is an official implementation of HVDetFusion
 - [mamadouDembele/TwinLiteNet-ONNX-TENSORRT-ROS](https://github.com/mamadouDembele/TwinLiteNet-ONNX-TENSORRT-ROS) - 
 - [chequanghuy/TwinLiteNet](https://github.com/chequanghuy/TwinLiteNet) - 
@@ -2051,7 +2057,7 @@
 - [poppin-mice/AAHLS_Final_PointPillars](https://github.com/poppin-mice/AAHLS_Final_PointPillars) - Repo for the AAHLS final of team 1 (PointPillars)
 - [mRobotit/mrobot_book](https://github.com/mRobotit/mrobot_book) - 
 - [naver-ai/BlendNeRF](https://github.com/naver-ai/BlendNeRF) - Official pytorch implementation of BlendNeRF (ICCV 2023)
-- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - Accepted to IJCV 2023
+- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (Accepted to IJCV 2023)
 - [TixiaoShan/imaging_lidar_place_recognition](https://github.com/TixiaoShan/imaging_lidar_place_recognition) - ICRA 2021 - Robust Place Recognition using an Imaging Lidar
 - [fanyang3/fanyang3.github.io](https://github.com/fanyang3/fanyang3.github.io) - 
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
