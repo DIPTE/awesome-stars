@@ -1475,6 +1475,8 @@
 
 ## others 
 
+- [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - 
+- [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
@@ -2683,7 +2685,7 @@
 - [nxp-mcuxpresso/mcux-sdk-examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples) - MCUXpresso SDK Examples
 - [NobuoTsukamoto/tflite-cv-example](https://github.com/NobuoTsukamoto/tflite-cv-example) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [nlbutts/tflite_zynq](https://github.com/nlbutts/tflite_zynq) - Example code and instructions on getting Tensorflow Lite running on a Xilinx Zynq
-- [espressif/tflite-micro-esp-examples](https://github.com/espressif/tflite-micro-esp-examples) - TensorFlow Lite Micro for Espressif Chipsets
+- [espressif/esp-tflite-micro](https://github.com/espressif/esp-tflite-micro) - TensorFlow Lite Micro for Espressif Chipsets
 - [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
 - [google-coral/libcoral](https://github.com/google-coral/libcoral) - C++ API for ML inferencing and transfer-learning on Coral devices
 - [kylevedder/SparsePointPillars](https://github.com/kylevedder/SparsePointPillars) - 
@@ -3084,7 +3086,7 @@
 - [LONG-9621/3D-Point-Capsule-Networks](https://github.com/LONG-9621/3D-Point-Capsule-Networks) - 
 - [lxh829/PointCloud-recognition](https://github.com/lxh829/PointCloud-recognition) - Use your own model to recognition
 - [qinglew/FoldingNet](https://github.com/qinglew/FoldingNet) - This is the implementation for FoldingNet——an autoencoder for point cloud in PyTorch.
-- [townim-faisal/lwf-3D](https://github.com/townim-faisal/lwf-3D) - Reducing catastrophic forgetting in 3D point cloud objects with help of semantic information
+- [townim-faisal/lwf-3D](https://github.com/townim-faisal/lwf-3D) - [IWANN 2021] Reducing catastrophic forgetting in 3D point cloud objects with help of semantic information
 - [XiwuChen/PRA-Net](https://github.com/XiwuChen/PRA-Net) - The source code of PRA-Net.
 - [SamsungLabs/cloud_transformers](https://github.com/SamsungLabs/cloud_transformers) - [ICCV, 2021] Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks https://arxiv.org/abs/2007.11679
 - [feiran-l/rotation-invariant-pointcloud-analysis](https://github.com/feiran-l/rotation-invariant-pointcloud-analysis) - pointcloud analysis
