@@ -211,6 +211,10 @@
 
 ## C++ 
 
+- [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
+- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & more LLMs
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
+- [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
 - [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS2 package for Ultralytics YOLOv8 real-time object detection. https://github.com/ultralytics/ultralytics
 - [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
@@ -666,7 +670,7 @@
 - [DoanNguyenTrong/object-detection-tflite-cpp](https://github.com/DoanNguyenTrong/object-detection-tflite-cpp) - #object detection #rb5 #qualcomm #hexagon #gpu #inference
 - [Hozzu/TFLite-aarch64-linux-with-delegate](https://github.com/Hozzu/TFLite-aarch64-linux-with-delegate) - Deep learning inference SW framework based on TensorFlow Lite for Aarch64 Linux with GPU and Hexagon delegate
 - [nlbutts/tflite_zynq](https://github.com/nlbutts/tflite_zynq) - Example code and instructions on getting Tensorflow Lite running on a Xilinx Zynq
-- [espressif/tflite-micro-esp-examples](https://github.com/espressif/tflite-micro-esp-examples) - TensorFlow Lite Micro for Espressif Chipsets
+- [espressif/esp-tflite-micro](https://github.com/espressif/esp-tflite-micro) - TensorFlow Lite Micro for Espressif Chipsets
 - [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
 - [google-coral/libcoral](https://github.com/google-coral/libcoral) - C++ API for ML inferencing and transfer-learning on Coral devices
 - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) - 用c++实现了yolov5使用openvino的部署
@@ -1031,6 +1035,7 @@
 
 ## HTML 
 
+- [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
@@ -1350,7 +1355,6 @@
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
-- [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [PeterJaq/Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) - 
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
@@ -1522,6 +1526,8 @@
 
 ## Python 
 
+- [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - 
+- [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
 - [tyhuang0428/CLIP2Point](https://github.com/tyhuang0428/CLIP2Point) - [ICCV 2023] CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training
 - [fishros/yolov_ros2](https://github.com/fishros/yolov_ros2) - 基于 YOLOv5 的 ROS 2 封装，允许用户使用给定的模型文件和图像话题进行实时物体检测。
@@ -1658,7 +1664,7 @@
 - [ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT) - Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
 - [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 - [mengtan00/SA-BEV](https://github.com/mengtan00/SA-BEV) - This is the implementation of the paper "SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection" (ICCV 2023)
-- [UMass-Foundation-Model/3D-LLM](https://github.com/UMass-Foundation-Model/3D-LLM) - Preliminary Code for  3D-LLM: Injecting the 3D World into Large Language Models
+- [UMass-Foundation-Model/3D-LLM](https://github.com/UMass-Foundation-Model/3D-LLM) - Code for  3D-LLM: Injecting the 3D World into Large Language Models
 - [HVXLab/HVDetFusion](https://github.com/HVXLab/HVDetFusion) - This repository is an official implementation of HVDetFusion
 - [mamadouDembele/TwinLiteNet-ONNX-TENSORRT-ROS](https://github.com/mamadouDembele/TwinLiteNet-ONNX-TENSORRT-ROS) - 
 - [chequanghuy/TwinLiteNet](https://github.com/chequanghuy/TwinLiteNet) - 
@@ -1717,6 +1723,7 @@
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - [ICCV 2023] OccNet: Scene as Occupancy
 - [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - 
+- [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [qcraftai/pillar-motion](https://github.com/qcraftai/pillar-motion) - Self-Supervised Pillar Motion Learning for Autonomous Driving (CVPR 2021)
@@ -1883,7 +1890,7 @@
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [naver-ai/BlendNeRF](https://github.com/naver-ai/BlendNeRF) - Official pytorch implementation of BlendNeRF (ICCV 2023)
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
-- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - Accepted to IJCV 2023
+- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (Accepted to IJCV 2023)
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
 - [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
@@ -2511,7 +2518,7 @@
 - [iMoonLab/PVRNet](https://github.com/iMoonLab/PVRNet) - PVRNet: Point-View Relation Neural Network for 3D Shape Recognition (AAAI 2019)
 - [lxh829/PointCloud-recognition](https://github.com/lxh829/PointCloud-recognition) - Use your own model to recognition
 - [qinglew/FoldingNet](https://github.com/qinglew/FoldingNet) - This is the implementation for FoldingNet——an autoencoder for point cloud in PyTorch.
-- [townim-faisal/lwf-3D](https://github.com/townim-faisal/lwf-3D) - Reducing catastrophic forgetting in 3D point cloud objects with help of semantic information
+- [townim-faisal/lwf-3D](https://github.com/townim-faisal/lwf-3D) - [IWANN 2021] Reducing catastrophic forgetting in 3D point cloud objects with help of semantic information
 - [SamsungLabs/cloud_transformers](https://github.com/SamsungLabs/cloud_transformers) - [ICCV, 2021] Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks https://arxiv.org/abs/2007.11679
 - [WangYueFt/detr3d](https://github.com/WangYueFt/detr3d) - 
 - [tomas789/kitti2bag](https://github.com/tomas789/kitti2bag) - Convert KITTI dataset to ROS bag file the easy way!
