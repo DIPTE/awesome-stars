@@ -211,6 +211,8 @@
 
 ## C++ 
 
+- [aljosaosep/ciwt](https://github.com/aljosaosep/ciwt) - This repository contains code for the tracking system as described in ''Combined Image- and World-Space Tracking in Traffic Scenes'', ICRA 2017.
+- [SonginCV/MAF_HDA](https://github.com/SonginCV/MAF_HDA) - An official implementation of the MAF_HDA Tracker
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & more LLMs
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
@@ -1103,6 +1105,8 @@
 
 ## Jupyter Notebook 
 
+- [zhangyeyan/360-Surround-View-CUDA-Project](https://github.com/zhangyeyan/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
+- [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
@@ -1146,6 +1150,7 @@
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications.
 - [ai4ce/EgoPAT3D](https://github.com/ai4ce/EgoPAT3D) - [CVPR 2022] Egocentric Action Target Prediction in 3D
+- [ydwen/opensphere](https://github.com/ydwen/opensphere) - A hyperspherical face recognition library based on PyTorch
 - [SrinjaySarkar/Convolutional-Occupancy-Nets](https://github.com/SrinjaySarkar/Convolutional-Occupancy-Nets) - Pytorch re-Implementation of Convolutional Occupancy networks
 - [ohhhyeahhh/PointAttN](https://github.com/ohhhyeahhh/PointAttN) - Code for the paper "PointAttN: You Only Need Attention for Point Cloud Completion"
 - [zju3dv/pvnet](https://github.com/zju3dv/pvnet) - Code for "PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation" CVPR 2019 oral
@@ -1243,6 +1248,8 @@
 
 ## MATLAB 
 
+- [yuxng/MDP_Tracking](https://github.com/yuxng/MDP_Tracking) - Learning to Track: Online Multi-Object Tracking by Decision Making
+- [JunaidCS032/MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels) - Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018)
 - [martin-danelljan/ECO](https://github.com/martin-danelljan/ECO) - Matlab implementation of the ECO tracker.
 - [matlab-deep-learning/Lidar-object-detection-using-complex-yolov4](https://github.com/matlab-deep-learning/Lidar-object-detection-using-complex-yolov4) - Object detection and transfer learning on point clouds using pretrained Complex-YOLOv4 models in MATLAB
 - [radar-lab/autolabelling_radar](https://github.com/radar-lab/autolabelling_radar) - Automatic Radar-Camera Dataset Generation for Sensor-Fusion Applications
@@ -1315,6 +1322,7 @@
 
 ## Others 
 
+- [darkpgmr/DarkLabel](https://github.com/darkpgmr/DarkLabel) - Video/Image Labeling and Annotation Tool
 - [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 - [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - Embracing Foundation Models into Autonomous Agent and System
 - [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - 
@@ -1526,6 +1534,17 @@
 
 ## Python 
 
+- [dvl-tum/mot_neural_solver](https://github.com/dvl-tum/mot_neural_solver) - Official PyTorch implementation of "Learning a Neural Solver for Multiple Object Tracking" (CVPR 2020 Oral).
+- [ZwwWayne/mmMOT](https://github.com/ZwwWayne/mmMOT) - [ICCV2019] Robust Multi-Modality Multi-Object Tracking
+- [arangesh/TrackMPNN](https://github.com/arangesh/TrackMPNN) - 
+- [wangxiyang2022/YONTD-MOT](https://github.com/wangxiyang2022/YONTD-MOT) - This is the offical implementation of the paper "You Only Need Two Detectors to Achieve Multi-Modal 3D Multi-Object Tracking "
+- [hejiawei2023/UG3DMOT](https://github.com/hejiawei2023/UG3DMOT) - 
+- [ocetintas/MPNTrackSeg](https://github.com/ocetintas/MPNTrackSeg) - "Multi-Object Tracking and Segmentation via Neural Message Passing" (IJCV 2022) - Official Implementation
+- [tobiasfshr/MOTSFusion](https://github.com/tobiasfshr/MOTSFusion) - MOTSFusion: Track to Reconstruct and Reconstruct to Track
+- [VisualComputingInstitute/TrackR-CNN](https://github.com/VisualComputingInstitute/TrackR-CNN) - TrackR-CNN baseline method for Multi-Object Tracking and Segmentation (MOTS)
+- [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
+- [VisualComputingInstitute/mots_tools](https://github.com/VisualComputingInstitute/mots_tools) - Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
+- [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
 - [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - 
 - [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
@@ -1895,7 +1914,7 @@
 - [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
 - [wzzheng/TPVFormer](https://github.com/wzzheng/TPVFormer) - An academic alternative to Tesla's occupancy network for autonomous driving.
-- [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - [TII 2023] A Cross-View Transformer Network for Place Recognition Using LiDAR Data.
+- [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - [TII 2023] A Cross-View Transformer Network for LiDAR-Based Place Recognition in Autonomous Driving Environments.
 - [MaverickPeter/DiSCO-pytorch](https://github.com/MaverickPeter/DiSCO-pytorch) - Differentiable Scan Context with Orientation
 - [yevgm/DeepAdv3D](https://github.com/yevgm/DeepAdv3D) - 
 - [PointCloudYC/ResPointNet2](https://github.com/PointCloudYC/ResPointNet2) - ResPointNet++ for AutoCon journal paper.
@@ -2360,7 +2379,6 @@
 - [SimingYan/IAE](https://github.com/SimingYan/IAE) - [ICCV 2023] "Implicit Autoencoder for Point-Cloud Self-Supervised Representation Learning"
 - [axeber01/point-tnt](https://github.com/axeber01/point-tnt) - Official implementation of the Point Transformer-in-Transformer: https://arxiv.org/abs/2204.03957
 - [SMohammadi89/PointView-GCN](https://github.com/SMohammadi89/PointView-GCN) - The code and dataset will be available soon here
-- [ydwen/opensphere](https://github.com/ydwen/opensphere) - A hyperspherical face recognition library based on PyTorch
 - [xiongraorao/face-reid](https://github.com/xiongraorao/face-reid) - 人脸特征重识别
 - [jx-zhong-for-academic-purpose/Kinet](https://github.com/jx-zhong-for-academic-purpose/Kinet) - [CVPR 2022] No Pain, Big Gain: Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces
 - [yifanzhang713/IA-SSD](https://github.com/yifanzhang713/IA-SSD) - Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds (CVPR 2022, Oral)
