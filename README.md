@@ -211,6 +211,8 @@
 
 ## C++ 
 
+- [JokerEyeAdas/AdasSourrondView](https://github.com/JokerEyeAdas/AdasSourrondView) - The C++ code demo for surround view of car
+- [yanx27/JS3C-Net](https://github.com/yanx27/JS3C-Net) - Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion (AAAI 2021)
 - [aljosaosep/ciwt](https://github.com/aljosaosep/ciwt) - This repository contains code for the tracking system as described in ''Combined Image- and World-Space Tracking in Traffic Scenes'', ICRA 2017.
 - [SonginCV/MAF_HDA](https://github.com/SonginCV/MAF_HDA) - An official implementation of the MAF_HDA Tracker
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
@@ -1009,7 +1011,7 @@
 - [davibe/docker-gstreamer-raspbian-build](https://github.com/davibe/docker-gstreamer-raspbian-build) - Building latest git version of gstreamer and plugins for raspberry pi (raspbian)
 - [danielTobon43/pcl-docker](https://github.com/danielTobon43/pcl-docker) - Point Cloud Library docker container
 - [cartesi/image-toolchain](https://github.com/cartesi/image-toolchain) - Image with RISC-V toolchains
-- [thiago-dev/openresty-rtmp-ffmpeg-api](https://github.com/thiago-dev/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
+- [all-in-simplicity/openresty-rtmp-ffmpeg-api](https://github.com/all-in-simplicity/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
 - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) - darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）
 
 ## EJS 
@@ -1322,6 +1324,15 @@
 
 ## Others 
 
+- [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
+- [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
+- [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
+- [chenchaoxu/UtransFusion](https://github.com/chenchaoxu/UtransFusion) - 
+- [ADLab-AutoDrive/FusionFormer](https://github.com/ADLab-AutoDrive/FusionFormer) - 
+- [rockywind/RCFormerV2](https://github.com/rockywind/RCFormerV2) - 
+- [JinglinZhan/Real-Aug](https://github.com/JinglinZhan/Real-Aug) - Real-Aug: Realistic Scene Synthesis for LiDAR Augmentation in 3D Object Detection
+- [KuanchihHuang/MoMA-M3T](https://github.com/KuanchihHuang/MoMA-M3T) - Delving into Motion-Aware Matching for Monocular 3D Object Tracking (ICCV 2023)
+- [adept-thu/CAMO-MOT](https://github.com/adept-thu/CAMO-MOT) - Official code of CAMO-MOT
 - [darkpgmr/DarkLabel](https://github.com/darkpgmr/DarkLabel) - Video/Image Labeling and Annotation Tool
 - [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 - [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - Embracing Foundation Models into Autonomous Agent and System
@@ -1534,6 +1545,15 @@
 
 ## Python 
 
+- [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
+- [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
+- [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
+- [HYjhkoh/MGTANet](https://github.com/HYjhkoh/MGTANet) - 
+- [ICEORY/PMF](https://github.com/ICEORY/PMF) - Perception-aware multi-sensor fusion for 3D LiDAR semantic segmentation (ICCV 2021)
+- [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
+- [chisyliu/GnnPmbTracker](https://github.com/chisyliu/GnnPmbTracker) - 
+- [cogsys-tuebingen/CBMOT](https://github.com/cogsys-tuebingen/CBMOT) - This repo contains the official code for the paper 'Score refinement for confidence-based 3D multi-object tracking'
+- [lixiaoyu2000/Poly-MOT](https://github.com/lixiaoyu2000/Poly-MOT) - Official Repo For IROS 2023 Accepted Paper "Poly-MOT"
 - [dvl-tum/mot_neural_solver](https://github.com/dvl-tum/mot_neural_solver) - Official PyTorch implementation of "Learning a Neural Solver for Multiple Object Tracking" (CVPR 2020 Oral).
 - [ZwwWayne/mmMOT](https://github.com/ZwwWayne/mmMOT) - [ICCV2019] Robust Multi-Modality Multi-Object Tracking
 - [arangesh/TrackMPNN](https://github.com/arangesh/TrackMPNN) - 
@@ -1759,7 +1779,7 @@
 - [shorie000/3DSSD-TFv2](https://github.com/shorie000/3DSSD-TFv2) - 3DSSD's implementation with TensorFlow v2.
 - [Jazzcharles/OVSegmentor](https://github.com/Jazzcharles/OVSegmentor) - OVSegmentor, CVPR23
 - [eriksandstroem/Point-SLAM](https://github.com/eriksandstroem/Point-SLAM) - Point-SLAM: Dense Neural Point Cloud-based SLAM
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
 - [tianrun-chen/SAM-Adapter-PyTorch](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) - Adapting Meta AI's Segment Anything to Downstream Tasks with Adapters and Prompts
 - [BingfengYan/VISAM](https://github.com/BingfengYan/VISAM) - Combining "segment-anything" with MOT,  it create the era of "MOTS"
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
@@ -1955,7 +1975,6 @@
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
 - [Eaphan/BiProDet](https://github.com/Eaphan/BiProDet) - Codes for "Bidirectional Propagation for Cross-Modal 3D Object Detection"
 - [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023).
-- [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
@@ -2876,7 +2895,7 @@
 - [jxqhhh/PytorchPointCNN](https://github.com/jxqhhh/PytorchPointCNN) - 
 - [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [yifanfeng97/VGCNN](https://github.com/yifanfeng97/VGCNN) - 
-- [kuaikuaikim/DFace](https://github.com/kuaikuaikim/DFace) - Deep learning face detection and recognition, implemented by pytorch. (pytorch实现的人脸检测和人脸识别)
+- [kuaikuaikim/dface](https://github.com/kuaikuaikim/dface) - Deep learning face detection and recognition, implemented by pytorch. (pytorch实现的人脸检测和人脸识别)
 - [PolarisShi/distillation](https://github.com/PolarisShi/distillation) - 
 - [sfzhang15/ATSS](https://github.com/sfzhang15/ATSS) - Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection, CVPR, Oral, 2020
 - [dongdonghy/Detection-PyTorch-Notebook](https://github.com/dongdonghy/Detection-PyTorch-Notebook) - 代码 -《深度学习之PyTorch物体检测实战》
