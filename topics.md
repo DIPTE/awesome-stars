@@ -1481,6 +1481,7 @@
 
 ## others 
 
+- [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [JokerEyeAdas/AdasSourrondView](https://github.com/JokerEyeAdas/AdasSourrondView) - The C++ code demo for surround view of car
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
@@ -3328,7 +3329,7 @@
 - [MenghaoGuo/EANet](https://github.com/MenghaoGuo/EANet) - External Attention Network
 - [hjjpku/multi_view_sort](https://github.com/hjjpku/multi_view_sort) - multi-view cnn, Neural-EM, multi view alignment
 - [zwb0/PointLIE](https://github.com/zwb0/PointLIE) - PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery (IJCAI 2021)
-- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'22] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
+- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 - [Spark001/AsymmNet](https://github.com/Spark001/AsymmNet) - [MAI@CVPR 2021] AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks.
 - [Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation](https://github.com/Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation) - State-of-the-art methods on monocular 3D pose estimation / 3D mesh recovery
 - [MMCheng/SSPC-Net](https://github.com/MMCheng/SSPC-Net) - Semi-supervised Seam
@@ -4094,7 +4095,7 @@
 - [DerrickXuNu/OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) - [ICRA 2022] An opensource framework for cooperative detection. Official implementation for OPV2V.
 - [Xharlie/BtcDet](https://github.com/Xharlie/BtcDet) - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection
 - [Na-Z/SDCoT](https://github.com/Na-Z/SDCoT) - [AAAI 2022 Oral] Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection
-- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for “Fully Sparse 3D Object Detection” & “Embracing Single Stride 3D Object Detector with Sparse Transformer”
+- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [paul007pl/VRCNet](https://github.com/paul007pl/VRCNet) - [CVPR 2021 Oral] Variational Relational Point Completion Network
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
