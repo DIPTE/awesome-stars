@@ -1324,6 +1324,7 @@
 
 ## Others 
 
+- [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
 - [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
 - [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
@@ -1366,7 +1367,6 @@
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
-- [BICLab/EMS-YOLO](https://github.com/BICLab/EMS-YOLO) - Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (ICCV2023)
 - [jianrenw/PanoNet3D](https://github.com/jianrenw/PanoNet3D) - 
 - [yichaoshen-MS/V-DETR](https://github.com/yichaoshen-MS/V-DETR) - 
 - [tiangexiang/OccNeRF](https://github.com/tiangexiang/OccNeRF) - [ICCV 2023] Rendering Humans from Object-Occluded Monocular Videos
@@ -1702,6 +1702,7 @@
 - [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
 - [ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT) - Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
 - [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
+- [BICLab/EMS-YOLO](https://github.com/BICLab/EMS-YOLO) - Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (ICCV2023)
 - [mengtan00/SA-BEV](https://github.com/mengtan00/SA-BEV) - This is the implementation of the paper "SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection" (ICCV 2023)
 - [UMass-Foundation-Model/3D-LLM](https://github.com/UMass-Foundation-Model/3D-LLM) - Code for  3D-LLM: Injecting the 3D World into Large Language Models
 - [HVXLab/HVDetFusion](https://github.com/HVXLab/HVDetFusion) - This repository is an official implementation of HVDetFusion
@@ -2516,7 +2517,7 @@
 - [Rock-100/MonoDet](https://github.com/Rock-100/MonoDet) - [ICCV21 & WACV23] Monocular 3D Object Detection for Automonous Driving
 - [VimsLab/MeshNet2](https://github.com/VimsLab/MeshNet2) - 
 - [luxius-luminus/PolyConv](https://github.com/luxius-luminus/PolyConv) - Object Point Cloud Classification via Poly-Convolutional Architecture Search
-- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for “Fully Sparse 3D Object Detection” & “Embracing Single Stride 3D Object Detector with Sparse Transformer”
+- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
 - [LitingLin/SwinTrack](https://github.com/LitingLin/SwinTrack) - 
 - [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (T-PAMI 2022, ACM MM 2020)
 - [subbarayudu-j/TheAlgorithms-Python](https://github.com/subbarayudu-j/TheAlgorithms-Python) - TheAlgorithms/Python
@@ -2749,7 +2750,7 @@
 - [xieenze/PolarMask](https://github.com/xieenze/PolarMask) - Code for 'PolarMask: Single Shot Instance Segmentation with Polar Representation'
 - [MenghaoGuo/EANet](https://github.com/MenghaoGuo/EANet) - External Attention Network
 - [hjjpku/multi_view_sort](https://github.com/hjjpku/multi_view_sort) - multi-view cnn, Neural-EM, multi view alignment
-- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'22] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
+- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 - [Spark001/AsymmNet](https://github.com/Spark001/AsymmNet) - [MAI@CVPR 2021] AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks.
 - [Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation](https://github.com/Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation) - State-of-the-art methods on monocular 3D pose estimation / 3D mesh recovery
 - [MMCheng/SSPC-Net](https://github.com/MMCheng/SSPC-Net) - Semi-supervised Seam
