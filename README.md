@@ -211,6 +211,8 @@
 
 ## C++ 
 
+- [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
+- [Hectoor/Ffmpeg_ros_image_trans](https://github.com/Hectoor/Ffmpeg_ros_image_trans) - This demo can help you receive rtmp stream,and  transmit images through ROS
 - [JokerEyeAdas/AdasSourrondView](https://github.com/JokerEyeAdas/AdasSourrondView) - The C++ code demo for surround view of car
 - [yanx27/JS3C-Net](https://github.com/yanx27/JS3C-Net) - Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion (AAAI 2021)
 - [aljosaosep/ciwt](https://github.com/aljosaosep/ciwt) - This repository contains code for the tracking system as described in ''Combined Image- and World-Space Tracking in Traffic Scenes'', ICRA 2017.
@@ -955,7 +957,7 @@
 
 - [Ar-Ray-code/bbox_ex_msgs](https://github.com/Ar-Ray-code/bbox_ex_msgs) - Extended message for darknet_ros_msgs
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
-- [DefTruth/simd-notebook](https://github.com/DefTruth/simd-notebook) - A brief notebook of SIMD (NEON/SSE/AVX).
+- [DefTruth/learn-optimize](https://github.com/DefTruth/learn-optimize) - My personal notebook for C++, CUDA, PTX and SIMD, etc.
 - [bluesky-ryan/snowstorm_ros_rk3399](https://github.com/bluesky-ryan/snowstorm_ros_rk3399) - RK3399 ROS麦克纳姆轮车
 - [ravijo/ros_zeromq_tutorial](https://github.com/ravijo/ros_zeromq_tutorial) - ZeroMQ tutorial for ROS
 - [ros-planning/panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) - The Panda robot is the flagship MoveIt integration robot
@@ -1324,6 +1326,8 @@
 
 ## Others 
 
+- [Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack) - [NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking
+- [Nightmare-n/UniPAD](https://github.com/Nightmare-n/UniPAD) - UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
 - [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
@@ -1354,7 +1358,6 @@
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [tdzdog/SEFormer](https://github.com/tdzdog/SEFormer) - AAAI2023: SEFormer: Structure Embedding Transformer for 3D Object Detection
 - [OpenPerceptionX/PersFormer_3DLane](https://github.com/OpenPerceptionX/PersFormer_3DLane) - [ECCV2022 oral] Perspective Transformer on 3D Lane Detection
-- [XHwind/V2XP-ASG](https://github.com/XHwind/V2XP-ASG) - [ICRA 2023] V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
 - [lxtGH/Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - Transformer-Based Visual Segmentation: A Survey
 - [jinlong17/V2VLC](https://github.com/jinlong17/V2VLC) - 
@@ -1378,7 +1381,6 @@
 - [PeterJaq/Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) - 
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
 - [axlrose/rkdocs](https://github.com/axlrose/rkdocs) - RockChip RK3588 BSP Documents
-- [BraveGroup/FullySparseFusion](https://github.com/BraveGroup/FullySparseFusion) - Fully Sparse Fusion for 3D Object Detection
 - [landyxu/FastViT](https://github.com/landyxu/FastViT) - Our objective is to combine the strengths of ViT, CNN, and GNN to create FastViT, a lightweight and efficient net-work  that  outperforms  CNN-based  models  and  has  fewer parameters  and  a  shorte
 - [ViTAE-Transformer/BEVSimDet](https://github.com/ViTAE-Transformer/BEVSimDet) - The official repo for [Arxiv'23] "BEVSimDet: Simulated Multi-modal Distillation in Bird’s-Eye View for Multi-view 3D Object Detection"
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
@@ -1545,6 +1547,11 @@
 
 ## Python 
 
+- [stevewongv/Sparse2Dense](https://github.com/stevewongv/Sparse2Dense) - Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection (NeurIPS 2022)
+- [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
+- [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) - 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）
+- [DerryHub/BEVFormer_tensorrt](https://github.com/DerryHub/BEVFormer_tensorrt) - BEVFormer inference on TensorRT, including INT8 Quantization and Custom TensorRT Plugins (float/half/half2/int8).
+- [zehuichen123/Graph-DETR4D](https://github.com/zehuichen123/Graph-DETR4D) - [ACM MM2022, Arxiv2023] Graph-DETR Series for Multi-View 3D Object Detection
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
 - [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
 - [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
@@ -1659,6 +1666,7 @@
 - [cskkxjk/MonoNeRD](https://github.com/cskkxjk/MonoNeRD) - NeRF-like Representations for Monocular 3D Object Detection
 - [facebookresearch/NeRF-Det](https://github.com/facebookresearch/NeRF-Det) - [ICCV 2023] Code for NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection
 - [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
+- [XHwind/V2XP-ASG](https://github.com/XHwind/V2XP-ASG) - [ICRA 2023] V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception
 - [ucla-mobility/OpenCDA](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 - [xiaoaoran/SynLiDAR](https://github.com/xiaoaoran/SynLiDAR) - SynLiDAR: Synthetic LiDAR sequential point cloud dataset with point-wise annotations (AAAI2022)
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
@@ -1771,6 +1779,7 @@
 - [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ubuntu application indicator to show various system parameters
 - [leafqycc/rknn-multi-threaded](https://github.com/leafqycc/rknn-multi-threaded) - A simple demo of yolov5s running on rk3588/3588s using Python (about 72 frames). / 一个使用Python在rk3588/3588s上运行的yolov5s简单demo(大约72帧/s)。
 - [fcjian/AeDet](https://github.com/fcjian/AeDet) - AeDet: Azimuth-invariant Multi-view 3D Object Detection, CVPR2023
+- [BraveGroup/FullySparseFusion](https://github.com/BraveGroup/FullySparseFusion) - Fully Sparse Fusion for 3D Object Detection
 - [thu-ml/3D_Corruptions_AD](https://github.com/thu-ml/3D_Corruptions_AD) - Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving, CVPR 2023
 - [yoxu515/aot-benchmark](https://github.com/yoxu515/aot-benchmark) - An efficient modular implementation of Associating Objects with Transformers for Video Object Segmentation in PyTorch
 - [OuyangJunyuan/pcvt](https://github.com/OuyangJunyuan/pcvt) - point cloud type conversion all(partial actually) in one!  [ bin(kitti) ⇋ pcd(pcl) ⇋ msg(ros) ⇋ ... ]
@@ -1969,12 +1978,12 @@
 - [ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch) - official repo for the paper "SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images"
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [ajhamdi/mvtorch](https://github.com/ajhamdi/mvtorch) - a Pytorch library for multi-view 3D understanding and generation
-- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - Code for "A Comprehensive Study and Comparison of the Robustness of 3D Object Detectors Against Adversarial Attacks".
+- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - Code for "A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks".
 - [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation
 - [Sense-GVT/Fast-BEV](https://github.com/Sense-GVT/Fast-BEV) - Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
-- [Eaphan/BiProDet](https://github.com/Eaphan/BiProDet) - Codes for "Bidirectional Propagation for Cross-Modal 3D Object Detection"
+- [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - Codes for "Unleash the Potential of Image Branch for Cross-modal 3D Object Detection"
 - [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023).
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
