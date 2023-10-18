@@ -123,6 +123,7 @@
 
 ## 3d 
 
+- [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
@@ -1481,6 +1482,12 @@
 
 ## others 
 
+- [Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack) - [NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking
+- [stevewongv/Sparse2Dense](https://github.com/stevewongv/Sparse2Dense) - Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection (NeurIPS 2022)
+- [Hectoor/Ffmpeg_ros_image_trans](https://github.com/Hectoor/Ffmpeg_ros_image_trans) - This demo can help you receive rtmp stream,and  transmit images through ROS
+- [Nightmare-n/UniPAD](https://github.com/Nightmare-n/UniPAD) - UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
+- [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) - 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）
+- [zehuichen123/Graph-DETR4D](https://github.com/zehuichen123/Graph-DETR4D) - [ACM MM2022, Arxiv2023] Graph-DETR Series for Multi-View 3D Object Detection
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [JokerEyeAdas/AdasSourrondView](https://github.com/JokerEyeAdas/AdasSourrondView) - The C++ code demo for surround view of car
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
@@ -2164,7 +2171,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [DefTruth/simd-notebook](https://github.com/DefTruth/simd-notebook) - A brief notebook of SIMD (NEON/SSE/AVX).
+- [DefTruth/learn-optimize](https://github.com/DefTruth/learn-optimize) - My personal notebook for C++, CUDA, PTX and SIMD, etc.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -2197,12 +2204,12 @@
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
-- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - Code for "A Comprehensive Study and Comparison of the Robustness of 3D Object Detectors Against Adversarial Attacks".
+- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - Code for "A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks".
 - [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation
 - [LeapLabTHU/Text4Point](https://github.com/LeapLabTHU/Text4Point) - 
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
-- [Eaphan/BiProDet](https://github.com/Eaphan/BiProDet) - Codes for "Bidirectional Propagation for Cross-Modal 3D Object Detection"
+- [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - Codes for "Unleash the Potential of Image Branch for Cross-modal 3D Object Detection"
 - [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023).
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [Nrusher/nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) - shell for MCU. 单片机命令行交互。
@@ -3950,6 +3957,8 @@
 
 ## pytorch 
 
+- [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
+- [DerryHub/BEVFormer_tensorrt](https://github.com/DerryHub/BEVFormer_tensorrt) - BEVFormer inference on TensorRT, including INT8 Quantization and Custom TensorRT Plugins (float/half/half2/int8).
 - [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
 - [dvl-tum/mot_neural_solver](https://github.com/dvl-tum/mot_neural_solver) - Official PyTorch implementation of "Learning a Neural Solver for Multiple Object Tracking" (CVPR 2020 Oral).
 - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
@@ -4236,6 +4245,7 @@
 
 ## robotics 
 
+- [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
 - [JunaidCS032/MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels) - Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018)
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
