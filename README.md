@@ -73,6 +73,7 @@
 
 ## C 
 
+- [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TsingWei/stm32_iot_light_sensor](https://github.com/TsingWei/stm32_iot_light_sensor) - 使用CubeMX(HAL)，STM32+ESP8266+BH1750 通过MQTT协议实现的智能街灯（模拟）
@@ -211,6 +212,8 @@
 
 ## C++ 
 
+- [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
+- [beltransen/lidar_bev](https://github.com/beltransen/lidar_bev) - A ROS package for LiDAR's Bird's Eye View projection.
 - [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
 - [Hectoor/Ffmpeg_ros_image_trans](https://github.com/Hectoor/Ffmpeg_ros_image_trans) - This demo can help you receive rtmp stream,and  transmit images through ROS
 - [JokerEyeAdas/AdasSourrondView](https://github.com/JokerEyeAdas/AdasSourrondView) - The C++ code demo for surround view of car
@@ -957,7 +960,7 @@
 
 - [Ar-Ray-code/bbox_ex_msgs](https://github.com/Ar-Ray-code/bbox_ex_msgs) - Extended message for darknet_ros_msgs
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
-- [DefTruth/learn-optimize](https://github.com/DefTruth/learn-optimize) - My personal notebook for C++, CUDA, PTX and SIMD, etc.
+- [DefTruth/cuda-optimize](https://github.com/DefTruth/cuda-optimize) - Learn Optimization for NVIDIA CUDA.
 - [bluesky-ryan/snowstorm_ros_rk3399](https://github.com/bluesky-ryan/snowstorm_ros_rk3399) - RK3399 ROS麦克纳姆轮车
 - [ravijo/ros_zeromq_tutorial](https://github.com/ravijo/ros_zeromq_tutorial) - ZeroMQ tutorial for ROS
 - [ros-planning/panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) - The Panda robot is the flagship MoveIt integration robot
@@ -1326,6 +1329,8 @@
 
 ## Others 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack) - [NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking
 - [Nightmare-n/UniPAD](https://github.com/Nightmare-n/UniPAD) - UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
@@ -1547,6 +1552,10 @@
 
 ## Python 
 
+- [rigaya/build_pkg](https://github.com/rigaya/build_pkg) - currently for test
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - Code for "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models" NeurIPS 2022
+- [zju3dv/OnePose](https://github.com/zju3dv/OnePose) - Code for "OnePose: One-Shot Object Pose Estimation without CAD Models", CVPR 2022
 - [stevewongv/Sparse2Dense](https://github.com/stevewongv/Sparse2Dense) - Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection (NeurIPS 2022)
 - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
 - [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) - 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）
@@ -1925,7 +1934,7 @@
 - [wz7in/CVPR2023-VLSAT](https://github.com/wz7in/CVPR2023-VLSAT) - CVPR2023 : VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud
 - [Tsinghua-MARS-Lab/Online-HD-Map-Construction-CVPR2023](https://github.com/Tsinghua-MARS-Lab/Online-HD-Map-Construction-CVPR2023) - Online HD Map Construction CVPR2023
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
-- [poodarchu/EFG](https://github.com/poodarchu/EFG) - An Efficient, Flexible, and General deep learning framework that retains minimal.
+- [V2AI/EFG](https://github.com/V2AI/EFG) - An Efficient, Flexible, and General deep learning framework that retains minimal.
 - [Jun-CEN/PSL](https://github.com/Jun-CEN/PSL) - [CVPR 2023] Enlarge Instance-specific and Class-specific Information for Open-set Action Recognition
 - [slothfulxtx/cxtrack3d](https://github.com/slothfulxtx/cxtrack3d) - CXTrack:Improving 3D Point Cloud Tracking with Contextual Information (CVPR2023)
 - [ai4ce/DeepMapping2](https://github.com/ai4ce/DeepMapping2) - [CVPR2023] DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization
@@ -2967,7 +2976,7 @@
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [TerenceCYJ/SO-HandNet](https://github.com/TerenceCYJ/SO-HandNet) - Code repository for our paper entilted "SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning", ICCV 2019.
 - [lijx10/USIP](https://github.com/lijx10/USIP) - USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. ICCV 2019
-- [poodarchu/Det3D](https://github.com/poodarchu/Det3D) - A general 3D object detection codebse.
+- [V2AI/Det3D](https://github.com/V2AI/Det3D) - World's first general purpose 3D object detection codebse.
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [dvlab-research/3DSSD](https://github.com/dvlab-research/3DSSD) - 3DSSD: Point-based 3D Single Stage Object Detector (CVPR 2020)
 - [nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch) - PointPillars for KITTI object detection
@@ -3314,6 +3323,7 @@
 
 ## TypeScript 
 
+- [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
