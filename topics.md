@@ -66,6 +66,7 @@
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -194,6 +195,7 @@
 
 ## ai 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
@@ -638,6 +640,8 @@
 
 ## deep-learning 
 
+- [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
+- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
@@ -888,7 +892,7 @@
 - [itailang/SampleNet](https://github.com/itailang/SampleNet) - Differentiable Point Cloud Sampling (CVPR 2020 Oral)
 - [iboing/CliqueNet](https://github.com/iboing/CliqueNet) - Convolutional Neural Networks with Alternately Updated Clique (to appear in CVPR 2018)
 - [orendv/learning_to_sample](https://github.com/orendv/learning_to_sample) - A learned sampling approach for point clouds (CVPR 2019)
-- [poodarchu/Det3D](https://github.com/poodarchu/Det3D) - A general 3D object detection codebse.
+- [V2AI/Det3D](https://github.com/V2AI/Det3D) - World's first general purpose 3D object detection codebse.
 - [amusi/CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
 - [extreme-assistant/CVPR2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation) - cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
 - [PyRetri/PyRetri](https://github.com/PyRetri/PyRetri) - Open source deep learning based unsupervised image retrieval toolbox built on PyTorch🔥
@@ -1147,6 +1151,10 @@
 
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 
+## language 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## learning 
 
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
@@ -1187,6 +1195,8 @@
 
 ## machine-learning 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
@@ -1320,6 +1330,7 @@
 
 ## mobile 
 
+- [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 
@@ -1335,6 +1346,7 @@
 
 ## neural-network 
 
+- [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
@@ -1482,6 +1494,12 @@
 
 ## others 
 
+- [rigaya/build_pkg](https://github.com/rigaya/build_pkg) - currently for test
+- [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
+- [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - Code for "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models" NeurIPS 2022
+- [zju3dv/OnePose](https://github.com/zju3dv/OnePose) - Code for "OnePose: One-Shot Object Pose Estimation without CAD Models", CVPR 2022
+- [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
+- [beltransen/lidar_bev](https://github.com/beltransen/lidar_bev) - A ROS package for LiDAR's Bird's Eye View projection.
 - [Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack) - [NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking
 - [stevewongv/Sparse2Dense](https://github.com/stevewongv/Sparse2Dense) - Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection (NeurIPS 2022)
 - [Hectoor/Ffmpeg_ros_image_trans](https://github.com/Hectoor/Ffmpeg_ros_image_trans) - This demo can help you receive rtmp stream,and  transmit images through ROS
@@ -2171,7 +2189,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [DefTruth/learn-optimize](https://github.com/DefTruth/learn-optimize) - My personal notebook for C++, CUDA, PTX and SIMD, etc.
+- [DefTruth/cuda-optimize](https://github.com/DefTruth/cuda-optimize) - Learn Optimization for NVIDIA CUDA.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -3841,6 +3859,7 @@
 
 ## python 
 
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
@@ -3957,6 +3976,8 @@
 
 ## pytorch 
 
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
 - [DerryHub/BEVFormer_tensorrt](https://github.com/DerryHub/BEVFormer_tensorrt) - BEVFormer inference on TensorRT, including INT8 Quantization and Custom TensorRT Plugins (float/half/half2/int8).
 - [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
@@ -3987,7 +4008,7 @@
 - [JUGGHM/PENet_ICRA2021](https://github.com/JUGGHM/PENet_ICRA2021) - ICRA 2021 "Towards Precise and Efficient Image Guided Depth Completion"
 - [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256K
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
-- [poodarchu/EFG](https://github.com/poodarchu/EFG) - An Efficient, Flexible, and General deep learning framework that retains minimal.
+- [V2AI/EFG](https://github.com/V2AI/EFG) - An Efficient, Flexible, and General deep learning framework that retains minimal.
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
 - [MaverickPeter/DiSCO-pytorch](https://github.com/MaverickPeter/DiSCO-pytorch) - Differentiable Scan Context with Orientation
@@ -4161,7 +4182,7 @@
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [ranahanocka/MeshCNN](https://github.com/ranahanocka/MeshCNN) - Convolutional Neural Network for 3D meshes in PyTorch
 - [lartpang/PyTorchTricks](https://github.com/lartpang/PyTorchTricks) - Some tricks of pytorch... :star:
-- [poodarchu/Det3D](https://github.com/poodarchu/Det3D) - A general 3D object detection codebse.
+- [V2AI/Det3D](https://github.com/V2AI/Det3D) - World's first general purpose 3D object detection codebse.
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [SmallMunich/nutonomy_pointpillars](https://github.com/SmallMunich/nutonomy_pointpillars) - Convert pointpillars Pytorch Model To ONNX for TensorRT Inference
 - [open-mmlab/mmaction](https://github.com/open-mmlab/mmaction) - An open-source toolbox for action understanding based on PyTorch
