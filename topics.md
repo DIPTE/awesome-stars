@@ -53,6 +53,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
 - [image-processing](#image-processing)
@@ -78,6 +79,7 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
+- [mysql](#mysql)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -195,6 +197,7 @@
 
 ## ai 
 
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
@@ -384,6 +387,9 @@
 
 ## computer-vision 
 
+- [fubel/synthehicle](https://github.com/fubel/synthehicle) - [WACV 2023] A massive synthetic dataset for 3D multi-target multi-camera tracking and segmentation.
+- [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [aljosaosep/ciwt](https://github.com/aljosaosep/ciwt) - This repository contains code for the tracking system as described in ''Combined Image- and World-Space Tracking in Traffic Scenes'', ICRA 2017.
 - [SonginCV/MAF_HDA](https://github.com/SonginCV/MAF_HDA) - An official implementation of the MAF_HDA Tracker
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
@@ -536,6 +542,7 @@
 
 ## cpp 
 
+- [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
@@ -640,6 +647,11 @@
 
 ## deep-learning 
 
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
+- [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
+- [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 - [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
@@ -995,6 +1007,7 @@
 
 ## framework 
 
+- [CodingHanYa/workspace](https://github.com/CodingHanYa/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
@@ -1061,6 +1074,10 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 
+## home-assistant 
+
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
+
 ## html 
 
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
@@ -1068,6 +1085,7 @@
 
 ## http 
 
+- [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
@@ -1195,6 +1213,9 @@
 
 ## machine-learning 
 
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
@@ -1344,6 +1365,10 @@
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 
+## mysql 
+
+- [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
+
 ## neural-network 
 
 - [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
@@ -1444,6 +1469,7 @@
 
 ## opencv 
 
+- [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
 - [Ar-Ray-code/bbox_ex_msgs](https://github.com/Ar-Ray-code/bbox_ex_msgs) - Extended message for darknet_ros_msgs
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
@@ -1494,6 +1520,22 @@
 
 ## others 
 
+- [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
+- [tangtaogo/lidar-nerf](https://github.com/tangtaogo/lidar-nerf) - LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
+- [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
+- [wayveai/Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs) - PyTorch implementation for the paper "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving"
+- [hikvision-research/3DVision](https://github.com/hikvision-research/3DVision) - 
+- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
+- [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+- [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
+- [hou-yz/open-reid-tracking](https://github.com/hou-yz/open-reid-tracking) - open-reid with PCB, IDE, triplet, ZJU; MOT/MTMCT feature extraction support included
+- [linghu8812/yolov5_fastreid_deepsort_tensorrt](https://github.com/linghu8812/yolov5_fastreid_deepsort_tensorrt) - 
+- [Dao-zhi/MultiCameraTargetTracking](https://github.com/Dao-zhi/MultiCameraTargetTracking) - 基于TLD算法和GOTURN算法的多摄像头目标跟踪
+- [1522454735/Multiple-camera-single-target-tracking](https://github.com/1522454735/Multiple-camera-single-target-tracking) - 基于多摄像头协同分析的单目标跟踪算法/系统
+- [GehenHe/TRACTA](https://github.com/GehenHe/TRACTA) - TRACTA: Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment
 - [rigaya/build_pkg](https://github.com/rigaya/build_pkg) - currently for test
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - Code for "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models" NeurIPS 2022
@@ -1548,7 +1590,7 @@
 - [fishros/yolov_ros2](https://github.com/fishros/yolov_ros2) - 基于 YOLOv5 的 ROS 2 封装，允许用户使用给定的模型文件和图像话题进行实时物体检测。
 - [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) - 基于YOLOV5 的ROS2功能包，可以快速完成物体识别与位姿发布。 A ROS2 package based on YOLOV5 that enables fast object recognition and pose publishing.
 - [leofansq/CBR](https://github.com/leofansq/CBR) - Calibration-free BEV Representation for Infrastructure Perception (IROS2023)
-- [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Robust Asynchronous Collaborative 3D Perception via Bird’s Eye View Flow
+- [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow
 - [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
 - [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
 - [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - Embracing Foundation Models into Autonomous Agent and System
@@ -1939,7 +1981,7 @@
 - [baaivision/EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
 - [zhenyuw16/UniDetector](https://github.com/zhenyuw16/UniDetector) - Code release for our CVPR 2023 paper "Detecting Everything in the Open World: Towards Universal Object Detection".
 - [IDEA-Research/Lite-DETR](https://github.com/IDEA-Research/Lite-DETR) - [CVPR 2023] Official implementation of the paper "Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR"
-- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - 
+- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
 - [colorfulfuture/GC-VRNN](https://github.com/colorfulfuture/GC-VRNN) - 
 - [ADLab-AutoDrive/INT](https://github.com/ADLab-AutoDrive/INT) - Temp
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
@@ -3006,7 +3048,7 @@
 - [Pang-Yatian/Point-MAE](https://github.com/Pang-Yatian/Point-MAE) - [ECCV2022] Masked Autoencoders for Point Cloud Self-supervised Learning
 - [liuruijin17/LSTR](https://github.com/liuruijin17/LSTR) - This is an official repository of End-to-end Lane Shape Prediction with Transformers.
 - [AlexGeControl/3D-Point-Cloud-Analytics](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics) - Portfolio for 3D Point Cloud Processing from www.shenlanxueyuan.com China
-- [LiyaoTang/contrastBoundary](https://github.com/LiyaoTang/contrastBoundary) - Contrastive Boundary Learning for Point Cloud Segmentation
+- [LiyaoTang/contrastBoundary](https://github.com/LiyaoTang/contrastBoundary) - Contrastive Boundary Learning for Point Cloud Segmentation (CVPR2022)
 - [dragonlong/amazing-equivariance-learning](https://github.com/dragonlong/amazing-equivariance-learning) - 
 - [FlyingGiraffe/vnn](https://github.com/FlyingGiraffe/vnn) - Vector Neurons: A General Framework for SO(3)-Equivariant Networks
 - [fangchuan/serialPortHelper](https://github.com/fangchuan/serialPortHelper) - 串口小助手程序，刻画出四通道曲线波形、接收视频、加载谷歌地图
@@ -3859,6 +3901,9 @@
 
 ## python 
 
+- [MissiaL/hikvision-client](https://github.com/MissiaL/hikvision-client) - Client for Hikvision devices
+- [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
@@ -3976,6 +4021,9 @@
 
 ## pytorch 
 
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
+- [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
@@ -4235,6 +4283,7 @@
 
 ## raspberry-pi 
 
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 - [mwkpe/cantools](https://github.com/mwkpe/cantools) - A collection of CLI tools for the CAN bus network
 - [waveform80/pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
@@ -4349,6 +4398,7 @@
 
 ## tensorflow 
 
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
 - [RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution](https://github.com/RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution) - 3D car detection competition on Kaggle : https://www.kaggle.com/c/pku-autonomous-driving/overview
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
