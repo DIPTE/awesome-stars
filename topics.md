@@ -549,6 +549,7 @@
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
+- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - OC_SORT implemented in C++ with Eigen Library
 - [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
@@ -1520,6 +1521,8 @@
 
 ## others 
 
+- [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
+- [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [tangtaogo/lidar-nerf](https://github.com/tangtaogo/lidar-nerf) - LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
@@ -1659,7 +1662,6 @@
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
 - [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
 - [i-v-s/strong-sort-cpp](https://github.com/i-v-s/strong-sort-cpp) - C++ implementation of the paper "StrongSORT: Make DeepSORT Great Again"
-- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - OC_SORT implemented in C++ with Eigen Library
 - [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
 - [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
 - [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
