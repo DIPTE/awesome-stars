@@ -1130,7 +1130,7 @@
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
 - [WWangYuHsiang/SMILEtrack](https://github.com/WWangYuHsiang/SMILEtrack) - 
-- [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Code for the Recognize Anything Model (RAM) and Tag2Text Model
+- [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong fundamental image recognition models.
 - [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
@@ -1320,7 +1320,6 @@
 - [JeffyCN/rockchip_mirrors](https://github.com/JeffyCN/rockchip_mirrors) - Mirrors of a few Rockchip BSP repositories, some others in https://github.com/JeffyCN/mirrors.
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi
 - [Y-pandaman/miivii_gmsl_camera](https://github.com/Y-pandaman/miivii_gmsl_camera) - 
-- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [zherlock030/YOLOv5_Torchscript](https://github.com/zherlock030/YOLOv5_Torchscript) - C++ code for running a yolov5s model.
 - [halostorm/PCAT_open_source](https://github.com/halostorm/PCAT_open_source) - PointCloud Annotation Tools, support to label object bound box, ground, lane and kerb
 - [KeeganRen/FaceReconstruction](https://github.com/KeeganRen/FaceReconstruction) - Facial Landmark Detection and head pose compute use dlib, Real time Face Reconstruction use 3D Morphable Face Model fitting
@@ -1340,6 +1339,7 @@
 
 ## Others 
 
+- [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -1479,6 +1479,7 @@
 - [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation) - Awesome Knowledge Distillation
 - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
 - [JMoonr/mmlane](https://github.com/JMoonr/mmlane) - multi-modal 3D Lane Detection
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [YiChenCityU/Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) - Track Advancement of SLAM 跟踪SLAM前沿动态【2021 version】業務調整，暫停更新
 - [guochengqian/Pix4Point](https://github.com/guochengqian/Pix4Point) - Official Repo for paper `Improving Standard Transformer Models for 3D Point Cloud Understanding with Image Pretraining`
 - [Xilinx/Vitis-AI-Tutorials](https://github.com/Xilinx/Vitis-AI-Tutorials) - 
@@ -1986,7 +1987,7 @@
 - [yevgm/DeepAdv3D](https://github.com/yevgm/DeepAdv3D) - 
 - [PointCloudYC/ResPointNet2](https://github.com/PointCloudYC/ResPointNet2) - ResPointNet++ for AutoCon journal paper.
 - [monster-ghost/MonoDistill](https://github.com/monster-ghost/MonoDistill) - 
-- [SamsungLabs/td3d](https://github.com/SamsungLabs/td3d) - TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation
+- [SamsungLabs/td3d](https://github.com/SamsungLabs/td3d) - [WACV'24] TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation
 - [mit-han-lab/mcunet](https://github.com/mit-han-lab/mcunet) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning
 - [TRI-ML/PF-Track](https://github.com/TRI-ML/PF-Track) - Implementation of PF-Track
 - [abencz/python_socketcan](https://github.com/abencz/python_socketcan) - 
