@@ -1702,7 +1702,7 @@
 - [pingyang1117/SMILEtrack_Official](https://github.com/pingyang1117/SMILEtrack_Official) - SMILEtrack: SiMIlarity LEarning for Occlusion-Aware Multiple Object Tracking
 - [WWangYuHsiang/SMILEtrack](https://github.com/WWangYuHsiang/SMILEtrack) - 
 - [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
-- [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Code for the Recognize Anything Model (RAM) and Tag2Text Model
+- [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong fundamental image recognition models.
 - [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
 - [qianqianwang68/omnimotion](https://github.com/qianqianwang68/omnimotion) - 
 - [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
@@ -4063,7 +4063,7 @@
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
 - [MaverickPeter/DiSCO-pytorch](https://github.com/MaverickPeter/DiSCO-pytorch) - Differentiable Scan Context with Orientation
-- [SamsungLabs/td3d](https://github.com/SamsungLabs/td3d) - TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation
+- [SamsungLabs/td3d](https://github.com/SamsungLabs/td3d) - [WACV'24] TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation
 - [mit-han-lab/mcunet](https://github.com/mit-han-lab/mcunet) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning
 - [threedle/text2mesh](https://github.com/threedle/text2mesh) - 3D mesh stylization driven by a text input in PyTorch
 - [ajhamdi/mvtorch](https://github.com/ajhamdi/mvtorch) - a Pytorch library for multi-view 3D understanding and generation
