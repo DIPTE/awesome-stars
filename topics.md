@@ -231,6 +231,7 @@
 
 ## android 
 
+- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
@@ -301,6 +302,7 @@
 
 ## awesome-list 
 
+- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [Little-Podi/Transformer_Tracking](https://github.com/Little-Podi/Transformer_Tracking) - This repository is a paper digest of Transformer-related approaches in visual tracking tasks.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
@@ -1530,6 +1532,8 @@
 
 ## others 
 
+- [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
+- [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code)
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
@@ -1650,7 +1654,7 @@
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - 
-- [Alwaysssssss/nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework back
+- [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) - nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework back
 - [jypjypjypjyp/OccupancyDETR](https://github.com/jypjypjypjyp/OccupancyDETR) - OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection
 - [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
@@ -1724,7 +1728,7 @@
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [vinits5/pcrnet_pytorch](https://github.com/vinits5/pcrnet_pytorch) - This is a pytorch implementation of PCRNet
-- [caizhongang/SMPLer-X](https://github.com/caizhongang/SMPLer-X) - 
+- [caizhongang/SMPLer-X](https://github.com/caizhongang/SMPLer-X) - Official Code for "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
 - [OpenCalib/SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) - 
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
@@ -4039,6 +4043,7 @@
 
 ## pytorch 
 
+- [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Ensemble Pipeline Serving for Pytorch/Libtorch Frontend
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
