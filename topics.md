@@ -32,7 +32,6 @@
 - [data](#data)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
-- [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [docker](#docker)
@@ -339,6 +338,7 @@
 
 ## c 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256K
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书单列表整理
@@ -352,7 +352,7 @@
 ## chatgpt 
 
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
-- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com
+- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 nwaysir@163.com
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -455,7 +455,6 @@
 - [manila95/monolayout](https://github.com/manila95/monolayout) - MonoLayout: Amodal Scene Layout from a single image
 - [Avinash2468/RackLay](https://github.com/Avinash2468/RackLay) - RackLay: Monocular Multi-Layered Layout Estimation for Warehouses with Sim2Real Transfer
 - [skhadem/3D-BoundingBox](https://github.com/skhadem/3D-BoundingBox) - PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry
-- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and rlhf tools are supported!
 - [LZBUAV/K210](https://github.com/LZBUAV/K210) - Kendryte K210人工智能芯片应用程序集合，包括人脸检测、颜色检测、目标检测和分类、二维码和Apriltag代码检测以及和ArduPilot飞控软件的通信。这些应用程序已部署到无人机终端。This repository is a collection of applications for the Kendryte K210 AI chip which include face detec
 - [noahcao/OC_SORT](https://github.com/noahcao/OC_SORT) - [CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
@@ -551,6 +550,7 @@
 
 ## cpp 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
@@ -651,10 +651,6 @@
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
 
-## data-visualization 
-
-- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and rlhf tools are supported!
-
 ## deep-learning 
 
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
@@ -678,7 +674,7 @@
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
 - [rui-qian/BADet](https://github.com/rui-qian/BADet) - Rui Qian, Xin Lai, Xirong Li: BADet: Boundary-Aware 3D Object Detection from Point Clouds (Pattern Recognition 2022: IF=8.518)
-- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com
+- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 nwaysir@163.com
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [Turoad/lanedet](https://github.com/Turoad/lanedet) - An open source lane detection toolbox based on PyTorch, including SCNN, RESA, UFLD, LaneATT, CondLane, etc.
@@ -1201,6 +1197,7 @@
 
 ## linux 
 
+- [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1269,7 +1266,7 @@
 - [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
-- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and rlhf tools are supported!
+- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and RLHF tools are supported!
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
@@ -1348,6 +1345,7 @@
 
 ## macos 
 
+- [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [elitechrome/ros2_pcan](https://github.com/elitechrome/ros2_pcan) - ROS2 PCAN Driver for MacOSX
@@ -1532,6 +1530,9 @@
 
 ## others 
 
+- [Cambricon/easydk](https://github.com/Cambricon/easydk) - easy development kit
+- [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
+- [GreyZhang/g_s32k144](https://github.com/GreyZhang/g_s32k144) - learning records about S32K144 MCU (FreeRTOS, UART, CAN, SPI, PIT, FreeMaster, RTC, GPS, DMA, WatchDog、J1939、UDS、XCP、CCP)
 - [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
 - [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
@@ -1696,7 +1697,7 @@
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM2)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM)
 - [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - The first LVLM based IAD method!
@@ -3913,6 +3914,8 @@
 
 ## package-manager 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+- [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) - Recipes for the ConanCenter repository
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 
@@ -3922,6 +3925,7 @@
 
 ## python 
 
+- [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [MissiaL/hikvision-client](https://github.com/MissiaL/hikvision-client) - Client for Hikvision devices
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
@@ -4295,6 +4299,7 @@
 
 ## qt 
 
+- [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [dependon/simple-image-filter](https://github.com/dependon/simple-image-filter) - Qt,filter,图像处理,image process
 - [industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588](https://github.com/industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588) - This is the documentation for RK3566 RK3568 RK3588 Tablet and miniPC products
 - [huolu1987/Qt-study](https://github.com/huolu1987/Qt-study) - Qt study  学习资料，官方示例深扒目前包含：地址薄管理，串口工具
@@ -4497,6 +4502,7 @@
 
 ## terminal 
 
+- [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -4543,6 +4549,7 @@
 
 ## windows 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [SonwYang/YoloX-TensorRT-webcam](https://github.com/SonwYang/YoloX-TensorRT-webcam) - 
