@@ -14,6 +14,7 @@
 - [CMake](#cmake)
 - [Common Lisp](#common-lisp)
 - [Cuda](#cuda)
+- [Cython](#cython)
 - [D](#d)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
@@ -73,6 +74,7 @@
 
 ## C 
 
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [GreyZhang/g_s32k144](https://github.com/GreyZhang/g_s32k144) - learning records about S32K144 MCU (FreeRTOS, UART, CAN, SPI, PIT, FreeMaster, RTC, GPS, DMA, WatchDog、J1939、UDS、XCP、CCP)
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
@@ -201,7 +203,6 @@
 
 ## C# # 
 
-- [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerator
@@ -213,6 +214,15 @@
 
 ## C++ 
 
+- [Tencent/libco](https://github.com/Tencent/libco) - libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
+- [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
+- [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11
+- [YukangLiu/netco](https://github.com/YukangLiu/netco) - A lightweight c++11 symetric coroutine library which can be used for network programming.
+- [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
+- [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [Cambricon/easydk](https://github.com/Cambricon/easydk) - easy development kit
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
@@ -871,7 +881,7 @@
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Kitware/LidarView](https://github.com/Kitware/LidarView) - LidarView performs real-time reception, recording, visualization and processing of 3D LiDAR data. This repository is a mirror of https://gitlab.kitware.com/LidarView/lidarview.
 - [tudelft-iv/multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration) - 
-- [epan-utbm/efficient_online_learning](https://github.com/epan-utbm/efficient_online_learning) - Efficient Online Transfer Learning for 3D Object Detection in Autonomous Driving
+- [RuiYang-1010/efficient_online_learning](https://github.com/RuiYang-1010/efficient_online_learning) - Efficient Online Transfer Learning for 3D Object Detection in Autonomous Driving
 - [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5n,s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it.
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference application
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -1022,6 +1032,10 @@
 - [lijx10/KNN_CUDA](https://github.com/lijx10/KNN_CUDA) - pytorch knn [cuda version]
 - [EnyaHermite/psicnn](https://github.com/EnyaHermite/psicnn) - Octree guided cnn with spherical kernels for 3D point clouds
 
+## Cython 
+
+- [strawlab/python-pcl](https://github.com/strawlab/python-pcl) - Python bindings to the pointcloud library (pcl)
+
 ## D 
 
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
@@ -1057,13 +1071,13 @@
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، ا
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## HTML 
 
 - [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
 - [cgye96/3dfsl.github.io](https://github.com/cgye96/3dfsl.github.io) - project page of few-shot learning for 3d point cloud classification
@@ -1101,8 +1115,8 @@
 
 ## JavaScript 
 
+- [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
-- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [OpenMask3D/openmask3d.github.io](https://github.com/OpenMask3D/openmask3d.github.io) - 
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -1346,6 +1360,7 @@
 
 ## Others 
 
+- [creapunk/CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
@@ -1574,6 +1589,7 @@
 
 ## Python 
 
+- [waymo-research/waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code)
@@ -2416,7 +2432,7 @@
 - [Tsinghua-MARS-Lab/DenseTNT](https://github.com/Tsinghua-MARS-Lab/DenseTNT) - 
 - [openvinotoolkit/open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
 - [DerrickXuNu/v2x-vit](https://github.com/DerrickXuNu/v2x-vit) - [ECCV2022] Official Implementation of  paper "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer"
-- [MCG-NJU/CamLiFlow](https://github.com/MCG-NJU/CamLiFlow) - [CVPR 2022 Oral & arXiv 2023] Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion
+- [MCG-NJU/CamLiFlow](https://github.com/MCG-NJU/CamLiFlow) - [CVPR 2022 Oral & TPAMI 2023] Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion
 - [haotian-liu/yolact_edge](https://github.com/haotian-liu/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
 - [hpc203/yolact-opencv-dnn-cpp-python](https://github.com/hpc203/yolact-opencv-dnn-cpp-python) - 使用opencv部署yolact实例分割，包含C++和Python两种版本的程序
 - [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
@@ -3247,7 +3263,6 @@
 - [KermMartian/SparseWorld](https://github.com/KermMartian/SparseWorld) - A project to automate the decomposition of Google Earth models (and others) into LDraw and Minecraft friendly representations
 - [LihangLiu/3d-colorization](https://github.com/LihangLiu/3d-colorization) - 
 - [Thinklab-SJTU/ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch) - A research protocol for deep graph matching.
-- [strawlab/python-pcl](https://github.com/strawlab/python-pcl) - Python bindings to the pointcloud library (pcl)
 - [Prarthana1116/OBJ-PCD-File-Conversion-using-PCD](https://github.com/Prarthana1116/OBJ-PCD-File-Conversion-using-PCD) - Conversion of OBJ file to PCD file using Point Cloud Library.
 - [iMoonLab/HGNN](https://github.com/iMoonLab/HGNN) - Hypergraph Neural Networks (AAAI 2019)
 - [galihgilang/Map3D](https://github.com/galihgilang/Map3D) - 3D shapes matching implementation, based on "Functional Maps: A Flexible Representation of Maps Between Shapes" [Ovsjanikov et al 2012]
