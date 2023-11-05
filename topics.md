@@ -112,9 +112,11 @@
 - [shell](#shell)
 - [spring](#spring)
 - [springboot](#springboot)
+- [sql](#sql)
 - [svelte](#svelte)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [testing](#testing)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unreal-engine](#unreal-engine)
@@ -123,6 +125,7 @@
 - [vue](#vue)
 - [web](#web)
 - [windows](#windows)
+- [xml](#xml)
 
 ## 3d 
 
@@ -338,6 +341,7 @@
 
 ## c 
 
+- [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256K
@@ -550,6 +554,8 @@
 
 ## cpp 
 
+- [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
@@ -849,7 +855,7 @@
 - [enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects) - computer vision projects |  计算机视觉相关好玩的AI项目（Python、C++）
 - [Xharlie/BtcDet](https://github.com/Xharlie/BtcDet) - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection
 - [HuangCongQing/3D-Point-Clouds](https://github.com/HuangCongQing/3D-Point-Clouds) - 🔥3D点云目标检测&语义分割(深度学习)-SOTA方法,代码,论文,数据集等
-- [epan-utbm/efficient_online_learning](https://github.com/epan-utbm/efficient_online_learning) - Efficient Online Transfer Learning for 3D Object Detection in Autonomous Driving
+- [RuiYang-1010/efficient_online_learning](https://github.com/RuiYang-1010/efficient_online_learning) - Efficient Online Transfer Learning for 3D Object Detection in Autonomous Driving
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference application
 - [rayguan97/M3DETR](https://github.com/rayguan97/M3DETR) - Code base for M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers
 - [digantamisra98/Mish](https://github.com/digantamisra98/Mish) - Official Repository for "Mish: A Self Regularized Non-Monotonic Neural Activation Function" [BMVC 2020]
@@ -1015,6 +1021,7 @@
 
 ## framework 
 
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [CodingHanYa/workspace](https://github.com/CodingHanYa/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -1040,7 +1047,6 @@
 ## github 
 
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
-- [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -1060,7 +1066,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [all-in-simplicity/openresty-rtmp-ffmpeg-api](https://github.com/all-in-simplicity/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 
 ## good-first-issue 
 
@@ -1165,6 +1170,7 @@
 
 ## json 
 
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 
@@ -1189,6 +1195,7 @@
 
 ## library 
 
+- [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
 - [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
@@ -1530,6 +1537,15 @@
 
 ## others 
 
+- [creapunk/CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
+- [Tencent/libco](https://github.com/Tencent/libco) - libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
+- [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11
+- [YukangLiu/netco](https://github.com/YukangLiu/netco) - A lightweight c++11 symetric coroutine library which can be used for network programming.
+- [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
+- [waymo-research/waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
+- [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [Cambricon/easydk](https://github.com/Cambricon/easydk) - easy development kit
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [GreyZhang/g_s32k144](https://github.com/GreyZhang/g_s32k144) - learning records about S32K144 MCU (FreeRTOS, UART, CAN, SPI, PIT, FreeMaster, RTC, GPS, DMA, WatchDog、J1939、UDS、XCP、CCP)
@@ -2936,7 +2952,7 @@
 - [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
 - [pointpillars-on-openvino/pointpillars-on-openvino](https://github.com/pointpillars-on-openvino/pointpillars-on-openvino) - 
 - [openvinotoolkit/open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
-- [MCG-NJU/CamLiFlow](https://github.com/MCG-NJU/CamLiFlow) - [CVPR 2022 Oral & arXiv 2023] Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion
+- [MCG-NJU/CamLiFlow](https://github.com/MCG-NJU/CamLiFlow) - [CVPR 2022 Oral & TPAMI 2023] Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion
 - [AgentMaker/PAPC](https://github.com/AgentMaker/PAPC) - PAPC is a deep learning for point clouds platform based on pure PaddlePaddle
 - [tyagi-iiitv/PointPillars](https://github.com/tyagi-iiitv/PointPillars) - 
 - [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
@@ -4421,6 +4437,10 @@
 
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.  Support monitoring web, database, os, middleware, cloudnative, network and more.
 
+## sql 
+
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+
 ## svelte 
 
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
@@ -4507,6 +4527,10 @@
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
+## testing 
+
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+
 ## typescript 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -4557,6 +4581,10 @@
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [conansherry/detectron2](https://github.com/conansherry/detectron2) - detectron2 windows build
 - [fo40225/tensorflow-windows-wheel](https://github.com/fo40225/tensorflow-windows-wheel) - Tensorflow prebuilt binary for Windows
+
+## xml 
+
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 
 
 ## License
