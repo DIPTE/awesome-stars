@@ -2803,7 +2803,7 @@
 - [ImmortalTracker/ImmortalTracker](https://github.com/ImmortalTracker/ImmortalTracker) - 
 - [hailanyi/CasA](https://github.com/hailanyi/CasA) - A Cascade Attention Network for 3D Object Detection from LiDAR point clouds
 - [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
-- [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - Awesome BEV perception research and cookbook for all level audience in autonomous diriving
+- [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - [IEEE T-PAMI] Awesome BEV perception research and cookbook for all level audience in autonomous diriving
 - [whai362/PVT](https://github.com/whai362/PVT) - Official implementation of PVT series
 - [szq0214/SReT](https://github.com/szq0214/SReT) - Official PyTorch implementation of our ECCV 2022 paper "Sliced Recursive Transformer"
 - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) - :zap: Based on yolo's ultra-lightweight universal target detection algorithm, the calculation amount is only 250mflops, the ncnn model size is only 666kb, the Raspberry Pi 3b can run up to 15fps+, and
