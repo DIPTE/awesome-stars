@@ -1403,7 +1403,6 @@
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
 - [lxtGH/Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - Transformer-Based Visual Segmentation: A Survey
 - [jinlong17/V2VLC](https://github.com/jinlong17/V2VLC) - 
-- [AllenXiangX/Retro-FPN](https://github.com/AllenXiangX/Retro-FPN) - Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation (ICCV 2023)
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [jiaweihe1996/BA-Det](https://github.com/jiaweihe1996/BA-Det) - (CVPR 2023) Official PyTorch implementation of the paper: 3D Video Object Detection with Learnable Object-Centric Global Optimization.
 - [Robertwyq/Frustum](https://github.com/Robertwyq/Frustum) - [CVPR 2023] FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection
@@ -1743,6 +1742,7 @@
 - [DerrickXuNu/MPDA](https://github.com/DerrickXuNu/MPDA) - [ICRA2023] The official implementation of paper "Bridging the Domain Gap for Multi-Agent Perception"
 - [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - PCSim: LiDAR Point Cloud Simulation and Sensor Placement! Code of [ICRA 2023] "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" and [ICCV 2023] "Optimizing the Placeme
 - [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023]CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
+- [AllenXiangX/Retro-FPN](https://github.com/AllenXiangX/Retro-FPN) - Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation (ICCV 2023)
 - [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI (2023), "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
 - [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
 - [Sense-X/HoP](https://github.com/Sense-X/HoP) - [ICCV 2023] Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction
@@ -2332,7 +2332,7 @@
 - [ImmortalTracker/ImmortalTracker](https://github.com/ImmortalTracker/ImmortalTracker) - 
 - [hailanyi/CasA](https://github.com/hailanyi/CasA) - A Cascade Attention Network for 3D Object Detection from LiDAR point clouds
 - [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
-- [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - Awesome BEV perception research and cookbook for all level audience in autonomous diriving
+- [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - [IEEE T-PAMI] Awesome BEV perception research and cookbook for all level audience in autonomous diriving
 - [whai362/PVT](https://github.com/whai362/PVT) - Official implementation of PVT series
 - [szq0214/SReT](https://github.com/szq0214/SReT) - Official PyTorch implementation of our ECCV 2022 paper "Sliced Recursive Transformer"
 - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) - :zap: A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is
