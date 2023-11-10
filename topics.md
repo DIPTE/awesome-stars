@@ -4177,7 +4177,7 @@
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [Megvii-BaseDetection/cvpods](https://github.com/Megvii-BaseDetection/cvpods) - All-in-one Toolbox for Computer Vision Research.
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
-- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23] TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs.    [MLSys'22] TorchSparse: Efficient Point Cloud Inference Engine.
+- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
 - [haibo-qiu/GFNet](https://github.com/haibo-qiu/GFNet) - [TMLR 2022] Geometric Flow Network for 3D Point Cloud Semantic Segmentation
 - [yanx27/2DPASS](https://github.com/yanx27/2DPASS) - 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (ECCV 2022) :fire:
 - [TRI-ML/dd3d](https://github.com/TRI-ML/dd3d) - Official PyTorch implementation of DD3D: Is Pseudo-Lidar needed for Monocular 3D Object detection? (ICCV 2021), Dennis Park*, Rares Ambrus*, Vitor Guizilini, Jie Li, and Adrien Gaidon.
@@ -4415,6 +4415,7 @@
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [PaoPaoRobot/ICRA2020-paper-list](https://github.com/PaoPaoRobot/ICRA2020-paper-list) - ICRA2020 paperlist by paopaorobot
 - [MIT-SPARK/TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus) - A fast and robust point cloud registration library
+- [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
 - [facebookresearch/votenet](https://github.com/facebookresearch/votenet) - Deep Hough Voting for 3D Object Detection in Point Clouds
 - [charlesq34/frustum-pointnets](https://github.com/charlesq34/frustum-pointnets) - Frustum PointNets for 3D Object Detection from RGB-D Data
 - [roboticslab-uc3m/textiles](https://github.com/roboticslab-uc3m/textiles) - Research on algorithms for garment perception, manipulation...
