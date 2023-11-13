@@ -1554,6 +1554,7 @@
 
 ## others 
 
+- [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection) - 
 - [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [MRwangmaomao/semantic_slam_nav_ros](https://github.com/MRwangmaomao/semantic_slam_nav_ros) - 针对带有RGBD相机的服务机器人，物流机器人等。具有：语义地图构建、定位导航、三维重构、重定位、动态物体识别、移动避障、手势识别、人脸识别、语音合成与识别等功能
@@ -2007,7 +2008,7 @@
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [jzhang538/PointCert](https://github.com/jzhang538/PointCert) - [CVPR 2023] "PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees": official code implementation.
 - [PJLab-ADG/3DTrans](https://github.com/PJLab-ADG/3DTrans) - An open-source codebase for exploring autonomous driving pre-training
-- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - 🔥The official implementation of SLAMesh.
+- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - The official implementation of SLAMesh.
 - [hujiecpp/YOSO](https://github.com/hujiecpp/YOSO) - Code release for paper "You Only Segment Once: Towards Real-Time Panoptic Segmentation" [CVPR 2023]
 - [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR 2023] Towards Any Structural Pruning; LLMs /  Diffusion / Transformers / YOLOv8 / CNNs
 - [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt
