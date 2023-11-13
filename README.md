@@ -361,7 +361,7 @@
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
-- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - 🔥The official implementation of SLAMesh.
+- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - The official implementation of SLAMesh.
 - [UMich-BipedLab/LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - This is a package for LiDARTag, described in paper: LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
 - [RemoteSensingFrank/LidarProc](https://github.com/RemoteSensingFrank/LidarProc) - 激光点云处理工具，集成Cesium与Potree实现在线点云查看和处理
 - [mguentner/cannelloni](https://github.com/mguentner/cannelloni) - a SocketCAN over Ethernet tunnel
@@ -1364,6 +1364,7 @@
 
 ## Others 
 
+- [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection) - 
 - [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
 - [creapunk/CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
