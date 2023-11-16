@@ -215,6 +215,8 @@
 
 ## C++ 
 
+- [l-sf/Linfer](https://github.com/l-sf/Linfer) - 基于TensorRT的C++高性能推理库，YOLOP，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
+- [shenlan2017/Apollo_ShenLan](https://github.com/shenlan2017/Apollo_ShenLan) - 
 - [ramitix/Car_lane_sign_detection](https://github.com/ramitix/Car_lane_sign_detection) - 
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [MRwangmaomao/semantic_slam_nav_ros](https://github.com/MRwangmaomao/semantic_slam_nav_ros) - 针对带有RGBD相机的服务机器人，物流机器人等。具有：语义地图构建、定位导航、三维重构、重定位、动态物体识别、移动避障、手势识别、人脸识别、语音合成与识别等功能
@@ -717,6 +719,7 @@
 - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) - 用c++实现了yolov5使用openvino的部署
 - [OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
 - [AI-OP/image-classifier](https://github.com/AI-OP/image-classifier) - Image classifier to help TensorFlow Lite C++ API usage with Bazel.
+- [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [isl-org/open3d-cmake-find-package](https://github.com/isl-org/open3d-cmake-find-package) - Find pre-installed Open3D package in CMake
 - [NVIDIA-AI-IOT/deepstream_parallel_inference_app](https://github.com/NVIDIA-AI-IOT/deepstream_parallel_inference_app) - A project demonstrating how to use nvmetamux to run multiple models in parallel.
 - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson
@@ -1093,7 +1096,6 @@
 - [ros-planning/moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [zhukao/AI-EXPRESS](https://github.com/zhukao/AI-EXPRESS) - 
-- [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [Ghostish/MM-Track](https://github.com/Ghostish/MM-Track) - The project page of MMTrack (CVPR2022 ORAL)
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [ADu2021/REKCARC-TSC-UHT](https://github.com/ADu2021/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
@@ -1367,6 +1369,7 @@
 
 ## Others 
 
+- [achao-c/MMFusion](https://github.com/achao-c/MMFusion) - The official implementation of MMFusion.
 - [youw3/AI-Algorithm-Engineer-s-Manual](https://github.com/youw3/AI-Algorithm-Engineer-s-Manual) - AI算法工程师手册  作者网站http://www.huaxiaozhuan.com/
 - [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection) - 
 - [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
@@ -1597,6 +1600,9 @@
 
 ## Python 
 
+- [MCG-NJU/MeMOTR](https://github.com/MCG-NJU/MeMOTR) - [ICCV 2023] MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking
+- [HariPrasanth-SM/Vision-Fusion-Early-Fusion](https://github.com/HariPrasanth-SM/Vision-Fusion-Early-Fusion) - In this project, the camera and LiDAR data are fused by early sensor fusion technique
+- [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a next generation of 3D AI service production system.
 - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo v5, v7, v8 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your
 - [autodistill/autodistill-gpt-4v](https://github.com/autodistill/autodistill-gpt-4v) - GPT-4V(ision) module for use with Autodistill.
 - [autodistill/autodistill-segment-anything](https://github.com/autodistill/autodistill-segment-anything) - Use Segment Anything to identify objects in an image.
