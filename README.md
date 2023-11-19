@@ -215,6 +215,15 @@
 
 ## C++ 
 
+- [yangjiaolong/Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
+- [isl-org/FastGlobalRegistration](https://github.com/isl-org/FastGlobalRegistration) - Fast Global Registration
+- [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
+- [norlab-ulaval/libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher) - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics
+- [norlab-ulaval/libnabo](https://github.com/norlab-ulaval/libnabo) - A fast K Nearest Neighbor library for low-dimensional spaces
+- [nmellado/Super4PCS](https://github.com/nmellado/Super4PCS) - Efficient Global Point-cloud registration
+- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
+- [zhangpanyi/a-star-algorithm](https://github.com/zhangpanyi/a-star-algorithm) - C++实现的高效A*算法
+- [YuYuCong/Astar](https://github.com/YuYuCong/Astar) - 机器人路径规划A*算法
 - [l-sf/Linfer](https://github.com/l-sf/Linfer) - 基于TensorRT的C++高性能推理库，YOLOP，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
 - [shenlan2017/Apollo_ShenLan](https://github.com/shenlan2017/Apollo_ShenLan) - 
 - [ramitix/Car_lane_sign_detection](https://github.com/ramitix/Car_lane_sign_detection) - 
@@ -522,7 +531,7 @@
 - [PolySync/oscc](https://github.com/PolySync/oscc) - Open Source Car Control 💻🚗🙌
 - [OpenCalib/JointCalib](https://github.com/OpenCalib/JointCalib) - 
 - [OpenCalib/LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS) - 
-- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB
+- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3
 - [victorbadenas/SimpleOnnxInference](https://github.com/victorbadenas/SimpleOnnxInference) - A simple c++ onnx application for inferencing images
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
 - [dog-qiuqiu/simple-rknn2](https://github.com/dog-qiuqiu/simple-rknn2) - The rknn2 API uses the secondary encapsulation of the process, which is easy for everyone to call. It is applicable to rk356x rk3588
@@ -1016,6 +1025,8 @@
 
 ## Cuda 
 
+- [dkotfis/Octree-SLAM](https://github.com/dkotfis/Octree-SLAM) - Large octree map construction and rendering with CUDA and OpenGL
+- [HKUST-Aerial-Robotics/open_quadtree_mapping](https://github.com/HKUST-Aerial-Robotics/open_quadtree_mapping) - This is a monocular dense mapping system corresponding to IROS 2018 "Quadtree-accelerated Real-time Monocular Dense Mapping"
 - [sankin97/HMFI](https://github.com/sankin97/HMFI) - [ECCV2022] Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection
 - [botforge/CUDA-ScanMatcher-ICP](https://github.com/botforge/CUDA-ScanMatcher-ICP) - A high performance CUDA implementation of Scan Matching via the Iterative Closest Point Algorithm
 - [aosewski/RidgeDetection](https://github.com/aosewski/RidgeDetection) - Parallel implementation of the ridge detection algorithm for curve reconstruction in CUDA
@@ -1152,6 +1163,8 @@
 
 ## Jupyter Notebook 
 
+- [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
+- [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
 - [hady1011/OrthoNets](https://github.com/hady1011/OrthoNets) - Orthogonal Channel Attentions Networks
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [zhangyeyan/360-Surround-View-CUDA-Project](https://github.com/zhangyeyan/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
@@ -1347,6 +1360,7 @@
 
 ## Makefile 
 
+- [isongxw/Qt-VTK-Demo](https://github.com/isongxw/Qt-VTK-Demo) - 
 - [JeffyCN/rockchip_mirrors](https://github.com/JeffyCN/rockchip_mirrors) - Mirrors of a few Rockchip BSP repositories, some others in https://github.com/JeffyCN/mirrors.
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi
 - [Y-pandaman/miivii_gmsl_camera](https://github.com/Y-pandaman/miivii_gmsl_camera) - 
@@ -1369,6 +1383,8 @@
 
 ## Others 
 
+- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
+- [autodriving-heart/Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) - Awesome-BEV-Perception
 - [achao-c/MMFusion](https://github.com/achao-c/MMFusion) - The official implementation of MMFusion.
 - [youw3/AI-Algorithm-Engineer-s-Manual](https://github.com/youw3/AI-Algorithm-Engineer-s-Manual) - AI算法工程师手册  作者网站http://www.huaxiaozhuan.com/
 - [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection) - 
@@ -1600,6 +1616,10 @@
 
 ## Python 
 
+- [huapohen/general_parking_slot_detection](https://github.com/huapohen/general_parking_slot_detection) - 
+- [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
+- [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [chiyukunpeng/nuscenes_viz](https://github.com/chiyukunpeng/nuscenes_viz) - visualize datasets like nuscenes
 - [MCG-NJU/MeMOTR](https://github.com/MCG-NJU/MeMOTR) - [ICCV 2023] MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking
 - [HariPrasanth-SM/Vision-Fusion-Early-Fusion](https://github.com/HariPrasanth-SM/Vision-Fusion-Early-Fusion) - In this project, the camera and LiDAR data are fused by early sensor fusion technique
 - [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a next generation of 3D AI service production system.
