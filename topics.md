@@ -33,6 +33,7 @@
 - [data](#data)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [docker](#docker)
@@ -227,6 +228,7 @@
 
 ## algorithm 
 
+- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 - [Morwenn/cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -349,6 +351,7 @@
 
 ## c 
 
+- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -567,6 +570,7 @@
 
 ## cpp 
 
+- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -666,11 +670,16 @@
 
 ## data-structures 
 
+- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
+
+## database 
+
+- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 
 ## deep-learning 
 
@@ -1555,10 +1564,33 @@
 
 ## operating-system 
 
+- [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
 
 ## others 
 
+- [isongxw/Qt-VTK-Demo](https://github.com/isongxw/Qt-VTK-Demo) - 
+- [dkotfis/Octree-SLAM](https://github.com/dkotfis/Octree-SLAM) - Large octree map construction and rendering with CUDA and OpenGL
+- [yangjiaolong/Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
+- [isl-org/FastGlobalRegistration](https://github.com/isl-org/FastGlobalRegistration) - Fast Global Registration
+- [norlab-ulaval/libnabo](https://github.com/norlab-ulaval/libnabo) - A fast K Nearest Neighbor library for low-dimensional spaces
+- [nmellado/Super4PCS](https://github.com/nmellado/Super4PCS) - Efficient Global Point-cloud registration
+- [huapohen/general_parking_slot_detection](https://github.com/huapohen/general_parking_slot_detection) - 
+- [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
+- [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
+- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
+- [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [zhangpanyi/a-star-algorithm](https://github.com/zhangpanyi/a-star-algorithm) - C++实现的高效A*算法
+- [YuYuCong/Astar](https://github.com/YuYuCong/Astar) - 机器人路径规划A*算法
+- [autodriving-heart/Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) - Awesome-BEV-Perception
+- [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
+- [chiyukunpeng/nuscenes_viz](https://github.com/chiyukunpeng/nuscenes_viz) - visualize datasets like nuscenes
+- [MCG-NJU/MeMOTR](https://github.com/MCG-NJU/MeMOTR) - [ICCV 2023] MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking
+- [achao-c/MMFusion](https://github.com/achao-c/MMFusion) - The official implementation of MMFusion.
+- [l-sf/Linfer](https://github.com/l-sf/Linfer) - 基于TensorRT的C++高性能推理库，YOLOP，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
+- [HariPrasanth-SM/Vision-Fusion-Early-Fusion](https://github.com/HariPrasanth-SM/Vision-Fusion-Early-Fusion) - In this project, the camera and LiDAR data are fused by early sensor fusion technique
+- [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a next generation of 3D AI service production system.
+- [shenlan2017/Apollo_ShenLan](https://github.com/shenlan2017/Apollo_ShenLan) - 
 - [NVlabs/M2BEV](https://github.com/NVlabs/M2BEV) - 
 - [hady1011/OrthoNets](https://github.com/hady1011/OrthoNets) - Orthogonal Channel Attentions Networks
 - [autodistill/autodistill-segment-anything](https://github.com/autodistill/autodistill-segment-anything) - Use Segment Anything to identify objects in an image.
@@ -2420,7 +2452,7 @@
 - [OpenCalib/JointCalib](https://github.com/OpenCalib/JointCalib) - 
 - [OpenCalib/LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS) - 
 - [Francklin2/RTKLIB_Touchscreen_GUI](https://github.com/Francklin2/RTKLIB_Touchscreen_GUI) - RTKLIB GUI for Raspberry Pi with  touchscreen made with Qt by the ENSG students
-- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB
+- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3
 - [libing64/learning_rtklib](https://github.com/libing64/learning_rtklib) - 
 - [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
 - [maudzung/YOLO3D-YOLOv4-PyTorch](https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch) - YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud (ECCV 2018)
@@ -4397,6 +4429,9 @@
 
 ## robotics 
 
+- [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
+- [norlab-ulaval/libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher) - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics
+- [HKUST-Aerial-Robotics/open_quadtree_mapping](https://github.com/HKUST-Aerial-Robotics/open_quadtree_mapping) - This is a monocular dense mapping system corresponding to IROS 2018 "Quadtree-accelerated Real-time Monocular Dense Mapping"
 - [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
 - [JunaidCS032/MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels) - Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018)
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
@@ -4579,6 +4614,7 @@
 
 ## ubuntu 
 
+- [norlab-ulaval/libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher) - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [industrialtablet/RK3588-Development-Board](https://github.com/industrialtablet/RK3588-Development-Board) - This repository is RK3588 Development Board Documents from HYY Technology Co.,Ltd.
