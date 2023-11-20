@@ -204,6 +204,7 @@
 
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
