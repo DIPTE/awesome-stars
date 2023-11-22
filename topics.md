@@ -433,6 +433,7 @@
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
+- [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [mkang315/RCS-YOLO](https://github.com/mkang315/RCS-YOLO) - Official implementation of "RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection".
 - [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
@@ -1570,6 +1571,8 @@
 
 ## others 
 
+- [Green-bms/SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
+- [l-sf/Track-trt](https://github.com/l-sf/Track-trt) - 基于 TensorRT 的 C++ 高性能单目标跟踪推理，支持算法OSTrack、LightTrack。
 - [isongxw/Qt-VTK-Demo](https://github.com/isongxw/Qt-VTK-Demo) - 
 - [dkotfis/Octree-SLAM](https://github.com/dkotfis/Octree-SLAM) - Large octree map construction and rendering with CUDA and OpenGL
 - [yangjiaolong/Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
@@ -1618,7 +1621,7 @@
 - [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
 - [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
-- [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code) 课程主页：http://111.229.117.200:7004/
+- [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code) 课程主页：http://111.229.117.200:7003/
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
@@ -1736,7 +1739,7 @@
 - [hpc203/picodet-onnxruntime](https://github.com/hpc203/picodet-onnxruntime) - 使用ONNXRuntime部署PicoDet目标检测，包含C++和Python两个版本的程序
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
-- [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - 
+- [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - Radar Camera Fusion in Autonomous Driving
 - [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) - nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework back
 - [jypjypjypjyp/OccupancyDETR](https://github.com/jypjypjypjyp/OccupancyDETR) - OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection
 - [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
@@ -1864,7 +1867,6 @@
 - [beauty-girl-cxy/rknn_yolov5_3588_bytetrack](https://github.com/beauty-girl-cxy/rknn_yolov5_3588_bytetrack) - 
 - [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - SAM3D: Segment Anything in 3D Scenes
 - [Pointcept/PointBLIP](https://github.com/Pointcept/PointBLIP) - PointBLIP: A Point Cloud Multi-modal model Embracing Diverse Data without Reliance on Image Domain
-- [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - 
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
 - [Caesar-github/gstreamer-rockchip](https://github.com/Caesar-github/gstreamer-rockchip) - The Gstreamer hardware encoder/decoder plugins for Rockchip platform
 - [BedRockJie/Rockchip_camera_encoder_Networkput](https://github.com/BedRockJie/Rockchip_camera_encoder_Networkput) - 
@@ -2190,7 +2192,7 @@
 - [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) - A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
 - [yinjunbo/SSDA3D](https://github.com/yinjunbo/SSDA3D) - Thie repo provides the official implementation of our AAAI-2023 paper “SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud”.
 - [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
-- [PJLab-ADG/PCSeg](https://github.com/PJLab-ADG/PCSeg) - PCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
+- [PJLab-ADG/OpenPCSeg](https://github.com/PJLab-ADG/OpenPCSeg) - PCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
 - [bytedance/byteir](https://github.com/bytedance/byteir) - ByteIR
 - [xingyuuchen/LIO-PPF](https://github.com/xingyuuchen/LIO-PPF) - [IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking
 - [hku-mars/ROG-Map](https://github.com/hku-mars/ROG-Map) - 
