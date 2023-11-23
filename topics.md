@@ -1571,6 +1571,8 @@
 
 ## others 
 
+- [ApolloAuto/apollo-model-centerpoint](https://github.com/ApolloAuto/apollo-model-centerpoint) - 
+- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [Green-bms/SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
 - [l-sf/Track-trt](https://github.com/l-sf/Track-trt) - 基于 TensorRT 的 C++ 高性能单目标跟踪推理，支持算法OSTrack、LightTrack。
 - [isongxw/Qt-VTK-Demo](https://github.com/isongxw/Qt-VTK-Demo) - 
@@ -2246,7 +2248,7 @@
 - [wz7in/CVPR2023-VLSAT](https://github.com/wz7in/CVPR2023-VLSAT) - CVPR2023 : VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud
 - [Tsinghua-MARS-Lab/Online-HD-Map-Construction-CVPR2023](https://github.com/Tsinghua-MARS-Lab/Online-HD-Map-Construction-CVPR2023) - Online HD Map Construction CVPR2023
 - [francisengelmann/fast_voxel_traversal](https://github.com/francisengelmann/fast_voxel_traversal) - Fast and simple voxel traversal algorithm through a 3D space partition.
-- [Jun-CEN/CMDFusion](https://github.com/Jun-CEN/CMDFusion) - CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation
+- [Jun-CEN/CMDFusion](https://github.com/Jun-CEN/CMDFusion) - [RA-L 2023] CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation
 - [Jun-CEN/PSL](https://github.com/Jun-CEN/PSL) - [CVPR 2023] Enlarge Instance-specific and Class-specific Information for Open-set Action Recognition
 - [slothfulxtx/cxtrack3d](https://github.com/slothfulxtx/cxtrack3d) - CXTrack:Improving 3D Point Cloud Tracking with Contextual Information (CVPR2023)
 - [ai4ce/DeepMapping2](https://github.com/ai4ce/DeepMapping2) - [CVPR2023] DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization
@@ -3929,7 +3931,6 @@
 - [mys007/ecc](https://github.com/mys007/ecc) - Edge-Conditioned Convolutions on Graphs
 - [blister1824/rename](https://github.com/blister1824/rename) - Single image to mesh reconstruction using a graph-based convolutional neural network
 - [meliketoy/graph-cnn.pytorch](https://github.com/meliketoy/graph-cnn.pytorch) - Pytorch Implementation for Graph Convolutional Neural Networks
-- [Daten1989/Mass-curve-skeleton-on-point-clouds](https://github.com/Daten1989/Mass-curve-skeleton-on-point-clouds) - 
 - [BichenWuUCB/SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
 - [xucao-42/pointnet_re](https://github.com/xucao-42/pointnet_re) - A tensorflow  re-implementation of pointnet.
 - [dwkegu/pyCharmProject](https://github.com/dwkegu/pyCharmProject) - 
