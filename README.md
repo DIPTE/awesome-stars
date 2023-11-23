@@ -1347,7 +1347,6 @@
 - [Shicoder/Non-rigid-3D-Object-Retrieval-with-a-Learned-Shape-Descriptor](https://github.com/Shicoder/Non-rigid-3D-Object-Retrieval-with-a-Learned-Shape-Descriptor) - 我的硕士论文“Non-rigid 3D Object Retrieval with a Learned Shape Descriptor”代码
 - [rlit/SupervisedBoF](https://github.com/rlit/SupervisedBoF) - Learn bag-of-feature descriptors for content based retrieval (not only for 3D shape)
 - [gilShamai/Fast-Pairwise-Geodesic-Distance-Computation](https://github.com/gilShamai/Fast-Pairwise-Geodesic-Distance-Computation) - Matlab code for a fast computation of pairwise geodesic distances on 3D triangle meshes, and on point clouds of any dimension
-- [Daten1989/Mass-curve-skeleton-on-point-clouds](https://github.com/Daten1989/Mass-curve-skeleton-on-point-clouds) - 
 - [ChunyuanLI/spectral_descriptors](https://github.com/ChunyuanLI/spectral_descriptors) - A collection of spectral descriptors for 3D meshed surfaces
 - [jhonykaesemodel/compact_3D_reconstruction](https://github.com/jhonykaesemodel/compact_3D_reconstruction) - Code for the paper "Compact Model Representation for 3D Reconstruction"
 - [eriche2016/utils_for_3d_research](https://github.com/eriche2016/utils_for_3d_research) - 
@@ -1473,7 +1472,6 @@
 - [luanshiyinyang/awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) - Resources for Multiple Object Tracking (MOT)
 - [JudasDie/Comparison](https://github.com/JudasDie/Comparison) - Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
 - [MohamedNagyMostafa/KITTI-MOT.Bench-Evals](https://github.com/MohamedNagyMostafa/KITTI-MOT.Bench-Evals) - KITTI evaluation results for multi-object tracking using detectors with different performance.
-- [Jun-CEN/CMDFusion](https://github.com/Jun-CEN/CMDFusion) - CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation
 - [ApoorvRoboticist/Transformers-Sensor-Fusion](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion) - This repo holds trending techniques for sensor fusion task using Transformers
 - [zlwq/-pdf](https://github.com/zlwq/-pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书单列表整理
@@ -1617,6 +1615,8 @@
 
 ## Python 
 
+- [ApolloAuto/apollo-model-centerpoint](https://github.com/ApolloAuto/apollo-model-centerpoint) - 
+- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [huapohen/general_parking_slot_detection](https://github.com/huapohen/general_parking_slot_detection) - 
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
@@ -2043,6 +2043,7 @@
 - [Tsinghua-MARS-Lab/Online-HD-Map-Construction-CVPR2023](https://github.com/Tsinghua-MARS-Lab/Online-HD-Map-Construction-CVPR2023) - Online HD Map Construction CVPR2023
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
 - [V2AI/EFG](https://github.com/V2AI/EFG) - An Efficient, Flexible, and General deep learning framework that retains minimal.
+- [Jun-CEN/CMDFusion](https://github.com/Jun-CEN/CMDFusion) - [RA-L 2023] CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation
 - [Jun-CEN/PSL](https://github.com/Jun-CEN/PSL) - [CVPR 2023] Enlarge Instance-specific and Class-specific Information for Open-set Action Recognition
 - [slothfulxtx/cxtrack3d](https://github.com/slothfulxtx/cxtrack3d) - CXTrack:Improving 3D Point Cloud Tracking with Contextual Information (CVPR2023)
 - [ai4ce/DeepMapping2](https://github.com/ai4ce/DeepMapping2) - [CVPR2023] DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization
