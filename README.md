@@ -1809,7 +1809,7 @@
 - [IRMVLab/RegFormer](https://github.com/IRMVLab/RegFormer) - [ICCV2023]RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 - [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - SAM3D: Segment Anything in 3D Scenes
-- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
+- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [Pointcept/PointBLIP](https://github.com/Pointcept/PointBLIP) - PointBLIP: A Point Cloud Multi-modal model Embracing Diverse Data without Reliance on Image Domain
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [NVIDIA/Deep-Learning-Accelerator-SW](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) - NVIDIA DLA-SW, the recipes and tools for running deep learning workloads on NVIDIA DLA cores for inference applications.
@@ -2014,7 +2014,7 @@
 - [JierunChen/FasterNet](https://github.com/JierunChen/FasterNet) - [CVPR 2023] Code for PConv and FasterNet
 - [yinjunbo/SSDA3D](https://github.com/yinjunbo/SSDA3D) - Thie repo provides the official implementation of our AAAI-2023 paper “SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud”.
 - [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
-- [PJLab-ADG/OpenPCSeg](https://github.com/PJLab-ADG/OpenPCSeg) - PCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
+- [PJLab-ADG/OpenPCSeg](https://github.com/PJLab-ADG/OpenPCSeg) - OpenPCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
 - [123zmz123/ZlgCanDriver](https://github.com/123zmz123/ZlgCanDriver) - 用于驱动周立功系列CAN卡的python 库 The zlg can driver writting by python
 - [FANG-MING/occupancy-for-nuscenes](https://github.com/FANG-MING/occupancy-for-nuscenes) - 3D occupancy
 - [NaNaoiSong/SemiPCDet](https://github.com/NaNaoiSong/SemiPCDet) - SemiPCDet is an integrated codebase for semi-sl and sl on LiDAR-based detectors. The project is built on OpenPCDet.
