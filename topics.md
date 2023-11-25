@@ -262,7 +262,7 @@
 - [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch
 - [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
-- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
+- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -717,7 +717,7 @@
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [aydnzn/Enhancing-LiDAR-based-3D-Object-Detection](https://github.com/aydnzn/Enhancing-LiDAR-based-3D-Object-Detection) - This repository contains a Master's Thesis on enhancing LiDAR-based 3D Object Detection in autonomous vehicles using synthetic data. The research explores the use of the Ansys AVxcelerate Sensors Simu
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
-- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
+- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [mkang315/RCS-YOLO](https://github.com/mkang315/RCS-YOLO) - Official implementation of "RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection".
@@ -1271,7 +1271,7 @@
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
-- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
+- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
@@ -2194,7 +2194,7 @@
 - [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) - A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
 - [yinjunbo/SSDA3D](https://github.com/yinjunbo/SSDA3D) - Thie repo provides the official implementation of our AAAI-2023 paper “SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud”.
 - [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
-- [PJLab-ADG/OpenPCSeg](https://github.com/PJLab-ADG/OpenPCSeg) - PCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
+- [PJLab-ADG/OpenPCSeg](https://github.com/PJLab-ADG/OpenPCSeg) - OpenPCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
 - [bytedance/byteir](https://github.com/bytedance/byteir) - ByteIR
 - [xingyuuchen/LIO-PPF](https://github.com/xingyuuchen/LIO-PPF) - [IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking
 - [hku-mars/ROG-Map](https://github.com/hku-mars/ROG-Map) - 
@@ -4022,7 +4022,7 @@
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
+- [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
