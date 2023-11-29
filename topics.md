@@ -413,6 +413,7 @@
 
 ## computer-vision 
 
+- [Evocargo/Lidar-Annotation-is-All-You-Need](https://github.com/Evocargo/Lidar-Annotation-is-All-You-Need) - 2D road segmentation using lidar data during training
 - [autodistill/autodistill-gpt-4v](https://github.com/autodistill/autodistill-gpt-4v) - GPT-4V(ision) module for use with Autodistill.
 - [autodistill/autodistill-yolov8](https://github.com/autodistill/autodistill-yolov8) - YOLOv8 Target Model plugin for Autodistill
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models)
@@ -686,6 +687,7 @@
 
 ## deep-learning 
 
+- [Evocargo/Lidar-Annotation-is-All-You-Need](https://github.com/Evocargo/Lidar-Annotation-is-All-You-Need) - 2D road segmentation using lidar data during training
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models)
 - [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch
 - [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
@@ -1578,6 +1580,14 @@
 
 ## others 
 
+- [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
+- [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
+- [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
+- [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - 3D World Model for Autonomous Driving
+- [kaist-avelab/K-Radar](https://github.com/kaist-avelab/K-Radar) - 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions
+- [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
+- [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) - 
+- [yukkysaito/autoware_perception](https://github.com/yukkysaito/autoware_perception) - 
 - [ApolloAuto/apollo-model-centerpoint](https://github.com/ApolloAuto/apollo-model-centerpoint) - 
 - [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [Green-bms/SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
