@@ -3220,7 +3220,7 @@
 - [Laiqingsi/CLOCs_LQS](https://github.com/Laiqingsi/CLOCs_LQS) - An implementation of CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection.
 - [pangsu0613/CLOCs](https://github.com/pangsu0613/CLOCs) - CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection
 - [JonathonLuiten/TrackEval](https://github.com/JonathonLuiten/TrackEval) - HOTA (and other) evaluation metrics for Multi-Object Tracking (MOT).
-- [dyhBUPT/StrongSORT](https://github.com/dyhBUPT/StrongSORT) - StrongSORT: Make DeepSORT Great Again
+- [dyhBUPT/StrongSORT](https://github.com/dyhBUPT/StrongSORT) - [TMM 2023] StrongSORT: Make DeepSORT Great Again
 - [mrqrs/CG-SSD](https://github.com/mrqrs/CG-SSD) - 
 - [msraig/pfcnn](https://github.com/msraig/pfcnn) - Code for the paper "PFCNN: Convolutional Neural Networks on 3D Surfaces Using Parallel Frames" (CVPR 2020).
 - [coneypo/Dlib_face_recognition_from_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) - Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别
@@ -4453,6 +4453,7 @@
 
 ## robotics 
 
+- [jhu-lcsr/handeye_calib_camodocal](https://github.com/jhu-lcsr/handeye_calib_camodocal) - Easy to use and accurate hand eye calibration which has been working reliably for years (2016-present) with kinect, kinectv2, rgbd cameras, optical trackers, and several robots including the ur5 and k
 - [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
 - [norlab-ulaval/libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher) - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics
 - [HKUST-Aerial-Robotics/open_quadtree_mapping](https://github.com/HKUST-Aerial-Robotics/open_quadtree_mapping) - This is a monocular dense mapping system corresponding to IROS 2018 "Quadtree-accelerated Real-time Monocular Dense Mapping"
