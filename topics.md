@@ -926,6 +926,7 @@
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [dogyoonlee/RSMix](https://github.com/dogyoonlee/RSMix) - [CVPR 2021 - Official] Rigid Subset Mix (RSMix): Regularization Strategy for Point Cloud via Rigidly Mixed Samples
 - [PRBonn/lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
+- [ErlerPhilipp/points2surf](https://github.com/ErlerPhilipp/points2surf) - Learning Implicit Surfaces from Point Clouds (ECCV 2020)
 - [cuge1995/PointCutMix](https://github.com/cuge1995/PointCutMix) - our code for paper 'PointCutMix: Regularization Strategy for Point Cloud Classification', Neurocomputing, 2022
 - [lucidrains/point-transformer-pytorch](https://github.com/lucidrains/point-transformer-pytorch) - Implementation of the Point Transformer layer, in Pytorch
 - [nightsnack/YOLObile](https://github.com/nightsnack/YOLObile) - This is the implementation of YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design
@@ -3565,7 +3566,6 @@
 - [OctoMap/octomap](https://github.com/OctoMap/octomap) - An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.
 - [tusen-ai/simpledet](https://github.com/tusen-ai/simpledet) - A Simple and Versatile Framework for Object Detection and Instance Recognition
 - [tusen-ai/LiDAR_RCNN](https://github.com/tusen-ai/LiDAR_RCNN) - LiDAR R-CNN: An Efficient and Universal 3D Object Detector
-- [ErlerPhilipp/points2surf](https://github.com/ErlerPhilipp/points2surf) - Learning Implicit Surfaces from Point Clouds (ECCV 2020)
 - [mvandermerwe/PointSDF](https://github.com/mvandermerwe/PointSDF) - A point cloud based, implicit surface reconstruction learning architecture.
 - [laughtervv/DISN](https://github.com/laughtervv/DISN) - DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
 - [jiawenquan/pdalOctreeSplitPointCloud](https://github.com/jiawenquan/pdalOctreeSplitPointCloud) - The point cloud is split using the ‘pdal’ ‘octree’
