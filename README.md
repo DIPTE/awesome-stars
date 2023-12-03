@@ -1918,7 +1918,7 @@
 - [shorie000/3DSSD-TFv2](https://github.com/shorie000/3DSSD-TFv2) - 3DSSD's implementation with TensorFlow v2.
 - [Jazzcharles/OVSegmentor](https://github.com/Jazzcharles/OVSegmentor) - OVSegmentor, CVPR23
 - [eriksandstroem/Point-SLAM](https://github.com/eriksandstroem/Point-SLAM) - Point-SLAM: Dense Neural Point Cloud-based SLAM
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [tianrun-chen/SAM-Adapter-PyTorch](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) - Adapting Meta AI's Segment Anything to Downstream Tasks with Adapters and Prompts
 - [BingfengYan/VISAM](https://github.com/BingfengYan/VISAM) - Combining "segment-anything" with MOT,  it create the era of "MOTS"
 - [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
