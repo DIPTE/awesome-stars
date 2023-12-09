@@ -708,7 +708,7 @@
 - [novauto-open-source/CIA-SSD_TensorRT](https://github.com/novauto-open-source/CIA-SSD_TensorRT) - 
 - [sparsehash/sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers
 - [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice) - 搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。
-- [abhi1kumar/DEVIANT](https://github.com/abhi1kumar/DEVIANT) - [ECCV 2022] Official PyTorch Code of DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection
+- [abhi1kumar/DEVIANT](https://github.com/abhi1kumar/DEVIANT) - [ECCV 2022] Official PyTorch Code of DEVIANT: Depth Equivariant Network for Monocular 3D Object Detection
 - [libing64/camera_model](https://github.com/libing64/camera_model) - 相机内参标定和双目标定, 支持多种相机模型和多种标定板，
 - [SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese) - 快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/
 - [sean-wade/yolov5_bm1684](https://github.com/sean-wade/yolov5_bm1684) - bitmain bm1684 inference code of YoloV5...
@@ -905,7 +905,7 @@
 - [tudelft-iv/multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration) - 
 - [RuiYang-1010/efficient_online_learning](https://github.com/RuiYang-1010/efficient_online_learning) - Efficient Online Transfer Learning for 3D Object Detection in Autonomous Driving
 - [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) - TensorRT8.Support Yolov5n,s,m,l,x .darknet -&gt; tensorrt.  Yolov4  Yolov3 use raw darknet *.weights and *.cfg fils.  If the wrapper is useful to you,please Star it.
-- [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference application
+- [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [QingyongHu/SensatUrban](https://github.com/QingyongHu/SensatUrban) - 🔥Urban-scale point cloud dataset (CVPR 2021 & IJCV 2022)
 - [horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression) - This is a compression technique that targets for LiDAR-generated point cloud
@@ -1128,7 +1128,7 @@
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 - [Tirklee/GitHub-Chinese-Top-Charts](https://github.com/Tirklee/GitHub-Chinese-Top-Charts) - 
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (al
 - [panyingyun/vtkandroiddemo](https://github.com/panyingyun/vtkandroiddemo) - CMake Cross Build VTK for Android Application
@@ -1169,6 +1169,7 @@
 
 ## Jupyter Notebook 
 
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
 - [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
@@ -1389,6 +1390,9 @@
 
 ## Others 
 
+- [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
+- [GAP-LAB-CUHK-SZ/SAMPro3D](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) - SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation
+- [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - A new BeV paradigm focusing sparsity and efficiency
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
 - [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 - [autodriving-heart/Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) - Awesome-BEV-Perception
@@ -1404,7 +1408,6 @@
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
 - [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
-- [Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack) - [NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
 - [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
@@ -1620,6 +1623,10 @@
 
 ## Python 
 
+- [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
+- [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
+- [csuhan/OneLLM](https://github.com/csuhan/OneLLM) - OneLLM: One Framework to Align All Modalities with Language
+- [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
 - [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
 - [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - 3D World Model for Autonomous Driving
@@ -1671,6 +1678,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - Code for "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models" NeurIPS 2022
 - [zju3dv/OnePose](https://github.com/zju3dv/OnePose) - Code for "OnePose: One-Shot Object Pose Estimation without CAD Models", CVPR 2022
+- [Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack) - [NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking
 - [stevewongv/Sparse2Dense](https://github.com/stevewongv/Sparse2Dense) - Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection (NeurIPS 2022)
 - [Nightmare-n/UniPAD](https://github.com/Nightmare-n/UniPAD) - UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
 - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
@@ -1885,7 +1893,7 @@
 - [BooHwang/segment_anything_tensorrt](https://github.com/BooHwang/segment_anything_tensorrt) - Accelerate segment anything model inference using Tensorrt 8.6.1.6
 - [NVlabs/RVT](https://github.com/NVlabs/RVT) - Official Code for RVT: Robotic View Transformer for 3D Object Manipulation
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
-- [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - FB-BEV and FB-OCC are vision-centric autonomous driving perception algorithm based on forward-backward view transformation strtegies.
+- [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
 - [intel/neural-compressor](https://github.com/intel/neural-compressor) - Provide unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstream AI frameworks such as Te
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
@@ -2328,7 +2336,7 @@
 - [sipeed/MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) - Yolo-for-k210
 - [LZBUAV/K210](https://github.com/LZBUAV/K210) - Kendryte K210人工智能芯片应用程序集合，包括人脸检测、颜色检测、目标检测和分类、二维码和Apriltag代码检测以及和ArduPilot飞控软件的通信。这些应用程序已部署到无人机终端。This repository is a collection of applications for the Kendryte K210 AI chip which include face detec
-- [Gofinge/PointTransformerV2](https://github.com/Gofinge/PointTransformerV2) - [NeurIPS 2022] An official PyTorch implementation of PTv2 (updated in Pointcept)
+- [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS 2022] An official PyTorch implementation of PTv2 (updated in Pointcept)
 - [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
 - [Livox-SDK/livox_detection](https://github.com/Livox-SDK/livox_detection) - Livox open source detection algorithm
 - [opendilab/InterFuser](https://github.com/opendilab/InterFuser) - [CoRL 2022] InterFuser: Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer
@@ -3473,7 +3481,7 @@
 
 ## Vue 
 
-- [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
+- [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 
 
 ## License
