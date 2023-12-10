@@ -1458,7 +1458,7 @@
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
 - [axlrose/rkdocs](https://github.com/axlrose/rkdocs) - RockChip RK3588 BSP Documents
 - [landyxu/FastViT](https://github.com/landyxu/FastViT) - Our objective is to combine the strengths of ViT, CNN, and GNN to create FastViT, a lightweight and efficient net-work  that  outperforms  CNN-based  models  and  has  fewer parameters  and  a  shorte
-- [ViTAE-Transformer/BEVSimDet](https://github.com/ViTAE-Transformer/BEVSimDet) - The official repo for [Arxiv'23] "BEVSimDet: Simulated Multi-modal Distillation in Bird’s-Eye View for Multi-view 3D Object Detection"
+- [ViTAE-Transformer/SimDistill](https://github.com/ViTAE-Transformer/SimDistill) - The official repo for [AAAI 2024] "SimDistill: Simulated Multi-modal Distillation for BEV 3D Object Detection""
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
 - [yinjunbo/3DVID](https://github.com/yinjunbo/3DVID) - LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention (CVPR20)
 - [fishros/d2l-ros2](https://github.com/fishros/d2l-ros2) - 动手学ROS2课程配套教程，欢迎关注公众号《鱼香ROS》
