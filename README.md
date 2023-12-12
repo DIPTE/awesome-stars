@@ -1169,7 +1169,6 @@
 
 ## Jupyter Notebook 
 
-- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
 - [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
@@ -1187,6 +1186,7 @@
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [yossilevii100/EPiC](https://github.com/yossilevii100/EPiC) - Ensemble of Partial Points Clouds for Robust Classification
+- [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - [NeurIPS 2023 Track Datasets and Benchmarks] OpenLane-V2: The First Perception and Reasoning Benchmark for Road Driving
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
@@ -1626,6 +1626,7 @@
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
 - [csuhan/OneLLM](https://github.com/csuhan/OneLLM) - OneLLM: One Framework to Align All Modalities with Language
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
 - [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
@@ -1763,7 +1764,7 @@
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM)
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - The first LVLM based IAD method!
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
@@ -1844,7 +1845,7 @@
 - [fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet) - 
 - [OpenDriveLab/OpenScene](https://github.com/OpenDriveLab/OpenScene) - 3D Occupancy Prediction Benchmark in Autonomous Driving
 - [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
-- [ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT) - Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
+- [ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT) - [AAAI2024]Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
 - [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 - [BICLab/EMS-YOLO](https://github.com/BICLab/EMS-YOLO) - Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (ICCV2023)
 - [mengtan00/SA-BEV](https://github.com/mengtan00/SA-BEV) - This is the implementation of the paper "SA-BEV: Generating Semantic-Aware Bird's-Eye-View Feature for Multi-view 3D Object Detection" (ICCV 2023)
@@ -1875,7 +1876,6 @@
 - [zyh16143998882/ICCV23-IDPT](https://github.com/zyh16143998882/ICCV23-IDPT) - The code for the paper "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models" (ICCV'23).
 - [youquanl/Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - [NeurIPS'23 Spotlight] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-- [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective
 - [slothfulxtx/MBPTrack3D](https://github.com/slothfulxtx/MBPTrack3D) - [ICCV2023] MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors
 - [PJLab-ADG/DriveLikeAHuman](https://github.com/PJLab-ADG/DriveLikeAHuman) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models
 - [AIR-DISCOVER/DQS3D](https://github.com/AIR-DISCOVER/DQS3D) - [ICCV23] DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection
