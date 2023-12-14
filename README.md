@@ -140,6 +140,8 @@
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
 - [Francklin2/RTKLIB_Touchscreen_GUI](https://github.com/Francklin2/RTKLIB_Touchscreen_GUI) - RTKLIB GUI for Raspberry Pi with  touchscreen made with Qt by the ENSG students
 - [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
+- [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
+- [rockchip-linux/rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
 - [rockchip-linux/rknpu2](https://github.com/rockchip-linux/rknpu2) - 
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [sp4cerat/Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) - Mesh triangle reduction using quadrics
@@ -207,7 +209,7 @@
 
 - [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
-- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerator
+- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerator ✨
 - [kendryte/kendryte-flash-windows](https://github.com/kendryte/kendryte-flash-windows) - Kendryte flash utility for Windows
 - [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples) - Examples for using ONNX Runtime for model training.
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
@@ -542,7 +544,6 @@
 - [victorbadenas/SimpleOnnxInference](https://github.com/victorbadenas/SimpleOnnxInference) - A simple c++ onnx application for inferencing images
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
 - [dog-qiuqiu/simple-rknn2](https://github.com/dog-qiuqiu/simple-rknn2) - The rknn2 API uses the secondary encapsulation of the process, which is easy for everyone to call. It is applicable to rk356x rk3588
-- [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
 - [airockchip/RK3399Pro_npu](https://github.com/airockchip/RK3399Pro_npu) - 
 - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - Track vehicles and persons on rk3588 / rk3399pro.
 - [airockchip/rknpu_ddk](https://github.com/airockchip/rknpu_ddk) - DDK for Rockchip NPU
@@ -1169,6 +1170,7 @@
 
 ## Jupyter Notebook 
 
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
 - [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
@@ -1517,7 +1519,7 @@
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
 - [ZVISION-lidar/zvision_ugv_data](https://github.com/ZVISION-lidar/zvision_ugv_data) - 
 - [Ghustwb/WechatArtical](https://github.com/Ghustwb/WechatArtical) - “卡本特”公众号文章
-- [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
+- [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [danielTobon43/compilingPCL-Linux](https://github.com/danielTobon43/compilingPCL-Linux) - This is a tutorial of how to compile PCL 1.11.1 on Ubuntu 20.04.2 LTS
 - [sanguinariojoe/vtk-builds](https://github.com/sanguinariojoe/vtk-builds) - Automatic builds of VTK
 - [EricChen2013/Course](https://github.com/EricChen2013/Course) - 流媒体技术视频教程：RTSP、RTMP、HLS、HTTP、EasyDarwin、live555、ffmpeg、图像识别、智能分析、编解码、流媒体传输、高性能服务器
@@ -1626,7 +1628,6 @@
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
 - [csuhan/OneLLM](https://github.com/csuhan/OneLLM) - OneLLM: One Framework to Align All Modalities with Language
-- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
 - [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
@@ -1831,7 +1832,7 @@
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 - [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - SAM3D: Segment Anything in 3D Scenes
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
-- [Pointcept/PointBLIP](https://github.com/Pointcept/PointBLIP) - PointBLIP: A Point Cloud Multi-modal model Embracing Diverse Data without Reliance on Image Domain
+- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - PointBLIP: A Point Cloud Multi-modal model Embracing Diverse Data without Reliance on Image Domain
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [NVIDIA/Deep-Learning-Accelerator-SW](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) - NVIDIA DLA-SW, the recipes and tools for running deep learning workloads on NVIDIA DLA cores for inference applications.
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
@@ -1938,7 +1939,7 @@
 - [JiayuZou2020/DiffBEV](https://github.com/JiayuZou2020/DiffBEV) - Official PyTorch implementation for a conditional diffusion probability model in BEV perception
 - [open-mmlab/playground](https://github.com/open-mmlab/playground) - A central hub for gathering and showcasing amazing projects that extend OpenMMLab with SAM and other exciting features.
 - [PaddlePaddle/PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) - 
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments written in JAX with end-to-end AlphaZero examples
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments written in JAX with end-to-end AlphaZero examples (NeurIPS 2023)
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
 - [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python Low-level Bindings
 - [jzhang538/PointCert](https://github.com/jzhang538/PointCert) - [CVPR 2023] "PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees": official code implementation.
@@ -2171,7 +2172,6 @@
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
 - [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: a dedicated pre- and post- processing library for ONNX Runtime
 - [microsoft/onnxscript](https://github.com/microsoft/onnxscript) - ONNX Script enables developers to naturally author ONNX functions and models using a subset of Python.
-- [rockchip-linux/rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
 - [sunjiahao1999/SPFormer](https://github.com/sunjiahao1999/SPFormer) - 
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
 - [PeizeSun/OneNet](https://github.com/PeizeSun/OneNet) - [ICML2021] What Makes for End-to-End Object Detection
@@ -3456,7 +3456,7 @@
 - [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cruise-automation/rosbag.js](https://github.com/cruise-automation/rosbag.js) - ROS bag file reader for JavaScript 👜
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
