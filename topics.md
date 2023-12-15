@@ -1854,7 +1854,7 @@
 - [caizhongang/waymo_kitti_converter](https://github.com/caizhongang/waymo_kitti_converter) - A toolkit for Waymo Open Dataset &lt;-&gt; KITTI conversions
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
 - [tdzdog/SEFormer](https://github.com/tdzdog/SEFormer) - AAAI2023: SEFormer: Structure Embedding Transformer for 3D Object Detection
-- [cskkxjk/MonoNeRD](https://github.com/cskkxjk/MonoNeRD) - NeRF-like Representations for Monocular 3D Object Detection
+- [cskkxjk/MonoNeRD](https://github.com/cskkxjk/MonoNeRD) - (ICCV2023) MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
 - [facebookresearch/NeRF-Det](https://github.com/facebookresearch/NeRF-Det) - [ICCV 2023] Code for NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection
 - [StephenYang190/rangenet_lib](https://github.com/StephenYang190/rangenet_lib) - Rangenet lib in TensorRT8
 - [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
