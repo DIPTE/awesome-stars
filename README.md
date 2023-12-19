@@ -1406,7 +1406,6 @@
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
-- [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
 - [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
@@ -1660,6 +1659,7 @@
 - [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code) 课程主页：http://111.229.117.200:7001/
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
 - [tangtaogo/lidar-nerf](https://github.com/tangtaogo/lidar-nerf) - LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
