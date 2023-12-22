@@ -1399,7 +1399,7 @@
 - [yanmin-wu/LAST-PCL](https://github.com/yanmin-wu/LAST-PCL) - [AAAI 2024] Language-Assisted 3D Scene Understanding
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [GAP-LAB-CUHK-SZ/SAMPro3D](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) - SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation
-- [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - A new BeV paradigm focusing sparsity and efficiency
+- [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - Official implementation of PointBeV: A Sparse Approach to BeV Predictions
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
 - [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 - [autodriving-heart/Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) - Awesome-BEV-Perception
