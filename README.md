@@ -796,7 +796,7 @@
 - [eProsima/Fast-CDR](https://github.com/eProsima/Fast-CDR) - eProsima FastCDR library provides two serialization mechanisms. One is the standard CDR serialization mechanism, while the other is a faster implementation of it.
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases.
 - [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
-- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v8.0.0) CyberRT Framework  CMake Build
+- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v9.0.0) CyberRT Framework  CMake Build
 - [zhxt/cyber-rt](https://github.com/zhxt/cyber-rt) - Redistributed Apollo CyberRT, built with CMake.
 - [storypku/CyberRT](https://github.com/storypku/CyberRT) - Apollo CyberRT framework for Autonomous Driving
 - [sunmiaozju/smartcar](https://github.com/sunmiaozju/smartcar) - 自动驾驶系统实现
@@ -1103,7 +1103,7 @@
 
 - [NVlabs/M2BEV](https://github.com/NVlabs/M2BEV) - 
 - [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
-- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
@@ -1179,7 +1179,7 @@
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
 - [hady1011/OrthoNets](https://github.com/hady1011/OrthoNets) - Orthogonal Channel Attentions Networks
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [zhangyeyan/360-Surround-View-CUDA-Project](https://github.com/zhangyeyan/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
+- [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
