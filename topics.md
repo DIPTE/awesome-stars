@@ -205,6 +205,7 @@
 
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
@@ -1599,7 +1600,7 @@
 - [csuhan/OneLLM](https://github.com/csuhan/OneLLM) - OneLLM: One Framework to Align All Modalities with Language
 - [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [GAP-LAB-CUHK-SZ/SAMPro3D](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) - SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation
-- [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - A new BeV paradigm focusing sparsity and efficiency
+- [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - Official implementation of PointBeV: A Sparse Approach to BeV Predictions
 - [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
@@ -1722,7 +1723,7 @@
 - [ocetintas/MPNTrackSeg](https://github.com/ocetintas/MPNTrackSeg) - "Multi-Object Tracking and Segmentation via Neural Message Passing" (IJCV 2022) - Official Implementation
 - [tobiasfshr/MOTSFusion](https://github.com/tobiasfshr/MOTSFusion) - MOTSFusion: Track to Reconstruct and Reconstruct to Track
 - [VisualComputingInstitute/TrackR-CNN](https://github.com/VisualComputingInstitute/TrackR-CNN) - TrackR-CNN baseline method for Multi-Object Tracking and Segmentation (MOTS)
-- [zhangyeyan/360-Surround-View-CUDA-Project](https://github.com/zhangyeyan/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
+- [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
 - [darkpgmr/DarkLabel](https://github.com/darkpgmr/DarkLabel) - Video/Image Labeling and Annotation Tool
 - [VisualComputingInstitute/mots_tools](https://github.com/VisualComputingInstitute/mots_tools) - Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
 - [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - 
@@ -1742,7 +1743,7 @@
 - [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - Embracing Foundation Models into Autonomous Agent and System
 - [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Topology Reasoning for Scene Perception in Autonomous Driving
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
-- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
 - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
 - [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
 - [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
@@ -3027,7 +3028,7 @@
 - [wavefrontshaping/complexPyTorch](https://github.com/wavefrontshaping/complexPyTorch) - A high-level toolbox for using complex valued neural networks in PyTorch
 - [mfxox/ILCC](https://github.com/mfxox/ILCC) - Intensity-based_Lidar_Camera_Calibration
 - [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
-- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v8.0.0) CyberRT Framework  CMake Build
+- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v9.0.0) CyberRT Framework  CMake Build
 - [zhxt/cyber-rt](https://github.com/zhxt/cyber-rt) - Redistributed Apollo CyberRT, built with CMake.
 - [storypku/CyberRT](https://github.com/storypku/CyberRT) - Apollo CyberRT framework for Autonomous Driving
 - [sunmiaozju/smartcar](https://github.com/sunmiaozju/smartcar) - 自动驾驶系统实现
@@ -4563,6 +4564,7 @@
 
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
 - [RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution](https://github.com/RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution) - 3D car detection competition on Kaggle : https://www.kaggle.com/c/pku-autonomous-driving/overview
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
