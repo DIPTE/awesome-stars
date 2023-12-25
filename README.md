@@ -74,6 +74,7 @@
 
 ## C 
 
+- [compuphase/minIni](https://github.com/compuphase/minIni) - A small and portable INI file library with read/write support
 - [yukkysaito/autoware_perception](https://github.com/yukkysaito/autoware_perception) - 
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
@@ -101,7 +102,6 @@
 - [Caesar-github/libmali](https://github.com/Caesar-github/libmali) - libmali for rockchip
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [jjm2473/ffmpeg-rk](https://github.com/jjm2473/ffmpeg-rk) - 支持rockchip mpp硬件加速编解码的ffmpeg版本。Forked ffmpeg that supports rkmpp decodeing, encoding and rga scaling
-- [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
 - [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS) - 从ROS1到ROS2无人机编程实战指南
 - [NVIDIA-AI-IOT/deepstream-occupancy-analytics](https://github.com/NVIDIA-AI-IOT/deepstream-occupancy-analytics) - This is a sample application for counting people entering/leaving in a building using NVIDIA Deepstream SDK, Transfer Learning Toolkit (TLT), and pre-trained models. This application can be used to bu
 - [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
@@ -365,6 +365,7 @@
 - [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
+- [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
 - [liushuan/MNN-MTCNN-CPU-OPENCL](https://github.com/liushuan/MNN-MTCNN-CPU-OPENCL) - MNN MTCNN C++
 - [intel/fpga-runtime-for-opencl](https://github.com/intel/fpga-runtime-for-opencl) - Intel® FPGA Runtime for OpenCL™ Software Technology
 - [michel-meneses/great-opencl-examples](https://github.com/michel-meneses/great-opencl-examples) - Collection of easy, well-documented and useful OpenCL examples in C++.
@@ -1172,6 +1173,8 @@
 
 ## Jupyter Notebook 
 
+- [chongzhou96/EdgeSAM](https://github.com/chongzhou96/EdgeSAM) - Official PyTorch implementation of "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM"
+- [megvii-research/Far3D](https://github.com/megvii-research/Far3D) - [AAAI2024] Far3D: Expanding the Horizon for Surround-view 3D Object Detection
 - [opendilab/LMDrive](https://github.com/opendilab/LMDrive) - LMDrive: Closed-Loop End-to-End Driving with Large Language Models
 - [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
@@ -1395,6 +1398,8 @@
 
 ## Others 
 
+- [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
+- [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
 - [16lemoing/dot](https://github.com/16lemoing/dot) - 
 - [yanmin-wu/LAST-PCL](https://github.com/yanmin-wu/LAST-PCL) - [AAAI 2024] Language-Assisted 3D Scene Understanding
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
@@ -1628,6 +1633,9 @@
 
 ## Python 
 
+- [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
+- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation
+- [YujiaLiu76/point2cad](https://github.com/YujiaLiu76/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
 - [junshengzhou/VP2P-Match](https://github.com/junshengzhou/VP2P-Match) - [NeurIPS'2023 Spotlight]: Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
@@ -3462,7 +3470,7 @@
 - [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cruise-automation/rosbag.js](https://github.com/cruise-automation/rosbag.js) - ROS bag file reader for JavaScript 👜
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
