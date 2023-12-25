@@ -373,7 +373,7 @@
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
@@ -1493,7 +1493,7 @@
 
 ## nextjs 
 
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
 
 ## nlp 
@@ -1589,6 +1589,14 @@
 
 ## others 
 
+- [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
+- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation
+- [YujiaLiu76/point2cad](https://github.com/YujiaLiu76/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
+- [compuphase/minIni](https://github.com/compuphase/minIni) - A small and portable INI file library with read/write support
+- [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
+- [chongzhou96/EdgeSAM](https://github.com/chongzhou96/EdgeSAM) - Official PyTorch implementation of "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM"
+- [megvii-research/Far3D](https://github.com/megvii-research/Far3D) - [AAAI2024] Far3D: Expanding the Horizon for Surround-view 3D Object Detection
+- [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
 - [16lemoing/dot](https://github.com/16lemoing/dot) - 
 - [junshengzhou/VP2P-Match](https://github.com/junshengzhou/VP2P-Match) - [NeurIPS'2023 Spotlight]: Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching
 - [opendilab/LMDrive](https://github.com/opendilab/LMDrive) - LMDrive: Closed-Loop End-to-End Driving with Large Language Models
@@ -4448,7 +4456,7 @@
 
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 
 ## react-native 
