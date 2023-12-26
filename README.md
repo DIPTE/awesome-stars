@@ -1672,7 +1672,7 @@
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code) 课程主页：http://111.229.117.200:7001/
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
@@ -1825,7 +1825,7 @@
 - [DerrickXuNu/model_anostic](https://github.com/DerrickXuNu/model_anostic) - [ICRA2023] The official implementation of paper "Model-agnostic Multi-agent Perception"
 - [DerrickXuNu/MPDA](https://github.com/DerrickXuNu/MPDA) - [ICRA2023] The official implementation of paper "Bridging the Domain Gap for Multi-Agent Perception"
 - [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - PCSim: LiDAR Point Cloud Simulation and Sensor Placement! Code of [ICRA 2023] "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" and [ICCV 2023] "Optimizing the Placeme
-- [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023]CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
+- [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
 - [AllenXiangX/Retro-FPN](https://github.com/AllenXiangX/Retro-FPN) - Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation (ICCV 2023)
 - [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI (2023), "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
 - [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
