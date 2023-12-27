@@ -878,6 +878,7 @@
 - [salehjg/DGCNN-on-FPGA](https://github.com/salehjg/DGCNN-on-FPGA) - PLEASE USE THE NEW REPO https://github.com/salehjg/DeepPoint-V2-FPGA . The deprecated in-order-queue-based repository for "DGCNN on FPGA: Acceleration of The Point CloudClassifier Using FPGAs".
 - [Xharlie/DISN](https://github.com/Xharlie/DISN) - (latest updates and bug fixed) DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
 - [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) - Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems
+- [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - 🍅🍅🍅YOLOv5-Lite: Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.7M (fp16). Reach 15 FPS on the Raspberry Pi 4B~
 - [hpc203/yolov5-lite-onnxruntime](https://github.com/hpc203/yolov5-lite-onnxruntime) - 使用ONNXRuntime部署yolov5-lite目标检测，包含C++和Python两个版本的程序
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [techshoww/mnn-yolov5](https://github.com/techshoww/mnn-yolov5) - Imported from https://gitee.com/techshoww/mnn-yolov5.
@@ -1400,7 +1401,6 @@
 
 - [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
 - [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
-- [16lemoing/dot](https://github.com/16lemoing/dot) - 
 - [yanmin-wu/LAST-PCL](https://github.com/yanmin-wu/LAST-PCL) - [AAAI 2024] Language-Assisted 3D Scene Understanding
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [GAP-LAB-CUHK-SZ/SAMPro3D](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) - SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation
@@ -1636,6 +1636,7 @@
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
 - [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation
 - [YujiaLiu76/point2cad](https://github.com/YujiaLiu76/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
+- [16lemoing/dot](https://github.com/16lemoing/dot) - 
 - [junshengzhou/VP2P-Match](https://github.com/junshengzhou/VP2P-Match) - [NeurIPS'2023 Spotlight]: Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
@@ -1846,7 +1847,7 @@
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 - [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - SAM3D: Segment Anything in 3D Scenes
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
-- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - PointBLIP: A Point Cloud Multi-modal model Embracing Diverse Data without Reliance on Image Domain
+- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [NVIDIA/Deep-Learning-Accelerator-SW](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) - NVIDIA DLA-SW, the recipes and tools for running deep learning workloads on NVIDIA DLA cores for inference applications.
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
@@ -2595,7 +2596,6 @@
 - [DingXiaoH/RepLKNet-pytorch](https://github.com/DingXiaoH/RepLKNet-pytorch) - Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs (CVPR 2022)
 - [MegEngine/RepLKNet](https://github.com/MegEngine/RepLKNet) - Official MegEngine implementation of RepLKNet
 - [cfzd/Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) - Ultra Fast Structure-aware Deep Lane Detection (ECCV 2020)
-- [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size i
 - [Pang-Yatian/Point-MAE](https://github.com/Pang-Yatian/Point-MAE) - [ECCV2022] Masked Autoencoders for Point Cloud Self-supervised Learning
 - [liuruijin17/LSTR](https://github.com/liuruijin17/LSTR) - This is an official repository of End-to-end Lane Shape Prediction with Transformers.
 - [LiyaoTang/contrastBoundary](https://github.com/LiyaoTang/contrastBoundary) - Contrastive Boundary Learning for Point Cloud Segmentation (CVPR2022)
