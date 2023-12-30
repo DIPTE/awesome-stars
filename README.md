@@ -222,6 +222,7 @@
 
 ## C++ 
 
+- [EZreal-zhangxing/rk_ffmpeg](https://github.com/EZreal-zhangxing/rk_ffmpeg) - 在rockchip3588上实现用ffmpeg进行推拉流，其中推拉流使用硬件加速编解码
 - [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - 支持yolov5,yolov7,yolov8,yolox 的tensorrt项目
 - [pcb9382/FaceAlgorithm](https://github.com/pcb9382/FaceAlgorithm) - face detection   face recognition包含人脸检测(retinaface,yolov5face,yolov7face,yolov8face),人脸检测跟踪(ByteTracker)，人脸角度计算（Face_Angle）人脸矫正(Face_Aligner)，人脸识别(Arcface)，口罩检测(MaskRecognitiion)，年龄性别检测(Gender_age)，静默
 - [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
@@ -1423,7 +1424,7 @@
 - [youw3/AI-Algorithm-Engineer-s-Manual](https://github.com/youw3/AI-Algorithm-Engineer-s-Manual) - AI算法工程师手册  作者网站http://www.huaxiaozhuan.com/
 - [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection) - 
 - [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
-- [creapunk/CLN-ClosedLoopNemaDriver](https://github.com/creapunk/CLN-ClosedLoopNemaDriver) - Compact closed-loop stepper motor driver designed for NEMA17 motors
+- [creapunk/CLN-ClosedLoopNemaDriver](https://github.com/creapunk/CLN-ClosedLoopNemaDriver) - Compact closed-loop stepper motor driver designed for NEMA motors
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
@@ -2695,7 +2696,7 @@
 - [luxius-luminus/PolyConv](https://github.com/luxius-luminus/PolyConv) - Object Point Cloud Classification via Poly-Convolutional Architecture Search
 - [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
 - [LitingLin/SwinTrack](https://github.com/LitingLin/SwinTrack) - 
-- [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (T-PAMI 2022, ACM MM 2020)
+- [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (TPAMI 2022, ACM MM 2020)
 - [subbarayudu-j/TheAlgorithms-Python](https://github.com/subbarayudu-j/TheAlgorithms-Python) - TheAlgorithms/Python
 - [ZrrSkywalker/PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) - [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP
 - [fpthink/V2B](https://github.com/fpthink/V2B) - 
