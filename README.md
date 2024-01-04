@@ -316,7 +316,7 @@
 - [hpc203/Detic-onnxrun-cpp-py](https://github.com/hpc203/Detic-onnxrun-cpp-py) - 使用ONNXRuntime部署Detic检测2万1千种类别的物体，包含C++和Python两个版本的程序
 - [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
 - [i-v-s/strong-sort-cpp](https://github.com/i-v-s/strong-sort-cpp) - C++ implementation of the paper "StrongSORT: Make DeepSORT Great Again"
-- [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm
+- [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm with Re-ID and Camera Motion Compensation
 - [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - OC_SORT implemented in C++ with Eigen Library
 - [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
 - [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
@@ -1024,6 +1024,7 @@
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
 - [DefTruth/cuda-optimize](https://github.com/DefTruth/cuda-optimize) - Learn Optimization for NVIDIA CUDA.
 - [bluesky-ryan/snowstorm_ros_rk3399](https://github.com/bluesky-ryan/snowstorm_ros_rk3399) - RK3399 ROS麦克纳姆轮车
+- [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [ravijo/ros_zeromq_tutorial](https://github.com/ravijo/ros_zeromq_tutorial) - ZeroMQ tutorial for ROS
 - [ros-planning/panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) - The Panda robot is the flagship MoveIt integration robot
 - [conan-community/conan-eigen](https://github.com/conan-community/conan-eigen) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
@@ -1411,6 +1412,9 @@
 
 ## Others 
 
+- [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
+- [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
+- [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - Visual Point Cloud Forecasting
 - [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
 - [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
@@ -3428,7 +3432,6 @@
 - [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - 🐳 Dockerfiles to provide HTML5 VNC interface to access Ubuntu Desktop + ROS 2
 - [Tiryoh/ros2_setup_scripts_ubuntu](https://github.com/Tiryoh/ros2_setup_scripts_ubuntu) - 🔧 unofficial ROS 2 install/setup scripts for Ubuntu
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder
-- [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [crigroup/openrave-installation](https://github.com/crigroup/openrave-installation) - Bash scripts to install OpenRAVE from source
 - [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
 - [jetsonhacks/rootOnNVMe](https://github.com/jetsonhacks/rootOnNVMe) - Switch the rootfs to a NVMe SSD on the Jetson Xavier NX and Jetson AGX Xavier
