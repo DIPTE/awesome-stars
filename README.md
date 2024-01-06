@@ -1024,7 +1024,6 @@
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
 - [DefTruth/cuda-optimize](https://github.com/DefTruth/cuda-optimize) - Learn Optimization for NVIDIA CUDA.
 - [bluesky-ryan/snowstorm_ros_rk3399](https://github.com/bluesky-ryan/snowstorm_ros_rk3399) - RK3399 ROS麦克纳姆轮车
-- [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [ravijo/ros_zeromq_tutorial](https://github.com/ravijo/ros_zeromq_tutorial) - ZeroMQ tutorial for ROS
 - [ros-planning/panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) - The Panda robot is the flagship MoveIt integration robot
 - [conan-community/conan-eigen](https://github.com/conan-community/conan-eigen) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
@@ -1412,6 +1411,7 @@
 
 ## Others 
 
+- [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
 - [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - Visual Point Cloud Forecasting
@@ -1473,7 +1473,6 @@
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
 - [jianrenw/PanoNet3D](https://github.com/jianrenw/PanoNet3D) - 
 - [yichaoshen-MS/V-DETR](https://github.com/yichaoshen-MS/V-DETR) - 
-- [tiangexiang/OccNeRF](https://github.com/tiangexiang/OccNeRF) - [ICCV 2023] Rendering Humans from Object-Occluded Monocular Videos
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
@@ -1790,7 +1789,7 @@
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
@@ -1896,6 +1895,7 @@
 - [mkang315/RCS-YOLO](https://github.com/mkang315/RCS-YOLO) - Official implementation of "RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection".
 - [Mr-Neko/JM3D](https://github.com/Mr-Neko/JM3D) - The offical implemention of JM3D.
 - [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) - Official PyTorch implementation of FocalFormer3D [ICCV 2023]
+- [tiangexiang/OccNeRF](https://github.com/tiangexiang/OccNeRF) - [ICCV 2023] Rendering Humans from Object-Occluded Monocular Videos
 - [tusen-ai/MV2D](https://github.com/tusen-ai/MV2D) - Code for "Object as Query: Lifting any 2D Object Detector to 3D Detection"
 - [Xiao-Hu-Z/pointpillars_int8](https://github.com/Xiao-Hu-Z/pointpillars_int8) - 
 - [HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection](https://github.com/HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection) - This is the official released code for CVPR 2022 "Investigating the Impact of Multi-LiDAR Placement on Object Detection for Autonomous Driving"
@@ -3432,6 +3432,7 @@
 - [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - 🐳 Dockerfiles to provide HTML5 VNC interface to access Ubuntu Desktop + ROS 2
 - [Tiryoh/ros2_setup_scripts_ubuntu](https://github.com/Tiryoh/ros2_setup_scripts_ubuntu) - 🔧 unofficial ROS 2 install/setup scripts for Ubuntu
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder
+- [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [crigroup/openrave-installation](https://github.com/crigroup/openrave-installation) - Bash scripts to install OpenRAVE from source
 - [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
 - [jetsonhacks/rootOnNVMe](https://github.com/jetsonhacks/rootOnNVMe) - Switch the rootfs to a NVMe SSD on the Jetson Xavier NX and Jetson AGX Xavier
