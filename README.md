@@ -222,7 +222,7 @@
 ## C++ 
 
 - [EZreal-zhangxing/rk_ffmpeg](https://github.com/EZreal-zhangxing/rk_ffmpeg) - 在rockchip3588上实现用ffmpeg进行推拉流，其中推拉流使用硬件加速编解码
-- [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - 支持yolov5,yolov7,yolov8,yolox 的tensorrt项目
+- [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - AI自瞄项目，支持yolov5,yolov7,yolov8,yolox ，使用tensorrt和DML
 - [pcb9382/FaceAlgorithm](https://github.com/pcb9382/FaceAlgorithm) - face detection   face recognition包含人脸检测(retinaface,yolov5face,yolov7face,yolov8face),人脸检测跟踪(ByteTracker)，人脸角度计算（Face_Angle）人脸矫正(Face_Aligner)，人脸识别(Arcface)，口罩检测(MaskRecognitiion)，年龄性别检测(Gender_age)，静默
 - [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
 - [suyunzzz/Ground-Plane-Fitting](https://github.com/suyunzzz/Ground-Plane-Fitting) - 
@@ -532,7 +532,7 @@
 - [unmannedlab/imu_lidar_calibration](https://github.com/unmannedlab/imu_lidar_calibration) - Target-free Extrinsic Calibration of a 3D Lidar and an IMU
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-- [lemenkov/libyuv](https://github.com/lemenkov/libyuv) - unofficial libyuv mirror
+- [lemenkov/libyuv](https://github.com/lemenkov/libyuv) - Unofficial libyuv mirror. Please submit any issues or PRs upstream.
 - [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) - 
 - [ouster-lidar/ouster_example](https://github.com/ouster-lidar/ouster_example) - Ouster, Inc. sample code
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
@@ -1646,6 +1646,7 @@
 
 ## Python 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
