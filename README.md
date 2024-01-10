@@ -643,7 +643,7 @@
 - [naibaf7/libdnn](https://github.com/naibaf7/libdnn) - Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [conan-community/conan-tiny-dnn](https://github.com/conan-community/conan-tiny-dnn) - [DEPRECATED] Conan.io recipes for tiny-dnn
-- [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS Implementation of Patchwork++
+- [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS & ROS2 Implementation of Patchwork++
 - [jianboqi/CSF](https://github.com/jianboqi/CSF) - LiDAR point cloud ground filtering / segmentation (bare earth extraction) method based on cloth simulation
 - [SmallMunich/bcnn](https://github.com/SmallMunich/bcnn) - point cloud segmentation and deploy using apollo bcnn network.
 - [kosuke55/tensorrt_bcnn](https://github.com/kosuke55/tensorrt_bcnn) - Lidar apollo instance segmentation CNN
@@ -1411,6 +1411,7 @@
 
 ## Others 
 
+- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - [arXiv 2023] Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
@@ -1535,7 +1536,7 @@
 - [fpthink/GraphCut](https://github.com/fpthink/GraphCut) - Learning Superpoint Graph Cut for 3D Instance Segmentation
 - [whucsy/RotTrans](https://github.com/whucsy/RotTrans) - 
 - [LittlePey/Semi-Sampling](https://github.com/LittlePey/Semi-Sampling) - Boosting Semi-Supervised 3D Object Detection with Semi-Sampling
-- [azure-rtos/samples](https://github.com/azure-rtos/samples) - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, STM32CubeID
+- [eclipse-threadx/samples](https://github.com/eclipse-threadx/samples) - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, STM32CubeID
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
 - [ZVISION-lidar/zvision_ugv_data](https://github.com/ZVISION-lidar/zvision_ugv_data) - 
@@ -1646,6 +1647,7 @@
 
 ## Python 
 
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
@@ -1972,7 +1974,7 @@
 - [JiayuZou2020/DiffBEV](https://github.com/JiayuZou2020/DiffBEV) - Official PyTorch implementation for a conditional diffusion probability model in BEV perception
 - [open-mmlab/playground](https://github.com/open-mmlab/playground) - A central hub for gathering and showcasing amazing projects that extend OpenMMLab with SAM and other exciting features.
 - [PaddlePaddle/PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) - 
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments written in JAX with end-to-end AlphaZero examples (NeurIPS 2023)
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
 - [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python Low-level Bindings
 - [jzhang538/PointCert](https://github.com/jzhang538/PointCert) - [CVPR 2023] "PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees": official code implementation.
@@ -3020,7 +3022,7 @@
 - [AutodeskAILab/RobustPointSet](https://github.com/AutodeskAILab/RobustPointSet) - 
 - [MenghaoGuo/PCT](https://github.com/MenghaoGuo/PCT) - Jittor implementation of PCT:Point Cloud Transformer
 - [maudzung/SFA3D](https://github.com/maudzung/SFA3D) - Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation)
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for AI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for SpatialAI
 - [yitu-opensource/MobileNeXt](https://github.com/yitu-opensource/MobileNeXt) - 
 - [yunlu-chen/PointMixup](https://github.com/yunlu-chen/PointMixup) - Implementation for paper "PointMixup: Augmentation for Point Cloud". Accepted to  ECCV 2020 as spotlight presentation
 - [frobelbest/BANet](https://github.com/frobelbest/BANet) - Source Code for the Paper BA-Net: Dense Bundle Adjustment Network
