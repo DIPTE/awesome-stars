@@ -210,7 +210,7 @@
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
 - [kiwicampus/rosboard_client](https://github.com/kiwicampus/rosboard_client) - Client for remotely streaming ROS messages through websockets using rosboard as server
@@ -264,7 +264,7 @@
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
@@ -1078,7 +1078,7 @@
 
 ## game 
 
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
 
 ## gamedev 
 
@@ -1296,7 +1296,7 @@
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
@@ -1595,6 +1595,8 @@
 
 ## others 
 
+- [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - [arXiv 2023] Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
@@ -4088,7 +4090,7 @@
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [zellerlab/GECCO](https://github.com/zellerlab/GECCO) - GEne Cluster prediction with COnditional random fields.
