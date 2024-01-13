@@ -111,6 +111,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [spring](#spring)
@@ -1595,6 +1596,9 @@
 
 ## others 
 
+- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - WidthFormer: Toward Efficient Transformer-based BEV View Transformation
+- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - [arXiv 2023] Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
@@ -2026,7 +2030,7 @@
 - [deep-practice/FastBEV-TensorRT](https://github.com/deep-practice/FastBEV-TensorRT) - 
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Provide unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstream AI frameworks such as Te
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/INT4/FP4/NF4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
 - [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - [NeurIPS 2023 Track Datasets and Benchmarks] OpenLane-V2: The First Perception and Reasoning Benchmark for Road Driving
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
@@ -3179,7 +3183,6 @@
 - [flann-lib/flann](https://github.com/flann-lib/flann) - Fast Library for Approximate Nearest Neighbors
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [KamitaniLab/docker-images](https://github.com/KamitaniLab/docker-images) - 
-- [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [coin-or/metslib](https://github.com/coin-or/metslib) - An Open Source Tabu Search Metaheuristic framework in C++
 - [opencv/opencv_extra](https://github.com/opencv/opencv_extra) - OpenCV extra data
 - [staillyd/bin2pcd_kitti](https://github.com/staillyd/bin2pcd_kitti) - 
@@ -4568,6 +4571,10 @@
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
+
+## security 
+
+- [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 
 ## self-hosted 
 
