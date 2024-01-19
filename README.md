@@ -221,6 +221,23 @@
 
 ## C++ 
 
+- [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
+- [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
+- [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
+- [Wolfwjs/GANet](https://github.com/Wolfwjs/GANet) - A Keypoint-based Global Association Network for Lane Detection. Accepted by CVPR 2022
+- [ChenZjut/ROS_LaneATT](https://github.com/ChenZjut/ROS_LaneATT) - 
+- [wep21/CUDA-TransFusion](https://github.com/wep21/CUDA-TransFusion) - 
+- [CYYAI/AiInfer](https://github.com/CYYAI/AiInfer) - 
+- [yhwang-hub/dl_model_infer](https://github.com/yhwang-hub/dl_model_infer) - 
+- [fpeanut/Pointpillar_tensorrt](https://github.com/fpeanut/Pointpillar_tensorrt) - pointpillar mmdeteion3d model Tensorrt deployment, improved and faster
+- [rand0md00r/centerpoint_detector_ros](https://github.com/rand0md00r/centerpoint_detector_ros) - 
+- [wayyeah/PointPillarTensorRT-ROS](https://github.com/wayyeah/PointPillarTensorRT-ROS) - PointPillar with TensorRT and ROS 1 for Visualization
+- [Chengjun-Xie/PointPillars-OpenCL](https://github.com/Chengjun-Xie/PointPillars-OpenCL) - 3D Point Cloud detection network PointPillars based on OpenCL and OpenVINO. Perfect for Intel devices
+- [cqu20160901/DETR_tensorRT_Cplusplus](https://github.com/cqu20160901/DETR_tensorRT_Cplusplus) - DETR tensorRT C++部署。
+- [cqu20160901/yolov8_tensorRT_Cplusplus](https://github.com/cqu20160901/yolov8_tensorRT_Cplusplus) - yolov8 tensorRT 的 C++部署。
+- [linClubs/Calibration-Is-All-You-Need](https://github.com/linClubs/Calibration-Is-All-You-Need) - calibration is you need including camera、imu、camera2camera、 camera2lidar、imu2camera、imu2lidar.
+- [linClubs/YOLOv8-ROS-TensorRT](https://github.com/linClubs/YOLOv8-ROS-TensorRT) - YOLOv8-ROS-TensorRT-CPP detect, segment & pose including ros1 & ros2.
+- [linClubs/BEVDet-ROS-TensorRT](https://github.com/linClubs/BEVDet-ROS-TensorRT) - BEVDet online real-time inference using CUDA, TensorRT, ROS1 & C++.
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [EZreal-zhangxing/rk_ffmpeg](https://github.com/EZreal-zhangxing/rk_ffmpeg) - 在rockchip3588上实现用ffmpeg进行推拉流，其中推拉流使用硬件加速编解码
@@ -1189,6 +1206,7 @@
 
 ## Jupyter Notebook 
 
+- [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [chongzhou96/EdgeSAM](https://github.com/chongzhou96/EdgeSAM) - Official PyTorch implementation of "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM"
@@ -1652,6 +1670,16 @@
 
 ## Python 
 
+- [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
+- [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
+- [lucastabelini/PolyLaneNet](https://github.com/lucastabelini/PolyLaneNet) - Code for the paper entitled "PolyLaneNet: Lane Estimation via Deep Polynomial Regression" (ICPR 2020)
+- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - Official project repository of Point Transformer V3 (PTv3)
+- [linClubs/FastBEV-ROS-TensorRT](https://github.com/linClubs/FastBEV-ROS-TensorRT) - FastBEV-ROS-TensorRT-CPP real time inference including ros1 & ros2
+- [linClubs/BEVFusion-ROS-TensorRT](https://github.com/linClubs/BEVFusion-ROS-TensorRT) - BEVFusion-ROS-TensorRT-CPP real time inference including ros1 & ros2.
+- [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type
+- [Deep-Spark/DeepSparkHub](https://github.com/Deep-Spark/DeepSparkHub) - DeepSparkHub selects hundreds of application algorithms and models, covering various fields of AI and general-purpose computing, to support the mainstream intelligent computing scenarios.
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
+- [cqu20160901/DETR_onnx_tensorRT_V2](https://github.com/cqu20160901/DETR_onnx_tensorRT_V2) - DETR tensor去除推理过程无用辅助头+fp16部署再次加速+解决转tensorrt 输出全为0问题的新方法。
 - [wu-zhonghua/RAC-Net](https://github.com/wu-zhonghua/RAC-Net) - 
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
 - [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - WidthFormer: Toward Efficient Transformer-based BEV View Transformation
@@ -3217,7 +3245,6 @@
 - [hmgoforth/PointNetLK](https://github.com/hmgoforth/PointNetLK) - 
 - [taolei87/rcnn](https://github.com/taolei87/rcnn) - Recurrent & convolutional neural network modules
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
-- [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - Minimal PyTorch implementation of YOLOv3
 - [YunYang1994/tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - 🔥 TensorFlow Code for technical report: "YOLOv3: An Incremental Improvement"
 - [fferroni/PointPillars](https://github.com/fferroni/PointPillars) - Point Pillars 3D detection network implementation in Tensorflow
