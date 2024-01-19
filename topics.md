@@ -416,6 +416,8 @@
 
 ## computer-vision 
 
+- [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Evocargo/Lidar-Annotation-is-All-You-Need](https://github.com/Evocargo/Lidar-Annotation-is-All-You-Need) - 2D road segmentation using lidar data during training
 - [MCG-NJU/MeMOTR](https://github.com/MCG-NJU/MeMOTR) - [ICCV 2023] MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking
@@ -694,6 +696,9 @@
 
 ## deep-learning 
 
+- [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
+- [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
+- [lucastabelini/PolyLaneNet](https://github.com/lucastabelini/PolyLaneNet) - Code for the paper entitled "PolyLaneNet: Lane Estimation via Deep Polynomial Regression" (ICPR 2020)
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Evocargo/Lidar-Annotation-is-All-You-Need](https://github.com/Evocargo/Lidar-Annotation-is-All-You-Need) - 2D road segmentation using lidar data during training
@@ -1599,6 +1604,29 @@
 
 ## others 
 
+- [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
+- [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
+- [Wolfwjs/GANet](https://github.com/Wolfwjs/GANet) - A Keypoint-based Global Association Network for Lane Detection. Accepted by CVPR 2022
+- [ChenZjut/ROS_LaneATT](https://github.com/ChenZjut/ROS_LaneATT) - 
+- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - Official project repository of Point Transformer V3 (PTv3)
+- [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
+- [wep21/CUDA-TransFusion](https://github.com/wep21/CUDA-TransFusion) - 
+- [CYYAI/AiInfer](https://github.com/CYYAI/AiInfer) - 
+- [yhwang-hub/dl_model_infer](https://github.com/yhwang-hub/dl_model_infer) - 
+- [fpeanut/Pointpillar_tensorrt](https://github.com/fpeanut/Pointpillar_tensorrt) - pointpillar mmdeteion3d model Tensorrt deployment, improved and faster
+- [rand0md00r/centerpoint_detector_ros](https://github.com/rand0md00r/centerpoint_detector_ros) - 
+- [wayyeah/PointPillarTensorRT-ROS](https://github.com/wayyeah/PointPillarTensorRT-ROS) - PointPillar with TensorRT and ROS 1 for Visualization
+- [Chengjun-Xie/PointPillars-OpenCL](https://github.com/Chengjun-Xie/PointPillars-OpenCL) - 3D Point Cloud detection network PointPillars based on OpenCL and OpenVINO. Perfect for Intel devices
+- [cqu20160901/DETR_tensorRT_Cplusplus](https://github.com/cqu20160901/DETR_tensorRT_Cplusplus) - DETR tensorRT C++部署。
+- [cqu20160901/yolov8_tensorRT_Cplusplus](https://github.com/cqu20160901/yolov8_tensorRT_Cplusplus) - yolov8 tensorRT 的 C++部署。
+- [linClubs/FastBEV-ROS-TensorRT](https://github.com/linClubs/FastBEV-ROS-TensorRT) - FastBEV-ROS-TensorRT-CPP real time inference including ros1 & ros2
+- [linClubs/Calibration-Is-All-You-Need](https://github.com/linClubs/Calibration-Is-All-You-Need) - calibration is you need including camera、imu、camera2camera、 camera2lidar、imu2camera、imu2lidar.
+- [linClubs/YOLOv8-ROS-TensorRT](https://github.com/linClubs/YOLOv8-ROS-TensorRT) - YOLOv8-ROS-TensorRT-CPP detect, segment & pose including ros1 & ros2.
+- [linClubs/BEVDet-ROS-TensorRT](https://github.com/linClubs/BEVDet-ROS-TensorRT) - BEVDet online real-time inference using CUDA, TensorRT, ROS1 & C++.
+- [linClubs/BEVFusion-ROS-TensorRT](https://github.com/linClubs/BEVFusion-ROS-TensorRT) - BEVFusion-ROS-TensorRT-CPP real time inference including ros1 & ros2.
+- [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type
+- [Deep-Spark/DeepSparkHub](https://github.com/Deep-Spark/DeepSparkHub) - DeepSparkHub selects hundreds of application algorithms and models, covering various fields of AI and general-purpose computing, to support the mainstream intelligent computing scenarios.
+- [cqu20160901/DETR_onnx_tensorRT_V2](https://github.com/cqu20160901/DETR_onnx_tensorRT_V2) - DETR tensor去除推理过程无用辅助头+fp16部署再次加速+解决转tensorrt 输出全为0问题的新方法。
 - [wu-zhonghua/RAC-Net](https://github.com/wu-zhonghua/RAC-Net) - 
 - [UofT-EcoSystem/Minuet](https://github.com/UofT-EcoSystem/Minuet) - [EuroSys'24] Minuet: Accelerating 3D Sparse Convolutions on GPUs
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
@@ -3865,7 +3893,6 @@
 - [vinits5/PointNetLK](https://github.com/vinits5/PointNetLK) - This is the clean implementation of PointNetLK with pretrained models. (A 3D point cloud registration network)
 - [hmgoforth/PointNetLK](https://github.com/hmgoforth/PointNetLK) - 
 - [taolei87/rcnn](https://github.com/taolei87/rcnn) - Recurrent & convolutional neural network modules
-- [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - Minimal PyTorch implementation of YOLOv3
 - [fferroni/PointPillars](https://github.com/fferroni/PointPillars) - Point Pillars 3D detection network implementation in Tensorflow
 - [MVIG-SJTU/pointSIFT](https://github.com/MVIG-SJTU/pointSIFT) - a module for 3D semantic segmentation in point clouds.
@@ -4084,6 +4111,7 @@
 
 ## python 
 
+- [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
@@ -4208,6 +4236,10 @@
 
 ## pytorch 
 
+- [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
+- [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
+- [lucastabelini/PolyLaneNet](https://github.com/lucastabelini/PolyLaneNet) - Code for the paper entitled "PolyLaneNet: Lane Estimation via Deep Polynomial Regression" (ICPR 2020)
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
@@ -4611,6 +4643,7 @@
 
 ## tensorflow 
 
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
