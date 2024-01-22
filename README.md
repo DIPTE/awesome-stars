@@ -307,7 +307,7 @@
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
-- [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
+- [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
 - [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
 - [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 - [zbz96/lidar_centerpoint](https://github.com/zbz96/lidar_centerpoint) - 
@@ -1499,7 +1499,7 @@
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
 - [jianrenw/PanoNet3D](https://github.com/jianrenw/PanoNet3D) - 
-- [yichaoshen-MS/V-DETR](https://github.com/yichaoshen-MS/V-DETR) - 
+- [V-DETR/V-DETR](https://github.com/V-DETR/V-DETR) - 
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
@@ -2195,12 +2195,12 @@
 - [ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch) - official repo for the paper "SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images"
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [ajhamdi/mvtorch](https://github.com/ajhamdi/mvtorch) - a Pytorch library for multi-view 3D understanding and generation
-- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - [IJCV2023] A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks
-- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - [IJCV2023] GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation
+- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks [IJCV2023]
+- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation [IJCV2023]
 - [Sense-GVT/Fast-BEV](https://github.com/Sense-GVT/Fast-BEV) - Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
-- [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - [NeurIPS2023] Unleash the Potential of Image Branch for Cross-modal 3D Object Detection
+- [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - Unleash the Potential of Image Branch for Cross-modal 3D Object Detection [NeurIPS2023]
 - [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023).
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
