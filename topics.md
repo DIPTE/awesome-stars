@@ -207,14 +207,15 @@
 
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
+- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [kiwicampus/rosboard_client](https://github.com/kiwicampus/rosboard_client) - Client for remotely streaming ROS messages through websockets using rosboard as server
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [areuther/ai-accelerators](https://github.com/areuther/ai-accelerators) - CSV spreadsheets and other material for AI accelerator survey papers
@@ -232,7 +233,7 @@
 ## algorithm 
 
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [Morwenn/cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -266,7 +267,7 @@
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
@@ -372,7 +373,7 @@
 ## chatgpt 
 
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
@@ -685,7 +686,7 @@
 
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
@@ -1048,12 +1049,14 @@
 
 ## education 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 ## electron 
 
+- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 
 ## emulator 
@@ -1083,7 +1086,7 @@
 
 ## game 
 
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
 
 ## gamedev 
 
@@ -1182,7 +1185,7 @@
 
 ## iot 
 
-- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
+- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
 - [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
@@ -1205,7 +1208,8 @@
 
 ## javascript 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -1264,7 +1268,7 @@
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [monsiw/object-detection-yolo](https://github.com/monsiw/object-detection-yolo) - The project aims to use a trained model in the YOLO network to detect objects that will be detected by the robot structure with a computer on which ROS has been installed. ROS manages the individual p
-- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
+- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [CANopenNode/CANopenLinux](https://github.com/CANopenNode/CANopenLinux) - CANopenNode on Linux devices
 - [craigpeacock/CAN-Examples](https://github.com/craigpeacock/CAN-Examples) - Example C code for CAN Sockets on Linux
 - [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
@@ -1301,7 +1305,7 @@
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
@@ -1310,7 +1314,7 @@
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [KangchengLiu/DLC_LiDAR_SLAM](https://github.com/KangchengLiu/DLC_LiDAR_SLAM) - :fire: :muscle: Official Project: A Robust and Effective LiDAR-SLAM System with Learning-based Denoising and Loop Closure (DLC-SLAM, TMECH-2023)
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
-- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation
+- [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation [IJCV2023]
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
@@ -1526,7 +1530,7 @@
 
 ## nodejs 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 
 ## npm 
 
@@ -1600,10 +1604,17 @@
 ## operating-system 
 
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
+- [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 
 ## others 
 
+- [SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds](https://github.com/SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds) - With Pynq -DPU overlay on KV260, we made 3D Object Detection on Point Clouds generated from LiDAR Faster than ever!
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+- [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
+- [HuangCongQing/Point-Clouds-Visualization](https://github.com/HuangCongQing/Point-Clouds-Visualization) - visualization点云可视化(open3D, mayavi, rviz(ros), PCL等)
+- [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
+- [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: Composing Diverse Scenarios for Generalizable Reinforcement Learning
+- [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
 - [Wolfwjs/GANet](https://github.com/Wolfwjs/GANet) - A Keypoint-based Global Association Network for Lane Detection. Accepted by CVPR 2022
@@ -1636,7 +1647,7 @@
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - [arXiv 2023] Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
+- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - [ICLR 2024] Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
@@ -1728,7 +1739,6 @@
 - [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
 - [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
-- [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code) 课程主页：http://111.229.117.200:7001/
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
@@ -1801,7 +1811,7 @@
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
 - [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 - [tyhuang0428/CLIP2Point](https://github.com/tyhuang0428/CLIP2Point) - [ICCV 2023] CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training
-- [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
+- [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
 - [fishros/yolov_ros2](https://github.com/fishros/yolov_ros2) - 基于 YOLOv5 的 ROS 2 封装，允许用户使用给定的模型文件和图像话题进行实时物体检测。
 - [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) - 基于YOLOV5 的ROS2功能包，可以快速完成物体识别与位姿发布。 A ROS2 package based on YOLOV5 that enables fast object recognition and pose publishing.
 - [leofansq/CBR](https://github.com/leofansq/CBR) - Calibration-free BEV Representation for Infrastructure Perception (IROS2023)
@@ -1888,7 +1898,7 @@
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced 7 and 20 billion parameter base models and chat models.
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM, Llama, Baichuan, Qwen, ChatGLM)
 - [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
@@ -2011,7 +2021,7 @@
 - [drilistbox/3DPPE](https://github.com/drilistbox/3DPPE) - 
 - [BIT-DYN/pointpillars_ros](https://github.com/BIT-DYN/pointpillars_ros) - A ros implement for pointpillars (OpenPCDet based)
 - [LiWentomng/Point2Mask](https://github.com/LiWentomng/Point2Mask) - The code for "Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport", ICCV2023
-- [yichaoshen-MS/V-DETR](https://github.com/yichaoshen-MS/V-DETR) - 
+- [V-DETR/V-DETR](https://github.com/V-DETR/V-DETR) - [ICLR 2024] This is the official code of the paper "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection"
 - [Mr-Neko/JM3D](https://github.com/Mr-Neko/JM3D) - The offical implemention of JM3D.
 - [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) - Official PyTorch implementation of FocalFormer3D [ICCV 2023]
 - [tiangexiang/OccNeRF](https://github.com/tiangexiang/OccNeRF) - [ICCV 2023] Rendering Humans from Object-Occluded Monocular Videos
@@ -2476,11 +2486,11 @@
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
-- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - Code for "A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks".
+- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks [IJCV2023]
 - [LeapLabTHU/Text4Point](https://github.com/LeapLabTHU/Text4Point) - 
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
-- [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - Codes for "Unleash the Potential of Image Branch for Cross-modal 3D Object Detection"
+- [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - Unleash the Potential of Image Branch for Cross-modal 3D Object Detection [NeurIPS2023]
 - [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023).
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [Nrusher/nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) - shell for MCU. 单片机命令行交互。
@@ -2875,11 +2885,10 @@
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [zhukao/AI-EXPRESS](https://github.com/zhukao/AI-EXPRESS) - 
 - [Staok/Awesome-K210](https://github.com/Staok/Awesome-K210) - 收集关于K210的MaixPy开发和SDK IDE开发等的软硬件入门资料，帮助初学者快速了解、学习和使用K210
-- [sipeed/MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
+- [sipeed/MaixPy-v1](https://github.com/sipeed/MaixPy-v1) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) - Yolo-for-k210
 - [vseasky/riscv-k210](https://github.com/vseasky/riscv-k210) - K210  PCB YOLO
 - [zhen8838/K210_Yolo_framework](https://github.com/zhen8838/K210_Yolo_framework) - Yolo v3 framework base on tensorflow, support multiple models, multiple datasets, any number of output layers, any number of anchors, model prune, and portable model to K210 !
-- [LZBUAV/MVision](https://github.com/LZBUAV/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 - [kendryte/kendryte-flash-windows](https://github.com/kendryte/kendryte-flash-windows) - Kendryte flash utility for Windows
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
@@ -4107,6 +4116,7 @@
 
 ## programming 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## python 
@@ -4122,14 +4132,14 @@
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX [NeurIPS23]
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - 🎲 Vectorized RL game environments in JAX
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [zellerlab/GECCO](https://github.com/zellerlab/GECCO) - GEne Cluster prediction with COnditional random fields.
@@ -4546,6 +4556,7 @@
 
 ## robotics 
 
+- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [jhu-lcsr/handeye_calib_camodocal](https://github.com/jhu-lcsr/handeye_calib_camodocal) - Easy to use and accurate hand eye calibration which has been working reliably for years (2016-present) with kinect, kinectv2, rgbd cameras, optical trackers, and several robots including the ur5 and k
 - [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
 - [norlab-ulaval/libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher) - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics
@@ -4732,6 +4743,7 @@
 
 ## typescript 
 
+- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
@@ -4768,6 +4780,7 @@
 
 ## web 
 
+- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [walzimmer/3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling
 
