@@ -205,6 +205,7 @@
 
 ## ai 
 
+- [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流，觉得有帮助的请给个星星：）。
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
@@ -581,6 +582,8 @@
 
 ## cpp 
 
+- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - tensorrt cpp implementation of depth-anything model
+- [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流，觉得有帮助的请给个星星：）。
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
@@ -697,6 +700,7 @@
 
 ## deep-learning 
 
+- [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流，觉得有帮助的请给个星星：）。
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
 - [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
 - [lucastabelini/PolyLaneNet](https://github.com/lucastabelini/PolyLaneNet) - Code for the paper entitled "PolyLaneNet: Lane Estimation via Deep Polynomial Regression" (ICPR 2020)
@@ -1281,6 +1285,7 @@
 
 ## localization 
 
+- [YukunXia/VLOAM-CMU-16833](https://github.com/YukunXia/VLOAM-CMU-16833) - CMU 16-833 "Robot Localization and Mapping" Course Project
 - [leggedrobotics/open3d_slam](https://github.com/leggedrobotics/open3d_slam) - Pointcloud-based graph SLAM written in C++ using open3D library.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [skhadem/3D-BoundingBox](https://github.com/skhadem/3D-BoundingBox) - PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry
@@ -1556,6 +1561,7 @@
 
 ## opencv 
 
+- [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流，觉得有帮助的请给个星星：）。
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
 - [Ar-Ray-code/bbox_ex_msgs](https://github.com/Ar-Ray-code/bbox_ex_msgs) - Extended message for darknet_ros_msgs
@@ -1608,6 +1614,29 @@
 
 ## others 
 
+- [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
+- [berndpfrommer/basalt_ros2](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO
+- [OpenSLAM-org/openslam_gmapping](https://github.com/OpenSLAM-org/openslam_gmapping) - GMapping Repository from OpenSLAM.org
+- [Livox-SDK/livox_mapping](https://github.com/Livox-SDK/livox_mapping) - A mapping package for Livox LiDARs
+- [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
+- [haocaichao/S-LOAM](https://github.com/haocaichao/S-LOAM) - S-LOAM(Simple LOAM) 是一种简单易学的激光SLAM算法，整个程序只有几百行代码，十分方便学习与试验分析。
+- [hyye/lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
+- [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
+- [xieqi1/a-loam-noted](https://github.com/xieqi1/a-loam-noted) - 
+- [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM) - LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping
+- [xieqi1/lio-sam-noted](https://github.com/xieqi1/lio-sam-noted) - 
+- [xieqi1/VINS-Fusion-noted](https://github.com/xieqi1/VINS-Fusion-noted) - 
+- [xieqi1/VINS-Mono-noted](https://github.com/xieqi1/VINS-Mono-noted) - detailed chinese notes for vins-mono
+- [Oreoluwa-Se/Lidar-Imu-Slam](https://github.com/Oreoluwa-Se/Lidar-Imu-Slam) - Slam Algorithm to combine Lidar and Imu sensors to localize and generate a map of the environment. A combination of ICP and Kalman Filtering process is used in the odometry phase and Non-Linear optimi
+- [hku-mars/joint-lidar-camera-calib](https://github.com/hku-mars/joint-lidar-camera-calib) - Joint intrinsic and extrinsic LiDAR-camera calibration.
+- [hku-mars/LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - [IROS2022] Robust Real-time LiDAR-inertial Initialization Method.
+- [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio) - Faster-LIO: Lightweight Tightly Coupled Lidar-inertial Odometry using Parallel Sparse Incremental Voxels
+- [gisbi-kim/SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM) - LiDAR-inertial SLAM: Scan Context + LIO-SAM
+- [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
+- [drilistbox/TRT_FlashOcc](https://github.com/drilistbox/TRT_FlashOcc) - 
+- [Yzichen/FlashOCC](https://github.com/Yzichen/FlashOCC) - 
+- [Cc-Hy/UniVision](https://github.com/Cc-Hy/UniVision) - 
+- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data
 - [SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds](https://github.com/SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds) - With Pynq -DPU overlay on KV260, we made 3D Object Detection on Point Clouds generated from LiDAR Faster than ever!
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
@@ -2453,7 +2482,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [DefTruth/cuda-learn-note](https://github.com/DefTruth/cuda-learn-note) - CUDA 高频面试题汇总 / C++笔记
+- [DefTruth/cuda-learn-note](https://github.com/DefTruth/cuda-learn-note) - 🎉CUDA 笔记 / 高频面试题汇总 / C++笔记，个人笔记，更新随缘: sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -4509,6 +4538,7 @@
 
 ## qt 
 
+- [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
@@ -4556,6 +4586,7 @@
 
 ## robotics 
 
+- [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [jhu-lcsr/handeye_calib_camodocal](https://github.com/jhu-lcsr/handeye_calib_camodocal) - Easy to use and accurate hand eye calibration which has been working reliably for years (2016-present) with kinect, kinectv2, rgbd cameras, optical trackers, and several robots including the ur5 and k
 - [ethz-asl/voxblox](https://github.com/ethz-asl/voxblox) - A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
