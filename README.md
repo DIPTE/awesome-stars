@@ -569,6 +569,7 @@
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6, YOLOv5), nms plugin support
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
+- [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
 - [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 - [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE is a robust, real-time tightly-coupled multi-sensor fusion framework, which fuses the measurement from the LiDAR, inertial sensor, visual camera to achieve robust, accurate state estimation.
 - [python-rapidjson/python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - Python wrapper around rapidjson
@@ -1484,7 +1485,6 @@
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
-- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
 - [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
 - [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
@@ -1568,7 +1568,6 @@
 - [LeapLabTHU/Text4Point](https://github.com/LeapLabTHU/Text4Point) - 
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [hku-mars/lidar_car_platfrom](https://github.com/hku-mars/lidar_car_platfrom) - 
-- [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
 - [unmannedlab/LiDARNet](https://github.com/unmannedlab/LiDARNet) - LiDARNet: A Boundary-Aware Domain Adaptation Model for Point Cloud Semantic Segmentation
 - [Inspur-Autodrive/Inspur_DABNet4D](https://github.com/Inspur-Autodrive/Inspur_DABNet4D) - This method performs 3D object detection in the BEV space using images from multiple cameras.
 - [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
@@ -1702,7 +1701,7 @@
 - [SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds](https://github.com/SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds) - With Pynq -DPU overlay on KV260, we made 3D Object Detection on Point Clouds generated from LiDAR Faster than ever!
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [HuangCongQing/Point-Clouds-Visualization](https://github.com/HuangCongQing/Point-Clouds-Visualization) - visualization点云可视化(open3D, mayavi, rviz(ros), PCL等)
-- [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: Composing Diverse Scenarios for Generalizable Reinforcement Learning
+- [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: AI Research for Generalizable and Interpretable Machine Autonomy
 - [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
 - [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
 - [lucastabelini/PolyLaneNet](https://github.com/lucastabelini/PolyLaneNet) - Code for the paper entitled "PolyLaneNet: Lane Estimation via Deep Polynomial Regression" (ICPR 2020)
@@ -1782,6 +1781,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - Code for "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models" NeurIPS 2022
 - [zju3dv/OnePose](https://github.com/zju3dv/OnePose) - Code for "OnePose: One-Shot Object Pose Estimation without CAD Models", CVPR 2022
+- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack) - [NeurIPS 2023 Spotlight] ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking
 - [stevewongv/Sparse2Dense](https://github.com/stevewongv/Sparse2Dense) - Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection (NeurIPS 2022)
 - [Nightmare-n/UniPAD](https://github.com/Nightmare-n/UniPAD) - UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
@@ -2713,7 +2713,7 @@
 - [SH-Tan/RangeRcnn-backbone](https://github.com/SH-Tan/RangeRcnn-backbone) - The backbone of the RangeRCNN, including DRB, Downsample, UpSample blocks.
 - [thangvubk/SoftGroup](https://github.com/thangvubk/SoftGroup) - [CVPR 2022 Oral] SoftGroup for Instance Segmentation on 3D Point Clouds
 - [xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D) - Rank 1st in the leaderboard of SemanticKITTI semantic segmentation (both single-scan and multi-scan) (Nov. 2020) (CVPR2021 Oral)
-- [hongfz16/DS-Net](https://github.com/hongfz16/DS-Net) - [CVPR 2021] Rank 1st in the public leaderboard of SemanticKITTI Panoptic Segmentation (2020-11-16)
+- [hongfz16/DS-Net](https://github.com/hongfz16/DS-Net) - [CVPR 2021/TPAMI 2023] Rank 1st in the public leaderboard of SemanticKITTI Panoptic Segmentation (2020-11-16)
 - [ngowilliam1/centerfusion_depth_factor](https://github.com/ngowilliam1/centerfusion_depth_factor) - 
 - [AllenPeng0209/deeproute_competition](https://github.com/AllenPeng0209/deeproute_competition) - 
 - [konyul/mmdet3d](https://github.com/konyul/mmdet3d) - mmdet3d
