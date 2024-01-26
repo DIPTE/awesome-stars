@@ -1642,7 +1642,7 @@
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
 - [HuangCongQing/Point-Clouds-Visualization](https://github.com/HuangCongQing/Point-Clouds-Visualization) - visualization点云可视化(open3D, mayavi, rviz(ros), PCL等)
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
-- [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: Composing Diverse Scenarios for Generalizable Reinforcement Learning
+- [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: AI Research for Generalizable and Interpretable Machine Autonomy
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
@@ -3320,7 +3320,7 @@
 - [SH-Tan/RangeRcnn-backbone](https://github.com/SH-Tan/RangeRcnn-backbone) - The backbone of the RangeRCNN, including DRB, Downsample, UpSample blocks.
 - [thangvubk/SoftGroup](https://github.com/thangvubk/SoftGroup) - [CVPR 2022 Oral] SoftGroup for Instance Segmentation on 3D Point Clouds
 - [xinge008/Cylinder3D](https://github.com/xinge008/Cylinder3D) - Rank 1st in the leaderboard of SemanticKITTI semantic segmentation (both single-scan and multi-scan) (Nov. 2020) (CVPR2021 Oral)
-- [hongfz16/DS-Net](https://github.com/hongfz16/DS-Net) - [CVPR 2021] Rank 1st in the public leaderboard of SemanticKITTI Panoptic Segmentation (2020-11-16)
+- [hongfz16/DS-Net](https://github.com/hongfz16/DS-Net) - [CVPR 2021/TPAMI 2023] Rank 1st in the public leaderboard of SemanticKITTI Panoptic Segmentation (2020-11-16)
 - [ngowilliam1/centerfusion_depth_factor](https://github.com/ngowilliam1/centerfusion_depth_factor) - 
 - [AllenPeng0209/deeproute_competition](https://github.com/AllenPeng0209/deeproute_competition) - 
 - [konyul/mmdet3d](https://github.com/konyul/mmdet3d) - mmdet3d
