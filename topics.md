@@ -582,7 +582,7 @@
 
 ## cpp 
 
-- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - tensorrt cpp implementation of depth-anything model
+- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - TensorRT cpp implementation of depth-anything model
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流，觉得有帮助的请给个星星：）。
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
