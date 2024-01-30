@@ -560,6 +560,7 @@
 - [raoyongming/PointGLR](https://github.com/raoyongming/PointGLR) - [CVPR 2020] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds
 - [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv) - Gluon CV Toolkit
 - [Xharlie/Grid-GCN](https://github.com/Xharlie/Grid-GCN) - Grid-GCN for Fast and Scalable Point Cloud Learning
+- [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [yunxiaoshi/pointnet-pytorch](https://github.com/yunxiaoshi/pointnet-pytorch) - PointNet in PyTorch with comprehensive experiments
 - [Suoivy/LPD-net](https://github.com/Suoivy/LPD-net) - LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis, ICCV 2019, Seoul, Korea
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -821,7 +822,7 @@
 - [StanfordASL/Trajectron-plus-plus](https://github.com/StanfordASL/Trajectron-plus-plus) - Code accompanying the ECCV 2020 paper "Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data" by Tim Salzmann*, Boris Ivanovic*, Punarjay Chakravarty, and Marco Pavone (* d
 - [Khrylx/AgentFormer](https://github.com/Khrylx/AgentFormer) - [ICCV 2021] Official PyTorch Implementation of "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting".
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
-- [zerollzeng/tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt) - Deploy your model with TensorRT quickly. 快速使用TensorRT来部署模型
+- [zerollzeng/tiny-tensorrt](https://github.com/zerollzeng/tiny-tensorrt) - Deploy your model with TensorRT quickly.
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [haibo-qiu/GFNet](https://github.com/haibo-qiu/GFNet) - [TMLR 2022] Geometric Flow Network for 3D Point Cloud Semantic Segmentation
 - [yanx27/2DPASS](https://github.com/yanx27/2DPASS) - 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (ECCV 2022) :fire:
@@ -980,6 +981,7 @@
 - [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
 - [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv) - Gluon CV Toolkit
 - [charlesq34/pointnet-autoencoder](https://github.com/charlesq34/pointnet-autoencoder) - Autoencoder for Point Clouds
+- [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [YunYang1994/tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - 🔥 TensorFlow Code for technical report: "YOLOv3: An Incremental Improvement"
 - [NVlabs/splatnet](https://github.com/NVlabs/splatnet) - SPLATNet: Sparse Lattice Networks for Point Cloud Processing (CVPR2018)
 - [griegler/octnet](https://github.com/griegler/octnet) - OctNet: Learning Deep 3D Representations at High Resolutions
@@ -1614,6 +1616,9 @@
 
 ## others 
 
+- [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [motional/polarstream](https://github.com/motional/polarstream) - 
 - [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
 - [berndpfrommer/basalt_ros2](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO
 - [OpenSLAM-org/openslam_gmapping](https://github.com/OpenSLAM-org/openslam_gmapping) - GMapping Repository from OpenSLAM.org
@@ -1642,7 +1647,7 @@
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
 - [HuangCongQing/Point-Clouds-Visualization](https://github.com/HuangCongQing/Point-Clouds-Visualization) - visualization点云可视化(open3D, mayavi, rviz(ros), PCL等)
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
-- [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: AI Research for Generalizable and Interpretable Machine Autonomy
+- [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: Open-source driving simulator
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
@@ -1855,7 +1860,7 @@
 - [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
 - [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
 - [princeton-vl/Oriented1D](https://github.com/princeton-vl/Oriented1D) - Official code for ICCV 2023 paper "Convolutional Networks with Oriented 1D Kernels"
-- [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (Submitted to ICRA'24)
+- [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (Accepted to ICRA'24)
 - [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 - [yangyuke001/DriveGPT](https://github.com/yangyuke001/DriveGPT) - auto drive from GPT
 - [zbz96/lidar_centerpoint](https://github.com/zbz96/lidar_centerpoint) - 
@@ -2564,7 +2569,7 @@
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
 - [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition.
 - [haomo-ai/MotionSeg3D](https://github.com/haomo-ai/MotionSeg3D) - [IROS 2022] Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
-- [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) - SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation
+- [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) - [ICRA 2024] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation
 - [atonderski/lidarclip](https://github.com/atonderski/lidarclip) - Bridging lidar and text through image intermediaries
 - [mit-han-lab/tiny-training](https://github.com/mit-han-lab/tiny-training) - On-Device Training Under 256KB Memory [NeurIPS'22]
 - [12-10-8/HRNet_TensorRT](https://github.com/12-10-8/HRNet_TensorRT) - 
@@ -4508,6 +4513,7 @@
 - [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
 - [MonteYang/VoxNet.pytorch](https://github.com/MonteYang/VoxNet.pytorch) - A pytorch implement of voxnet. "VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition"
 - [lyqun/FPConv](https://github.com/lyqun/FPConv) - CVPR 2020, "FPConv: Learning Local Flattening for Point Convolution"
+- [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [pqhieu/jsis3d](https://github.com/pqhieu/jsis3d) - [CVPR'19] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds
 - [XuyangBai/KPConv.pytorch](https://github.com/XuyangBai/KPConv.pytorch) - PyTorch reimplementation for "KPConv: Flexible and Deformable Convolution for Point Clouds" https://arxiv.org/abs/1904.08889
 - [yassersouri/pytorch-deep-sets](https://github.com/yassersouri/pytorch-deep-sets) - PyTorch re-implementation of parts of "Deep Sets" (NIPS 2017)
