@@ -248,7 +248,7 @@
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 - [drilistbox/TRT_FlashOcc](https://github.com/drilistbox/TRT_FlashOcc) - 
 - [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp implementation of depth-anything model using tensorrt api.
-- [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - a plugin-oriented framework for video structured. 国产程序员请加微信zhzhi78拉群交流，觉得有帮助的请给个星星：）。
+- [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
@@ -1466,9 +1466,10 @@
 
 ## Others 
 
+- [haomo-ai/Cam4DOcc](https://github.com/haomo-ai/Cam4DOcc) - Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - We'll cover some of the most common Deep Learning Interview Questions and answers and provide detailed answers to help you
 - [tech-shrimp/me](https://github.com/tech-shrimp/me) - 技术爬爬虾的资源合集
-- [IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) - Multimodal Large Language Models for Autonomous Driving [WACV 2024 Survey Paper]
+- [IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) - [WACV 2024 Survey Paper] Multimodal Large Language Models for Autonomous Driving
 - [Cc-Hy/UniVision](https://github.com/Cc-Hy/UniVision) - 
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
@@ -1703,6 +1704,8 @@
 
 ## Python 
 
+- [ApolloAuto/apollo-model-radar4d](https://github.com/ApolloAuto/apollo-model-radar4d) - 
+- [tusen-ai/RangeDet](https://github.com/tusen-ai/RangeDet) - Paper and Codes for “RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection” (ICCV2021)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
@@ -1741,7 +1744,7 @@
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
-- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation
+- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty
 - [YujiaLiu76/point2cad](https://github.com/YujiaLiu76/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
 - [16lemoing/dot](https://github.com/16lemoing/dot) - Dense Optical Tracking: Connecting the Dots
 - [junshengzhou/VP2P-Match](https://github.com/junshengzhou/VP2P-Match) - [NeurIPS'2023 Spotlight]: Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching
