@@ -310,7 +310,7 @@
 - [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Backends
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - An Alternative for Triton Inference Server. Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Bac
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
@@ -1704,6 +1704,9 @@
 
 ## Python 
 
+- [BraveGroup/Drive-WM](https://github.com/BraveGroup/Drive-WM) - A world model for autonomous driving.
+- [BraveGroup/PSPS](https://github.com/BraveGroup/PSPS) - Pointly-supervised panoptic segmentation
+- [BraveGroup/PointSAM-for-MixSup](https://github.com/BraveGroup/PointSAM-for-MixSup) - Codes for ICLR 2024: "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection"
 - [ApolloAuto/apollo-model-radar4d](https://github.com/ApolloAuto/apollo-model-radar4d) - 
 - [tusen-ai/RangeDet](https://github.com/tusen-ai/RangeDet) - Paper and Codes for “RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection” (ICCV2021)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -2943,7 +2946,7 @@
 - [Tai-Hsien/MeshSegNet](https://github.com/Tai-Hsien/MeshSegNet) - PyTorch version of MeshSegNet for tooth segmentation of intraoral scans (point cloud/mesh). The code also includes visdom for training visualization; this project is partially powered by SOVE Inc.
 - [cheind/py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
 - [TRI-ML/permatrack](https://github.com/TRI-ML/permatrack) - Implementation for Learning to Track with Object Permanence
-- [eddyhkchiu/mahalanobis_3d_multi_object_tracking](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) - 
+- [eddyhkchiu/mahalanobis_3d_multi_object_tracking](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) - [NeurIPS Workshop 2019] Official code of the paper "Probabilistic 3D Multi-Object Tracking for Autonomous Driving." First Place of the First NuScenes Tracking Challenge in the AI Driving Olympics Work
 - [SysCV/qdtrack](https://github.com/SysCV/qdtrack) - Quasi-Dense Similarity Learning for Multiple Object Tracking, CVPR 2021 (Oral)
 - [StanfordVL/JRMOT_ROS](https://github.com/StanfordVL/JRMOT_ROS) - Source code for JRMOT: A Real-Time 3D Multi-Object Tracker and a New Large-Scale Dataset
 - [xinshuoweng/AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - (IROS 2020, ECCVW 2020) Official Python Implementation for "3D Multi-Object Tracking: A Baseline and New Evaluation Metrics"
