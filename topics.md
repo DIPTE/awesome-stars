@@ -375,7 +375,7 @@
 ## chatgpt 
 
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
@@ -1219,7 +1219,7 @@
 ## javascript 
 
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -1543,7 +1543,7 @@
 
 ## nodejs 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 
 ## npm 
 
@@ -1623,6 +1623,8 @@
 
 ## others 
 
+- [fkluger/parsac](https://github.com/fkluger/parsac) - PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus
+- [YungeCui/LinK3D](https://github.com/YungeCui/LinK3D) - [RA-L] LinK3D: Linear Keypoint Representation for 3D LiDAR Point Cloud
 - [BraveGroup/Drive-WM](https://github.com/BraveGroup/Drive-WM) - A world model for autonomous driving.
 - [BraveGroup/PSPS](https://github.com/BraveGroup/PSPS) - Pointly-supervised panoptic segmentation
 - [BraveGroup/PointSAM-for-MixSup](https://github.com/BraveGroup/PointSAM-for-MixSup) - Codes for ICLR 2024: "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection"
@@ -4195,7 +4197,7 @@
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
