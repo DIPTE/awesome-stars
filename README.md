@@ -224,6 +224,7 @@
 
 ## C++ 
 
+- [YungeCui/LinK3D](https://github.com/YungeCui/LinK3D) - [RA-L] LinK3D: Linear Keypoint Representation for 3D LiDAR Point Cloud
 - [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
 - [berndpfrommer/basalt_ros2](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO
 - [OpenSLAM-org/openslam_gmapping](https://github.com/OpenSLAM-org/openslam_gmapping) - GMapping Repository from OpenSLAM.org
@@ -1704,6 +1705,7 @@
 
 ## Python 
 
+- [fkluger/parsac](https://github.com/fkluger/parsac) - PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus
 - [BraveGroup/Drive-WM](https://github.com/BraveGroup/Drive-WM) - A world model for autonomous driving.
 - [BraveGroup/PSPS](https://github.com/BraveGroup/PSPS) - Pointly-supervised panoptic segmentation
 - [BraveGroup/PointSAM-for-MixSup](https://github.com/BraveGroup/PointSAM-for-MixSup) - Codes for ICLR 2024: "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection"
@@ -1888,7 +1890,7 @@
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [EnVision-Research/Adv3D](https://github.com/EnVision-Research/Adv3D) - 
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
