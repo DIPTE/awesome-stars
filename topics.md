@@ -74,6 +74,7 @@
 - [library](#library)
 - [linux](#linux)
 - [localization](#localization)
+- [low-code](#low-code)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1296,6 +1297,10 @@
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [skhadem/3D-BoundingBox](https://github.com/skhadem/3D-BoundingBox) - PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry
 - [lijx10/DeepI2P](https://github.com/lijx10/DeepI2P) - DeepI2P: Image-to-Point Cloud Registration via Deep Classification. CVPR 2021
+
+## low-code 
+
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 
 ## machine-learning 
 
@@ -2642,7 +2647,7 @@
 - [Yuanchu/YOLO3D](https://github.com/Yuanchu/YOLO3D) - Implementation of a basic YOLO model for object detection in 3D
 - [ForestMa/SOPHGO-HVOD-Contest](https://github.com/ForestMa/SOPHGO-HVOD-Contest) - 
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
-- [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: a dedicated pre- and post- processing library for ONNX Runtime
+- [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime
 - [microsoft/onnxscript](https://github.com/microsoft/onnxscript) - ONNX Script enables developers to naturally author ONNX functions and models using a subset of Python.
 - [dog-qiuqiu/simple-rknn2](https://github.com/dog-qiuqiu/simple-rknn2) - The rknn2 API uses the secondary encapsulation of the process, which is easy for everyone to call. It is applicable to rk356x rk3588
 - [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
