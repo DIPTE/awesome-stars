@@ -2304,7 +2304,7 @@
 - [Yuanchu/YOLO3D](https://github.com/Yuanchu/YOLO3D) - Implementation of a basic YOLO model for object detection in 3D
 - [ForestMa/SOPHGO-HVOD-Contest](https://github.com/ForestMa/SOPHGO-HVOD-Contest) - 
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
-- [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: a dedicated pre- and post- processing library for ONNX Runtime
+- [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime
 - [microsoft/onnxscript](https://github.com/microsoft/onnxscript) - ONNX Script enables developers to naturally author ONNX functions and models using a subset of Python.
 - [sunjiahao1999/SPFormer](https://github.com/sunjiahao1999/SPFormer) - 
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
