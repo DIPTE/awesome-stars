@@ -155,7 +155,7 @@
 - [autoas/ssas-public](https://github.com/autoas/ssas-public) - Simple AUTOSAR Basic Software
 - [armink/FreeModbus_Slave-Master-RTT-STM32](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32) - Add master mode to FreeModbus. | 在 FreeModbus 中添加主机模式
 - [avem-labs/Avem](https://github.com/avem-labs/Avem) - 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [k0suke-murakami/autoware_perception](https://github.com/k0suke-murakami/autoware_perception) - 
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [unicap/unicap](https://github.com/unicap/unicap) - unicap provides a uniform interface to video capture devices.
@@ -1158,7 +1158,7 @@
 
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، ا
@@ -1802,7 +1802,7 @@
 - [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [hou-yz/open-reid-tracking](https://github.com/hou-yz/open-reid-tracking) - open-reid with PCB, IDE, triplet, ZJU; MOT/MTMCT feature extraction support included
 - [1522454735/Multiple-camera-single-target-tracking](https://github.com/1522454735/Multiple-camera-single-target-tracking) - 基于多摄像头协同分析的单目标跟踪算法/系统
-- [fubel/synthehicle](https://github.com/fubel/synthehicle) - [WACV 2023] A massive synthetic dataset for 3D multi-target multi-camera tracking and segmentation.
+- [fubel/synthehicle](https://github.com/fubel/synthehicle) - [WACVW 2023] A massive synthetic dataset for 3D multi-target multi-camera tracking and segmentation.
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
 - [GehenHe/TRACTA](https://github.com/GehenHe/TRACTA) - TRACTA: Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment
