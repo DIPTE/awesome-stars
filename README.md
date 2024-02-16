@@ -985,7 +985,7 @@
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [springzfx/point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) - 
 - [LCAS/cloud_annotation_tool](https://github.com/LCAS/cloud_annotation_tool) - L-CAS 3D Point Cloud Annotation Tool
-- [edward0im/simple_mono_vo_ros](https://github.com/edward0im/simple_mono_vo_ros) - Simple Monocular Visual Odometry method in ROS package (inspired by https://github.com/avisingh599/mono-vo)
+- [gyubeomim/simple_mono_vo_ros](https://github.com/gyubeomim/simple_mono_vo_ros) - Simple Monocular Visual Odometry method in ROS package (inspired by https://github.com/avisingh599/mono-vo)
 - [AndyYuan96/PointCloudDynamicVoxel](https://github.com/AndyYuan96/PointCloudDynamicVoxel) - 
 - [lijx10/DeepI2P](https://github.com/lijx10/DeepI2P) - DeepI2P: Image-to-Point Cloud Registration via Deep Classification. CVPR 2021
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
@@ -1971,7 +1971,7 @@
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [dsx0511/3DMOTFormer](https://github.com/dsx0511/3DMOTFormer) - Offical implementation of ICCV2023 paper 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking.
-- [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Multi-Camera Unified Pre-training via 3D Scene Reconstruction for DETR3D, BEVFormer, BEVDet, BEVDepth and Semantic Occupancy Prediction
+- [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
 - [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
 - [mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF) - Official Implementation (PyTorch) of "Point Cloud Augmentation with Weighted Local Transformations", ICCV 2021
 - [sophgo/sophon_opencv](https://github.com/sophgo/sophon_opencv) - 
@@ -2488,7 +2488,6 @@
 - [fudan-zvg/DeepInteraction](https://github.com/fudan-zvg/DeepInteraction) - [NeurIPS 2022] DeepInteraction: 3D Object Detection via Modality Interaction
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
 - [jhli2019/CVproject](https://github.com/jhli2019/CVproject) - 抖音项目源码分享
-- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [NVIDIA-AI-IOT/viz_3Dbbox_ros2_pointpillars](https://github.com/NVIDIA-AI-IOT/viz_3Dbbox_ros2_pointpillars) - Visualization tool for 3D bounding box results of TAO-PointPillars
 - [andravin/wincnn](https://github.com/andravin/wincnn) - Winograd minimal convolution algorithm generator for convolutional neural networks.
 - [qiulinzhang/SPConv.pytorch](https://github.com/qiulinzhang/SPConv.pytorch) - [ IJCAI-20 ] Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution
@@ -2859,7 +2858,7 @@
 - [ispc-lab/HRegNet](https://github.com/ispc-lab/HRegNet) - [ICCV 2021] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration
 - [bernwang/latte](https://github.com/bernwang/latte) - LATTE: Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking
 - [hasanari/sane](https://github.com/hasanari/sane) - SAnE: Smart annotation and evaluation tool for point cloud data
-- [edward0im/voxelnet_ros](https://github.com/edward0im/voxelnet_ros) - qianguih' voxelnet version with  ROS Implementation code
+- [gyubeomim/voxelnet_ros](https://github.com/gyubeomim/voxelnet_ros) - qianguih' voxelnet version with  ROS Implementation code
 - [Media-Smart/vedacls](https://github.com/Media-Smart/vedacls) - A classification toolbox based on PyTorch
 - [AbangLZU/VoxelNetRos](https://github.com/AbangLZU/VoxelNetRos) - implement the VoxelNet with ROS, using Kitti data to test
 - [AbangLZU/SqueezeSeg_Ros](https://github.com/AbangLZU/SqueezeSeg_Ros) - This is a ros package that implement the SqueezeSeg
@@ -3600,6 +3599,7 @@
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and RLHF tools are supported!
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [microsoft/onnxruntime-web-demo](https://github.com/microsoft/onnxruntime-web-demo) - demos to show the capabilities of ONNX Runtime Web
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
