@@ -2060,7 +2060,7 @@
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
 - [kirushyk/gst-instruments](https://github.com/kirushyk/gst-instruments) - Easy-to-use profiler for GStreamer
 - [dsx0511/3DMOTFormer](https://github.com/dsx0511/3DMOTFormer) - Offical implementation of ICCV2023 paper 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking.
-- [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Multi-Camera Unified Pre-training via 3D Scene Reconstruction for DETR3D, BEVFormer, BEVDet, BEVDepth and Semantic Occupancy Prediction
+- [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
 - [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
@@ -3508,8 +3508,8 @@
 - [springzfx/point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool) - 
 - [hasanari/sane](https://github.com/hasanari/sane) - SAnE: Smart annotation and evaluation tool for point cloud data
 - [LCAS/cloud_annotation_tool](https://github.com/LCAS/cloud_annotation_tool) - L-CAS 3D Point Cloud Annotation Tool
-- [edward0im/simple_mono_vo_ros](https://github.com/edward0im/simple_mono_vo_ros) - Simple Monocular Visual Odometry method in ROS package (inspired by https://github.com/avisingh599/mono-vo)
-- [edward0im/voxelnet_ros](https://github.com/edward0im/voxelnet_ros) - qianguih' voxelnet version with  ROS Implementation code
+- [gyubeomim/simple_mono_vo_ros](https://github.com/gyubeomim/simple_mono_vo_ros) - Simple Monocular Visual Odometry method in ROS package (inspired by https://github.com/avisingh599/mono-vo)
+- [gyubeomim/voxelnet_ros](https://github.com/gyubeomim/voxelnet_ros) - qianguih' voxelnet version with  ROS Implementation code
 - [AbangLZU/VoxelNetRos](https://github.com/AbangLZU/VoxelNetRos) - implement the VoxelNet with ROS, using Kitti data to test
 - [AbangLZU/SqueezeSeg_Ros](https://github.com/AbangLZU/SqueezeSeg_Ros) - This is a ros package that implement the SqueezeSeg
 - [facebookresearch/3detr](https://github.com/facebookresearch/3detr) - Code & Models for 3DETR - an End-to-end transformer model for 3D object detection
