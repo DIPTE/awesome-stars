@@ -3837,7 +3837,7 @@
 - [sfzhang15/ATSS](https://github.com/sfzhang15/ATSS) - Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection, CVPR, Oral, 2020
 - [extreme-assistant/LeetCode](https://github.com/extreme-assistant/LeetCode) - LeetCode刷题记录
 - [dongdonghy/Detection-PyTorch-Notebook](https://github.com/dongdonghy/Detection-PyTorch-Notebook) - 代码 -《深度学习之PyTorch物体检测实战》
-- [lliyuan/MHBNN-PyTorch](https://github.com/lliyuan/MHBNN-PyTorch) - Pytorch version of multi-view harmonized bilinear network for 3D object recognition
+- [liyuan24/MHBNN-PyTorch](https://github.com/liyuan24/MHBNN-PyTorch) - Pytorch version of multi-view harmonized bilinear network for 3D object recognition
 - [ftdlyc/splatnet_pytorch](https://github.com/ftdlyc/splatnet_pytorch) - Unofficial partial implemention of SplatNet
 - [3DSceneRetrieval/3D-Scene-Retrieval-Methods-Source-Code](https://github.com/3DSceneRetrieval/3D-Scene-Retrieval-Methods-Source-Code) - This is the source code repository for the methods evaluated in the paper "A comparison of methods for 3D scene shape retrieval".
 - [xlliu7/Shrec2018_TripletCenterLoss.pytorch](https://github.com/xlliu7/Shrec2018_TripletCenterLoss.pytorch) - Triplet Center Loss for Shape Retrieval
@@ -3879,7 +3879,7 @@
 - [facebookresearch/meshrcnn](https://github.com/facebookresearch/meshrcnn) - code for Mesh R-CNN, ICCV 2019
 - [daniilidis-group/swscnn](https://github.com/daniilidis-group/swscnn) - Demo source code for the paper "Spin-Weighted Spherical CNNs".
 - [tensorflow/graphics](https://github.com/tensorflow/graphics) - TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
-- [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase
+- [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase for TeXworks, a simple interface for working with TeX documents
 - [Dingyuec/3D_Model_Retrieval_Based_On_Sketches](https://github.com/Dingyuec/3D_Model_Retrieval_Based_On_Sketches) - 
 - [wangchu1/LocalSpecGCN](https://github.com/wangchu1/LocalSpecGCN) - 
 - [wangchu1/dscnn](https://github.com/wangchu1/dscnn) - 
