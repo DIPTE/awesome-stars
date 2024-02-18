@@ -699,7 +699,6 @@
 - [SmallMunich/bcnn](https://github.com/SmallMunich/bcnn) - point cloud segmentation and deploy using apollo bcnn network.
 - [kosuke55/tensorrt_bcnn](https://github.com/kosuke55/tensorrt_bcnn) - Lidar apollo instance segmentation CNN
 - [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [xiezhihua001/dldt-samples](https://github.com/xiezhihua001/dldt-samples) - 
 - [elvin-n/dldt_tools](https://github.com/elvin-n/dldt_tools) - Place for dldt based tools, samples and demos
 - [linxie47/dldt-c_api](https://github.com/linxie47/dldt-c_api) - 
@@ -1022,7 +1021,7 @@
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [wang-ps/O-CNN](https://github.com/wang-ps/O-CNN) - This repository contains the code of our O-CNN paper.
 - [jlblancoc/nanoflann](https://github.com/jlblancoc/nanoflann) - nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees
-- [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase
+- [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase for TeXworks, a simple interface for working with TeX documents
 - [Dingyuec/3D_Model_Retrieval_Based_On_Sketches](https://github.com/Dingyuec/3D_Model_Retrieval_Based_On_Sketches) - 
 - [joesfer/Sampler](https://github.com/joesfer/Sampler) - Maya plugin implementing utility nodes to voxelize and sample geometry
 - [alexsax/2D-3D-Semantics](https://github.com/alexsax/2D-3D-Semantics) - The data skeleton from Joint 2D-3D-Semantic Data for Indoor Scene Understanding
@@ -1339,7 +1338,7 @@
 - [ximitiejiang/MyCodeForPytorch](https://github.com/ximitiejiang/MyCodeForPytorch) - deep learning examples by pytorch implement
 - [azy1988/ML-CV](https://github.com/azy1988/ML-CV) - 机器学习实战
 - [PointCloudYC/PointCloud-Architectures](https://github.com/PointCloudYC/PointCloud-Architectures) - Implementation of SOTA Point Cloud Deep Learning Networks Using TensorFlow(TF) 2 or Pytorch
-- [lliyuan/MHBNN-PyTorch](https://github.com/lliyuan/MHBNN-PyTorch) - Pytorch version of multi-view harmonized bilinear network for 3D object recognition
+- [liyuan24/MHBNN-PyTorch](https://github.com/liyuan24/MHBNN-PyTorch) - Pytorch version of multi-view harmonized bilinear network for 3D object recognition
 - [Zengyi-Qin/Weakly-Supervised-3D-Object-Detection](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection) - Weakly Supervised 3D Object Detection from Point Clouds (VS3D), ACM MM 2020
 - [lightaime/cs231n](https://github.com/lightaime/cs231n) - cs231n assignments sovled by https://ghli.org
 - [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
@@ -2440,6 +2439,7 @@
 - [peiyunh/ff](https://github.com/peiyunh/ff) - Safe Local Motion Planning with Self-Supervised Freespace Forecasting, CVPR 2021
 - [Shimingyi/MotioNet](https://github.com/Shimingyi/MotioNet) - A deep neural network that directly reconstructs the motion of a 3D human skeleton from monocular video [ToG 2020]
 - [frankfengdi/LidarMTL](https://github.com/frankfengdi/LidarMTL) - The official code release of LidarMTL, a simple and efficient multi-task network for 3D object detection and road understanding
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) - Flops counter for convolutional networks in pytorch framework
 - [skhadem/3D-BoundingBox](https://github.com/skhadem/3D-BoundingBox) - PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry
 - [dingmyu/D4LCN](https://github.com/dingmyu/D4LCN) - A pytorch implementation of "D4LCN: Learning Depth-Guided Convolutions for Monocular 3D Object Detection" CVPR 2020
