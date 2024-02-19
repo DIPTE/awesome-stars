@@ -20,6 +20,7 @@
 - [bioinformatics](#bioinformatics)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [clojure](#clojure)
 - [code](#code)
@@ -117,6 +118,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [spring](#spring)
+- [spring-boot](#spring-boot)
 - [springboot](#springboot)
 - [sql](#sql)
 - [svelte](#svelte)
@@ -135,6 +137,7 @@
 
 ## 3d 
 
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
@@ -322,6 +325,7 @@
 
 ## awesome-list 
 
+- [Little-Podi/Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception) - This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [Little-Podi/Transformer_Tracking](https://github.com/Little-Podi/Transformer_Tracking) - This repository is a paper digest of Transformer-related approaches in visual tracking tasks.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -375,6 +379,9 @@
 
 ## chatgpt 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
@@ -385,6 +392,10 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [codingonion/awesome-yolo-object-detection](https://github.com/codingonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+
+## chatgpt-api 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## cli 
 
@@ -420,6 +431,7 @@
 
 ## computer-vision 
 
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -453,7 +465,6 @@
 - [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything, MobileSAM!!
-- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [nearthlab/SiamMaskCpp](https://github.com/nearthlab/SiamMaskCpp) - C++ Implementation of SiamMask
@@ -586,6 +597,7 @@
 
 ## cpp 
 
+- [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp implementation of depth-anything model using tensorrt api.
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
@@ -705,6 +717,7 @@
 
 ## deep-learning 
 
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - We'll cover some of the most common Deep Learning Interview Questions and answers and provide detailed answers to help you
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
@@ -753,7 +766,6 @@
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - [ICLR 2024] Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
-- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [ViTAE-Transformer/SimDistill](https://github.com/ViTAE-Transformer/SimDistill) - The official repo for [AAAI 2024] "SimDistill: Simulated Multi-modal Distillation for BEV 3D Object Detection""
@@ -1041,6 +1053,7 @@
 
 ## docker 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
 - [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
@@ -1205,6 +1218,7 @@
 
 ## java 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书单列表整理
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (al
@@ -1303,6 +1317,7 @@
 
 ## machine-learning 
 
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - We'll cover some of the most common Deep Learning Interview Questions and answers and provide detailed answers to help you
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models)
@@ -1456,6 +1471,7 @@
 
 ## mongodb 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
@@ -1467,15 +1483,16 @@
 
 ## mysql 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 
 ## neural-network 
 
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
-- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
@@ -1627,6 +1644,22 @@
 
 ## others 
 
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
+- [LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - 
+- [hpc203/nighttime_dehaze-onnxrun](https://github.com/hpc203/nighttime_dehaze-onnxrun) - 使用onnxruntime部署夜间雾霾图像的可见度增强，包含C++和Python两个版本的程序
+- [hpc203/Real-Time-Frame-Interpolation-onnxrun](https://github.com/hpc203/Real-Time-Frame-Interpolation-onnxrun) - 使用onnxruntime部署实时视频帧插值，包含C++和Python两个版本的程序
+- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
+- [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
+- [baaivision/Uni3D](https://github.com/baaivision/Uni3D) - [ICLR'24 Spotlight] Uni3D: 3D Visual Representation from BAAI
+- [lhaof/nnMamba](https://github.com/lhaof/nnMamba) - 
+- [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
+- [AnythingInAnyScene/anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
+- [fudan-zvg/PARTNER](https://github.com/fudan-zvg/PARTNER) - [ICCV 2023] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
+- [biter0088/pc-nerf](https://github.com/biter0088/pc-nerf) - 
+- [HaydenYu/MM-Point](https://github.com/HaydenYu/MM-Point) - MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding (AAAI 2024)
+- [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - Tokenize Anything via Prompting
+- [UniBwTAS/YOLOPoint](https://github.com/UniBwTAS/YOLOPoint) - Joint Keypoint and Object Detection
 - [fkluger/parsac](https://github.com/fkluger/parsac) - PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus
 - [YungeCui/LinK3D](https://github.com/YungeCui/LinK3D) - [RA-L] LinK3D: Linear Keypoint Representation for 3D LiDAR Point Cloud
 - [BraveGroup/Drive-WM](https://github.com/BraveGroup/Drive-WM) - A world model for autonomous driving.
@@ -2160,6 +2193,7 @@
 - [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - [ICCV 2023] OccNet: Scene as Occupancy
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
+- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - 
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
 - [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
@@ -2356,7 +2390,7 @@
 - [linux-can/socketcand](https://github.com/linux-can/socketcand) - Server to access CAN sockets over ASCII protocol
 - [hmxf/can_xavier](https://github.com/hmxf/can_xavier) - CAN Bus Drive Script
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
-- [zhulf0804/PointPillars](https://github.com/zhulf0804/PointPillars) - A Simple PointPillars PyTorch Implenmentation for 3D Lidar(KITTI) Detection.
+- [zhulf0804/PointPillars](https://github.com/zhulf0804/PointPillars) - A Simple PointPillars PyTorch Implementation for 3D LiDAR(KITTI) Detection.
 - [DeveshwarH1996/PointPillars2](https://github.com/DeveshwarH1996/PointPillars2) - A modificatoin on the point Pillars algorithsm using hierarchical processing of point clouds
 - [VISION-SJTU/PillarNet](https://github.com/VISION-SJTU/PillarNet) - [ECCV 2022] PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection
 - [SysCV/TrafficBots](https://github.com/SysCV/TrafficBots) - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. ICRA 2023. Code is now available at https://github.com/zhejz/TrafficBots
@@ -4189,6 +4223,8 @@
 
 ## python 
 
+- [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -4351,7 +4387,6 @@
 - [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
-- [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
 - [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3, PPT, MSC, PTv2
@@ -4625,6 +4660,7 @@
 
 ## reverse-engineering 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 
 ## robotics 
@@ -4712,10 +4748,16 @@
 
 ## spring 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (al
+
+## spring-boot 
+
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 
 ## springboot 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (al
 
 ## sql 
