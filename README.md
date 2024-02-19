@@ -224,6 +224,9 @@
 
 ## C++ 
 
+- [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
+- [hpc203/nighttime_dehaze-onnxrun](https://github.com/hpc203/nighttime_dehaze-onnxrun) - 使用onnxruntime部署夜间雾霾图像的可见度增强，包含C++和Python两个版本的程序
+- [hpc203/Real-Time-Frame-Interpolation-onnxrun](https://github.com/hpc203/Real-Time-Frame-Interpolation-onnxrun) - 使用onnxruntime部署实时视频帧插值，包含C++和Python两个版本的程序
 - [YungeCui/LinK3D](https://github.com/YungeCui/LinK3D) - [RA-L] LinK3D: Linear Keypoint Representation for 3D LiDAR Point Cloud
 - [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
 - [berndpfrommer/basalt_ros2](https://github.com/berndpfrommer/basalt_ros2) - ROS2 wrapper for Basalt VIO
@@ -1191,6 +1194,7 @@
 
 ## Java 
 
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [Tirklee/GitHub-Chinese-Top-Charts](https://github.com/Tirklee/GitHub-Chinese-Top-Charts) - 
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
@@ -1236,6 +1240,12 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - 
+- [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+- [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - Tokenize Anything via Prompting
 - [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
@@ -1272,6 +1282,7 @@
 - [jediofgever/PointNet_Custom_Object_Detection](https://github.com/jediofgever/PointNet_Custom_Object_Detection) - A project that show cases, train and testing of PointNet with custom objects/datasets
 - [MediaBrain-SJTU/LED](https://github.com/MediaBrain-SJTU/LED) - [CVPR2023] Leapfrog Diffusion Model for Stochastic Trajectory Prediction
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
+- [zlwq/-pdf](https://github.com/zlwq/-pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [threedle/text2mesh](https://github.com/threedle/text2mesh) - 3D mesh stylization driven by a text input in PyTorch
 - [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
@@ -1466,6 +1477,8 @@
 
 ## Others 
 
+- [HaydenYu/MM-Point](https://github.com/HaydenYu/MM-Point) - MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding (AAAI 2024)
+- [Little-Podi/Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception) - This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.
 - [haomo-ai/Cam4DOcc](https://github.com/haomo-ai/Cam4DOcc) - Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - We'll cover some of the most common Deep Learning Interview Questions and answers and provide detailed answers to help you
 - [tech-shrimp/me](https://github.com/tech-shrimp/me) - 技术爬爬虾的资源合集
@@ -1563,7 +1576,6 @@
 - [JudasDie/Comparison](https://github.com/JudasDie/Comparison) - Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
 - [MohamedNagyMostafa/KITTI-MOT.Bench-Evals](https://github.com/MohamedNagyMostafa/KITTI-MOT.Bench-Evals) - KITTI evaluation results for multi-object tracking using detectors with different performance.
 - [ApoorvRoboticist/Transformers-Sensor-Fusion](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion) - This repo holds trending techniques for sensor fusion task using Transformers
-- [zlwq/-pdf](https://github.com/zlwq/-pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books) - 编程开发相关书单列表整理
 - [wangx1996/Lidar-Ground-Segmantation-Paper-List](https://github.com/wangx1996/Lidar-Ground-Segmantation-Paper-List) - Collect paper about ground segmentation in 3D point cloud.
 - [StiphyJay/FastPillars](https://github.com/StiphyJay/FastPillars) - FastPillars: A Deployment-friendly Pillar-based 3D Detector
@@ -1704,6 +1716,17 @@
 
 ## Python 
 
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
+- [LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
+- [baaivision/Uni3D](https://github.com/baaivision/Uni3D) - [ICLR'24 Spotlight] Uni3D: 3D Visual Representation from BAAI
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [lhaof/nnMamba](https://github.com/lhaof/nnMamba) - 
+- [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
+- [AnythingInAnyScene/anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
+- [fudan-zvg/PARTNER](https://github.com/fudan-zvg/PARTNER) - [ICCV 2023] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
+- [biter0088/pc-nerf](https://github.com/biter0088/pc-nerf) - 
+- [UniBwTAS/YOLOPoint](https://github.com/UniBwTAS/YOLOPoint) - Joint Keypoint and Object Detection
 - [fkluger/parsac](https://github.com/fkluger/parsac) - PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus
 - [BraveGroup/Drive-WM](https://github.com/BraveGroup/Drive-WM) - A world model for autonomous driving.
 - [BraveGroup/PSPS](https://github.com/BraveGroup/PSPS) - Pointly-supervised panoptic segmentation
@@ -2157,7 +2180,7 @@
 - [ma-xu/Context-Cluster](https://github.com/ma-xu/Context-Cluster) - [ICLR 2023 Oral] Image as Set of Points
 - [ZrrSkywalker/Point-NN](https://github.com/ZrrSkywalker/Point-NN) - [CVPR 2023] Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis
 - [AlibabaResearch/efficientteacher](https://github.com/AlibabaResearch/efficientteacher) - A Supervised and Semi-Supervised Object Detection Library for YOLO Series
-- [zhulf0804/PointPillars](https://github.com/zhulf0804/PointPillars) - A Simple PointPillars PyTorch Implenmentation for 3D Lidar(KITTI) Detection.
+- [zhulf0804/PointPillars](https://github.com/zhulf0804/PointPillars) - A Simple PointPillars PyTorch Implementation for 3D LiDAR(KITTI) Detection.
 - [DeveshwarH1996/PointPillars2](https://github.com/DeveshwarH1996/PointPillars2) - A modificatoin on the point Pillars algorithsm using hierarchical processing of point clouds
 - [VISION-SJTU/PillarNet](https://github.com/VISION-SJTU/PillarNet) - [ECCV 2022] PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection
 - [rstrudel/segmenter](https://github.com/rstrudel/segmenter) - [ICCV2021] Official PyTorch implementation of Segmenter: Transformer for Semantic Segmentation
