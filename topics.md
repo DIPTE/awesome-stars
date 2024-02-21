@@ -213,7 +213,7 @@
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
@@ -268,6 +268,7 @@
 
 ## artificial-intelligence 
 
+- [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch
 - [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
@@ -309,6 +310,7 @@
 
 ## awesome 
 
+- [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
@@ -379,6 +381,8 @@
 
 ## chatgpt 
 
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+- [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -409,6 +413,7 @@
 
 ## code 
 
+- [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 
 ## compiler 
@@ -431,6 +436,7 @@
 
 ## computer-vision 
 
+- [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
@@ -607,7 +613,7 @@
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
-- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
@@ -694,6 +700,7 @@
 
 ## data-science 
 
+- [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
@@ -717,6 +724,8 @@
 
 ## deep-learning 
 
+- [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
+- [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - We'll cover some of the most common Deep Learning Interview Questions and answers and provide detailed answers to help you
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
@@ -737,7 +746,7 @@
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
-- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
+- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - [ICLR24] Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
@@ -792,7 +801,7 @@
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [VITA-Group/SLaK](https://github.com/VITA-Group/SLaK) - [ICLR 2023] "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity"; [ICML 2023] "Are Large Kernels  Better Teachers than Transformers for ConvNets?"
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
-- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
+- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持llama 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3D Object Detection for Autonomous Driving Vehicle
 - [hpi-xnor/bitorch](https://github.com/hpi-xnor/bitorch) - BITorch: Open-Source Implementation of Binary Neural Networks with PyTorch
 - [hpi-xnor/BMXNet-v2](https://github.com/hpi-xnor/BMXNet-v2) - BMXNet 2: An Open-Source Binary Neural Network Implementation Based on MXNet
@@ -1644,6 +1653,19 @@
 
 ## others 
 
+- [Tsinghua-MARS-Lab/DriveVLM](https://github.com/Tsinghua-MARS-Lab/DriveVLM) - 
+- [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - A 2D Multi-agent Reinforcement Learning Environment for Driving Decision-making
+- [Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes](https://github.com/Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes) - CUDA C 编程权威指南代码实现 包含了书上第二章到第八章的大部分代码实现和作者笔记，全由作者本人手动实现，难免有错误的地方，请大家谨慎参考，非常欢迎对错误的指正。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
+- [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
+- [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+- [LinkSoul-AI/Chinese-LLaVA](https://github.com/LinkSoul-AI/Chinese-LLaVA) - 支持中英文双语视觉-文本对话的开源可商用多模态模型。
+- [GaussianObject/GaussianObject](https://github.com/GaussianObject/GaussianObject) - Code for "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
+- [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - PointMamba: A Simple State Space Model for Point Cloud Analysis
+- [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
+- [Dao-AILab/fast-hadamard-transform](https://github.com/Dao-AILab/fast-hadamard-transform) - Fast Hadamard transform in CUDA, with a PyTorch interface
+- [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
+- [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) - Causal depthwise conv1d in CUDA, with a PyTorch interface
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - 
@@ -2603,7 +2625,7 @@
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
 - [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
 - [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
-- [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE is a robust, real-time tightly-coupled multi-sensor fusion framework, which fuses the measurement from the LiDAR, inertial sensor, visual camera to achieve robust, accurate state estimation.
+- [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping package
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
 - [eccv22-ood-workshop/ROBIN-dataset](https://github.com/eccv22-ood-workshop/ROBIN-dataset) - ECCV 2022 Workshop: A Benchmark for Robustness to Individual Nuisances in Real-World Out-of-Distribution Shifts
@@ -3455,7 +3477,7 @@
 - [NUAAXQ/awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023) - A list of papers and datasets about point cloud analysis (processing) since 2017. Update every day!
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Kitware/LidarView](https://github.com/Kitware/LidarView) - LidarView performs real-time reception, recording, visualization and processing of 3D LiDAR data. This repository is a mirror of https://gitlab.kitware.com/LidarView/lidarview.
-- [Chenguoz/PointSCNet](https://github.com/Chenguoz/PointSCNet) - 
+- [Chenguoz/PointSCNet](https://github.com/Chenguoz/PointSCNet) - Code Release of PointSCNet: Point Cloud Structure and Correlation Learning based on Space Filling Curve guided Sampling
 - [Adonis-galaxy/DSPoint](https://github.com/Adonis-galaxy/DSPoint) - Official pytorch implementation of "DSPoint: Dual-scale Point Cloud Recognition with High-frequency Fusion"
 - [crane-papercode/3DMedPT](https://github.com/crane-papercode/3DMedPT) - Project page: https://3dmedpt.github.io/
 - [HuangJunJie2017/BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Official code base of the BEVDet series .
@@ -4371,7 +4393,7 @@
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
+- [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - [ICLR24] Implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
 - [DerryHub/BEVFormer_tensorrt](https://github.com/DerryHub/BEVFormer_tensorrt) - BEVFormer inference on TensorRT, including INT8 Quantization and Custom TensorRT Plugins (float/half/half2/int8).
 - [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
@@ -4412,7 +4434,7 @@
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [VITA-Group/SLaK](https://github.com/VITA-Group/SLaK) - [ICLR 2023] "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity"; [ICML 2023] "Are Large Kernels  Better Teachers than Transformers for ConvNets?"
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
-- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
+- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持llama 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3D Object Detection for Autonomous Driving Vehicle
 - [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks" "RevColv2"
 - [hpi-xnor/bitorch](https://github.com/hpi-xnor/bitorch) - BITorch: Open-Source Implementation of Binary Neural Networks with PyTorch
@@ -4651,6 +4673,7 @@
 
 ## reactjs 
 
+- [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 
@@ -4859,6 +4882,7 @@
 
 ## typescript 
 
+- [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
