@@ -224,6 +224,7 @@
 
 ## C++ 
 
+- [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [hpc203/nighttime_dehaze-onnxrun](https://github.com/hpc203/nighttime_dehaze-onnxrun) - 使用onnxruntime部署夜间雾霾图像的可见度增强，包含C++和Python两个版本的程序
 - [hpc203/Real-Time-Frame-Interpolation-onnxrun](https://github.com/hpc203/Real-Time-Frame-Interpolation-onnxrun) - 使用onnxruntime部署实时视频帧插值，包含C++和Python两个版本的程序
@@ -1246,7 +1247,7 @@
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - 
+- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - Tokenize Anything via Prompting
@@ -1722,6 +1723,9 @@
 
 ## Python 
 
+- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - A 2D Multi-agent Reinforcement Learning Environment for Driving Decision-making
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
