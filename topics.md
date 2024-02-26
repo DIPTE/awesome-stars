@@ -605,6 +605,8 @@
 
 ## cpp 
 
+- [spacewalk01/tensorrt-yolov9](https://github.com/spacewalk01/tensorrt-yolov9) - C++ implementation of YOLOv9 using TensorRT API
+- [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp implementation of depth-anything model using tensorrt api.
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
@@ -1312,7 +1314,7 @@
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [autoas/as](https://github.com/autoas/as) - automotive software(OSEK & AUTOSAR) and its tool-chain
 - [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popu
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 
 ## localization 
 
@@ -1490,7 +1492,7 @@
 
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 
 ## mysql 
 
@@ -1655,6 +1657,7 @@
 
 ## others 
 
+- [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - GenAD: Generative End-to-End Autonomous Driving
 - [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - 
@@ -2414,7 +2417,7 @@
 - [ma-xu/Context-Cluster](https://github.com/ma-xu/Context-Cluster) - [ICLR 2023 Oral] Image as Set of Points
 - [ZrrSkywalker/Point-NN](https://github.com/ZrrSkywalker/Point-NN) - [CVPR 2023] Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [AlibabaResearch/efficientteacher](https://github.com/AlibabaResearch/efficientteacher) - A Supervised and Semi-Supervised Object Detection Library for YOLO Series
 - [linux-can/socketcand](https://github.com/linux-can/socketcand) - Server to access CAN sockets over ASCII protocol
 - [hmxf/can_xavier](https://github.com/hmxf/can_xavier) - CAN Bus Drive Script
@@ -4252,6 +4255,7 @@
 
 ## python 
 
+- [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
@@ -4646,6 +4650,7 @@
 
 ## qt 
 
+- [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
