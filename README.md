@@ -194,7 +194,7 @@
 - [stevengj/nlopt](https://github.com/stevengj/nlopt) - library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [xunbing/3DScanner](https://github.com/xunbing/3DScanner) - 三维扫描相关算法，包括多频外差相位求解、相机标定、点云后处理、点云可视化等相关算法
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
 - [KhronosGroup/OpenVX-sample-impl](https://github.com/KhronosGroup/OpenVX-sample-impl) - OpenVX sample implementation
@@ -224,6 +224,8 @@
 
 ## C++ 
 
+- [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
+- [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [hpc203/nighttime_dehaze-onnxrun](https://github.com/hpc203/nighttime_dehaze-onnxrun) - 使用onnxruntime部署夜间雾霾图像的可见度增强，包含C++和Python两个版本的程序
@@ -477,7 +479,7 @@
 - [nearthlab/SiamMaskCpp](https://github.com/nearthlab/SiamMaskCpp) - C++ Implementation of SiamMask
 - [wcyjerry/siam-trackers](https://github.com/wcyjerry/siam-trackers) - Fast SiamRPN++ & SiamMask in C++
 - [phbender/liblanelet](https://github.com/phbender/liblanelet) - Lanelet maps have been introduced in the context of the autonomous completion of the Bertha-Benz-Memorial-Route in 2013
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [lxd-cumt/ABM-SpConv](https://github.com/lxd-cumt/ABM-SpConv) - 
 - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
@@ -1212,6 +1214,7 @@
 
 ## JavaScript 
 
+- [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
 - [Tsinghua-MARS-Lab/DriveVLM](https://github.com/Tsinghua-MARS-Lab/DriveVLM) - 
 - [DiT-3D/FastDiT-3D](https://github.com/DiT-3D/FastDiT-3D) - 
 - [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
@@ -1726,6 +1729,7 @@
 
 ## Python 
 
+- [spacewalk01/tensorrt-yolov9](https://github.com/spacewalk01/tensorrt-yolov9) - C++ implementation of YOLOv9 using TensorRT API
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
