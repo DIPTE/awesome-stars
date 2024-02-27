@@ -224,6 +224,7 @@
 
 ## C++ 
 
+- [BigWide/xwgi5651](https://github.com/BigWide/xwgi5651) - 星网宇达组合导航SDK程序
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
@@ -2539,6 +2540,7 @@
 - [fudan-zvg/DeepInteraction](https://github.com/fudan-zvg/DeepInteraction) - [NeurIPS 2022] DeepInteraction: 3D Object Detection via Modality Interaction
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
 - [jhli2019/CVproject](https://github.com/jhli2019/CVproject) - 抖音项目源码分享
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [NVIDIA-AI-IOT/viz_3Dbbox_ros2_pointpillars](https://github.com/NVIDIA-AI-IOT/viz_3Dbbox_ros2_pointpillars) - Visualization tool for 3D bounding box results of TAO-PointPillars
 - [andravin/wincnn](https://github.com/andravin/wincnn) - Winograd minimal convolution algorithm generator for convolutional neural networks.
 - [qiulinzhang/SPConv.pytorch](https://github.com/qiulinzhang/SPConv.pytorch) - [ IJCAI-20 ] Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution
@@ -3651,7 +3653,6 @@
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and RLHF tools are supported!
-- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [microsoft/onnxruntime-web-demo](https://github.com/microsoft/onnxruntime-web-demo) - demos to show the capabilities of ONNX Runtime Web
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
