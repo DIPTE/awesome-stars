@@ -74,8 +74,10 @@
 
 ## C 
 
+- [Embedfire/nmealib](https://github.com/Embedfire/nmealib) - 
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [ZainZh/sunriseX3_yolov8](https://github.com/ZainZh/sunriseX3_yolov8) - 地平线horizon开发板部署工具
-- [WiringPi/WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi (Unofficial Mirror for WiringPi bindings)
+- [WiringPi/WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
@@ -226,7 +228,7 @@
 
 - [BigWide/xwgi5651](https://github.com/BigWide/xwgi5651) - 星网宇达组合导航SDK程序
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
-- [spacewalk01/tensorrt-yolov9](https://github.com/spacewalk01/tensorrt-yolov9) - C++ implementation of YOLOv9 using TensorRT API
+- [spacewalk01/TensorRT-YOLOv9](https://github.com/spacewalk01/TensorRT-YOLOv9) - C++ implementation of YOLOv9 using TensorRT API
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
@@ -264,7 +266,7 @@
 - [ChenZjut/ROS_LaneATT](https://github.com/ChenZjut/ROS_LaneATT) - 
 - [wep21/CUDA-TransFusion](https://github.com/wep21/CUDA-TransFusion) - 
 - [CYYAI/AiInfer](https://github.com/CYYAI/AiInfer) - 
-- [yhwang-hub/dl_model_infer](https://github.com/yhwang-hub/dl_model_infer) - 
+- [yhwang-hub/dl_model_infer](https://github.com/yhwang-hub/dl_model_infer) - 🚀🚀🚀This is an AI high-performance reasoning C++ library, Currently supports the deployment of yolov5, yolov7, yolov7-pose, yolov8, yolov8-seg, yolov8-pose, yolov8-obb, yolox, RTDETR, DETR, depth-anyth
 - [fpeanut/Pointpillar_tensorrt](https://github.com/fpeanut/Pointpillar_tensorrt) - pointpillar mmdeteion3d model Tensorrt deployment, improved and faster
 - [rand0md00r/centerpoint_detector_ros](https://github.com/rand0md00r/centerpoint_detector_ros) - 
 - [wayyeah/PointPillarTensorRT-ROS](https://github.com/wayyeah/PointPillarTensorRT-ROS) - PointPillar with TensorRT and ROS 1 for Visualization
@@ -411,7 +413,6 @@
 - [JDAI-CV/dabnn](https://github.com/JDAI-CV/dabnn) - dabnn is an accelerated binary neural networks inference framework for mobile platform
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [LCH1238/bevdet-tensorrt-cpp](https://github.com/LCH1238/bevdet-tensorrt-cpp) - BEVDet implemented by TensorRT, C++； Achieving real-time performance on Orin
-- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [HMX2013/FCC-ROS](https://github.com/HMX2013/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
 - [KIT-MRT/pointcloud_surface](https://github.com/KIT-MRT/pointcloud_surface) - Ground surface estimation algorithms based on point clouds.
 - [deep-practice/FastBEV-TensorRT](https://github.com/deep-practice/FastBEV-TensorRT) - 
@@ -1164,6 +1165,7 @@
 
 ## Go 
 
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -1216,6 +1218,7 @@
 
 ## JavaScript 
 
+- [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
 - [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
 - [Tsinghua-MARS-Lab/DriveVLM](https://github.com/Tsinghua-MARS-Lab/DriveVLM) - 
@@ -1254,8 +1257,9 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
+- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
-- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering (CVPR 2024)
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024]4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - Tokenize Anything via Prompting
 - [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
@@ -1284,7 +1288,7 @@
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [yossilevii100/EPiC](https://github.com/yossilevii100/EPiC) - Ensemble of Partial Points Clouds for Robust Classification
-- [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective
+- [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective [CVPR 2024] and RepViT-SAM: Towards Real-Time Segmenting Anything
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - [NeurIPS 2023 Track Datasets and Benchmarks] OpenLane-V2: The First Perception and Reasoning Benchmark for Road Driving
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
@@ -1489,6 +1493,9 @@
 
 ## Others 
 
+- [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
+- [autodriving-heart/CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) - CVPR 2024 Papers Autonomous Driving
+- [Chrisz236/llm-rk3588](https://github.com/Chrisz236/llm-rk3588) - Run Large Language Models on RK3588 with GPU-acceleration
 - [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - GenAD: Generative End-to-End Autonomous Driving
 - [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - 
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
@@ -1505,11 +1512,9 @@
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
-- [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - Visual Point Cloud Forecasting
 - [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
 - [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - [CVPR2024] PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
-- [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - Official implementation of PointBeV: A Sparse Approach to BeV Predictions
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
 - [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
 - [autodriving-heart/Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) - Awesome-BEV-Perception
@@ -1717,7 +1722,7 @@
 - [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
 - [kevin-kaixu/partnet-symh](https://github.com/kevin-kaixu/partnet-symh) - The Enhanced PartNet Dataset with Symmetry Hierarchy (PartNet-Symh)
 - [inessus/pytorch_awesome](https://github.com/inessus/pytorch_awesome) - about the resources of pytorch
-- [SamPutnam/Index-2023](https://github.com/SamPutnam/Index-2023) - 
+- [SamPutnam/Index-2024](https://github.com/SamPutnam/Index-2024) - 
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 
 ## Prolog 
@@ -1731,12 +1736,14 @@
 
 ## Python 
 
+- [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - [CVPR-2024] One Model For Image/Video/Instractive/Open-Vocabulary Segmentation
+- [filaPro/oneformer3d](https://github.com/filaPro/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [Hzbupahaozi/yolov8_xj3_deploy](https://github.com/Hzbupahaozi/yolov8_xj3_deploy) - yolov8的训练以及在旭日x3派上的部署
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - A 2D Multi-agent Reinforcement Learning Environment for Driving Decision-making
+- [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - Tactics2D: A Reinforcement Learning Environment Library with Generative Scenarios for Driving Decision-making
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
 - [LinkSoul-AI/Chinese-LLaVA](https://github.com/LinkSoul-AI/Chinese-LLaVA) - 支持中英文双语视觉-文本对话的开源可商用多模态模型。
@@ -1748,7 +1755,6 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
-- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
 - [baaivision/Uni3D](https://github.com/baaivision/Uni3D) - [ICLR'24 Spotlight] Uni3D: 3D Visual Representation from BAAI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [lhaof/nnMamba](https://github.com/lhaof/nnMamba) - 
@@ -1772,14 +1778,14 @@
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
 - [tech-shrimp/FreeWechatPush](https://github.com/tech-shrimp/FreeWechatPush) - 使用免费的微信测试公众号，做微信推送，给女朋友推送天气，课程提醒。
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
 - [krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch) - A PyTorch re-implementation of Neural Radiance Fields
 - [IrohXu/lanenet-lane-detection-pytorch](https://github.com/IrohXu/lanenet-lane-detection-pytorch) - Unofficial implemention of lanenet model for real time lane detection Pytorch Version
 - [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [motional/polarstream](https://github.com/motional/polarstream) - 
 - [Yzichen/FlashOCC](https://github.com/Yzichen/FlashOCC) - 
-- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp implementation of depth-anything model using tensorrt api.
+- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp and python implementation of depth-anything model using tensorrt api.
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds](https://github.com/SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds) - With Pynq -DPU overlay on KV260, we made 3D Object Detection on Point Clouds generated from LiDAR Faster than ever!
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
@@ -1800,6 +1806,7 @@
 - [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - WidthFormer: Toward Efficient Transformer-based BEV View Transformation
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+- [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - [CVPR 2024] Visual Point Cloud Forecasting
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
@@ -1811,6 +1818,7 @@
 - [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
 - [csuhan/OneLLM](https://github.com/csuhan/OneLLM) - [CVPR 2024] OneLLM: One Framework to Align All Modalities with Language
 - [GAP-LAB-CUHK-SZ/SAMPro3D](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) - SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation
+- [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - Official implementation of PointBeV: A Sparse Approach to BeV Predictions
 - [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
 - [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
@@ -1843,7 +1851,7 @@
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
 - [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
-- [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
+- [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - [CVPR 2024] 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
 - [tangtaogo/lidar-nerf](https://github.com/tangtaogo/lidar-nerf) - LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
@@ -2067,6 +2075,7 @@
 - [slothfulxtx/MBPTrack3D](https://github.com/slothfulxtx/MBPTrack3D) - [ICCV2023] MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors
 - [PJLab-ADG/DriveLikeAHuman](https://github.com/PJLab-ADG/DriveLikeAHuman) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models
 - [AIR-DISCOVER/DQS3D](https://github.com/AIR-DISCOVER/DQS3D) - [ICCV23] DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection
+- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [SLDGroup/MobileViG](https://github.com/SLDGroup/MobileViG) - 
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
@@ -2656,7 +2665,7 @@
 - [htshinichi/caffe-onnx](https://github.com/htshinichi/caffe-onnx) - caffe model convert to onnx model
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
-- [kamanphoebe/MotionDetection](https://github.com/kamanphoebe/MotionDetection) - Optical Flow Based Motion Detection for Autonomous Driving https://arxiv.org/abs/2203.11693
+- [kamanphoebe/MotionDetection](https://github.com/kamanphoebe/MotionDetection) - Optical Flow Based Motion Detection for Autonomous Driving
 - [Algolzw/NCNet](https://github.com/Algolzw/NCNet) - [AIM & ECCVW 2022] Fast Nearest Convolution for Real-Time Image Super-Resolution
 - [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 - [hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU) - "Rethinking IoU-based Optimization for Single-stage 3D Object Detection", ECCV2022 accept!
@@ -3579,6 +3588,7 @@
 
 ## Shell 
 
+- [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [Fruit-Pi/rockchip-test](https://github.com/Fruit-Pi/rockchip-test) - 
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [ChisBread/rk3588-gaming-step-by-step](https://github.com/ChisBread/rk3588-gaming-step-by-step) - 只有中文! 一步步教你在RK3588(Debian-based OS)上运行各种游戏
