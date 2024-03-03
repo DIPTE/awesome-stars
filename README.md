@@ -1736,6 +1736,7 @@
 
 ## Python 
 
+- [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
 - [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - [CVPR-2024] One Model For Image/Video/Instractive/Open-Vocabulary Segmentation
 - [filaPro/oneformer3d](https://github.com/filaPro/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [Hzbupahaozi/yolov8_xj3_deploy](https://github.com/Hzbupahaozi/yolov8_xj3_deploy) - yolov8的训练以及在旭日x3派上的部署
@@ -1886,7 +1887,7 @@
 - [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
 - [jhkohpav/MGTANet](https://github.com/jhkohpav/MGTANet) - 
 - [ICEORY/PMF](https://github.com/ICEORY/PMF) - Perception-aware multi-sensor fusion for 3D LiDAR semantic segmentation (ICCV 2021)
-- [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
+- [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - [CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
 - [KuanchihHuang/MoMA-M3T](https://github.com/KuanchihHuang/MoMA-M3T) - Delving into Motion-Aware Matching for Monocular 3D Object Tracking (ICCV 2023)
 - [chisyliu/GnnPmbTracker](https://github.com/chisyliu/GnnPmbTracker) - 
 - [cogsys-tuebingen/CBMOT](https://github.com/cogsys-tuebingen/CBMOT) - This repo contains the official code for the paper 'Score refinement for confidence-based 3D multi-object tracking'
