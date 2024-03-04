@@ -586,7 +586,7 @@
 - [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping package
 - [python-rapidjson/python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - Python wrapper around rapidjson
 - [zjhellofss/ffmpeg_cuda](https://github.com/zjhellofss/ffmpeg_cuda) - ffmpeg的cuda解码方式
-- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持llama 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
+- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 - [unmannedlab/point_labeler](https://github.com/unmannedlab/point_labeler) - 
 - [unmannedlab/imu_lidar_calibration](https://github.com/unmannedlab/imu_lidar_calibration) - Target-free Extrinsic Calibration of a 3D Lidar and an IMU
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -1103,6 +1103,7 @@
 
 ## Cuda 
 
+- [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
 - [Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes](https://github.com/Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes) - CUDA C 编程权威指南代码实现 包含了书上第二章到第八章的大部分代码实现和作者笔记，全由作者本人手动实现，难免有错误的地方，请大家谨慎参考，非常欢迎对错误的指正。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) - Causal depthwise conv1d in CUDA, with a PyTorch interface
 - [UofT-EcoSystem/Minuet](https://github.com/UofT-EcoSystem/Minuet) - [EuroSys'24] Minuet: Accelerating 3D Sparse Convolutions on GPUs
@@ -1736,6 +1737,8 @@
 
 ## Python 
 
+- [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
+- [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
 - [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
 - [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - [CVPR-2024] One Model For Image/Video/Instractive/Open-Vocabulary Segmentation
 - [filaPro/oneformer3d](https://github.com/filaPro/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
@@ -1929,7 +1932,7 @@
 - [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕基于labelImg及YOLOV5的图形化半自动标注工具
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
 - [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
-- [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - Learning a 3D Morphable Face Reflectance Model from Low-cost Data, accepted by CVPR 2023.
+- [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - [CVPR 2023] Learning a 3D Morphable Face Reflectance Model from Low-cost Data
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
