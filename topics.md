@@ -613,7 +613,7 @@
 
 ## cpp 
 
-- [spacewalk01/TensorRT-YOLOv9](https://github.com/spacewalk01/TensorRT-YOLOv9) - C++ implementation of YOLOv9 using TensorRT API
+- [spacewalk01/TensorRT-YOLOv9](https://github.com/spacewalk01/TensorRT-YOLOv9) - Cpp and python implementation of YOLOv9 using TensorRT API
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp and python implementation of depth-anything model using tensorrt api.
@@ -1682,6 +1682,7 @@
 
 ## others 
 
+- [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
 - [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
 - [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
 - [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
@@ -1984,7 +1985,7 @@
 - [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
 - [fishros/yolov_ros2](https://github.com/fishros/yolov_ros2) - 基于 YOLOv5 的 ROS 2 封装，允许用户使用给定的模型文件和图像话题进行实时物体检测。
 - [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) - 基于YOLOV5 的ROS2功能包，可以快速完成物体识别与位姿发布。 A ROS2 package based on YOLOV5 that enables fast object recognition and pose publishing.
-- [leofansq/CBR](https://github.com/leofansq/CBR) - Calibration-free BEV Representation for Infrastructure Perception (IROS2023)
+- [leofansq/CBR](https://github.com/leofansq/CBR) - [IROS2023] Calibration-free BEV Representation for Infrastructure Perception
 - [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow
 - [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
 - [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
