@@ -392,7 +392,7 @@
 
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
-- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
@@ -2107,7 +2107,7 @@
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
-- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim: A Long-term Interactive Multi-scenario Traffic Simulator (ITSC 2023)
+- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++
 - [caizhongang/waymo_kitti_converter](https://github.com/caizhongang/waymo_kitti_converter) - A toolkit for Waymo Open Dataset &lt;-&gt; KITTI conversions
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
 - [tdzdog/SEFormer](https://github.com/tdzdog/SEFormer) - AAAI2023: SEFormer: Structure Embedding Transformer for 3D Object Detection
@@ -2135,7 +2135,7 @@
 - [ros2/message_filters](https://github.com/ros2/message_filters) - 
 - [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
 - [AllenXiangX/Retro-FPN](https://github.com/AllenXiangX/Retro-FPN) - Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation (ICCV 2023)
-- [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI (2023), "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
+- [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI 2023, "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
 - [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
 - [Sense-X/HoP](https://github.com/Sense-X/HoP) - [ICCV 2023] Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction
 - [subake/DAPS3D](https://github.com/subake/DAPS3D) - DAPS3D: Domain Adaptive Projective Segmentation of 3D LiDAR Point Clouds
@@ -4426,7 +4426,7 @@
 
 ## pytorch 
 
-- [filaPro/oneformer3d](https://github.com/filaPro/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
+- [oneformer3d/oneformer3d](https://github.com/oneformer3d/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - We'll cover some of the most common Deep Learning Interview Questions and answers and provide detailed answers to help you
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
