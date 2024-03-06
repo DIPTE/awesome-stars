@@ -1244,7 +1244,6 @@
 - [AlexGeControl/3D-Point-Cloud-Analytics](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics) - Portfolio for 3D Point Cloud Processing from www.shenlanxueyuan.com China
 - [naurril/SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS) - 3D Point Cloud Annotation Platform for Autonomous Driving
 - [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
-- [walzimmer/3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [teadocs/matplotlib-cn](https://github.com/teadocs/matplotlib-cn) - matplotlib中文文档
 - [daerduoCarey/partnet_anno_system](https://github.com/daerduoCarey/partnet_anno_system) - PartNet 3D Web-based Shape Parts Annotation System
@@ -1255,7 +1254,7 @@
 
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
@@ -1743,7 +1742,7 @@
 - [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
 - [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
 - [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - [CVPR-2024] One Model For Image/Video/Instractive/Open-Vocabulary Segmentation
-- [filaPro/oneformer3d](https://github.com/filaPro/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
+- [oneformer3d/oneformer3d](https://github.com/oneformer3d/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [Hzbupahaozi/yolov8_xj3_deploy](https://github.com/Hzbupahaozi/yolov8_xj3_deploy) - yolov8的训练以及在旭日x3派上的部署
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
@@ -1996,7 +1995,7 @@
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [Turoad/lanedet](https://github.com/Turoad/lanedet) - An open source lane detection toolbox based on PyTorch, including SCNN, RESA, UFLD, LaneATT, CondLane, etc.
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
-- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim: A Long-term Interactive Multi-scenario Traffic Simulator (ITSC 2023)
+- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++
 - [caizhongang/waymo_kitti_converter](https://github.com/caizhongang/waymo_kitti_converter) - A toolkit for Waymo Open Dataset &lt;-&gt; KITTI conversions
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
 - [cskkxjk/MonoNeRD](https://github.com/cskkxjk/MonoNeRD) - (ICCV2023) MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
@@ -2013,7 +2012,7 @@
 - [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - PCSim: LiDAR Point Cloud Simulation and Sensor Placement! Code of [ICRA 2023] "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" and [ICCV 2023] "Optimizing the Placeme
 - [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
 - [AllenXiangX/Retro-FPN](https://github.com/AllenXiangX/Retro-FPN) - Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation (ICCV 2023)
-- [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI (2023), "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
+- [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI 2023, "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
 - [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
 - [Sense-X/HoP](https://github.com/Sense-X/HoP) - [ICCV 2023] Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction
 - [subake/DAPS3D](https://github.com/subake/DAPS3D) - DAPS3D: Domain Adaptive Projective Segmentation of 3D LiDAR Point Clouds
@@ -3676,6 +3675,7 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
 - [open-mmlab/labelbee](https://github.com/open-mmlab/labelbee) - LabelBee is an annotation Library
+- [walzimmer/3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 
 ## Vala 
