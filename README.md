@@ -226,6 +226,7 @@
 
 ## C++ 
 
+- [EEPT-LAB/DipG-Seg](https://github.com/EEPT-LAB/DipG-Seg) - The official implementation of DipG-Seg.
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
 - [BigWide/xwgi5651](https://github.com/BigWide/xwgi5651) - 星网宇达组合导航SDK程序
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
@@ -1260,7 +1261,7 @@
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
-- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024]4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - Tokenize Anything via Prompting
 - [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
@@ -2396,7 +2397,7 @@
 - [zju3dv/Vox-Fusion](https://github.com/zju3dv/Vox-Fusion) - Code for "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", ISMAR 2022
 - [zju3dv/Vox-Surf](https://github.com/zju3dv/Vox-Surf) - Code for "Vox-Surf: Voxel-based Implicit Surface Representation", TVCG 2022
 - [zju3dv/ENeRF](https://github.com/zju3dv/ENeRF) - SIGGRAPH Asia 2022: Code for "Efficient Neural Radiance Fields for Interactive Free-viewpoint Video"
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [DanceTrack/DanceTrack](https://github.com/DanceTrack/DanceTrack) - [CVPR2022] DanceTrack: Multiple Object Tracking in Uniform Appearance and Diverse Motion
 - [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple Object Tracking with Transformer
 - [Gorilla-Lab-SCUT/TTAC](https://github.com/Gorilla-Lab-SCUT/TTAC) - [NeurIPS 2022] Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering
