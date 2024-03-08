@@ -140,7 +140,7 @@
 
 ## 3d 
 
-- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024]4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
@@ -217,6 +217,7 @@
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
@@ -448,7 +449,7 @@
 
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - PointMamba: A Simple State Space Model for Point Cloud Analysis
-- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024]4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1528,7 +1529,7 @@
 
 ## neural-network 
 
-- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024]4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+- [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [pytorch/executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
@@ -1685,6 +1686,7 @@
 
 ## others 
 
+- [EEPT-LAB/DipG-Seg](https://github.com/EEPT-LAB/DipG-Seg) - The official implementation of DipG-Seg.
 - [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
 - [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
@@ -2788,7 +2790,7 @@
 - [zju3dv/Vox-Fusion](https://github.com/zju3dv/Vox-Fusion) - Code for "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", ISMAR 2022
 - [zju3dv/Vox-Surf](https://github.com/zju3dv/Vox-Surf) - Code for "Vox-Surf: Voxel-based Implicit Surface Representation", TVCG 2022
 - [zju3dv/ENeRF](https://github.com/zju3dv/ENeRF) - SIGGRAPH Asia 2022: Code for "Efficient Neural Radiance Fields for Interactive Free-viewpoint Video"
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder
 - [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [DanceTrack/DanceTrack](https://github.com/DanceTrack/DanceTrack) - [CVPR2022] DanceTrack: Multiple Object Tracking in Uniform Appearance and Diverse Motion
