@@ -84,7 +84,7 @@
 - [leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading) - A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。
 - [compuphase/minIni](https://github.com/compuphase/minIni) - A small and portable INI file library with read/write support
 - [yukkysaito/autoware_perception](https://github.com/yukkysaito/autoware_perception) - 
-- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library, including a lot of components, frameworks and a new coroutine script language Melang.
+- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [GreyZhang/g_s32k144](https://github.com/GreyZhang/g_s32k144) - learning records about S32K144 MCU (FreeRTOS, UART, CAN, SPI, PIT, FreeMaster, RTC, GPS, DMA, WatchDog、J1939、UDS、XCP、CCP)
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
@@ -1057,7 +1057,7 @@
 - [xiaolong361/PCL_Visualizer](https://github.com/xiaolong361/PCL_Visualizer) - PCL Visualizer Demo in VS2017+Qt5.12.0
 - [XMuli/OpenMesh](https://github.com/XMuli/OpenMesh) - OpenMesh的源码学习和资源
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [DengMen/learnCGAL](https://github.com/DengMen/learnCGAL) - learn cgal by demo
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
@@ -1739,6 +1739,7 @@
 
 ## Python 
 
+- [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
 - [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
