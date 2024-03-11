@@ -3369,7 +3369,7 @@
 - [HW140701/VideoTo3dPoseAndBvh](https://github.com/HW140701/VideoTo3dPoseAndBvh) - Convert video to the bvh motion file
 - [MegEngine/Models](https://github.com/MegEngine/Models) - 采用MegEngine实现的各种主流深度学习模型
 - [Zhang-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space](https://github.com/Zhang-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space) - 
-- [craigleili/3DLocalMultiViewDesc](https://github.com/craigleili/3DLocalMultiViewDesc) - Repository for "End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds"
+- [craigleili/3DLocalMultiViewDesc](https://github.com/craigleili/3DLocalMultiViewDesc) - End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds (CVPR2020)
 - [nitika-verma/FeaStNet](https://github.com/nitika-verma/FeaStNet) - FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis
 - [sw-gong/FeaStNet](https://github.com/sw-gong/FeaStNet) - Pytorch reproduction of the paper "FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis" (CVPR 18)
 - [gyshgx868/graph-ter](https://github.com/gyshgx868/graph-ter) - The official PyTorch implementation of the CVPR2020 paper "GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations".
