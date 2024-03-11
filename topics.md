@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -264,6 +265,10 @@
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
+
+## archlinux 
+
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 
 ## arduino 
 
@@ -4070,7 +4075,7 @@
 - [HW140701/VideoTo3dPoseAndBvh](https://github.com/HW140701/VideoTo3dPoseAndBvh) - Convert video to the bvh motion file
 - [MegEngine/Models](https://github.com/MegEngine/Models) - 采用MegEngine实现的各种主流深度学习模型
 - [Zhang-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space](https://github.com/Zhang-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space) - 
-- [craigleili/3DLocalMultiViewDesc](https://github.com/craigleili/3DLocalMultiViewDesc) - Repository for "End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds"
+- [craigleili/3DLocalMultiViewDesc](https://github.com/craigleili/3DLocalMultiViewDesc) - End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds (CVPR2020)
 - [nitika-verma/FeaStNet](https://github.com/nitika-verma/FeaStNet) - FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis
 - [sw-gong/FeaStNet](https://github.com/sw-gong/FeaStNet) - Pytorch reproduction of the paper "FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis" (CVPR 18)
 - [gyshgx868/graph-ter](https://github.com/gyshgx868/graph-ter) - The official PyTorch implementation of the CVPR2020 paper "GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations".
