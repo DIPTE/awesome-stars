@@ -226,6 +226,7 @@
 
 ## C++ 
 
+- [marty1885/paroli](https://github.com/marty1885/paroli) - Streaming TTS based on Piper with optional RK3588 NPU support
 - [EEPT-LAB/DipG-Seg](https://github.com/EEPT-LAB/DipG-Seg) - The official implementation of DipG-Seg.
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
 - [BigWide/xwgi5651](https://github.com/BigWide/xwgi5651) - 星网宇达组合导航SDK程序
@@ -1276,7 +1277,6 @@
 - [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
 - [hady1011/OrthoNets](https://github.com/hady1011/OrthoNets) - Orthogonal Channel Attentions Networks
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
@@ -1495,6 +1495,7 @@
 
 ## Others 
 
+- [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
 - [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [autodriving-heart/CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) - CVPR 2024 Papers Autonomous Driving
@@ -1529,6 +1530,7 @@
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
 - [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
 - [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
@@ -1739,6 +1741,7 @@
 
 ## Python 
 
+- [WailordHe/DenseSSM](https://github.com/WailordHe/DenseSSM) - A repository for DenseSSMs
 - [PacktPublishing/3D-Deep-Learning-with-Python](https://github.com/PacktPublishing/3D-Deep-Learning-with-Python) - 3D Deep Learning with Python, Published by Packt
 - [LMD0311/DAPT](https://github.com/LMD0311/DAPT) - [CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
 - [OpenGVLab/DCNv4](https://github.com/OpenGVLab/DCNv4) - [CVPR 2024] Deformable Convolution v4
@@ -2001,7 +2004,7 @@
 - [caizhongang/SMPLer-X](https://github.com/caizhongang/SMPLer-X) - Official Code for "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [Turoad/lanedet](https://github.com/Turoad/lanedet) - An open source lane detection toolbox based on PyTorch, including SCNN, RESA, UFLD, LaneATT, CondLane, etc.
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++
 - [caizhongang/waymo_kitti_converter](https://github.com/caizhongang/waymo_kitti_converter) - A toolkit for Waymo Open Dataset &lt;-&gt; KITTI conversions
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
@@ -2090,7 +2093,7 @@
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [SLDGroup/MobileViG](https://github.com/SLDGroup/MobileViG) - 
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [doubleZ0108/GeoMVSNet](https://github.com/doubleZ0108/GeoMVSNet) - [CVPR 23'] GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
 - [JunweiZheng93/APES](https://github.com/JunweiZheng93/APES) - Official repository for paper "Attention-based Point Cloud Edge Sampling" (APES), Highlight@CVPR 2023
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
@@ -2155,7 +2158,7 @@
 - [hujiecpp/YOSO](https://github.com/hujiecpp/YOSO) - Code release for paper "You Only Segment Once: Towards Real-Time Panoptic Segmentation" [CVPR 2023]
 - [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR 2023] Towards Any Structural Pruning; LLMs / SAM /  Diffusion / Transformers / YOLOv8 / CNNs
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
-- [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt
+- [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt (CVPR 2024)
 - [TRI-ML/VEDet](https://github.com/TRI-ML/VEDet) - 
 - [ucla-mobility/V2V4Real](https://github.com/ucla-mobility/V2V4Real) - [CVPR2023 Highlight] The official codebase for paper "V2V4Real: A large-scale real-world dataset for Vehicle-to-Vehicle Cooperative Perception"
 - [hht1996ok/EA-LSS](https://github.com/hht1996ok/EA-LSS) - EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection
@@ -2621,7 +2624,7 @@
 - [hcwinsemius/RTK_GNSS](https://github.com/hcwinsemius/RTK_GNSS) - Manual for RTK GNSS with low cost u-blox ZED-F9P receivers rover-base setup
 - [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - Self-Supervised Scene Flow Estimation with 4-D Automotive Radar (RA-L & IROS'22)
 - [TUMFTM/RadarSeg](https://github.com/TUMFTM/RadarSeg) - 
-- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - Unofficial code reproduction of RadarNet (ECCV'20) using PyTorch.
+- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - PyTorch code reproduction of RadarNet (ECCV'20) for radar-based 3D object detection
 - [TUMFTM/CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) - 
 - [megvii-research/megvii-pku-dl-course](https://github.com/megvii-research/megvii-pku-dl-course) - Homepage for the joint course of Megvii Inc. and Peking University on Deep Learning.
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
