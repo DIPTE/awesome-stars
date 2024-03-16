@@ -1307,6 +1307,7 @@
 
 ## library 
 
+- [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
 - [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
 - [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -1688,6 +1689,15 @@
 
 ## others 
 
+- [wyc15002105071/Recorder](https://github.com/wyc15002105071/Recorder) - The Recorder Application of RK3588 for Qt
+- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
+- [yzrobot/adaptive_clustering](https://github.com/yzrobot/adaptive_clustering) - [ROS package] Lightweight and Accurate Point Cloud Clustering
+- [fishros/LeGO-LOAM-ROS2](https://github.com/fishros/LeGO-LOAM-ROS2) - 支持ROS2 Humble版本的LeGO-LOAM
+- [joaofaro/KCFcpp](https://github.com/joaofaro/KCFcpp) - C++ Implementation of KCF Tracker
+- [scott89/KCF](https://github.com/scott89/KCF) - Source code for "high-speed tracking with kernelized correlation filters"
+- [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
+- [marty1885/paroli](https://github.com/marty1885/paroli) - Streaming TTS based on Piper with optional RK3588 NPU support
+- [WailordHe/DenseSSM](https://github.com/WailordHe/DenseSSM) - A repository for DenseSSMs
 - [PacktPublishing/3D-Deep-Learning-with-Python](https://github.com/PacktPublishing/3D-Deep-Learning-with-Python) - 3D Deep Learning with Python, Published by Packt
 - [LMD0311/DAPT](https://github.com/LMD0311/DAPT) - [CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
 - [OpenGVLab/DCNv4](https://github.com/OpenGVLab/DCNv4) - [CVPR 2024] Deformable Convolution v4
@@ -2072,7 +2082,7 @@
 - [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [EnVision-Research/Adv3D](https://github.com/EnVision-Research/Adv3D) - 
-- [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
+- [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for [IEEE Transactions on Vehicular Technology] "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
@@ -2118,7 +2128,7 @@
 - [OpenCalib/SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) - 
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++
 - [caizhongang/waymo_kitti_converter](https://github.com/caizhongang/waymo_kitti_converter) - A toolkit for Waymo Open Dataset &lt;-&gt; KITTI conversions
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
@@ -2243,7 +2253,7 @@
 - [AIR-DISCOVER/DQS3D](https://github.com/AIR-DISCOVER/DQS3D) - [ICCV23] DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [SLDGroup/MobileViG](https://github.com/SLDGroup/MobileViG) - 
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [doubleZ0108/GeoMVSNet](https://github.com/doubleZ0108/GeoMVSNet) - [CVPR 23'] GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
 - [JunweiZheng93/APES](https://github.com/JunweiZheng93/APES) - Official repository for paper "Attention-based Point Cloud Edge Sampling" (APES), Highlight@CVPR 2023
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
@@ -2357,7 +2367,7 @@
 - [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - The official implementation of SLAMesh.
 - [hujiecpp/YOSO](https://github.com/hujiecpp/YOSO) - Code release for paper "You Only Segment Once: Towards Real-Time Panoptic Segmentation" [CVPR 2023]
 - [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR 2023] Towards Any Structural Pruning; LLMs / SAM /  Diffusion / Transformers / YOLOv8 / CNNs
-- [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt
+- [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt (CVPR 2024)
 - [TRI-ML/VEDet](https://github.com/TRI-ML/VEDet) - 
 - [ucla-mobility/V2V4Real](https://github.com/ucla-mobility/V2V4Real) - [CVPR2023 Highlight] The official codebase for paper "V2V4Real: A large-scale real-world dataset for Vehicle-to-Vehicle Cooperative Perception"
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
@@ -3181,7 +3191,7 @@
 - [hcwinsemius/RTK_GNSS](https://github.com/hcwinsemius/RTK_GNSS) - Manual for RTK GNSS with low cost u-blox ZED-F9P receivers rover-base setup
 - [TUMFTM/RadarSeg](https://github.com/TUMFTM/RadarSeg) - 
 - [radar-lab/autolabelling_radar](https://github.com/radar-lab/autolabelling_radar) - Automatic Radar-Camera Dataset Generation for Sensor-Fusion Applications
-- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - Unofficial code reproduction of RadarNet (ECCV'20) using PyTorch.
+- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - PyTorch code reproduction of RadarNet (ECCV'20) for radar-based 3D object detection
 - [TUMFTM/CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) - 
 - [megvii-research/introduction-neural-3d-reconstruction](https://github.com/megvii-research/introduction-neural-3d-reconstruction) - Course materials for Introduction to Neural 3D Reconstruction
 - [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples) - Examples for using ONNX Runtime for model training.
@@ -4307,6 +4317,7 @@
 
 ## python 
 
+- [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
