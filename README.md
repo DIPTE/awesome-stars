@@ -226,6 +226,11 @@
 
 ## C++ 
 
+- [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
+- [wyc15002105071/Recorder](https://github.com/wyc15002105071/Recorder) - The Recorder Application of RK3588 for Qt
+- [yzrobot/adaptive_clustering](https://github.com/yzrobot/adaptive_clustering) - [ROS package] Lightweight and Accurate Point Cloud Clustering
+- [fishros/LeGO-LOAM-ROS2](https://github.com/fishros/LeGO-LOAM-ROS2) - 支持ROS2 Humble版本的LeGO-LOAM
+- [joaofaro/KCFcpp](https://github.com/joaofaro/KCFcpp) - C++ Implementation of KCF Tracker
 - [marty1885/paroli](https://github.com/marty1885/paroli) - Streaming TTS based on Piper with optional RK3588 NPU support
 - [EEPT-LAB/DipG-Seg](https://github.com/EEPT-LAB/DipG-Seg) - The official implementation of DipG-Seg.
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
@@ -1421,6 +1426,7 @@
 
 ## MATLAB 
 
+- [scott89/KCF](https://github.com/scott89/KCF) - Source code for "high-speed tracking with kernelized correlation filters"
 - [yuxng/MDP_Tracking](https://github.com/yuxng/MDP_Tracking) - Learning to Track: Online Multi-Object Tracking by Decision Making
 - [JunaidCS032/MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels) - Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018)
 - [martin-danelljan/ECO](https://github.com/martin-danelljan/ECO) - Matlab implementation of the ECO tracker.
@@ -1530,7 +1536,6 @@
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
 - [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
 - [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
@@ -1548,7 +1553,6 @@
 - [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - 
 - [IranQin/SupFusion](https://github.com/IranQin/SupFusion) - This is the official code of the paper "SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection"
 - [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
-- [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for the Paper "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
 - [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - 
 - [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
@@ -1741,10 +1745,12 @@
 
 ## Python 
 
+- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
 - [WailordHe/DenseSSM](https://github.com/WailordHe/DenseSSM) - A repository for DenseSSMs
 - [PacktPublishing/3D-Deep-Learning-with-Python](https://github.com/PacktPublishing/3D-Deep-Learning-with-Python) - 3D Deep Learning with Python, Published by Packt
 - [LMD0311/DAPT](https://github.com/LMD0311/DAPT) - [CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
 - [OpenGVLab/DCNv4](https://github.com/OpenGVLab/DCNv4) - [CVPR 2024] Deformable Convolution v4
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
 - [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
@@ -1970,6 +1976,7 @@
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
 - [EnVision-Research/Adv3D](https://github.com/EnVision-Research/Adv3D) - 
+- [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for [IEEE Transactions on Vehicular Technology] "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
@@ -3604,6 +3611,7 @@
 
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [Fruit-Pi/rockchip-test](https://github.com/Fruit-Pi/rockchip-test) - 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [ChisBread/rk3588-gaming-step-by-step](https://github.com/ChisBread/rk3588-gaming-step-by-step) - 只有中文! 一步步教你在RK3588(Debian-based OS)上运行各种游戏
 - [rockchip-linux/rkbin](https://github.com/rockchip-linux/rkbin) - Firmware and Tool Binarys
@@ -3667,7 +3675,6 @@
 
 ## TypeScript 
 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
