@@ -2102,7 +2102,6 @@
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
 - [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - 
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
-- [hht1996ok/IC-FPS](https://github.com/hht1996ok/IC-FPS) - 
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
 - [IDEA-Research/3D-deformable-attention](https://github.com/IDEA-Research/3D-deformable-attention) - [ICCV 2023] Official implementation of the paper "DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting"
 - [sankin97/HMFI](https://github.com/sankin97/HMFI) - [ECCV2022] Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection
@@ -3348,7 +3347,7 @@
 - [RUSH-LAB/SLIDE](https://github.com/RUSH-LAB/SLIDE) - 
 - [k0suke-murakami/kitti_pretrained_point_pillars](https://github.com/k0suke-murakami/kitti_pretrained_point_pillars) - 
 - [MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOv5, YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv8.  MNN, NCNN, TNN, ONNXRuntime.
+- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of 100+ awesome AI models, support ONNXRuntime, NCNN, MNN and TNN. Contains YOLOv5, YOLOv6, YOLOX, YOLOR, FaceDet, HeadSeg, HeadPose, Matting etc.
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
 - [linyliny/curb_detection](https://github.com/linyliny/curb_detection) - based on the paper A real-time curb detection and tracking method for UGVs by using a 3D-LIDAR sensor
