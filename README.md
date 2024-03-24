@@ -1126,7 +1126,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 高频面试题汇总 / C++笔记，个人笔记，更新随缘: sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，个人笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -2192,7 +2192,7 @@
 - [dvlab-research/Imbalanced-Learning](https://github.com/dvlab-research/Imbalanced-Learning) - Imbalanced learning tool for imbalanced recognition and segmentation
 - [dvlab-research/SparseTransformer](https://github.com/dvlab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
 - [dvlab-research/Stratified-Transformer](https://github.com/dvlab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
-- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24), PPT (CVPR'24), MSC (CVPR'23), PTv2 (NeurIPS'22)
+- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24), PPT (CVPR'24), OA-CNNs (CVPR'24), MSC (CVPR'23)
 - [dvlab-research/SphereFormer](https://github.com/dvlab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
 - [dvlab-research/VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
 - [exiawsh/StreamPETR](https://github.com/exiawsh/StreamPETR) - [ICCV 2023] StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection
