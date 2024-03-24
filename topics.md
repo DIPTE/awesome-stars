@@ -2648,7 +2648,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 高频面试题汇总 / C++笔记，个人笔记，更新随缘: sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，个人笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -4491,7 +4491,7 @@
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
-- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24), PPT (CVPR'24), MSC (CVPR'23), PTv2 (NeurIPS'22)
+- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24), PPT (CVPR'24), OA-CNNs (CVPR'24), MSC (CVPR'23)
 - [yahuiliu99/PointConT](https://github.com/yahuiliu99/PointConT) - Official implementation of the paper "Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space"
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
