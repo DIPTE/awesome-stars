@@ -2287,7 +2287,7 @@
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
-- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - 
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2024] NeRF-RPN: A general framework for object detection in NeRFs
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
 - [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
@@ -2648,7 +2648,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，个人笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
