@@ -1126,7 +1126,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，个人笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Note](https://github.com/DefTruth/CUDA-Learn-Note) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -1632,7 +1632,6 @@
 - [beedotkiran/Lidar_For_AD_references](https://github.com/beedotkiran/Lidar_For_AD_references) - A list of references on lidar point cloud processing for autonomous driving
 - [LeoQLi/Lidar_For_AD_references](https://github.com/LeoQLi/Lidar_For_AD_references) - A list of references on lidar point cloud processing for autonomous driving
 - [fpthink/GraphCut](https://github.com/fpthink/GraphCut) - Learning Superpoint Graph Cut for 3D Instance Segmentation
-- [whucsy/RotTrans](https://github.com/whucsy/RotTrans) - 
 - [LittlePey/Semi-Sampling](https://github.com/LittlePey/Semi-Sampling) - Boosting Semi-Supervised 3D Object Detection with Semi-Sampling
 - [eclipse-threadx/samples](https://github.com/eclipse-threadx/samples) - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, STM32CubeID
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
@@ -2127,7 +2126,7 @@
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - 
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - [ICCV 2023] OccNet: Scene as Occupancy
-- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - 
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2024] NeRF-RPN: A general framework for object detection in NeRFs
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
 - [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
@@ -2464,6 +2463,7 @@
 - [wangx1996/CenterBEV](https://github.com/wangx1996/CenterBEV) - A deep learning method for pointcloud object detection.
 - [wangx1996/CenterPillarNet](https://github.com/wangx1996/CenterPillarNet) - An anchor free method for pointcloud object detecion.
 - [YurongYou/Hindsight](https://github.com/YurongYou/Hindsight) - Code release for "Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception" [ICLR 2022]
+- [whucsy/RotTrans](https://github.com/whucsy/RotTrans) - 
 - [HpWang-whu/YOHO](https://github.com/HpWang-whu/YOHO) - [ACM MM 2022] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors
 - [antoalli/3D_OS](https://github.com/antoalli/3D_OS) - 
 - [elicassion/3DTRL](https://github.com/elicassion/3DTRL) - Code for NeurIPS 2022 paper "Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space"
