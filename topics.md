@@ -215,6 +215,7 @@
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
+- [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
@@ -713,6 +714,7 @@
 ## data 
 
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [dkoguciuk/mesh2pointcloud](https://github.com/dkoguciuk/mesh2pointcloud) - A mini scripts to sample ModelNet40 or ShapeNetCore55v2 meshes into 3D point clouds
 
 ## data-science 
@@ -1690,6 +1692,9 @@
 
 ## others 
 
+- [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
+- [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
+- [zhujun3753/i-octree](https://github.com/zhujun3753/i-octree) - [ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [nwesem/mtcnn_facenet_cpp_tensorRT](https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT) - Face Recognition on NVIDIA Jetson (Nano) using TensorRT
 - [wyc15002105071/Recorder](https://github.com/wyc15002105071/Recorder) - The Recorder Application of RK3588 for Qt
@@ -1839,7 +1844,6 @@
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
 - [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - WidthFormer: Toward Efficient Transformer-based BEV View Transformation
-- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
