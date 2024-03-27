@@ -226,6 +226,7 @@
 
 ## C++ 
 
+- [zhujun3753/i-octree](https://github.com/zhujun3753/i-octree) - [ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
 - [nwesem/mtcnn_facenet_cpp_tensorRT](https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT) - Face Recognition on NVIDIA Jetson (Nano) using TensorRT
 - [chengwei0427/Lidar_IMU_Localization](https://github.com/chengwei0427/Lidar_IMU_Localization) - Lidar-IMU Localization System with Prior Map Constraint and Lio Constraint
 - [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
@@ -314,7 +315,6 @@
 - [ramitix/Car_lane_sign_detection](https://github.com/ramitix/Car_lane_sign_detection) - 
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [MRwangmaomao/semantic_slam_nav_ros](https://github.com/MRwangmaomao/semantic_slam_nav_ros) - 针对带有RGBD相机的服务机器人，物流机器人等。具有：语义地图构建、定位导航、三维重构、重定位、动态物体识别、移动避障、手势识别、人脸识别、语音合成与识别等功能
-- [creapunk/CLN-ClosedLoopNemaDriver](https://github.com/creapunk/CLN-ClosedLoopNemaDriver) - Compact closed-loop stepper motor driver designed for NEMA motors
 - [Tencent/libco](https://github.com/Tencent/libco) - libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
 - [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
 - [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11
@@ -1274,7 +1274,7 @@
 - [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
-- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
+- [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [chongzhou96/EdgeSAM](https://github.com/chongzhou96/EdgeSAM) - Official PyTorch implementation of "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM"
 - [megvii-research/Far3D](https://github.com/megvii-research/Far3D) - [AAAI2024] Far3D: Expanding the Horizon for Surround-view 3D Object Detection
@@ -1502,6 +1502,7 @@
 
 ## Others 
 
+- [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
 - [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
 - [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
@@ -1533,6 +1534,7 @@
 - [youw3/AI-Algorithm-Engineer-s-Manual](https://github.com/youw3/AI-Algorithm-Engineer-s-Manual) - AI算法工程师手册  作者网站http://www.huaxiaozhuan.com/
 - [nv-tlabs/3DiffTection](https://github.com/nv-tlabs/3DiffTection) - 
 - [SpeechifyInc/Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
+- [creapunk/CLN-ClosedLoopNemaDriver](https://github.com/creapunk/CLN-ClosedLoopNemaDriver) - Compact closed-loop stepper motor driver designed for NEMA motors
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
@@ -1744,6 +1746,7 @@
 
 ## Python 
 
+- [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
 - [WailordHe/DenseSSM](https://github.com/WailordHe/DenseSSM) - A repository for DenseSSMs
