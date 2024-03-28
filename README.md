@@ -1719,7 +1719,7 @@
 - [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 - [haozhangcn/paper-computer-vision](https://github.com/haozhangcn/paper-computer-vision) - Computer vision papers
 - [extreme-assistant/awesomeCV](https://github.com/extreme-assistant/awesomeCV) - 记录state-of-art计算机视觉相关论文。
-- [extreme-assistant/CVPR2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation) - cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
+- [extreme-assistant/CVPR2024-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation) - cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
 - [dlod-openvino/book](https://github.com/dlod-openvino/book) - 《深度学习图像识别技术：基于TensorFlow Object Detection API和Intel OpenVINO》
 - [Hardy-Uint/awesome-3D-vision](https://github.com/Hardy-Uint/awesome-3D-vision) - 3D computer vision incuding SLAM，VSALM，Deep Learning，Structured light，Stereo，Three-dimensional reconstruction，Computer vision，Machine Learning and so on
 - [3DTINet/3DTINet](https://github.com/3DTINet/3DTINet) - 
