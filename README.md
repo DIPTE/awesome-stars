@@ -227,6 +227,7 @@
 
 ## C++ 
 
+- [xiangli0608/Learning_localization_from_scratch_ws](https://github.com/xiangli0608/Learning_localization_from_scratch_ws) - 
 - [fishros/transforms3d_cpp](https://github.com/fishros/transforms3d_cpp) - 基于Eigen实现的机器人位姿转换库
 - [zhujun3753/i-octree](https://github.com/zhujun3753/i-octree) - [ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
 - [nwesem/mtcnn_facenet_cpp_tensorRT](https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT) - Face Recognition on NVIDIA Jetson (Nano) using TensorRT
@@ -1266,7 +1267,7 @@
 
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
