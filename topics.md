@@ -213,7 +213,7 @@
 ## ai 
 
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -1692,6 +1692,8 @@
 
 ## others 
 
+- [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
+- [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, DWA, Bezier,
 - [xiangli0608/Learning_localization_from_scratch_ws](https://github.com/xiangli0608/Learning_localization_from_scratch_ws) - 
 - [fishros/transforms3d_cpp](https://github.com/fishros/transforms3d_cpp) - 基于Eigen实现的机器人位姿转换库
 - [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
