@@ -1430,6 +1430,7 @@
 
 ## MATLAB 
 
+- [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, DWA, Bezier,
 - [scott89/KCF](https://github.com/scott89/KCF) - Source code for "high-speed tracking with kernelized correlation filters"
 - [yuxng/MDP_Tracking](https://github.com/yuxng/MDP_Tracking) - Learning to Track: Online Multi-Object Tracking by Decision Making
 - [JunaidCS032/MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels) - Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018)
@@ -1509,6 +1510,7 @@
 
 ## Others 
 
+- [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
 - [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
 - [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
@@ -1808,7 +1810,7 @@
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
 - [tech-shrimp/FreeWechatPush](https://github.com/tech-shrimp/FreeWechatPush) - 使用免费的微信测试公众号，做微信推送，给女朋友推送天气，课程提醒。
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch) - A PyTorch re-implementation of Neural Radiance Fields
 - [IrohXu/lanenet-lane-detection-pytorch](https://github.com/IrohXu/lanenet-lane-detection-pytorch) - Unofficial implemention of lanenet model for real time lane detection Pytorch Version
 - [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - 
