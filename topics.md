@@ -212,6 +212,7 @@
 
 ## ai 
 
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
@@ -397,7 +398,7 @@
 
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
@@ -450,6 +451,7 @@
 
 ## computer-vision 
 
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - PointMamba: A Simple State Space Model for Point Cloud Analysis
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
@@ -743,6 +745,7 @@
 
 ## deep-learning 
 
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
@@ -1353,6 +1356,7 @@
 
 ## machine-learning 
 
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1639,6 +1643,7 @@
 
 ## opencv 
 
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [sherlockchou86/video_pipe_c](https://github.com/sherlockchou86/video_pipe_c) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
@@ -1692,6 +1697,16 @@
 
 ## others 
 
+- [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
+- [TIERS/tiers-lidars-dataset](https://github.com/TIERS/tiers-lidars-dataset) - Multi-modal multi-lidar dataset
+- [ZJU-FAST-Lab/EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2) - Swarm Playground, the codebase of the paper "Swarm of micro flying robots in the wild"
+- [ZJU-FAST-Lab/ego-planner](https://github.com/ZJU-FAST-Lab/ego-planner) - 
+- [ManiiXu/VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning) - VINS-Mono代码注释，仅供学习
+- [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
+- [liangheming/VoxelMap_LIO_SAM](https://github.com/liangheming/VoxelMap_LIO_SAM) - FASTLIO2 based on Voxel Map
+- [ai-winter/ros_motion_planning_visualizer](https://github.com/ai-winter/ros_motion_planning_visualizer) - A Rviz Plugin used in path visualization and curve generation, which is helpful for qualitative experiments on path planning and curve optimization.
+- [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
+- [zhudongwork/SAM_TensorRT](https://github.com/zhudongwork/SAM_TensorRT) - This is the code to implement Segment Anything (SAM) using TensorRT(C++).
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, DWA, Bezier,
 - [xiangli0608/Learning_localization_from_scratch_ws](https://github.com/xiangli0608/Learning_localization_from_scratch_ws) - 
@@ -2021,7 +2036,7 @@
 - [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow
 - [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
 - [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
-- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - Embracing Foundation Models into Autonomous Agent and System
+- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - [Incl. GenAD dataset] Embracing Foundation Models into Autonomous Agent and System
 - [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Topology Reasoning for Scene Perception in Autonomous Driving
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
@@ -2138,7 +2153,7 @@
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++
+- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++: Integrated traffic and autonomous driving simulators with (M)LLM support
 - [caizhongang/waymo_kitti_converter](https://github.com/caizhongang/waymo_kitti_converter) - A toolkit for Waymo Open Dataset &lt;-&gt; KITTI conversions
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
 - [tdzdog/SEFormer](https://github.com/tdzdog/SEFormer) - AAAI2023: SEFormer: Structure Embedding Transformer for 3D Object Detection
@@ -4629,7 +4644,7 @@
 - [DerrickXuNu/OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) - [ICRA 2022] An opensource framework for cooperative detection. Official implementation for OPV2V.
 - [Xharlie/BtcDet](https://github.com/Xharlie/BtcDet) - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection
 - [Na-Z/SDCoT](https://github.com/Na-Z/SDCoT) - [AAAI 2022 Oral] Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection
-- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
+- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Code for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [paul007pl/VRCNet](https://github.com/paul007pl/VRCNet) - [CVPR 2021 Oral] Variational Relational Point Completion Network
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
@@ -4780,6 +4795,8 @@
 
 ## robotics 
 
+- [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+- [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pu
 - [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [jhu-lcsr/handeye_calib_camodocal](https://github.com/jhu-lcsr/handeye_calib_camodocal) - Easy to use and accurate hand eye calibration which has been working reliably for years (2016-present) with kinect, kinectv2, rgbd cameras, optical trackers, and several robots including the ur5 and k
