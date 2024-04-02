@@ -227,6 +227,17 @@
 
 ## C++ 
 
+- [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
+- [TIERS/tiers-lidars-dataset](https://github.com/TIERS/tiers-lidars-dataset) - Multi-modal multi-lidar dataset
+- [ZJU-FAST-Lab/EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2) - Swarm Playground, the codebase of the paper "Swarm of micro flying robots in the wild"
+- [ZJU-FAST-Lab/ego-planner](https://github.com/ZJU-FAST-Lab/ego-planner) - 
+- [ManiiXu/VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning) - VINS-Mono代码注释，仅供学习
+- [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+- [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
+- [liangheming/VoxelMap_LIO_SAM](https://github.com/liangheming/VoxelMap_LIO_SAM) - FASTLIO2 based on Voxel Map
+- [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pu
+- [ai-winter/ros_motion_planning_visualizer](https://github.com/ai-winter/ros_motion_planning_visualizer) - A Rviz Plugin used in path visualization and curve generation, which is helpful for qualitative experiments on path planning and curve optimization.
+- [zhudongwork/SAM_TensorRT](https://github.com/zhudongwork/SAM_TensorRT) - This is the code to implement Segment Anything (SAM) using TensorRT(C++).
 - [xiangli0608/Learning_localization_from_scratch_ws](https://github.com/xiangli0608/Learning_localization_from_scratch_ws) - 
 - [fishros/transforms3d_cpp](https://github.com/fishros/transforms3d_cpp) - 基于Eigen实现的机器人位姿转换库
 - [zhujun3753/i-octree](https://github.com/zhujun3753/i-octree) - [ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
@@ -1265,9 +1276,10 @@
 
 ## Jupyter Notebook 
 
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
@@ -1754,6 +1766,7 @@
 
 ## Python 
 
+- [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
 - [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
@@ -1944,7 +1957,7 @@
 - [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow
 - [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
-- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - Embracing Foundation Models into Autonomous Agent and System
+- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - [Incl. GenAD dataset] Embracing Foundation Models into Autonomous Agent and System
 - [SamsungLabs/tr3d](https://github.com/SamsungLabs/tr3d) - [ICIP2023] TR3D: Towards Real-Time Indoor 3D Object Detection
 - [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Topology Reasoning for Scene Perception in Autonomous Driving
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
@@ -2024,7 +2037,7 @@
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [Turoad/lanedet](https://github.com/Turoad/lanedet) - An open source lane detection toolbox based on PyTorch, including SCNN, RESA, UFLD, LaneATT, CondLane, etc.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++
+- [PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim) - LimSim & LimSim++: Integrated traffic and autonomous driving simulators with (M)LLM support
 - [caizhongang/waymo_kitti_converter](https://github.com/caizhongang/waymo_kitti_converter) - A toolkit for Waymo Open Dataset &lt;-&gt; KITTI conversions
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
 - [cskkxjk/MonoNeRD](https://github.com/cskkxjk/MonoNeRD) - (ICCV2023) MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
@@ -2897,7 +2910,7 @@
 - [Rock-100/MonoDet](https://github.com/Rock-100/MonoDet) - [ICCV21 & WACV23] Monocular 3D Object Detection for Automonous Driving
 - [VimsLab/MeshNet2](https://github.com/VimsLab/MeshNet2) - 
 - [luxius-luminus/PolyConv](https://github.com/luxius-luminus/PolyConv) - Object Point Cloud Classification via Poly-Convolutional Architecture Search
-- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Codes for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
+- [tusen-ai/SST](https://github.com/tusen-ai/SST) - Code for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
 - [LitingLin/SwinTrack](https://github.com/LitingLin/SwinTrack) - 
 - [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (TPAMI 2022, ACM MM 2020)
 - [subbarayudu-j/TheAlgorithms-Python](https://github.com/subbarayudu-j/TheAlgorithms-Python) - TheAlgorithms/Python
