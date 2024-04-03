@@ -75,6 +75,7 @@
 
 ## C 
 
+- [xiaohulugo/VanishingPointDetection](https://github.com/xiaohulugo/VanishingPointDetection) - 2-Line Exhaustive Searching for Real-Time Vanishing Point Estimation in Manhattan World
 - [Embedfire/nmealib](https://github.com/Embedfire/nmealib) - 
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [ZainZh/sunriseX3_yolov8](https://github.com/ZainZh/sunriseX3_yolov8) - 地平线horizon开发板部署工具
@@ -227,6 +228,8 @@
 
 ## C++ 
 
+- [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallelized algorithms for point cloud registration [C++, Python]
+- [xiaohulugo/VanishingPointDetection_BSD2](https://github.com/xiaohulugo/VanishingPointDetection_BSD2) - Vanishing point detection given line segments in BSD2 license
 - [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
 - [TIERS/tiers-lidars-dataset](https://github.com/TIERS/tiers-lidars-dataset) - Multi-modal multi-lidar dataset
 - [ZJU-FAST-Lab/EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2) - Swarm Playground, the codebase of the paper "Swarm of micro flying robots in the wild"
@@ -1766,6 +1769,7 @@
 
 ## Python 
 
+- [abhi1kumar/SeaBird](https://github.com/abhi1kumar/SeaBird) - [CVPR 2024] Official PyTorch Code of SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects
 - [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
 - [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
