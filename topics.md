@@ -621,6 +621,7 @@
 
 ## cpp 
 
+- [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallelized algorithms for point cloud registration [C++, Python]
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
 - [spacewalk01/TensorRT-YOLOv9](https://github.com/spacewalk01/TensorRT-YOLOv9) - Cpp and python implementation of YOLOv9 using TensorRT API
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
@@ -1697,6 +1698,9 @@
 
 ## others 
 
+- [abhi1kumar/SeaBird](https://github.com/abhi1kumar/SeaBird) - [CVPR 2024] Official PyTorch Code of SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects
+- [xiaohulugo/VanishingPointDetection_BSD2](https://github.com/xiaohulugo/VanishingPointDetection_BSD2) - Vanishing point detection given line segments in BSD2 license
+- [xiaohulugo/VanishingPointDetection](https://github.com/xiaohulugo/VanishingPointDetection) - 2-Line Exhaustive Searching for Real-Time Vanishing Point Estimation in Manhattan World
 - [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
 - [TIERS/tiers-lidars-dataset](https://github.com/TIERS/tiers-lidars-dataset) - Multi-modal multi-lidar dataset
 - [ZJU-FAST-Lab/EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2) - Swarm Playground, the codebase of the paper "Swarm of micro flying robots in the wild"
@@ -4341,6 +4345,7 @@
 
 ## python 
 
+- [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallelized algorithms for point cloud registration [C++, Python]
 - [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
