@@ -228,6 +228,23 @@
 
 ## C++ 
 
+- [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
+- [ppwwyyxx/OpenPano](https://github.com/ppwwyyxx/OpenPano) - Automatic Panorama Stitching From Scratch
+- [KumarRobotics/sloam](https://github.com/KumarRobotics/sloam) - Semantic LIDAR odometry and mapping for cylinderical objects (e.g. trees in forests)
+- [lilin-hitcrt/SSC](https://github.com/lilin-hitcrt/SSC) - Semantic Scan Context
+- [flanggut/smvs](https://github.com/flanggut/smvs) - Shading-aware Multi-view Stereo
+- [pmoulon/CMVS-PMVS](https://github.com/pmoulon/CMVS-PMVS) - This software (CMVS) takes the output of a structure-from-motion (SfM) software as input, then decomposes the input images into a set of image clusters of managable size. An MVS software can be used t
+- [simonfuhrmann/mve](https://github.com/simonfuhrmann/mve) - Multi-View Environment
+- [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
+- [publicsite/COLMAP-OpenMVS-Pipeline](https://github.com/publicsite/COLMAP-OpenMVS-Pipeline) - A CPU 3D Reconstruction pipeline using COLMAP and OpenMVS
+- [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
+- [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！
+- [koide3/hdl_localization](https://github.com/koide3/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
+- [SMRT-AIST/interactive_slam](https://github.com/SMRT-AIST/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
+- [koide3/ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
+- [danini/graph-cut-ransac](https://github.com/danini/graph-cut-ransac) - The Graph-Cut RANSAC algorithm proposed in paper: Daniel Barath and Jiri Matas; Graph-Cut RANSAC, Conference on Computer Vision and Pattern Recognition, 2018. It is available at http://openaccess.thec
+- [mujiubai/SC2-PCR-CPP](https://github.com/mujiubai/SC2-PCR-CPP) - SC2-PCR c++ version
+- [zhangxy0517/3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) - Source code of CVPR 2023 paper
 - [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallelized algorithms for point cloud registration [C++, Python]
 - [xiaohulugo/VanishingPointDetection_BSD2](https://github.com/xiaohulugo/VanishingPointDetection_BSD2) - Vanishing point detection given line segments in BSD2 license
 - [HKUST-Aerial-Robotics/Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - A Robust and Efficient Trajectory Planner for Quadrotors
@@ -1525,6 +1542,7 @@
 
 ## Others 
 
+- [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
 - [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
@@ -1598,7 +1616,6 @@
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
 - [jianrenw/PanoNet3D](https://github.com/jianrenw/PanoNet3D) - 
-- [V-DETR/V-DETR](https://github.com/V-DETR/V-DETR) - [ICLR 2024] This is the official code of the paper "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection"
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
@@ -1769,6 +1786,20 @@
 
 ## Python 
 
+- [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
+- [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24] Gaussian Splatting SLAM
+- [xy-guo/MVSNet_pytorch](https://github.com/xy-guo/MVSNet_pytorch) - PyTorch Implementation of MVSNet
+- [prs-eth/OverlapPredator](https://github.com/prs-eth/OverlapPredator) - [CVPR 2021, Oral] PREDATOR: Registration of 3D Point Clouds with Low Overlap.
+- [haoyu94/Coarse-to-fine-correspondences](https://github.com/haoyu94/Coarse-to-fine-correspondences) - PyTorch implementation of NeurIPS 2021 paper: "CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration"
+- [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
+- [POSTECH-CVLab/DHVR](https://github.com/POSTECH-CVLab/DHVR) - [ICCV 2021] Deep Hough Voting for Robust Global Registration
+- [XuyangBai/PointDSC](https://github.com/XuyangBai/PointDSC) - [PyTorch] Official implementation of CVPR2021 paper "PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency". https://arxiv.org/abs/2103.05465
+- [chrischoy/DeepGlobalRegistration](https://github.com/chrischoy/DeepGlobalRegistration) - [CVPR 2020 Oral] A differentiable framework for 3D registration
+- [goncalo120/3DRegNet](https://github.com/goncalo120/3DRegNet) - [CVPR 2020, Poster] 3DRegNet: A Deep Neural Network for 3D Point Registration (Not Updated)
+- [ZhiChen902/SC2-PCR](https://github.com/ZhiChen902/SC2-PCR) - SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration (CVPR 2022)
+- [l1997i/lim3d](https://github.com/l1997i/lim3d) - 🔥(CVPR 2023) Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation
+- [Jiang-HB/VBReg](https://github.com/Jiang-HB/VBReg) - Robust Outlier Rejection for 3D Registration with Variational Bayes (Accepted by CVPR-2023)
 - [abhi1kumar/SeaBird](https://github.com/abhi1kumar/SeaBird) - [CVPR 2024] Official PyTorch Code of SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects
 - [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
 - [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
@@ -2107,6 +2138,7 @@
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [LiWentomng/Point2Mask](https://github.com/LiWentomng/Point2Mask) - The code for "Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport", ICCV2023
 - [mkang315/RCS-YOLO](https://github.com/mkang315/RCS-YOLO) - Official implementation of "RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection".
+- [V-DETR/V-DETR](https://github.com/V-DETR/V-DETR) - [ICLR 2024] This is the official code of the paper "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection"
 - [Mr-Neko/JM3D](https://github.com/Mr-Neko/JM3D) - The offical implemention of JM3D.
 - [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) - Official PyTorch implementation of FocalFormer3D [ICCV 2023]
 - [tiangexiang/OccNeRF](https://github.com/tiangexiang/OccNeRF) - [ICCV 2023] Rendering Humans from Object-Occluded Monocular Videos
@@ -2296,7 +2328,7 @@
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
 - [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [yushulx/docker-arm64-arm32-python-barcode-detection](https://github.com/yushulx/docker-arm64-arm32-python-barcode-detection) - 
-- [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - InternVideo: General Video Foundation Models via Generative and Discriminative Learning (https://arxiv.org/abs/2212.03191)
+- [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - Video Foundation Models & Data for Multimodal Understanding
 - [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) - [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
 - [dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
