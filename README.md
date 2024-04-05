@@ -228,6 +228,7 @@
 
 ## C++ 
 
+- [lewisjiang/contour-context](https://github.com/lewisjiang/contour-context) - [ICRA'23] Official code repo for "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation"
 - [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [ppwwyyxx/OpenPano](https://github.com/ppwwyyxx/OpenPano) - Automatic Panorama Stitching From Scratch
 - [KumarRobotics/sloam](https://github.com/KumarRobotics/sloam) - Semantic LIDAR odometry and mapping for cylinderical objects (e.g. trees in forests)
@@ -1786,6 +1787,7 @@
 
 ## Python 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
 - [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24] Gaussian Splatting SLAM
