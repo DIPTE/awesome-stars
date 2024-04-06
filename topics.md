@@ -1877,7 +1877,7 @@
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
 - [Wolfwjs/GANet](https://github.com/Wolfwjs/GANet) - A Keypoint-based Global Association Network for Lane Detection. Accepted by CVPR 2022
 - [ChenZjut/ROS_LaneATT](https://github.com/ChenZjut/ROS_LaneATT) - 
-- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR 2024] Official project repository of Point Transformer V3 (PTv3)
+- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR'24 Oral] Official project repository of Point Transformer V3 (PTv3)
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
 - [wep21/CUDA-TransFusion](https://github.com/wep21/CUDA-TransFusion) - 
 - [CYYAI/AiInfer](https://github.com/CYYAI/AiInfer) - 
@@ -1908,7 +1908,7 @@
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
-- [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - [CVPR 2024] Visual Point Cloud Forecasting
+- [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - [CVPR 2024 Highlight] Visual Point Cloud Forecasting
 - [EZreal-zhangxing/rk_ffmpeg](https://github.com/EZreal-zhangxing/rk_ffmpeg) - 在rockchip3588上实现用ffmpeg进行推拉流，其中推拉流使用硬件加速编解码
 - [MingZhuLiu/ZLMediaServerManagent](https://github.com/MingZhuLiu/ZLMediaServerManagent) - ZLMediaKitServer后台管理系统
 - [Fruit-Pi/rockchip-test](https://github.com/Fruit-Pi/rockchip-test) - 
@@ -2075,7 +2075,7 @@
 - [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow
 - [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
 - [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
-- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - [Incl. GenAD dataset] Embracing Foundation Models into Autonomous Agent and System
+- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - [Incl. GenAD work, CVPR 2024 Highlight] Embracing Foundation Models into Autonomous Agent and System
 - [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Topology Reasoning for Scene Perception in Autonomous Driving
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
@@ -2238,8 +2238,8 @@
 - [meliao/rotation-invariant-random-features](https://github.com/meliao/rotation-invariant-random-features) - 
 - [IRMVLab/RegFormer](https://github.com/IRMVLab/RegFormer) - [ICCV2023]RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration
 - [beauty-girl-cxy/rknn_yolov5_3588_bytetrack](https://github.com/beauty-girl-cxy/rknn_yolov5_3588_bytetrack) - 
-- [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - [ICCV 2023 Workshop] SAM3D: Segment Anything in 3D Scenes
-- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR 2024] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
+- [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - [ICCV'23 Workshop] SAM3D: Segment Anything in 3D Scenes
+- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
 - [Caesar-github/gstreamer-rockchip](https://github.com/Caesar-github/gstreamer-rockchip) - The Gstreamer hardware encoder/decoder plugins for Rockchip platform
 - [BedRockJie/Rockchip_camera_encoder_Networkput](https://github.com/BedRockJie/Rockchip_camera_encoder_Networkput) - 
@@ -4555,7 +4555,7 @@
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
-- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24), PPT (CVPR'24), OA-CNNs (CVPR'24), MSC (CVPR'23)
+- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24 Oral), PPT (CVPR'24), OA-CNNs (CVPR'24), MSC (CVPR'23)
 - [yahuiliu99/PointConT](https://github.com/yahuiliu99/PointConT) - Official implementation of the paper "Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space"
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
@@ -4612,7 +4612,7 @@
 - [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [DeepVAC/libdeepvac](https://github.com/DeepVAC/libdeepvac) - Use PyTorch model in C++ project
 - [DeepVAC/deepvac](https://github.com/DeepVAC/deepvac) - PyTorch Project Specification.
-- [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS 2022] An official PyTorch implementation of PTv2 (updated in Pointcept)
+- [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS'22] An official PyTorch implementation of PTv2 (updated in Pointcept)
 - [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
 - [shinya7y/UniverseNet](https://github.com/shinya7y/UniverseNet) - USB: Universal-Scale Object Detection Benchmark (BMVC 2022)
 - [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206)
