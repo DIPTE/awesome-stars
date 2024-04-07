@@ -1876,7 +1876,7 @@
 - [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
 - [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
 - [lucastabelini/PolyLaneNet](https://github.com/lucastabelini/PolyLaneNet) - Code for the paper entitled "PolyLaneNet: Lane Estimation via Deep Polynomial Regression" (ICPR 2020)
-- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR'24 Oral] Official project repository of Point Transformer V3 (PTv3)
+- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR'24 Oral] Official repository of Point Transformer V3 (PTv3)
 - [linClubs/FastBEV-ROS-TensorRT](https://github.com/linClubs/FastBEV-ROS-TensorRT) - FastBEV-ROS-TensorRT-CPP real time inference including ros1 & ros2
 - [linClubs/BEVFusion-ROS-TensorRT](https://github.com/linClubs/BEVFusion-ROS-TensorRT) - BEVFusion-ROS-TensorRT-CPP real time inference including ros1 & ros2.
 - [hustvl/VMA](https://github.com/hustvl/VMA) - A general map auto annotation framework based on MapTR, with high flexibility in terms of spatial scale and element type
@@ -2618,7 +2618,7 @@
 - [sipeed/MaixPy-v1](https://github.com/sipeed/MaixPy-v1) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) - Yolo-for-k210
 - [LZBUAV/K210](https://github.com/LZBUAV/K210) - Kendryte K210人工智能芯片应用程序集合，包括人脸检测、颜色检测、目标检测和分类、二维码和Apriltag代码检测以及和ArduPilot飞控软件的通信。这些应用程序已部署到无人机终端。This repository is a collection of applications for the Kendryte K210 AI chip which include face detec
-- [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS'22] An official PyTorch implementation of PTv2 (updated in Pointcept)
+- [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS'22] An official PyTorch implementation of PTv2.
 - [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
 - [Livox-SDK/livox_detection](https://github.com/Livox-SDK/livox_detection) - Livox open source detection algorithm
 - [opendilab/InterFuser](https://github.com/opendilab/InterFuser) - [CoRL 2022] InterFuser: Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer
