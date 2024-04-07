@@ -1877,7 +1877,7 @@
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
 - [Wolfwjs/GANet](https://github.com/Wolfwjs/GANet) - A Keypoint-based Global Association Network for Lane Detection. Accepted by CVPR 2022
 - [ChenZjut/ROS_LaneATT](https://github.com/ChenZjut/ROS_LaneATT) - 
-- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR'24 Oral] Official project repository of Point Transformer V3 (PTv3)
+- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR'24 Oral] Official repository of Point Transformer V3 (PTv3)
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
 - [wep21/CUDA-TransFusion](https://github.com/wep21/CUDA-TransFusion) - 
 - [CYYAI/AiInfer](https://github.com/CYYAI/AiInfer) - 
@@ -4612,7 +4612,7 @@
 - [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [DeepVAC/libdeepvac](https://github.com/DeepVAC/libdeepvac) - Use PyTorch model in C++ project
 - [DeepVAC/deepvac](https://github.com/DeepVAC/deepvac) - PyTorch Project Specification.
-- [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS'22] An official PyTorch implementation of PTv2 (updated in Pointcept)
+- [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS'22] An official PyTorch implementation of PTv2.
 - [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
 - [shinya7y/UniverseNet](https://github.com/shinya7y/UniverseNet) - USB: Universal-Scale Object Detection Benchmark (BMVC 2022)
 - [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) - implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206)
