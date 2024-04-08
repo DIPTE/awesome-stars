@@ -228,6 +228,16 @@
 
 ## C++ 
 
+- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
+- [hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap) - [RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry
+- [introlab/rtabmap_ros](https://github.com/introlab/rtabmap_ros) - RTAB-Map's ROS package.
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
+- [vectr-ucla/direct_lidar_odometry](https://github.com/vectr-ucla/direct_lidar_odometry) - [IEEE RA-L & ICRA'22] A lightweight and computationally-efficient frontend LiDAR odometry solution with consistent and accurate localization.
+- [PRBonn/vdbfusion_ros](https://github.com/PRBonn/vdbfusion_ros) - ROS1 Wrapper for VDBFusion https://github.com/PRBonn/vdbfusion
+- [PRBonn/vdbfusion](https://github.com/PRBonn/vdbfusion) - C++/Python Sparse Volumetric TSDF Fusion
+- [KennyWGH/efficient_online_segmentation](https://github.com/KennyWGH/efficient_online_segmentation) - Efficient Online Segmentation of Ground&Wall Points for Multi-line Spinning LiDARs. //在线分割激光点云中的地面点和墙面点。
+- [makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping](https://github.com/makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping) - 
+- [cshang412/BEV_parkingSlot](https://github.com/cshang412/BEV_parkingSlot) - process parking slots detected on Bev image, generate the parking slots on the world coordinate.
 - [lewisjiang/contour-context](https://github.com/lewisjiang/contour-context) - [ICRA'23] Official code repo for "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation"
 - [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [ppwwyyxx/OpenPano](https://github.com/ppwwyyxx/OpenPano) - Automatic Panorama Stitching From Scratch
@@ -1543,6 +1553,7 @@
 
 ## Others 
 
+- [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
 - [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
@@ -1787,10 +1798,12 @@
 
 ## Python 
 
+- [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
+- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - Fully Sparse 3D Occupancy Prediction
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
-- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24] Gaussian Splatting SLAM
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
 - [xy-guo/MVSNet_pytorch](https://github.com/xy-guo/MVSNet_pytorch) - PyTorch Implementation of MVSNet
 - [prs-eth/OverlapPredator](https://github.com/prs-eth/OverlapPredator) - [CVPR 2021, Oral] PREDATOR: Registration of 3D Point Clouds with Low Overlap.
 - [haoyu94/Coarse-to-fine-correspondences](https://github.com/haoyu94/Coarse-to-fine-correspondences) - PyTorch implementation of NeurIPS 2021 paper: "CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration"
