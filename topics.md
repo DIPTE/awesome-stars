@@ -256,6 +256,7 @@
 
 ## android 
 
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
@@ -455,7 +456,7 @@
 
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
-- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24] Gaussian Splatting SLAM
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
 - [danini/graph-cut-ransac](https://github.com/danini/graph-cut-ransac) - The Graph-Cut RANSAC algorithm proposed in paper: Daniel Barath and Jiri Matas; Graph-Cut RANSAC, Conference on Computer Vision and Pattern Recognition, 2018. It is available at http://openaccess.thec
@@ -1245,6 +1246,7 @@
 
 ## ios 
 
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
 - [cmdbug/YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN) - 🍅 Deploy ncnn on mobile phones. Support Android and iOS. 移动端ncnn部署，支持Android与iOS。
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
@@ -1354,6 +1356,8 @@
 
 ## localization 
 
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
+- [vectr-ucla/direct_lidar_odometry](https://github.com/vectr-ucla/direct_lidar_odometry) - [IEEE RA-L & ICRA'22] A lightweight and computationally-efficient frontend LiDAR odometry solution with consistent and accurate localization.
 - [koide3/hdl_localization](https://github.com/koide3/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
 - [chengwei0427/Lidar_IMU_Localization](https://github.com/chengwei0427/Lidar_IMU_Localization) - Lidar-IMU Localization System with Prior Map Constraint and Lio Constraint
 - [YukunXia/VLOAM-CMU-16833](https://github.com/YukunXia/VLOAM-CMU-16833) - CMU 16-833 "Robot Localization and Mapping" Course Project
@@ -1710,6 +1714,17 @@
 
 ## others 
 
+- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
+- [hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap) - [RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry
+- [introlab/rtabmap_ros](https://github.com/introlab/rtabmap_ros) - RTAB-Map's ROS package.
+- [PRBonn/vdbfusion_ros](https://github.com/PRBonn/vdbfusion_ros) - ROS1 Wrapper for VDBFusion https://github.com/PRBonn/vdbfusion
+- [PRBonn/vdbfusion](https://github.com/PRBonn/vdbfusion) - C++/Python Sparse Volumetric TSDF Fusion
+- [KennyWGH/efficient_online_segmentation](https://github.com/KennyWGH/efficient_online_segmentation) - Efficient Online Segmentation of Ground&Wall Points for Multi-line Spinning LiDARs. //在线分割激光点云中的地面点和墙面点。
+- [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
+- [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
+- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - Fully Sparse 3D Occupancy Prediction
+- [makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping](https://github.com/makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping) - 
+- [cshang412/BEV_parkingSlot](https://github.com/cshang412/BEV_parkingSlot) - process parking slots detected on Bev image, generate the parking slots on the world coordinate.
 - [lewisjiang/contour-context](https://github.com/lewisjiang/contour-context) - [ICRA'23] Official code repo for "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation"
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [ppwwyyxx/OpenPano](https://github.com/ppwwyyxx/OpenPano) - Automatic Panorama Stitching From Scratch
@@ -4836,10 +4851,12 @@
 
 ## robotics 
 
+- [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
+- [vectr-ucla/direct_lidar_odometry](https://github.com/vectr-ucla/direct_lidar_odometry) - [IEEE RA-L & ICRA'22] A lightweight and computationally-efficient frontend LiDAR odometry solution with consistent and accurate localization.
 - [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
-- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24] Gaussian Splatting SLAM
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
 - [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 - [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pu
 - [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
