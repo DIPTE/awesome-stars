@@ -228,6 +228,9 @@
 
 ## C++ 
 
+- [jedeschaud/ct_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
+- [facontidavide/rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
+- [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
 - [SlamMate/Universal-outdoor-indoor-dynamic-vSLAM-based-on-pre-trained-models](https://github.com/SlamMate/Universal-outdoor-indoor-dynamic-vSLAM-based-on-pre-trained-models) - This repository contains the open-source code for the paper "Semantic SLAM for mobile robots in dynamic environments based on visual camera sensors" by Qi Zhang and Changdi Li, published in the Measur
 - [gaowenliang/imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance.
 - [MegviiRobot/CamLaserCalibraTool](https://github.com/MegviiRobot/CamLaserCalibraTool) - Extrinsic Calibration of a Camera and 2d Laser
