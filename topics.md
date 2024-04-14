@@ -124,6 +124,7 @@
 - [spring-boot](#spring-boot)
 - [springboot](#springboot)
 - [sql](#sql)
+- [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -1716,6 +1717,8 @@
 
 ## others 
 
+- [Ivan-Tang-3D/Any2Point](https://github.com/Ivan-Tang-3D/Any2Point) - Official implementation of 'Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding'
+- [ztsrxh/RoadBEV](https://github.com/ztsrxh/RoadBEV) - Codes for RoadBEV: road surface reconstruction in Bird's Eye View
 - [yangyangyang127/Seg-NN](https://github.com/yangyangyang127/Seg-NN) - [CVPR2024 Hightlight] No Time to Train: Empowering Non-Parametric Networks for Few-shot 3D Scene Segmentation
 - [heshuting555/PAP-FZS3D](https://github.com/heshuting555/PAP-FZS3D) - [TIP-2023] Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation
 - [laxnpander/OpenREALM](https://github.com/laxnpander/OpenREALM) - OpenREALM is a pipeline for real-time aerial mapping utilizing visual SLAM and 3D reconstruction frameworks.
@@ -4979,6 +4982,11 @@
 ## sql 
 
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+
+## stable-diffusion 
+
+- [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
+- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end op
 
 ## svelte 
 
