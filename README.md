@@ -1813,6 +1813,8 @@
 
 ## Python 
 
+- [Ivan-Tang-3D/Any2Point](https://github.com/Ivan-Tang-3D/Any2Point) - Official implementation of 'Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding'
+- [ztsrxh/RoadBEV](https://github.com/ztsrxh/RoadBEV) - Codes for RoadBEV: road surface reconstruction in Bird's Eye View
 - [yangyangyang127/Seg-NN](https://github.com/yangyangyang127/Seg-NN) - [CVPR2024 Hightlight] No Time to Train: Empowering Non-Parametric Networks for Few-shot 3D Scene Segmentation
 - [heshuting555/PAP-FZS3D](https://github.com/heshuting555/PAP-FZS3D) - [TIP-2023] Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation
 - [Na-Z/attMPTI](https://github.com/Na-Z/attMPTI) - [CVPR 2021] Few-shot 3D Point Cloud Semantic Segmentation
