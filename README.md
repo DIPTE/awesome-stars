@@ -218,7 +218,7 @@
 
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
-- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerator ✨
+- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [kendryte/kendryte-flash-windows](https://github.com/kendryte/kendryte-flash-windows) - Kendryte flash utility for Windows
 - [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples) - Examples for using ONNX Runtime for model training.
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
@@ -228,6 +228,11 @@
 
 ## C++ 
 
+- [AutoRally/autorally](https://github.com/AutoRally/autorally) - Software for the AutoRally platform
+- [EdwardLiuyc/StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
+- [nkliuhui/selected_roi_points_publisher](https://github.com/nkliuhui/selected_roi_points_publisher) - 从RVIZ点云中选取ROI的点云并自动发布一帧sensor_msg::PointCloud2消息
+- [Gutsgwh1997/CIL-SLAM](https://github.com/Gutsgwh1997/CIL-SLAM) - An unfinished camera-imu-lidar tightly coupled simultaneous localization and mapping system.
+- [nkliuhui/sync_gps_lidar_imu_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam) - lidar-imu-cam-GPS时间戳硬件同步方案
 - [Livox-SDK/livox_relocalization](https://github.com/Livox-SDK/livox_relocalization) - A relocalization package for Livox LiDARs.
 - [laxnpander/OpenREALM](https://github.com/laxnpander/OpenREALM) - OpenREALM is a pipeline for real-time aerial mapping utilizing visual SLAM and 3D reconstruction frameworks.
 - [jedeschaud/ct_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
@@ -1278,7 +1283,7 @@
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [Tirklee/GitHub-Chinese-Top-Charts](https://github.com/Tirklee/GitHub-Chinese-Top-Charts) - 
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (al
 - [panyingyun/vtkandroiddemo](https://github.com/panyingyun/vtkandroiddemo) - CMake Cross Build VTK for Android Application
@@ -1535,7 +1540,7 @@
 ## MLIR 
 
 - [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) - An MLIR-based toolchain for AMD AI Engine-enabled devices.
-- [openxla/openxla-nvgpu](https://github.com/openxla/openxla-nvgpu) - 
+- [iree-org/iree-nvgpu](https://github.com/iree-org/iree-nvgpu) - 
 - [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
 
 ## Makefile 
@@ -1568,6 +1573,7 @@
 
 ## Others 
 
+- [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
 - [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method
 - [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
@@ -1813,6 +1819,7 @@
 
 ## Python 
 
+- [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - [CVPR2024] Code for "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation".
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
 - [George-Zhuang/NetTrack](https://github.com/George-Zhuang/NetTrack) - Official code for NetTrack [CVPR 2024]
 - [Ivan-Tang-3D/Any2Point](https://github.com/Ivan-Tang-3D/Any2Point) - Official implementation of 'Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding'
@@ -2149,7 +2156,7 @@
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 - [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - [ICCV'23 Workshop] SAM3D: Segment Anything in 3D Scenes
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
-- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
+- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [NVIDIA/Deep-Learning-Accelerator-SW](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) - NVIDIA DLA-SW, the recipes and tools for running deep learning workloads on NVIDIA DLA cores for inference applications.
 - [NVIDIA-AI-IOT/cuDLA-samples](https://github.com/NVIDIA-AI-IOT/cuDLA-samples) - YOLOv5 on Orin DLA
@@ -2227,7 +2234,7 @@
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - 
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - [ICCV 2023] OccNet: Scene as Occupancy
-- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2024] NeRF-RPN: A general framework for object detection in NeRFs
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2023] NeRF-RPN: A general framework for object detection in NeRFs
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
 - [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
@@ -2276,7 +2283,7 @@
 - [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
 - [MingyeXu/cp3](https://github.com/MingyeXu/cp3) - CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm
 - [fishros/install](https://github.com/fishros/install) - 一键安装程序，欢迎大家提交代码和小鱼一起一键安装停止浪费生命
-- [ldkong1205/Robo3D](https://github.com/ldkong1205/Robo3D) - [ICCV'23] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions
+- [ldkong1205/Robo3D](https://github.com/ldkong1205/Robo3D) - [ICCV 2023] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions
 - [xyjbaal/FPCC](https://github.com/xyjbaal/FPCC) - 
 - [BIT-MJY/SeqOT](https://github.com/BIT-MJY/SeqOT) - [TIE 2022] SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data.
 - [PRBonn/OverlapNet](https://github.com/PRBonn/OverlapNet) - OverlapNet - Loop Closing for 3D LiDAR-based SLAM (chen2020rss)
@@ -2431,7 +2438,7 @@
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
 - [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection', ECCV 2020
-- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - Intel(R) RealSense(TM) ROS Wrapper for Depth Camera
+- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
 - [guofei9987/github_star_counter](https://github.com/guofei9987/github_star_counter) - Count a GitHub user's total stars and forks
 - [ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch) - official repo for the paper "SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images"
@@ -2448,7 +2455,7 @@
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [eccv22-ood-workshop/ROBIN-dataset](https://github.com/eccv22-ood-workshop/ROBIN-dataset) - ECCV 2022 Workshop: A Benchmark for Robustness to Individual Nuisances in Real-World Out-of-Distribution Shifts
-- [huixiancheng/CENet](https://github.com/huixiancheng/CENet) - CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving (ICME'2022)
+- [huixiancheng/CENet](https://github.com/huixiancheng/CENet) - [ICME 2022] CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving
 - [HuguesTHOMAS/KPConv-PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch) - Kernel Point Convolution implemented in PyTorch
 - [POSTECH-CVLab/point-transformer](https://github.com/POSTECH-CVLab/point-transformer) - This is an unofficial implementation of the Point Transformer paper.
 - [ruhyadi/yolo3d-lightning](https://github.com/ruhyadi/yolo3d-lightning) - YOLO3D: 3D Object Detection with YOLO
@@ -2669,7 +2676,7 @@
 - [nachiket92/P2T](https://github.com/nachiket92/P2T) - Code for "Trajectory Forecasts in Unknown Environments Conditioned on Grid-Based Plans" https://arxiv.org/abs/2001.00735
 - [Khrylx/AgentFormer](https://github.com/Khrylx/AgentFormer) - [ICCV 2021] Official PyTorch Implementation of "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting".
 - [ldkong1205/PointCloud-C](https://github.com/ldkong1205/PointCloud-C) - Benchmarking and Analyzing Point Cloud Perception Robustness under Corruptions
-- [ldkong1205/LaserMix](https://github.com/ldkong1205/LaserMix) - [CVPR'23 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
+- [ldkong1205/LaserMix](https://github.com/ldkong1205/LaserMix) - [CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
 - [cardwing/Codes-for-PVKD](https://github.com/cardwing/Codes-for-PVKD) - Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation (CVPR 2022)
 - [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - [ECCV 2022] Learning Ego 3D Representation as Ray Tracing
 - [fudan-zvg/DeepInteraction](https://github.com/fudan-zvg/DeepInteraction) - [NeurIPS 2022] DeepInteraction: 3D Object Detection via Modality Interaction
@@ -2994,7 +3001,7 @@
 - [ZrrSkywalker/PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) - [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP
 - [fpthink/V2B](https://github.com/fpthink/V2B) - 
 - [tianweiy/MVP](https://github.com/tianweiy/MVP) - 
-- [3bobo/lttr](https://github.com/3bobo/lttr) - Official PyTorch implementation of LTTR
+- [REAL-VPG/LTTR](https://github.com/REAL-VPG/LTTR) - [BMVC'21] 3D Object Tracking with Transformer
 - [Kemo-Huang/JMODT](https://github.com/Kemo-Huang/JMODT) - Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving
 - [guangyaooo/JointRCNN](https://github.com/guangyaooo/JointRCNN) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
