@@ -458,6 +458,7 @@
 
 ## computer-vision 
 
+- [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
 - [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
@@ -757,10 +758,11 @@
 
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 ## deep-learning 
 
+- [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
@@ -883,7 +885,7 @@
 - [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
-- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerator ✨
+- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 - [noahcao/OC_SORT](https://github.com/noahcao/OC_SORT) - [CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 - [StanfordASL/Trajectron-plus-plus](https://github.com/StanfordASL/Trajectron-plus-plus) - Code accompanying the ECCV 2020 paper "Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data" by Tim Salzmann*, Boris Ivanovic*, Punarjay Chakravarty, and Marco Pavone (* d
@@ -1103,7 +1105,7 @@
 
 ## devops 
 
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 ## docker 
 
@@ -1357,7 +1359,7 @@
 - [craigpeacock/CAN-Examples](https://github.com/craigpeacock/CAN-Examples) - Example C code for CAN Sockets on Linux
 - [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [autoas/as](https://github.com/autoas/as) - automotive software(OSEK & AUTOSAR) and its tool-chain
 - [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popu
@@ -1541,7 +1543,7 @@
 
 ## monitoring 
 
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 
@@ -1549,7 +1551,7 @@
 
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 ## natural-language-processing 
 
@@ -1580,7 +1582,7 @@
 - [LiuXiaolong19920720/simple_net](https://github.com/LiuXiaolong19920720/simple_net) - A simple deep neural network implemented in C++，based with OpenCV Mat matrix class
 - [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [Xilinx/finn](https://github.com/Xilinx/finn) - Dataflow compiler for QNN inference on FPGAs
-- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerator ✨
+- [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [AXERA-TECH/ax-samples](https://github.com/AXERA-TECH/ax-samples) - Samples code for world class Artificial Intelligence SoCs for computer vision applications.
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
@@ -1725,6 +1727,11 @@
 
 ## others 
 
+- [EdwardLiuyc/StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
+- [nkliuhui/selected_roi_points_publisher](https://github.com/nkliuhui/selected_roi_points_publisher) - 从RVIZ点云中选取ROI的点云并自动发布一帧sensor_msg::PointCloud2消息
+- [Gutsgwh1997/CIL-SLAM](https://github.com/Gutsgwh1997/CIL-SLAM) - An unfinished camera-imu-lidar tightly coupled simultaneous localization and mapping system.
+- [nkliuhui/sync_gps_lidar_imu_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam) - lidar-imu-cam-GPS时间戳硬件同步方案
+- [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - [CVPR2024] Code for "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation".
 - [Livox-SDK/livox_relocalization](https://github.com/Livox-SDK/livox_relocalization) - A relocalization package for Livox LiDARs.
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
 - [George-Zhuang/NetTrack](https://github.com/George-Zhuang/NetTrack) - Official code for NetTrack [CVPR 2024]
@@ -2284,7 +2291,7 @@
 - [IRMVLab/RegFormer](https://github.com/IRMVLab/RegFormer) - [ICCV2023]RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration
 - [beauty-girl-cxy/rknn_yolov5_3588_bytetrack](https://github.com/beauty-girl-cxy/rknn_yolov5_3588_bytetrack) - 
 - [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - [ICCV'23 Workshop] SAM3D: Segment Anything in 3D Scenes
-- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
+- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
 - [Caesar-github/gstreamer-rockchip](https://github.com/Caesar-github/gstreamer-rockchip) - The Gstreamer hardware encoder/decoder plugins for Rockchip platform
 - [BedRockJie/Rockchip_camera_encoder_Networkput](https://github.com/BedRockJie/Rockchip_camera_encoder_Networkput) - 
@@ -2393,7 +2400,7 @@
 - [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
-- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2024] NeRF-RPN: A general framework for object detection in NeRFs
+- [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2023] NeRF-RPN: A general framework for object detection in NeRFs
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
 - [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
@@ -2466,7 +2473,7 @@
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
 - [KhronosGroup/OpenCL-Headers](https://github.com/KhronosGroup/OpenCL-Headers) - Khronos OpenCL-Headers
-- [openxla/openxla-nvgpu](https://github.com/openxla/openxla-nvgpu) - 
+- [iree-org/iree-nvgpu](https://github.com/iree-org/iree-nvgpu) - 
 - [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python Low-level Bindings
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -2495,7 +2502,7 @@
 - [fishros/d2l-ros2](https://github.com/fishros/d2l-ros2) - 动手学ROS2课程配套教程，欢迎关注公众号《鱼香ROS》
 - [fishros/fish_protocol](https://github.com/fishros/fish_protocol) - FishProtocol是一个方便的C++多协议(串口/UDP/TCP)通信库
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
-- [ldkong1205/Robo3D](https://github.com/ldkong1205/Robo3D) - [ICCV'23] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions
+- [ldkong1205/Robo3D](https://github.com/ldkong1205/Robo3D) - [ICCV 2023] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions
 - [NaokiAkai/mcl3d_ros](https://github.com/NaokiAkai/mcl3d_ros) - A ROS node of 3D-LiDAR-based Monte Carlo localization
 - [deepaktalwardt/point-cloud-clustering](https://github.com/deepaktalwardt/point-cloud-clustering) - This repository contains code for Point Cloud Clustering project for CMPE 255
 - [xyjbaal/FPCC](https://github.com/xyjbaal/FPCC) - 
@@ -2781,7 +2788,7 @@
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
 - [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection', ECCV 2020
 - [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) - A paper list of lane detection.
-- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - Intel(R) RealSense(TM) ROS Wrapper for Depth Camera
+- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
 - [guofei9987/github_star_counter](https://github.com/guofei9987/github_star_counter) - Count a GitHub user's total stars and forks
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
@@ -2805,7 +2812,7 @@
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
 - [eccv22-ood-workshop/ROBIN-dataset](https://github.com/eccv22-ood-workshop/ROBIN-dataset) - ECCV 2022 Workshop: A Benchmark for Robustness to Individual Nuisances in Real-World Out-of-Distribution Shifts
-- [huixiancheng/CENet](https://github.com/huixiancheng/CENet) - CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving (ICME'2022)
+- [huixiancheng/CENet](https://github.com/huixiancheng/CENet) - [ICME 2022] CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving
 - [HuguesTHOMAS/KPConv-PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch) - Kernel Point Convolution implemented in PyTorch
 - [POSTECH-CVLab/point-transformer](https://github.com/POSTECH-CVLab/point-transformer) - This is an unofficial implementation of the Point Transformer paper.
 - [zjhellofss/ffmpeg_cuda](https://github.com/zjhellofss/ffmpeg_cuda) - ffmpeg的cuda解码方式
@@ -3205,7 +3212,7 @@
 - [dotchen/LAV](https://github.com/dotchen/LAV) - (CVPR 2022) A minimalist, mapless, end-to-end self-driving stack for joint perception, prediction, planning and control.
 - [nachiket92/P2T](https://github.com/nachiket92/P2T) - Code for "Trajectory Forecasts in Unknown Environments Conditioned on Grid-Based Plans" https://arxiv.org/abs/2001.00735
 - [ldkong1205/PointCloud-C](https://github.com/ldkong1205/PointCloud-C) - Benchmarking and Analyzing Point Cloud Perception Robustness under Corruptions
-- [ldkong1205/LaserMix](https://github.com/ldkong1205/LaserMix) - [CVPR'23 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
+- [ldkong1205/LaserMix](https://github.com/ldkong1205/LaserMix) - [CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
 - [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - [ECCV 2022] Learning Ego 3D Representation as Ray Tracing
 - [fudan-zvg/DeepInteraction](https://github.com/fudan-zvg/DeepInteraction) - [NeurIPS 2022] DeepInteraction: 3D Object Detection via Modality Interaction
 - [jingyue202205/CIA-SSD-AI-TRT](https://github.com/jingyue202205/CIA-SSD-AI-TRT) - CIA-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
@@ -3673,7 +3680,7 @@
 - [ZrrSkywalker/PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) - [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP
 - [fpthink/V2B](https://github.com/fpthink/V2B) - 
 - [tianweiy/MVP](https://github.com/tianweiy/MVP) - 
-- [3bobo/lttr](https://github.com/3bobo/lttr) - Official PyTorch implementation of LTTR
+- [REAL-VPG/LTTR](https://github.com/REAL-VPG/LTTR) - [BMVC'21] 3D Object Tracking with Transformer
 - [Kemo-Huang/JMODT](https://github.com/Kemo-Huang/JMODT) - Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving
 - [guangyaooo/JointRCNN](https://github.com/guangyaooo/JointRCNN) - 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -4883,6 +4890,7 @@
 
 ## robotics 
 
+- [AutoRally/autorally](https://github.com/AutoRally/autorally) - Software for the AutoRally platform
 - [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI application and comparison on Gazebo and real-wor
 - [jedeschaud/ct_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
 - [MegviiRobot/CamLaserCalibraTool](https://github.com/MegviiRobot/CamLaserCalibraTool) - Extrinsic Calibration of a Camera and 2d Laser
@@ -4968,11 +4976,11 @@
 
 ## self-hosted 
 
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 ## server 
 
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 ## shell 
 
