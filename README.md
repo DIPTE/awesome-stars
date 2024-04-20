@@ -695,7 +695,7 @@
 - [kahowang/sensor-fusion-for-localization-and-mapping](https://github.com/kahowang/sensor-fusion-for-localization-and-mapping) - 深蓝学院 多传感器定位融合第四期 学习笔记
 - [mlverse/lltm](https://github.com/mlverse/lltm) - Long Long Term Memory Neural Net Cells
 - [llvm/torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
-- [openxla/iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+- [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - row-major matmul optimization
 - [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake) - 你还在学CMake的过程中毫无头绪吗？你还在为复杂程序库依赖发愁吗？你是否觉得原生CMake的编写冗余而低效？那就快来学习和使用PICMake吧！只需要一行，无论是可执行，动态库还是静态库，轻松搞定！同时高效支持多目标，复杂库的编译安装，从此告别大量冗余CMake代码，专注开发核心应用程序，编译不再愁！ 例如下面是使用PICMake编译一个依赖OpenGL的可执行文件，只需要一行！
 - [immortalCO/PointTree](https://github.com/immortalCO/PointTree) - 
@@ -1295,6 +1295,7 @@
 
 ## JavaScript 
 
+- [kahowang/lab-3dslam-plotform](https://github.com/kahowang/lab-3dslam-plotform) - 
 - [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
 - [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
 - [Tsinghua-MARS-Lab/DriveVLM](https://github.com/Tsinghua-MARS-Lab/DriveVLM) - 
@@ -1361,7 +1362,7 @@
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
 - [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
-- [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
+- [google-edge-ai/mediapipe-samples](https://github.com/google-edge-ai/mediapipe-samples) - 
 - [yossilevii100/EPiC](https://github.com/yossilevii100/EPiC) - Ensemble of Partial Points Clouds for Robust Classification
 - [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective [CVPR 2024] and RepViT-SAM: Towards Real-Time Segmenting Anything
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
