@@ -228,6 +228,15 @@
 
 ## C++ 
 
+- [HKUST-Aerial-Robotics/FIESTA](https://github.com/HKUST-Aerial-Robotics/FIESTA) - Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots
+- [snape/AVO2](https://github.com/snape/AVO2) - Reciprocal Collision Avoidance with Acceleration-Velocity Obstacles (C++)
+- [clydemcqueen/orca3](https://github.com/clydemcqueen/orca3) - ROS2 AUV based on the BlueRobotics BlueROV2 and Navigation2
+- [clydemcqueen/orca4](https://github.com/clydemcqueen/orca4) - ROS2 AUV based on the BlueROV2, ArduSub and Navigation2
+- [clydemcqueen/orca](https://github.com/clydemcqueen/orca) - ROV and AUV based on the BlueRobotics BlueROV2
+- [PathPlanning/ORCA-algorithm](https://github.com/PathPlanning/ORCA-algorithm) - Implementation of ORCA algorithm
+- [Osovey/rvo-ros-wrapper](https://github.com/Osovey/rvo-ros-wrapper) - rvo2的ros noetic版本封装
+- [snape/RVO2](https://github.com/snape/RVO2) - Optimal Reciprocal Collision Avoidance (C++)
+- [hanruihua/rvo_ros](https://github.com/hanruihua/rvo_ros) - The ros package of rvo library
 - [AutoRally/autorally](https://github.com/AutoRally/autorally) - Software for the AutoRally platform
 - [EdwardLiuyc/StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
 - [nkliuhui/selected_roi_points_publisher](https://github.com/nkliuhui/selected_roi_points_publisher) - 从RVIZ点云中选取ROI的点云并自动发布一帧sensor_msg::PointCloud2消息
@@ -438,7 +447,7 @@
 - [hpc203/picodet-onnxruntime](https://github.com/hpc203/picodet-onnxruntime) - 使用ONNXRuntime部署PicoDet目标检测，包含C++和Python两个版本的程序
 - [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
-- [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) - nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为内核，致力为用户提供跨平台、简单易用、高性能的模型部署体验。
+- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为内核，致力为用户提供跨平台、简单易用、高性能的模型部署体验。
 - [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms
@@ -2832,7 +2841,7 @@
 - [openvinotoolkit/open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
 - [DerrickXuNu/v2x-vit](https://github.com/DerrickXuNu/v2x-vit) - [ECCV2022] Official Implementation of  paper "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer"
 - [MCG-NJU/CamLiFlow](https://github.com/MCG-NJU/CamLiFlow) - [CVPR 2022 Oral & TPAMI 2023] Learning Optical Flow and Scene Flow with Bidirectional Camera-LiDAR Fusion
-- [haotian-liu/yolact_edge](https://github.com/haotian-liu/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
+- [WisconsinAIVision/yolact_edge](https://github.com/WisconsinAIVision/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
 - [hpc203/yolact-opencv-dnn-cpp-python](https://github.com/hpc203/yolact-opencv-dnn-cpp-python) - 使用opencv部署yolact实例分割，包含C++和Python两种版本的程序
 - [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
 - [AgentMaker/PAPC](https://github.com/AgentMaker/PAPC) - PAPC is a deep learning for point clouds platform based on pure PaddlePaddle
@@ -3002,7 +3011,7 @@
 - [ZrrSkywalker/PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) - [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP
 - [fpthink/V2B](https://github.com/fpthink/V2B) - 
 - [tianweiy/MVP](https://github.com/tianweiy/MVP) - 
-- [REAL-VPG/LTTR](https://github.com/REAL-VPG/LTTR) - [BMVC'21] 3D Object Tracking with Transformer
+- [NEU-REAL/LTTR](https://github.com/NEU-REAL/LTTR) - [BMVC'21] 3D Object Tracking with Transformer
 - [Kemo-Huang/JMODT](https://github.com/Kemo-Huang/JMODT) - Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving
 - [guangyaooo/JointRCNN](https://github.com/guangyaooo/JointRCNN) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
