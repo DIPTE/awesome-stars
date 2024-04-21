@@ -636,6 +636,8 @@
 
 ## cpp 
 
+- [snape/AVO2](https://github.com/snape/AVO2) - Reciprocal Collision Avoidance with Acceleration-Velocity Obstacles (C++)
+- [snape/RVO2](https://github.com/snape/RVO2) - Optimal Reciprocal Collision Avoidance (C++)
 - [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallel algorithms for point cloud registration [C++, Python]
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
@@ -1729,6 +1731,11 @@
 
 ## others 
 
+- [clydemcqueen/orca3](https://github.com/clydemcqueen/orca3) - ROS2 AUV based on the BlueRobotics BlueROV2 and Navigation2
+- [clydemcqueen/orca4](https://github.com/clydemcqueen/orca4) - ROS2 AUV based on the BlueROV2, ArduSub and Navigation2
+- [clydemcqueen/orca](https://github.com/clydemcqueen/orca) - ROV and AUV based on the BlueRobotics BlueROV2
+- [PathPlanning/ORCA-algorithm](https://github.com/PathPlanning/ORCA-algorithm) - Implementation of ORCA algorithm
+- [Osovey/rvo-ros-wrapper](https://github.com/Osovey/rvo-ros-wrapper) - rvo2的ros noetic版本封装
 - [kahowang/lab-3dslam-plotform](https://github.com/kahowang/lab-3dslam-plotform) - 
 - [EdwardLiuyc/StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
 - [nkliuhui/selected_roi_points_publisher](https://github.com/nkliuhui/selected_roi_points_publisher) - 从RVIZ点云中选取ROI的点云并自动发布一帧sensor_msg::PointCloud2消息
@@ -2169,7 +2176,7 @@
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - Radar Camera Fusion in Autonomous Driving
-- [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) - nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为内核，致力为用户提供跨平台、简单易用、高性能的模型部署体验。
+- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为内核，致力为用户提供跨平台、简单易用、高性能的模型部署体验。
 - [jypjypjypjyp/OccupancyDETR](https://github.com/jypjypjypjyp/OccupancyDETR) - OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection
 - [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
@@ -3683,7 +3690,7 @@
 - [ZrrSkywalker/PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) - [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP
 - [fpthink/V2B](https://github.com/fpthink/V2B) - 
 - [tianweiy/MVP](https://github.com/tianweiy/MVP) - 
-- [REAL-VPG/LTTR](https://github.com/REAL-VPG/LTTR) - [BMVC'21] 3D Object Tracking with Transformer
+- [NEU-REAL/LTTR](https://github.com/NEU-REAL/LTTR) - [BMVC'21] 3D Object Tracking with Transformer
 - [Kemo-Huang/JMODT](https://github.com/Kemo-Huang/JMODT) - Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving
 - [guangyaooo/JointRCNN](https://github.com/guangyaooo/JointRCNN) - 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -4706,7 +4713,7 @@
 - [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Modelling Long Range Dependencies in ND: From Task-Specific to a General Purpose CNN" https://arxiv.org/abs/2301.10540.
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [DerrickXuNu/v2x-vit](https://github.com/DerrickXuNu/v2x-vit) - [ECCV2022] Official Implementation of  paper "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer"
-- [haotian-liu/yolact_edge](https://github.com/haotian-liu/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
+- [WisconsinAIVision/yolact_edge](https://github.com/WisconsinAIVision/yolact_edge) - The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.
 - [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
 - [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) - [ICRA'23] BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation
@@ -4893,6 +4900,10 @@
 
 ## robotics 
 
+- [HKUST-Aerial-Robotics/FIESTA](https://github.com/HKUST-Aerial-Robotics/FIESTA) - Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots
+- [snape/AVO2](https://github.com/snape/AVO2) - Reciprocal Collision Avoidance with Acceleration-Velocity Obstacles (C++)
+- [snape/RVO2](https://github.com/snape/RVO2) - Optimal Reciprocal Collision Avoidance (C++)
+- [hanruihua/rvo_ros](https://github.com/hanruihua/rvo_ros) - The ros package of rvo library
 - [AutoRally/autorally](https://github.com/AutoRally/autorally) - Software for the AutoRally platform
 - [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI application and comparison on Gazebo and real-wor
 - [jedeschaud/ct_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
