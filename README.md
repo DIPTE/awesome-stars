@@ -228,6 +228,10 @@
 
 ## C++ 
 
+- [haotiangu/LeGO_LOAM_OUSTER_64](https://github.com/haotiangu/LeGO_LOAM_OUSTER_64) - Lidar odometry is an effective navigation technique for robot localization when a robot does not have access to GPS. A robot's motion is estimated by solving for the translation and rotation across co
+- [ros-drivers/ros2_ouster_drivers](https://github.com/ros-drivers/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-0, OS-1, and OS-2 Lidars
+- [minwoo0611/IA_LIO_SAM](https://github.com/minwoo0611/IA_LIO_SAM) - IA-LIO-SAM is enhanced LIO-SAM using Intensity and Ambient channel from OUSTER LiDAR.
+- [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
 - [HKUST-Aerial-Robotics/FIESTA](https://github.com/HKUST-Aerial-Robotics/FIESTA) - Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots
 - [snape/AVO2](https://github.com/snape/AVO2) - Reciprocal Collision Avoidance with Acceleration-Velocity Obstacles (C++)
 - [clydemcqueen/orca3](https://github.com/clydemcqueen/orca3) - ROS2 AUV based on the BlueRobotics BlueROV2 and Navigation2
@@ -1366,7 +1370,7 @@
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
-- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - 
+- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - IEEE TPAMI: Latency-aware Unified Dynamic Networks for Efficient Image Recognition
 - [WWangYuHsiang/SMILEtrack](https://github.com/WWangYuHsiang/SMILEtrack) - 
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
 - [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
@@ -1503,6 +1507,7 @@
 
 ## MATLAB 
 
+- [wanghuohuo0716/hybrid_A_star](https://github.com/wanghuohuo0716/hybrid_A_star) - 本仓库是对混合A*算法的matlab复现
 - [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, DWA, Bezier,
 - [scott89/KCF](https://github.com/scott89/KCF) - Source code for "high-speed tracking with kernelized correlation filters"
 - [yuxng/MDP_Tracking](https://github.com/yuxng/MDP_Tracking) - Learning to Track: Online Multi-Object Tracking by Decision Making
@@ -1829,6 +1834,7 @@
 
 ## Python 
 
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - [CVPR2024] Code for "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation".
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
 - [George-Zhuang/NetTrack](https://github.com/George-Zhuang/NetTrack) - Official code for NetTrack [CVPR 2024]
