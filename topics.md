@@ -1370,6 +1370,7 @@
 
 ## localization 
 
+- [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
 - [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 - [vectr-ucla/direct_lidar_odometry](https://github.com/vectr-ucla/direct_lidar_odometry) - [IEEE RA-L & ICRA'22] A lightweight and computationally-efficient frontend LiDAR odometry solution with consistent and accurate localization.
 - [koide3/hdl_localization](https://github.com/koide3/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
@@ -1731,6 +1732,11 @@
 
 ## others 
 
+- [haotiangu/LeGO_LOAM_OUSTER_64](https://github.com/haotiangu/LeGO_LOAM_OUSTER_64) - Lidar odometry is an effective navigation technique for robot localization when a robot does not have access to GPS. A robot's motion is estimated by solving for the translation and rotation across co
+- [ros-drivers/ros2_ouster_drivers](https://github.com/ros-drivers/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-0, OS-1, and OS-2 Lidars
+- [minwoo0611/IA_LIO_SAM](https://github.com/minwoo0611/IA_LIO_SAM) - IA-LIO-SAM is enhanced LIO-SAM using Intensity and Ambient channel from OUSTER LiDAR.
+- [wanghuohuo0716/hybrid_A_star](https://github.com/wanghuohuo0716/hybrid_A_star) - 本仓库是对混合A*算法的matlab复现
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [clydemcqueen/orca3](https://github.com/clydemcqueen/orca3) - ROS2 AUV based on the BlueRobotics BlueROV2 and Navigation2
 - [clydemcqueen/orca4](https://github.com/clydemcqueen/orca4) - ROS2 AUV based on the BlueROV2, ArduSub and Navigation2
 - [clydemcqueen/orca](https://github.com/clydemcqueen/orca) - ROV and AUV based on the BlueRobotics BlueROV2
@@ -2223,7 +2229,7 @@
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
-- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - 
+- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - IEEE TPAMI: Latency-aware Unified Dynamic Networks for Efficient Image Recognition
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
 - [IDEA-Research/3D-deformable-attention](https://github.com/IDEA-Research/3D-deformable-attention) - [ICCV 2023] Official implementation of the paper "DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting"
@@ -4900,6 +4906,7 @@
 
 ## robotics 
 
+- [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
 - [HKUST-Aerial-Robotics/FIESTA](https://github.com/HKUST-Aerial-Robotics/FIESTA) - Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots
 - [snape/AVO2](https://github.com/snape/AVO2) - Reciprocal Collision Avoidance with Acceleration-Velocity Obstacles (C++)
 - [snape/RVO2](https://github.com/snape/RVO2) - Optimal Reciprocal Collision Avoidance (C++)
