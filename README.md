@@ -1588,6 +1588,7 @@
 
 ## Others 
 
+- [ldtho/DifFUSER](https://github.com/ldtho/DifFUSER) - DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
 - [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method
@@ -1834,6 +1835,8 @@
 
 ## Python 
 
+- [GWxuan/ReID3D](https://github.com/GWxuan/ReID3D) - 
+- [takahikof/RIPT_SDMM](https://github.com/takahikof/RIPT_SDMM) - Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [JiehongLin/SAM-6D](https://github.com/JiehongLin/SAM-6D) - [CVPR2024] Code for "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation".
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
@@ -1846,7 +1849,7 @@
 - [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI application and comparison on Gazebo and real-wor
 - [heethesh/lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - Light-weight camera LiDAR calibration package for ROS using OpenCV and PCL (PnP + LM optimization)
 - [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
-- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - Fully Sparse 3D Occupancy Prediction
+- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
