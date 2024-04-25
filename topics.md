@@ -767,6 +767,7 @@
 
 ## deep-learning 
 
+- [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
 - [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - Hardware-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
 - [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - Hardware-accelerated, deep learned model support for object detection including YOLOv8 and DetectNet
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
@@ -1404,6 +1405,7 @@
 
 ## machine-learning 
 
+- [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
 - [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - Hardware-accelerated, deep learned model support for object detection including YOLOv8 and DetectNet
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
@@ -1750,6 +1752,13 @@
 
 ## others 
 
+- [AIR-THU/DAIR-RCooper](https://github.com/AIR-THU/DAIR-RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
+- [tianqi-wang1996/DeepAccident](https://github.com/tianqi-wang1996/DeepAccident) - Code for the benchmark - DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving.
+- [tum-traffic-dataset/coopdet3d](https://github.com/tum-traffic-dataset/coopdet3d) - 
+- [YuePanEdward/LLS-LOAM](https://github.com/YuePanEdward/LLS-LOAM) - Lidar Odometry and Mapping with Mutiple Metrics Linear Least Square ICP
+- [YuePanEdward/MULLS](https://github.com/YuePanEdward/MULLS) - MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square [ICRA '21]
+- [liruihui/PU-GAN](https://github.com/liruihui/PU-GAN) - PU-GAN: a Point Cloud Upsampling Adversarial Network, ICCV, 2019
+- [ChaoqinRobotics/LINS---LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) - A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter
 - [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
 - [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search.
 - [NVIDIA-ISAAC-ROS/isaac_ros_nitros](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros) - NVIDIA Isaac Transport for ROS package for hardware-acceleration friendly movement of messages
@@ -1997,7 +2006,7 @@
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - [ICLR 2024] Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
+- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Control
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
@@ -4473,6 +4482,7 @@
 
 ## python 
 
+- [explosion5/Dolphins](https://github.com/explosion5/Dolphins) - Main code of Dolphins dataset
 - [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallel algorithms for point cloud registration [C++, Python]
 - [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
