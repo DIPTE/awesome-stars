@@ -229,6 +229,9 @@
 
 ## C++ 
 
+- [YuePanEdward/LLS-LOAM](https://github.com/YuePanEdward/LLS-LOAM) - Lidar Odometry and Mapping with Mutiple Metrics Linear Least Square ICP
+- [YuePanEdward/MULLS](https://github.com/YuePanEdward/MULLS) - MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square [ICRA '21]
+- [ChaoqinRobotics/LINS---LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) - A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter
 - [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - Hardware-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
 - [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - Hardware-accelerated, deep learned model support for object detection including YOLOv8 and DetectNet
 - [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search.
@@ -1566,6 +1569,7 @@
 
 ## Makefile 
 
+- [liruihui/PU-GAN](https://github.com/liruihui/PU-GAN) - PU-GAN: a Point Cloud Upsampling Adversarial Network, ICCV, 2019
 - [isongxw/Qt-VTK-Demo](https://github.com/isongxw/Qt-VTK-Demo) - 
 - [JeffyCN/rockchip_mirrors](https://github.com/JeffyCN/rockchip_mirrors) - Mirrors of a few Rockchip BSP repositories, some others in https://github.com/JeffyCN/mirrors.
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi
@@ -1620,7 +1624,7 @@
 - [Cc-Hy/UniVision](https://github.com/Cc-Hy/UniVision) - 
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
-- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - [ICLR 2024] Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response
+- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Control
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
 - [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - [CVPR2024] PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
@@ -1842,6 +1846,11 @@
 
 ## Python 
 
+- [AIR-THU/DAIR-RCooper](https://github.com/AIR-THU/DAIR-RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
+- [explosion5/Dolphins](https://github.com/explosion5/Dolphins) - Main code of Dolphins dataset
+- [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
+- [tianqi-wang1996/DeepAccident](https://github.com/tianqi-wang1996/DeepAccident) - Code for the benchmark - DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving.
+- [tum-traffic-dataset/coopdet3d](https://github.com/tum-traffic-dataset/coopdet3d) - 
 - [GWxuan/ReID3D](https://github.com/GWxuan/ReID3D) - 
 - [takahikof/RIPT_SDMM](https://github.com/takahikof/RIPT_SDMM) - Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
