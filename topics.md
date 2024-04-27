@@ -288,6 +288,7 @@
 
 ## artificial-intelligence 
 
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
@@ -767,6 +768,7 @@
 
 ## deep-learning 
 
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
 - [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - Hardware-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
 - [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - Hardware-accelerated, deep learned model support for object detection including YOLOv8 and DetectNet
@@ -1579,6 +1581,7 @@
 
 ## natural-language-processing 
 
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
@@ -1656,6 +1659,7 @@
 
 ## nlp 
 
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -1752,6 +1756,9 @@
 
 ## others 
 
+- [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
+- [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
+- [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - 
 - [BravoCharlie-ai/Sparce_to_Dense](https://github.com/BravoCharlie-ai/Sparce_to_Dense) - 
 - [PengYu-Team/DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 - [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 https://arxiv.org/abs/2404.00498
@@ -1804,7 +1811,7 @@
 - [SlamMate/Universal-outdoor-indoor-dynamic-vSLAM-based-on-pre-trained-models](https://github.com/SlamMate/Universal-outdoor-indoor-dynamic-vSLAM-based-on-pre-trained-models) - This repository contains the open-source code for the paper "Semantic SLAM for mobile robots in dynamic environments based on visual camera sensors" by Qi Zhang and Changdi Li, published in the Measur
 - [gaowenliang/imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance.
 - [tier4/CalibrationTools](https://github.com/tier4/CalibrationTools) - 
-- [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
+- [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - [RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
 - [beltransen/velo2cam_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
 - [GAfieldCN/automatic-camera-pointcloud-calibration](https://github.com/GAfieldCN/automatic-camera-pointcloud-calibration) - Automatic Calibration for Camera and Solid-state LiDAR (Livox)
 - [hku-mars/livox_camera_calib](https://github.com/hku-mars/livox_camera_calib) - This repository is used for automatic calibration between high resolution LiDAR and camera in targetless scenes.
@@ -2016,7 +2023,7 @@
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Control
+- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
