@@ -267,6 +267,7 @@
 - [gaowenliang/imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance.
 - [MegviiRobot/CamLaserCalibraTool](https://github.com/MegviiRobot/CamLaserCalibraTool) - Extrinsic Calibration of a Camera and 2d Laser
 - [tier4/CalibrationTools](https://github.com/tier4/CalibrationTools) - 
+- [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - [RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
 - [beltransen/velo2cam_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
 - [GAfieldCN/automatic-camera-pointcloud-calibration](https://github.com/GAfieldCN/automatic-camera-pointcloud-calibration) - Automatic Calibration for Camera and Solid-state LiDAR (Livox)
 - [hku-mars/livox_camera_calib](https://github.com/hku-mars/livox_camera_calib) - This repository is used for automatic calibration between high resolution LiDAR and camera in targetless scenes.
@@ -1604,12 +1605,12 @@
 
 ## Others 
 
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
 - [GongWeiSheng/DIDLM](https://github.com/GongWeiSheng/DIDLM) - 
 - [ntnu-arl/lidar_degeneracy_datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) - LiDAR degeneracy dataset for LiDAR-radar-inertial fusion methods.
 - [ldtho/DifFUSER](https://github.com/ldtho/DifFUSER) - DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
-- [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
 - [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method
 - [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
 - [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
@@ -1632,7 +1633,6 @@
 - [Cc-Hy/UniVision](https://github.com/Cc-Hy/UniVision) - 
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
-- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Control
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
 - [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - [CVPR2024] PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
@@ -1853,6 +1853,9 @@
 
 ## Python 
 
+- [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
+- [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
+- [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - 
 - [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 https://arxiv.org/abs/2404.00498
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
@@ -1974,6 +1977,7 @@
 - [wu-zhonghua/RAC-Net](https://github.com/wu-zhonghua/RAC-Net) - 
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
 - [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - WidthFormer: Toward Efficient Transformer-based BEV View Transformation
+- [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
