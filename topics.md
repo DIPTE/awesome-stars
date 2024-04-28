@@ -806,7 +806,7 @@
 - [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
-- [Qengineering/YoloV5-NPU-Rock-5](https://github.com/Qengineering/YoloV5-NPU-Rock-5) - YoloV5 NPU for the RK3588 on Rock 5 or Orange Pi 5
+- [Qengineering/YoloV5-NPU](https://github.com/Qengineering/YoloV5-NPU) - YoloV5 NPU for the RK3588 on Rock 5 or Orange Pi 5
 - [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
 - [hkchengrex/Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) - [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
 - [AIDajiangtang/Segment-Anything-CPP](https://github.com/AIDajiangtang/Segment-Anything-CPP) - segment anything（SAM） for CPP Inference
@@ -1756,6 +1756,8 @@
 
 ## others 
 
+- [tum-vision/fastfusion](https://github.com/tum-vision/fastfusion) - Volumetric 3D Mapping in Real-Time on a CPU
+- [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
 - [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - 
