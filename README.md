@@ -230,6 +230,7 @@
 
 ## C++ 
 
+- [tum-vision/fastfusion](https://github.com/tum-vision/fastfusion) - Volumetric 3D Mapping in Real-Time on a CPU
 - [PengYu-Team/DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 - [PengYu-Team/Co-LRIO](https://github.com/PengYu-Team/Co-LRIO) - A ROS2 package of CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms.
 - [dianhsu/swin-transformer-cpp](https://github.com/dianhsu/swin-transformer-cpp) - Swin Transformer C++ Implementation
@@ -460,7 +461,7 @@
 - [HorizonRDK/hobot_centerpoint](https://github.com/HorizonRDK/hobot_centerpoint) - 
 - [Vertical-Beach/ByteTrack-cpp](https://github.com/Vertical-Beach/ByteTrack-cpp) - C++ implementation of ByteTrack that does not include an object detection algorithm.
 - [gyjun0230/wgs_conversions](https://github.com/gyjun0230/wgs_conversions) - A ROS server implementation of the World Geodetic System (WGS) conversion functions for converting to/from LLA, ENU, and ECEF.
-- [Qengineering/YoloV5-NPU-Rock-5](https://github.com/Qengineering/YoloV5-NPU-Rock-5) - YoloV5 NPU for the RK3588 on Rock 5 or Orange Pi 5
+- [Qengineering/YoloV5-NPU](https://github.com/Qengineering/YoloV5-NPU) - YoloV5 NPU for the RK3588 on Rock 5 or Orange Pi 5
 - [hpc203/picodet-onnxruntime](https://github.com/hpc203/picodet-onnxruntime) - 使用ONNXRuntime部署PicoDet目标检测，包含C++和Python两个版本的程序
 - [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
@@ -1605,6 +1606,7 @@
 
 ## Others 
 
+- [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
 - [GongWeiSheng/DIDLM](https://github.com/GongWeiSheng/DIDLM) - 
