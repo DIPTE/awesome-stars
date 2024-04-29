@@ -461,7 +461,7 @@
 - [HorizonRDK/hobot_centerpoint](https://github.com/HorizonRDK/hobot_centerpoint) - 
 - [Vertical-Beach/ByteTrack-cpp](https://github.com/Vertical-Beach/ByteTrack-cpp) - C++ implementation of ByteTrack that does not include an object detection algorithm.
 - [gyjun0230/wgs_conversions](https://github.com/gyjun0230/wgs_conversions) - A ROS server implementation of the World Geodetic System (WGS) conversion functions for converting to/from LLA, ENU, and ECEF.
-- [Qengineering/YoloV5-NPU](https://github.com/Qengineering/YoloV5-NPU) - YoloV5 NPU for the RK3588 on Rock 5 or Orange Pi 5
+- [Qengineering/YoloV5-NPU](https://github.com/Qengineering/YoloV5-NPU) - YoloV5 NPU for the RK3566/68/88
 - [hpc203/picodet-onnxruntime](https://github.com/hpc203/picodet-onnxruntime) - 使用ONNXRuntime部署PicoDet目标检测，包含C++和Python两个版本的程序
 - [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
@@ -1363,7 +1363,6 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
-- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - Tokenize Anything via Prompting
@@ -1536,7 +1535,7 @@
 - [giyoungjeon/ANAP](https://github.com/giyoungjeon/ANAP) - The implementation of Adaptive As-Natural-As-Possible Image Stitching
 - [YaqiLYU/AANAP](https://github.com/YaqiLYU/AANAP) - An implementation of AANAP in CVPR 2015 paper.
 - [gorchard/DVScalibration](https://github.com/gorchard/DVScalibration) - Matlab functions to help with DVS calibration using the Caltech Camera Calibration Toolbox (from http://www.vision.caltech.edu/bouguetj/calib_doc/ )
-- [zyj1318053/MS_GraphSIM](https://github.com/zyj1318053/MS_GraphSIM) - 
+- [zhangyujie-1998/MS_GraphSIM](https://github.com/zhangyujie-1998/MS_GraphSIM) - 
 - [cwi-dis/pointpca](https://github.com/cwi-dis/pointpca) - 
 - [MIT-SPARK/CertifiablyRobustPerception](https://github.com/MIT-SPARK/CertifiablyRobustPerception) - Certifiable Outlier-Robust Geometric Perception
 - [ZouCheng321/fusion_kitti](https://github.com/ZouCheng321/fusion_kitti) - 
@@ -1606,6 +1605,7 @@
 
 ## Others 
 
+- [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - 
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
@@ -1855,6 +1855,7 @@
 
 ## Python 
 
+- [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
 - [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - 
@@ -1930,6 +1931,7 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
+- [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
 - [baaivision/Uni3D](https://github.com/baaivision/Uni3D) - [ICLR'24 Spotlight] Uni3D: 3D Visual Representation from BAAI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [lhaof/nnMamba](https://github.com/lhaof/nnMamba) - 
