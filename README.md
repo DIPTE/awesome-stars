@@ -169,7 +169,7 @@
 - [qhull/qhull](https://github.com/qhull/qhull) - Qhull development for www.qhull.org -- Qhull 2020.2 (8.1-alpha1) at https://github.com/qhull/qhull/wiki
 - [li1024316925/FFmpeg-RTMP-PushStream](https://github.com/li1024316925/FFmpeg-RTMP-PushStream) - 使用FFmpeg做一个简单的推流
 - [1244975831/RtmpPlayerDemo](https://github.com/1244975831/RtmpPlayerDemo) - FFMPEG库进行Rtmp流的解析并显示
-- [tsingsee/EasyPlayer-RTSP-Win](https://github.com/tsingsee/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
+- [EasyDarwin/EasyPlayer-RTSP-Win](https://github.com/EasyDarwin/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
 - [freeeyes/ffmpeg4_camera_to_rtmp](https://github.com/freeeyes/ffmpeg4_camera_to_rtmp) - ffmpeg4 camera to rtmp stream
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT real-time operating system (RTOS).
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
@@ -1124,7 +1124,7 @@
 - [OctoMap/octomap](https://github.com/OctoMap/octomap) - An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.
 - [USTC-GCL-F/AMMesh](https://github.com/USTC-GCL-F/AMMesh) - The code of lesson “Digital Geometry Processing” with ACAM frame
 - [ChunyuanLI/Persistence_Diagram](https://github.com/ChunyuanLI/Persistence_Diagram) - Persistence Diagram for Structural Recognition
-- [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - A Python library for common tasks on 3D point clouds
+- [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [YuePanEdward/Pointcloud_Format_Transformer](https://github.com/YuePanEdward/Pointcloud_Format_Transformer) - A Tool for various point cloud data format transformation for well-known datasets
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
 - [zhaoweicai/mscnn](https://github.com/zhaoweicai/mscnn) - Caffe implementation of our multi-scale object detection framework
@@ -1184,7 +1184,7 @@
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
 - [bluesky-ryan/snowstorm_ros_rk3399](https://github.com/bluesky-ryan/snowstorm_ros_rk3399) - RK3399 ROS麦克纳姆轮车
 - [ravijo/ros_zeromq_tutorial](https://github.com/ravijo/ros_zeromq_tutorial) - ZeroMQ tutorial for ROS
-- [ros-planning/panda_moveit_config](https://github.com/ros-planning/panda_moveit_config) - The Panda robot is the flagship MoveIt integration robot
+- [moveit/panda_moveit_config](https://github.com/moveit/panda_moveit_config) - The Panda robot is the flagship MoveIt integration robot
 - [conan-community/conan-eigen](https://github.com/conan-community/conan-eigen) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
 - [danielTobon43/vtk-hello-world](https://github.com/danielTobon43/vtk-hello-world) - VTK simple hello world
 - [bashbug/pcl-for-android](https://github.com/bashbug/pcl-for-android) - Cross-compilation of PCL (point cloud library) for Android
@@ -1292,7 +1292,7 @@
 - [VITA-Group/SLaK](https://github.com/VITA-Group/SLaK) - [ICLR 2023] "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity"; [ICML 2023] "Are Large Kernels  Better Teachers than Transformers for ConvNets?"
 - [Oneflow-Inc/oneflow-yolo-doc](https://github.com/Oneflow-Inc/oneflow-yolo-doc) - https://start.oneflow.org/oneflow-yolo-doc
 - [yushen-liu/yushen-liu.github.io](https://github.com/yushen-liu/yushen-liu.github.io) - 刘玉身的个人主页
-- [ros-planning/moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
+- [moveit/moveit_tutorials](https://github.com/moveit/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [zhukao/AI-EXPRESS](https://github.com/zhukao/AI-EXPRESS) - 
 - [Ghostish/MM-Track](https://github.com/Ghostish/MM-Track) - The project page of MMTrack (CVPR2022 ORAL)
