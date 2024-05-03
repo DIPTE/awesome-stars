@@ -207,6 +207,7 @@
 - [shliang0603/Yolov4_DeepSocial](https://github.com/shliang0603/Yolov4_DeepSocial) - 基于Yolov4的行人检测、行人距离估计、多目标跟踪系统
 - [applefishsky009/pointpillars](https://github.com/applefishsky009/pointpillars) - pointpillars C implement
 - [ZJU-FAST-Lab/forces_resilient_planner](https://github.com/ZJU-FAST-Lab/forces_resilient_planner) - External Forces Resilient Safe Motion Planning for Quadrotor
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
 - [Forceflow/trimesh2](https://github.com/Forceflow/trimesh2) - C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes
 - [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) - 一款推理框架，同时有很多有用的demo，觉得好用请点星啊
@@ -1605,7 +1606,7 @@
 
 ## Others 
 
-- [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - 
+- [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection"
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
@@ -1623,14 +1624,12 @@
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [autodriving-heart/CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) - CVPR 2024 Papers Autonomous Driving
 - [Chrisz236/llm-rk3588](https://github.com/Chrisz236/llm-rk3588) - Run Large Language Models on RK3588 with GPU-acceleration
-- [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - GenAD: Generative End-to-End Autonomous Driving
 - [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - 
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [HaydenYu/MM-Point](https://github.com/HaydenYu/MM-Point) - MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding (AAAI 2024)
 - [Little-Podi/Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception) - This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
-- [tech-shrimp/me](https://github.com/tech-shrimp/me) - 技术爬爬虾的资源合集
 - [IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) - [WACV 2024 Survey Paper] Multimodal Large Language Models for Autonomous Driving
 - [Cc-Hy/UniVision](https://github.com/Cc-Hy/UniVision) - 
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
@@ -1917,6 +1916,7 @@
 - [oneformer3d/oneformer3d](https://github.com/oneformer3d/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [Hzbupahaozi/yolov8_xj3_deploy](https://github.com/Hzbupahaozi/yolov8_xj3_deploy) - yolov8的训练以及在旭日x3派上的部署
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
+- [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - GenAD: Generative End-to-End Autonomous Driving
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -1989,7 +1989,7 @@
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
-- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty
+- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - [ICML'24] EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty
 - [YujiaLiu76/point2cad](https://github.com/YujiaLiu76/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
 - [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
 - [16lemoing/dot](https://github.com/16lemoing/dot) - Dense Optical Tracking: Connecting the Dots
@@ -3398,7 +3398,6 @@
 - [NVIDIA/flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [ywcmaike/2018--ZJUAI--PyramidBoxDetector](https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector) - 2018 云从人头技术冠军分享方案
 - [vidhanarya/AInnoFace](https://github.com/vidhanarya/AInnoFace) - IE 643 project - Face Detection model using AInnoFace
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [ternaus/retinaface](https://github.com/ternaus/retinaface) - The remake of the https://github.com/biubug6/Pytorch_Retinaface
 - [biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) - Retinaface get 80.99% in widerface hard val using mobilenet0.25.
 - [Ontheway361/dsfd-pytorch](https://github.com/Ontheway361/dsfd-pytorch) - [2019-CVPR]DSFD: Dual Shot Face Detector
