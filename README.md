@@ -715,6 +715,7 @@
 - [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3
 - [victorbadenas/SimpleOnnxInference](https://github.com/victorbadenas/SimpleOnnxInference) - A simple c++ onnx application for inferencing images
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
+- [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime
 - [dog-qiuqiu/simple-rknn2](https://github.com/dog-qiuqiu/simple-rknn2) - The rknn2 API uses the secondary encapsulation of the process, which is easy for everyone to call. It is applicable to rk356x rk3588
 - [airockchip/RK3399Pro_npu](https://github.com/airockchip/RK3399Pro_npu) - 
 - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - Track vehicles and persons on rk3588 / rk3399pro.
@@ -1607,9 +1608,9 @@
 
 ## Others 
 
+- [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with    Large Language Models using 2D Priors（Under Review）
-- [MisEty/RTG-SLAM](https://github.com/MisEty/RTG-SLAM) - 
 - [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection"
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
@@ -2554,7 +2555,6 @@
 - [Yuanchu/YOLO3D](https://github.com/Yuanchu/YOLO3D) - Implementation of a basic YOLO model for object detection in 3D
 - [ForestMa/SOPHGO-HVOD-Contest](https://github.com/ForestMa/SOPHGO-HVOD-Contest) - 
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
-- [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime
 - [microsoft/onnxscript](https://github.com/microsoft/onnxscript) - ONNX Script enables developers to naturally author ONNX functions and models using a subset of Python.
 - [sunjiahao1999/SPFormer](https://github.com/sunjiahao1999/SPFormer) - 
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
