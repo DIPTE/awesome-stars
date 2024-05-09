@@ -207,7 +207,6 @@
 - [shliang0603/Yolov4_DeepSocial](https://github.com/shliang0603/Yolov4_DeepSocial) - 基于Yolov4的行人检测、行人距离估计、多目标跟踪系统
 - [applefishsky009/pointpillars](https://github.com/applefishsky009/pointpillars) - pointpillars C implement
 - [ZJU-FAST-Lab/forces_resilient_planner](https://github.com/ZJU-FAST-Lab/forces_resilient_planner) - External Forces Resilient Safe Motion Planning for Quadrotor
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
 - [Forceflow/trimesh2](https://github.com/Forceflow/trimesh2) - C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes
 - [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) - 一款推理框架，同时有很多有用的demo，觉得好用请点星啊
@@ -1227,7 +1226,7 @@
 - [jingyue202205/CIA-SSD-AI-TRT](https://github.com/jingyue202205/CIA-SSD-AI-TRT) - CIA-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [rscgg37248/DeepStream6.0_Yolov5-6.0](https://github.com/rscgg37248/DeepStream6.0_Yolov5-6.0) - 基于DeepStream6.0和yolov5-6.0的目标检测
 - [xuqiantong/CUDA-Winograd](https://github.com/xuqiantong/CUDA-Winograd) - Fast CUDA Kernels for ResNet Inference.
-- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
+- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
 - [chengdazhi/Deformable-Convolution-V2-PyTorch](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch) - Deformable ConvNets V2 (DCNv2) in PyTorch
 - [GCaptainNemo/Cuda-Image-Processing](https://github.com/GCaptainNemo/Cuda-Image-Processing) - Using CUDA GPU Programming to speed up image processing.
 - [cudpp/cudpp](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library
@@ -1672,7 +1671,6 @@
 - [IranQin/SupFusion](https://github.com/IranQin/SupFusion) - This is the official code of the paper "SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection"
 - [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
-- [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - 
 - [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
@@ -2145,6 +2143,7 @@
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for [IEEE Transactions on Vehicular Technology] "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
+- [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - This repo is the official implementation of "BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird's-Eye View".
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
@@ -2287,7 +2286,7 @@
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
 - [haibo-qiu/CDFormer](https://github.com/haibo-qiu/CDFormer) - Code for "Collect-and-Distribute Transformer for 3D Point Cloud Analysis"
 - [hustvl/SparseTrack](https://github.com/hustvl/SparseTrack) - Official PyTorch implementation of SparseTrack (the new version of code will come soon)
-- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - Matte Anything: Interactive Natural Image Matting with Segment Anything Models
+- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing] Interactive Natural Image Matting with Segment Anything Models
 - [SPengLiang/Camera-Calibration-of-Zhang-s-method](https://github.com/SPengLiang/Camera-Calibration-of-Zhang-s-method) - Zhang‘s method camera calibration implement by numpy
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - 
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
@@ -2859,7 +2858,7 @@
 - [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 - [hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU) - "Rethinking IoU-based Optimization for Single-stage 3D Object Detection", ECCV2022 accept!
 - [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2022] Official implementation of PeRFception: Perception using Radiance Fields.
-- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - This repo is an implementation of PyTorch version YOLOV
+- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - This repo is an implementation of PyTorch version YOLOV Series
 - [zhangyp15/SimMOD](https://github.com/zhangyp15/SimMOD) - Implementation of SimMOD: A Simple Baseline for Multi-Camera 3D Object Detection
 - [Sense-X/UniHead](https://github.com/Sense-X/UniHead) - Unifying Visual Perception by Dispersible Points Learning (ECCV 2022)
 - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含14个onnx模型，依然是包含C++和Python两个版本的程序
@@ -3403,6 +3402,7 @@
 - [NVIDIA/flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [ywcmaike/2018--ZJUAI--PyramidBoxDetector](https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector) - 2018 云从人头技术冠军分享方案
 - [vidhanarya/AInnoFace](https://github.com/vidhanarya/AInnoFace) - IE 643 project - Face Detection model using AInnoFace
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [ternaus/retinaface](https://github.com/ternaus/retinaface) - The remake of the https://github.com/biubug6/Pytorch_Retinaface
 - [biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) - Retinaface get 80.99% in widerface hard val using mobilenet0.25.
 - [Ontheway361/dsfd-pytorch](https://github.com/Ontheway361/dsfd-pytorch) - [2019-CVPR]DSFD: Dual Shot Face Detector
