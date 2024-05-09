@@ -77,6 +77,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
@@ -1391,6 +1392,29 @@
 - [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popu
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 
+## llm 
+
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
+- [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
+- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
+- [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
+- [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
+- [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
+- [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
+- [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
+- [codingonion/awesome-yolo-object-detection](https://github.com/codingonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects.
+- [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
+
 ## localization 
 
 - [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
@@ -1933,7 +1957,6 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) - Causal depthwise conv1d in CUDA, with a PyTorch interface
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
-- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [hpc203/nighttime_dehaze-onnxrun](https://github.com/hpc203/nighttime_dehaze-onnxrun) - 使用onnxruntime部署夜间雾霾图像的可见度增强，包含C++和Python两个版本的程序
 - [hpc203/Real-Time-Frame-Interpolation-onnxrun](https://github.com/hpc203/Real-Time-Frame-Interpolation-onnxrun) - 使用onnxruntime部署实时视频帧插值，包含C++和Python两个版本的程序
@@ -1997,7 +2020,6 @@
 - [Cc-Hy/UniVision](https://github.com/Cc-Hy/UniVision) - 
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds](https://github.com/SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds) - With Pynq -DPU overlay on KV260, we made 3D Object Detection on Point Clouds generated from LiDAR Faster than ever!
-- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
 - [HuangCongQing/Point-Clouds-Visualization](https://github.com/HuangCongQing/Point-Clouds-Visualization) - visualization点云可视化(open3D, mayavi, rviz(ros), PCL等)
 - [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: Open-source driving simulator
@@ -2207,7 +2229,6 @@
 - [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - [Incl. GenAD, CVPR 2024 Highlight] Embracing Foundation Models into Autonomous Agent and System
 - [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Topology Reasoning for Scene Perception in Autonomous Driving
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
-- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
 - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
 - [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
 - [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
@@ -2279,13 +2300,11 @@
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
 - [haooozi/GLT-T](https://github.com/haooozi/GLT-T) - Official Pytorch Implementation for [AAAI'23 Oral] "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds"
-- [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - 
+- [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - This repo is the official implementation of "BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird's-Eye View".
 - [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
@@ -2368,7 +2387,6 @@
 - [IRMVLab/RegFormer](https://github.com/IRMVLab/RegFormer) - [ICCV2023]RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration
 - [beauty-girl-cxy/rknn_yolov5_3588_bytetrack](https://github.com/beauty-girl-cxy/rknn_yolov5_3588_bytetrack) - 
 - [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D) - [ICCV'23 Workshop] SAM3D: Segment Anything in 3D Scenes
-- [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
 - [Caesar-github/gstreamer-rockchip](https://github.com/Caesar-github/gstreamer-rockchip) - The Gstreamer hardware encoder/decoder plugins for Rockchip platform
 - [BedRockJie/Rockchip_camera_encoder_Networkput](https://github.com/BedRockJie/Rockchip_camera_encoder_Networkput) - 
@@ -2386,7 +2404,6 @@
 - [sophgo/sophon_ffmpeg](https://github.com/sophgo/sophon_ffmpeg) - 
 - [fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet) - 
 - [OpenDriveLab/OpenScene](https://github.com/OpenDriveLab/OpenScene) - 3D Occupancy Prediction Benchmark in Autonomous Driving
-- [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
 - [ymzis69/HybridSORT](https://github.com/ymzis69/HybridSORT) - [AAAI2024]Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking
 - [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 - [BICLab/EMS-YOLO](https://github.com/BICLab/EMS-YOLO) - Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (ICCV2023)
@@ -2443,7 +2460,6 @@
 - [slothfulxtx/MBPTrack3D](https://github.com/slothfulxtx/MBPTrack3D) - [ICCV2023] MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors
 - [PJLab-ADG/DriveLikeAHuman](https://github.com/PJLab-ADG/DriveLikeAHuman) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models
 - [AIR-DISCOVER/DQS3D](https://github.com/AIR-DISCOVER/DQS3D) - [ICCV23] DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection
-- [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [SLDGroup/MobileViG](https://github.com/SLDGroup/MobileViG) - 
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [doubleZ0108/GeoMVSNet](https://github.com/doubleZ0108/GeoMVSNet) - [CVPR 23'] GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
@@ -2467,7 +2483,7 @@
 - [haibo-qiu/CDFormer](https://github.com/haibo-qiu/CDFormer) - Code for "Collect-and-Distribute Transformer for 3D Point Cloud Analysis"
 - [koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration [ROS1/ROS2]
 - [hustvl/SparseTrack](https://github.com/hustvl/SparseTrack) - Official PyTorch implementation of SparseTrack (the new version of code will come soon)
-- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - Matte Anything: Interactive Natural Image Matting with Segment Anything Models
+- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing] Interactive Natural Image Matting with Segment Anything Models
 - [SPengLiang/Camera-Calibration-of-Zhang-s-method](https://github.com/SPengLiang/Camera-Calibration-of-Zhang-s-method) - Zhang‘s method camera calibration implement by numpy
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - 
 - [OpenCalib/CalibAnything](https://github.com/OpenCalib/CalibAnything) - 
@@ -2887,7 +2903,6 @@
 - [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 - [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping package
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
-- [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
 - [eccv22-ood-workshop/ROBIN-dataset](https://github.com/eccv22-ood-workshop/ROBIN-dataset) - ECCV 2022 Workshop: A Benchmark for Robustness to Individual Nuisances in Real-World Out-of-Distribution Shifts
 - [huixiancheng/CENet](https://github.com/huixiancheng/CENet) - [ICME 2022] CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving
 - [HuguesTHOMAS/KPConv-PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch) - Kernel Point Convolution implemented in PyTorch
@@ -3481,7 +3496,7 @@
 - [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 - [hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU) - "Rethinking IoU-based Optimization for Single-stage 3D Object Detection", ECCV2022 accept!
 - [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2022] Official implementation of PeRFception: Perception using Radiance Fields.
-- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - This repo is an implementation of PyTorch version YOLOV
+- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - This repo is an implementation of PyTorch version YOLOV Series
 - [zhangyp15/SimMOD](https://github.com/zhangyp15/SimMOD) - Implementation of SimMOD: A Simple Baseline for Multi-Camera 3D Object Detection
 - [Sense-X/UniHead](https://github.com/Sense-X/UniHead) - Unifying Visual Perception by Dispersible Points Learning (ECCV 2022)
 - [liuxinren456852/PointGroup](https://github.com/liuxinren456852/PointGroup) - 
@@ -4753,7 +4768,7 @@
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [Megvii-BaseDetection/cvpods](https://github.com/Megvii-BaseDetection/cvpods) - All-in-one Toolbox for Computer Vision Research.
 - [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) - Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
-- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
+- [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
 - [haibo-qiu/GFNet](https://github.com/haibo-qiu/GFNet) - [TMLR 2022] Geometric Flow Network for 3D Point Cloud Semantic Segmentation
 - [yanx27/2DPASS](https://github.com/yanx27/2DPASS) - 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (ECCV 2022) :fire:
 - [TRI-ML/dd3d](https://github.com/TRI-ML/dd3d) - Official PyTorch implementation of DD3D: Is Pseudo-Lidar needed for Monocular 3D Object detection? (ICCV 2021), Dennis Park*, Rares Ambrus*, Vitor Guizilini, Jie Li, and Adrien Gaidon.
