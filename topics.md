@@ -648,7 +648,7 @@
 - [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallel algorithms for point cloud registration [C++, Python]
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
-- [spacewalk01/TensorRT-YOLOv9](https://github.com/spacewalk01/TensorRT-YOLOv9) - Cpp and python implementation of YOLOv9 using TensorRT API
+- [spacewalk01/tensorrt-yolov9](https://github.com/spacewalk01/tensorrt-yolov9) - Cpp and python implementation of YOLOv9 using TensorRT API
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp and python implementation of depth-anything model using tensorrt api.
@@ -1784,6 +1784,9 @@
 
 ## others 
 
+- [ZJU-FAST-Lab/Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) - hardware and software design of the 250mm autonomous drone
+- [NEU-REAL/SeqTrack3d](https://github.com/NEU-REAL/SeqTrack3d) - [ICRA'24] SeqTrack3d: Exploring Sequence Information for Robust 3D Point Cloud Tracking
+- [NEU-REAL/REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400) - An open source Drone Suite for Aerial Robot
 - [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with    Large Language Models using 2D Priors（Under Review）
@@ -2516,7 +2519,6 @@
 - [zhuyuliang/gst_rtsp_client](https://github.com/zhuyuliang/gst_rtsp_client) - gstreamer rtsp client support rockchip and jetson nx for C/C++ Python
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
 - [axlrose/rkdocs](https://github.com/axlrose/rkdocs) - RockChip RK3588 BSP Documents
-- [JeffyCN/rockchip_mirrors](https://github.com/JeffyCN/rockchip_mirrors) - Mirrors of a few Rockchip BSP repositories, some others in https://github.com/JeffyCN/mirrors.
 - [leafqycc/rknn-multi-threaded](https://github.com/leafqycc/rknn-multi-threaded) - A simple demo of yolov5s running on rk3588/3588s using Python (about 72 frames). / 一个使用Python在rk3588/3588s上运行的yolov5s简单demo(大约72帧/s)。
 - [liushuan/MNN-MTCNN-CPU-OPENCL](https://github.com/liushuan/MNN-MTCNN-CPU-OPENCL) - MNN MTCNN C++
 - [intel/fpga-runtime-for-opencl](https://github.com/intel/fpga-runtime-for-opencl) - Intel® FPGA Runtime for OpenCL™ Software Technology
@@ -3068,7 +3070,7 @@
 - [fengzhenHIT/OpenCV_Projects](https://github.com/fengzhenHIT/OpenCV_Projects) - OpenCV实现计算机视觉项目
 - [legolas123/cv-tricks.com](https://github.com/legolas123/cv-tricks.com) - Repository for all the tutorials and codes shared at cv-tricks.com
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
-- [IntelAI/he-transformer](https://github.com/IntelAI/he-transformer) - nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph
+- [intel/he-transformer](https://github.com/intel/he-transformer) - nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph
 - [yisun98/DCNV2](https://github.com/yisun98/DCNV2) - Deformable Convolutional Networks V2  可支持PyTorch1.7及以上版本以及RTX 3090 GPU，可直接编译
 - [smallsunsun1/custom_ops](https://github.com/smallsunsun1/custom_ops) - Deformable Convolution Networks(deformable conv2D TF_implementation)
 - [amro-kamal/ObjectPose](https://github.com/amro-kamal/ObjectPose) - 
@@ -4983,6 +4985,7 @@
 
 ## robotics 
 
+- [KTH-RPL/dufomap](https://github.com/KTH-RPL/dufomap) - [RA-L'24] DUFOMap: Efficient Dynamic Awareness Mapping
 - [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
 - [HKUST-Aerial-Robotics/FIESTA](https://github.com/HKUST-Aerial-Robotics/FIESTA) - Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots
 - [snape/AVO2](https://github.com/snape/AVO2) - Reciprocal Collision Avoidance with Acceleration-Velocity Obstacles (C++)
