@@ -4710,7 +4710,7 @@
 - [foolwood/SiamMask](https://github.com/foolwood/SiamMask) - [CVPR2019] Fast Online Object Tracking and Segmentation: A Unifying Approach
 - [astra-vision/MonoScene](https://github.com/astra-vision/MonoScene) - [CVPR 2022] "MonoScene: Monocular 3D Semantic Scene Completion": 3D Semantic Occupancy Prediction from a single image
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
-- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
+- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
 - [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
 - [JUGGHM/PENet_ICRA2021](https://github.com/JUGGHM/PENet_ICRA2021) - ICRA 2021 "Towards Precise and Efficient Image Guided Depth Completion"
