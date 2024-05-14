@@ -70,7 +70,7 @@
 ## BitBake 
 
 - [ros/meta-ros](https://github.com/ros/meta-ros) - OpenEmbedded Layers for ROS 1 and ROS 2
-- [renesas-rz/meta-rz-edge-ai-demo](https://github.com/renesas-rz/meta-rz-edge-ai-demo) - 
+- [renesas-rz/meta-rz-edge-ai-demo](https://github.com/renesas-rz/meta-rz-edge-ai-demo) - RZ Edge AI Demo Yocto Layer
 - [renesas-rz/meta-renesas-ai-demos](https://github.com/renesas-rz/meta-renesas-ai-demos) - This repository is EOL. Please use https://github.com/renesas-rz/meta-rz-edge-ai-demo instead.
 
 ## C 
@@ -230,6 +230,11 @@
 
 ## C++ 
 
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
+- [HRex39/Newton-M2-Ros-Driver](https://github.com/HRex39/Newton-M2-Ros-Driver) - 星网宇达Newton M2 Ros Package解析GPFPD与GTIMU程序
+- [OSGeo/PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
+- [RoboMaster/RoboRTS](https://github.com/RoboMaster/RoboRTS) - An open source software stack for Real-Time Strategy research on mobile robots
+- [sustech-isus/byd_dataset_ws](https://github.com/sustech-isus/byd_dataset_ws) - 
 - [ZJU-FAST-Lab/Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) - hardware and software design of the 250mm autonomous drone
 - [NEU-REAL/REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400) - An open source Drone Suite for Aerial Robot
 - [KTH-RPL/dufomap](https://github.com/KTH-RPL/dufomap) - [RA-L'24] DUFOMap: Efficient Dynamic Awareness Mapping
@@ -492,7 +497,7 @@
 - [T-head-Semi/open_source_ISP](https://github.com/T-head-Semi/open_source_ISP) - 
 - [ros2/message_filters](https://github.com/ros2/message_filters) - 
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
-- [beauty-girl-cxy/rknn_yolov5_3588_bytetrack](https://github.com/beauty-girl-cxy/rknn_yolov5_3588_bytetrack) - 
+- [LittleRain626/rknn_yolov5_3588_bytetrack](https://github.com/LittleRain626/rknn_yolov5_3588_bytetrack) - 
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [sophgo/ChatGLM2-TPU](https://github.com/sophgo/ChatGLM2-TPU) - run ChatGLM2-6B in BM1684X
@@ -813,7 +818,7 @@
 - [SmallMunich/bcnn](https://github.com/SmallMunich/bcnn) - point cloud segmentation and deploy using apollo bcnn network.
 - [kosuke55/tensorrt_bcnn](https://github.com/kosuke55/tensorrt_bcnn) - Lidar apollo instance segmentation CNN
 - [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [xiezhihua001/dldt-samples](https://github.com/xiezhihua001/dldt-samples) - 
 - [elvin-n/dldt_tools](https://github.com/elvin-n/dldt_tools) - Place for dldt based tools, samples and demos
 - [linxie47/dldt-c_api](https://github.com/linxie47/dldt-c_api) - 
@@ -1384,6 +1389,7 @@
 - [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
 - [hady1011/OrthoNets](https://github.com/hady1011/OrthoNets) - Orthogonal Channel Attentions Networks
+- [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
@@ -1527,7 +1533,7 @@
 
 ## MATLAB 
 
-- [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、SoftGNSS、KF-GINS、ORB-SLAM3 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令、以及我作为安理导航工程本科生对于导航学习的思考感悟；本仓库会长期更新，分享出来，希望有人用得上，也激励着自己坚持学下去；
+- [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，希望有人用得上，也激励着自己坚持学下去
 - [wanghuohuo0716/hybrid_A_star](https://github.com/wanghuohuo0716/hybrid_A_star) - 本仓库是对混合A*算法的matlab复现
 - [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, DWA, Bezier,
 - [scott89/KCF](https://github.com/scott89/KCF) - Source code for "high-speed tracking with kernelized correlation filters"
@@ -1857,12 +1863,13 @@
 
 ## Python 
 
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [NEU-REAL/SeqTrack3d](https://github.com/NEU-REAL/SeqTrack3d) - [ICRA'24] SeqTrack3d: Exploring Sequence Information for Robust 3D Point Cloud Tracking
 - [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) - [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
 - [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
-- [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - 
+- [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 - [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 https://arxiv.org/abs/2404.00498
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
@@ -2034,7 +2041,6 @@
 - [THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 - [waymo-research/waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
 - [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
