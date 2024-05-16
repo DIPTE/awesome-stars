@@ -277,7 +277,7 @@
 - [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end op
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
 
 ## archlinux 
@@ -624,7 +624,7 @@
 - [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [yunxiaoshi/pointnet-pytorch](https://github.com/yunxiaoshi/pointnet-pytorch) - PointNet in PyTorch with comprehensive experiments
 - [Suoivy/LPD-net](https://github.com/Suoivy/LPD-net) - LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis, ICCV 2019, Seoul, Korea
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [QingyongHu/RandLA-Net](https://github.com/QingyongHu/RandLA-Net) - 🔥RandLA-Net in Tensorflow (CVPR 2020, Oral & IEEE TPAMI 2021)
 - [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) - A curated list of deep learning image classification papers and codes
 - [ScanNet/ScanNet](https://github.com/ScanNet/ScanNet) - 
@@ -644,6 +644,7 @@
 
 ## cpp 
 
+- [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
 - [dianhsu/swin-transformer-cpp](https://github.com/dianhsu/swin-transformer-cpp) - Swin Transformer C++ Implementation
 - [snape/AVO2](https://github.com/snape/AVO2) - Reciprocal Collision Avoidance with Acceleration-Velocity Obstacles (C++)
 - [snape/RVO2](https://github.com/snape/RVO2) - Optimal Reciprocal Collision Avoidance (C++)
@@ -1080,7 +1081,7 @@
 - [cgtuebingen/Flex-Convolution](https://github.com/cgtuebingen/Flex-Convolution) - Source code for: Flex-Convolution (Million-Scale Point-Cloud Learning Beyond Grid-Worlds), accepted at ACCV 2018
 - [yunxiaoshi/pointnet-pytorch](https://github.com/yunxiaoshi/pointnet-pytorch) - PointNet in PyTorch with comprehensive experiments
 - [Suoivy/LPD-net](https://github.com/Suoivy/LPD-net) - LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis, ICCV 2019, Seoul, Korea
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [weiaicunzai/pytorch-cifar100](https://github.com/weiaicunzai/pytorch-cifar100) - Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet, N
 - [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) - A curated list of deep learning image classification papers and codes
 - [graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) - Repository for benchmarking graph neural networks
@@ -1186,7 +1187,7 @@
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [CodingHanYa/workspace](https://github.com/CodingHanYa/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## frontend 
 
@@ -1554,7 +1555,7 @@
 - [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv) - Gluon CV Toolkit
 - [yassersouri/pytorch-deep-sets](https://github.com/yassersouri/pytorch-deep-sets) - PyTorch re-implementation of parts of "Deep Sets" (NIPS 2017)
 - [cgtuebingen/Flex-Convolution](https://github.com/cgtuebingen/Flex-Convolution) - Source code for: Flex-Convolution (Million-Scale Point-Cloud Learning Beyond Grid-Worlds), accepted at ACCV 2018
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training deep learning networks
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [yangyanli/PointCNN](https://github.com/yangyanli/PointCNN) - PointCNN: Convolution On X-Transformed Points (NeurIPS 2018)
@@ -2361,7 +2362,7 @@
 - [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) - An MLIR-based toolchain for AMD AI Engine-enabled devices.
 - [XHwind/V2XP-ASG](https://github.com/XHwind/V2XP-ASG) - [ICRA 2023] V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception
 - [ucla-mobility/OpenCDA](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
-- [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
+- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 - [xiaoaoran/SynLiDAR](https://github.com/xiaoaoran/SynLiDAR) - SynLiDAR: Synthetic LiDAR sequential point cloud dataset with point-wise annotations (AAAI2022)
 - [lxtGH/Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - [Arxiv-04-2023] Transformer-Based Visual Segmentation: A Survey
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
@@ -2614,7 +2615,7 @@
 - [baaivision/EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
 - [zhenyuw16/UniDetector](https://github.com/zhenyuw16/UniDetector) - Code release for our CVPR 2023 paper "Detecting Everything in the Open World: Towards Universal Object Detection".
 - [IDEA-Research/Lite-DETR](https://github.com/IDEA-Research/Lite-DETR) - [CVPR 2023] Official implementation of the paper "Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR"
-- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
+- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - (IEEE TIV) A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
 - [colorfulfuture/GC-VRNN](https://github.com/colorfulfuture/GC-VRNN) - 
 - [ADLab-AutoDrive/INT](https://github.com/ADLab-AutoDrive/INT) - Temp
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
