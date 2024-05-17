@@ -1789,6 +1789,9 @@
 
 ## others 
 
+- [zhanggang001/HEDNet](https://github.com/zhanggang001/HEDNet) - HEDNet (NeurIPS 2023) & SAFDNet (CVPR 2024 Oral)
+- [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
+- [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [HRex39/Newton-M2-Ros-Driver](https://github.com/HRex39/Newton-M2-Ros-Driver) - 星网宇达Newton M2 Ros Package解析GPFPD与GTIMU程序
 - [OSGeo/PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 - [sustech-isus/byd_dataset_ws](https://github.com/sustech-isus/byd_dataset_ws) - 
@@ -4919,7 +4922,7 @@
 - [weiaicunzai/pytorch-cifar100](https://github.com/weiaicunzai/pytorch-cifar100) - Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet, N
 - [graphdeeplearning/benchmarking-gnns](https://github.com/graphdeeplearning/benchmarking-gnns) - Repository for benchmarking graph neural networks
 - [mit-han-lab/pvcnn](https://github.com/mit-han-lab/pvcnn) - [NeurIPS 2019, Spotlight] Point-Voxel CNN for Efficient 3D Deep Learning
-- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training deep learning networks
 - [lightaime/deep_gcns_torch](https://github.com/lightaime/deep_gcns_torch) - Pytorch Repo for DeepGCNs (ICCV'2019 Oral, TPAMI'2021), DeeperGCN (arXiv'2020) and GNN1000(ICML'2021): https://www.deepgcns.org
 - [hfslyc/AdvSemiSeg](https://github.com/hfslyc/AdvSemiSeg) - Adversarial Learning for Semi-supervised Semantic Segmentation, BMVC 2018
