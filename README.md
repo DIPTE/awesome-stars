@@ -230,6 +230,7 @@
 
 ## C++ 
 
+- [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 - [HRex39/Newton-M2-Ros-Driver](https://github.com/HRex39/Newton-M2-Ros-Driver) - 星网宇达Newton M2 Ros Package解析GPFPD与GTIMU程序
 - [OSGeo/PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
@@ -1158,7 +1159,7 @@
 - [aboulch/ConvPoint](https://github.com/aboulch/ConvPoint) - 
 - [scientificRat/pc_sampling](https://github.com/scientificRat/pc_sampling) - point cloud sampling(copy from pointnet2(Qi et al.))
 - [jbehley/point_labeler](https://github.com/jbehley/point_labeler) - My awesome point cloud labeling tool
-- [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [rickarkin/PyMesh-win](https://github.com/rickarkin/PyMesh-win) - pymesh for windows
 - [zuoqing1988/ZQCNN-MTCNN-vs-libfacedetection](https://github.com/zuoqing1988/ZQCNN-MTCNN-vs-libfacedetection) - 对比ZQCNN-MTCNN与libfacedetection
 - [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
@@ -1401,7 +1402,7 @@
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
 - [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
-- [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
+- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 - [yossilevii100/EPiC](https://github.com/yossilevii100/EPiC) - Ensemble of Partial Points Clouds for Robust Classification
 - [THU-MIG/RepViT](https://github.com/THU-MIG/RepViT) - RepViT: Revisiting Mobile CNN From ViT Perspective [CVPR 2024] and RepViT-SAM: Towards Real-Time Segmenting Anything
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
@@ -1615,6 +1616,7 @@
 
 ## Others 
 
+- [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with    Large Language Models using 2D Priors（Under Review）
@@ -1701,7 +1703,6 @@
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
 - [axlrose/rkdocs](https://github.com/axlrose/rkdocs) - RockChip RK3588 BSP Documents
 - [landyxu/FastViT](https://github.com/landyxu/FastViT) - Our objective is to combine the strengths of ViT, CNN, and GNN to create FastViT, a lightweight and efficient net-work  that  outperforms  CNN-based  models  and  has  fewer parameters  and  a  shorte
-- [ViTAE-Transformer/SimDistill](https://github.com/ViTAE-Transformer/SimDistill) - The official repo for [AAAI 2024] "SimDistill: Simulated Multi-modal Distillation for BEV 3D Object Detection""
 - [ifzhang/ByteTrack-V2](https://github.com/ifzhang/ByteTrack-V2) - 
 - [yinjunbo/3DVID](https://github.com/yinjunbo/3DVID) - LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention (CVPR20)
 - [fishros/d2l-ros2](https://github.com/fishros/d2l-ros2) - 动手学ROS2课程配套教程，欢迎关注公众号《鱼香ROS》
@@ -1863,6 +1864,8 @@
 
 ## Python 
 
+- [zhanggang001/HEDNet](https://github.com/zhanggang001/HEDNet) - HEDNet (NeurIPS 2023) & SAFDNet (CVPR 2024 Oral)
+- [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [NEU-REAL/SeqTrack3d](https://github.com/NEU-REAL/SeqTrack3d) - [ICRA'24] SeqTrack3d: Exploring Sequence Information for Robust 3D Point Cloud Tracking
 - [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) - [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving
@@ -2339,6 +2342,7 @@
 - [PJLab-ADG/3DTrans](https://github.com/PJLab-ADG/3DTrans) - An open-source codebase for exploring autonomous driving pre-training
 - [hujiecpp/YOSO](https://github.com/hujiecpp/YOSO) - Code release for paper "You Only Segment Once: Towards Real-Time Panoptic Segmentation" [CVPR 2023]
 - [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR 2023] Towards Any Structural Pruning; LLMs / SAM /  Diffusion / Transformers / YOLOv8 / CNNs
+- [ViTAE-Transformer/SimDistill](https://github.com/ViTAE-Transformer/SimDistill) - The official repo for [AAAI 2024] "SimDistill: Simulated Multi-modal Distillation for BEV 3D Object Detection""
 - [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - Self-Supervised Representation Learning on Point Clouds (GCPR 2023 | T4V Workshop @ CVPR 2023)
 - [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt (CVPR 2024)
 - [TRI-ML/VEDet](https://github.com/TRI-ML/VEDet) - 
@@ -2357,7 +2361,7 @@
 - [baaivision/EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
 - [zhenyuw16/UniDetector](https://github.com/zhenyuw16/UniDetector) - Code release for our CVPR 2023 paper "Detecting Everything in the Open World: Towards Universal Object Detection".
 - [IDEA-Research/Lite-DETR](https://github.com/IDEA-Research/Lite-DETR) - [CVPR 2023] Official implementation of the paper "Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR"
-- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
+- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - (IEEE TIV) A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
 - [ADLab-AutoDrive/INT](https://github.com/ADLab-AutoDrive/INT) - Temp
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
 - [wzzheng/OpenOcc](https://github.com/wzzheng/OpenOcc) - Open Source 3D Occupancy Prediction Library.
@@ -3641,7 +3645,7 @@
 - [matanatz/pcnn](https://github.com/matanatz/pcnn) - Point Convolutional Neural Networks by Extension Operators
 - [mit-han-lab/pvcnn](https://github.com/mit-han-lab/pvcnn) - [NeurIPS 2019, Spotlight] Point-Voxel CNN for Efficient 3D Deep Learning
 - [WangYueFt/dgcnn](https://github.com/WangYueFt/dgcnn) - 
-- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [nmaxwell/OpenMesh-Python](https://github.com/nmaxwell/OpenMesh-Python) - Mirror of OpenMesh-Python
 - [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training deep learning networks
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
