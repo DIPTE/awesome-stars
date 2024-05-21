@@ -775,6 +775,7 @@
 
 ## deep-learning 
 
+- [CVMI-Lab/PLA](https://github.com/CVMI-Lab/PLA) - (CVPR 2023) PLA: Language-Driven Open-Vocabulary 3D Scene Understanding & (CVPR2024) RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
@@ -1789,6 +1790,8 @@
 
 ## others 
 
+- [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (RAL 2023)
+- [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 
 - [zhanggang001/HEDNet](https://github.com/zhanggang001/HEDNet) - HEDNet (NeurIPS 2023) & SAFDNet (CVPR 2024 Oral)
 - [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
 - [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
@@ -2166,7 +2169,7 @@
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
 - [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - [CVPR 2024] 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
-- [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
+- [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [tangtaogo/lidar-nerf](https://github.com/tangtaogo/lidar-nerf) - LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
@@ -4996,6 +4999,7 @@
 
 ## robotics 
 
+- [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - [RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 - [RoboMaster/RoboRTS](https://github.com/RoboMaster/RoboRTS) - An open source software stack for Real-Time Strategy research on mobile robots
 - [KTH-RPL/dufomap](https://github.com/KTH-RPL/dufomap) - [RA-L'24] DUFOMap: Efficient Dynamic Awareness Mapping
 - [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
