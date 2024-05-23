@@ -2624,7 +2624,7 @@
 - [baaivision/EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
 - [zhenyuw16/UniDetector](https://github.com/zhenyuw16/UniDetector) - Code release for our CVPR 2023 paper "Detecting Everything in the Open World: Towards Universal Object Detection".
 - [IDEA-Research/Lite-DETR](https://github.com/IDEA-Research/Lite-DETR) - [CVPR 2023] Official implementation of the paper "Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR"
-- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - (IEEE TIV) A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
+- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - (IEEE TIV) A Comprehensive Framework for 3D Occupancy Estimation in Autonomous Driving
 - [colorfulfuture/GC-VRNN](https://github.com/colorfulfuture/GC-VRNN) - 
 - [ADLab-AutoDrive/INT](https://github.com/ADLab-AutoDrive/INT) - Temp
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
@@ -3785,7 +3785,7 @@
 - [luxius-luminus/PolyConv](https://github.com/luxius-luminus/PolyConv) - Object Point Cloud Classification via Poly-Convolutional Architecture Search
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
 - [LitingLin/SwinTrack](https://github.com/LitingLin/SwinTrack) - 
-- [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (TPAMI 2022, ACM MM 2020)
+- [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (TPAMI'22, ACM MM'20)
 - [subbarayudu-j/TheAlgorithms-Python](https://github.com/subbarayudu-j/TheAlgorithms-Python) - TheAlgorithms/Python
 - [cwi-dis/pointpca](https://github.com/cwi-dis/pointpca) - 
 - [ZrrSkywalker/PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) - [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP
