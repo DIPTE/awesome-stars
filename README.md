@@ -1347,7 +1347,6 @@
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [coperception/where2comm](https://github.com/coperception/where2comm) - [NeurIPS 2022] Where2comm
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
 - [dihuangdh/dihuangdh.github.io](https://github.com/dihuangdh/dihuangdh.github.io) - 
 - [waveform80/pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
@@ -2336,6 +2335,7 @@
 - [zhangyp15/OccFormer](https://github.com/zhangyp15/OccFormer) - [ICCV 2023] OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
 - [azhuantou/HSSDA](https://github.com/azhuantou/HSSDA) - [CVPR 2023] Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection
 - [valeoai/SALUDA](https://github.com/valeoai/SALUDA) - SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [baaivision/Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
 - [pengyang1225/mobileone-yolov5](https://github.com/pengyang1225/mobileone-yolov5) - 
 - [JiayuZou2020/DiffBEV](https://github.com/JiayuZou2020/DiffBEV) - Official PyTorch implementation for a conditional diffusion probability model in BEV perception
@@ -2367,7 +2367,7 @@
 - [baaivision/EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
 - [zhenyuw16/UniDetector](https://github.com/zhenyuw16/UniDetector) - Code release for our CVPR 2023 paper "Detecting Everything in the Open World: Towards Universal Object Detection".
 - [IDEA-Research/Lite-DETR](https://github.com/IDEA-Research/Lite-DETR) - [CVPR 2023] Official implementation of the paper "Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR"
-- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - (IEEE TIV) A Simple Framework for 3D Occupancy Estimation in Autonomous Driving
+- [GANWANSHUI/SimpleOccupancy](https://github.com/GANWANSHUI/SimpleOccupancy) - (IEEE TIV) A Comprehensive Framework for 3D Occupancy Estimation in Autonomous Driving
 - [ADLab-AutoDrive/INT](https://github.com/ADLab-AutoDrive/INT) - Temp
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
 - [wzzheng/OpenOcc](https://github.com/wzzheng/OpenOcc) - Open Source 3D Occupancy Prediction Library.
@@ -3071,7 +3071,7 @@
 - [luxius-luminus/PolyConv](https://github.com/luxius-luminus/PolyConv) - Object Point Cloud Classification via Poly-Convolutional Architecture Search
 - [tusen-ai/SST](https://github.com/tusen-ai/SST) - Code for a series of work in LiDAR perception, including SST (CVPR 22), FSD (NeurIPS 22), FSD++ (TPAMI 23), FSDv2, and  CTRL (ICCV 23, oral).
 - [LitingLin/SwinTrack](https://github.com/LitingLin/SwinTrack) - 
-- [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (TPAMI 2022, ACM MM 2020)
+- [HCPLab-SYSU/CD-FER-Benchmark](https://github.com/HCPLab-SYSU/CD-FER-Benchmark) - A Unified Evaluation Benchmark for Cross-Domain Facial Expression Recognition (TPAMI'22, ACM MM'20)
 - [subbarayudu-j/TheAlgorithms-Python](https://github.com/subbarayudu-j/TheAlgorithms-Python) - TheAlgorithms/Python
 - [ZrrSkywalker/PointCLIP](https://github.com/ZrrSkywalker/PointCLIP) - [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP
 - [fpthink/V2B](https://github.com/fpthink/V2B) - 
