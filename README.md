@@ -1868,7 +1868,7 @@
 
 ## Python 
 
-- [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted to CVPR 2024
+- [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted at CVPR 2024
 - [yinjunbo/IS-Fusion](https://github.com/yinjunbo/IS-Fusion) - This repository contains the PyTorch implementation of the CVPR'2024 paper (Highlight), IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection.
 - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 TensorRT-YOLO: Support YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, PP-YOLOE using TensorRT acceleration with EfficientNMS!
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
