@@ -1411,7 +1411,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
@@ -1456,6 +1456,7 @@
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+- [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
@@ -1791,6 +1792,9 @@
 
 ## others 
 
+- [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
+- [TommyZihao/vlm_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
 - [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted at CVPR 2024
 - [yinjunbo/IS-Fusion](https://github.com/yinjunbo/IS-Fusion) - This repository contains the PyTorch implementation of the CVPR'2024 paper (Highlight), IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection.
 - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 TensorRT-YOLO: Support YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, PP-YOLOE using TensorRT acceleration with EfficientNMS!
@@ -2274,7 +2278,7 @@
 - [HorizonRDK/hobot_bev](https://github.com/HorizonRDK/hobot_bev) - TROS Bev Node package
 - [HorizonRDK/hobot_llm](https://github.com/HorizonRDK/hobot_llm) - 
 - [HorizonRDK/hobot_centerpoint](https://github.com/HorizonRDK/hobot_centerpoint) - 
-- [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕基于labelImg及YOLOV5的图形化半自动标注工具
+- [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - YOLOV5 semi-automatic annotation tool (Based on labelImg)
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
 - [Vertical-Beach/ByteTrack-cpp](https://github.com/Vertical-Beach/ByteTrack-cpp) - C++ implementation of ByteTrack that does not include an object detection algorithm.
 - [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - [CVPR 2023] Learning a 3D Morphable Face Reflectance Model from Low-cost Data
@@ -2371,7 +2375,6 @@
 - [cskkxjk/MonoNeRD](https://github.com/cskkxjk/MonoNeRD) - (ICCV2023) MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
 - [facebookresearch/NeRF-Det](https://github.com/facebookresearch/NeRF-Det) - [ICCV 2023] Code for NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection
 - [StephenYang190/rangenet_lib](https://github.com/StephenYang190/rangenet_lib) - Rangenet lib in TensorRT8
-- [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
 - [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) - An MLIR-based toolchain for AMD AI Engine-enabled devices.
 - [XHwind/V2XP-ASG](https://github.com/XHwind/V2XP-ASG) - [ICRA 2023] V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception
 - [ucla-mobility/OpenCDA](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
@@ -3799,7 +3802,7 @@
 - [Kemo-Huang/JMODT](https://github.com/Kemo-Huang/JMODT) - Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving
 - [guangyaooo/JointRCNN](https://github.com/guangyaooo/JointRCNN) - 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [lulutang0608/Point-BERT](https://github.com/lulutang0608/Point-BERT) - [CVPR 2022] Pre-Training 3D Point Cloud Transformers with Masked Point Modeling
+- [Julie-tang00/Point-BERT](https://github.com/Julie-tang00/Point-BERT) - [CVPR 2022] Pre-Training 3D Point Cloud Transformers with Masked Point Modeling
 - [Hub-Tian/Awesome-3D-Detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors) - Paperlist of awesome 3D detection methods
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [once-for-auto-driving/once_devkit](https://github.com/once-for-auto-driving/once_devkit) - 
