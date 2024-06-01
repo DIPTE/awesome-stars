@@ -249,8 +249,8 @@
 - [YuePanEdward/LLS-LOAM](https://github.com/YuePanEdward/LLS-LOAM) - Lidar Odometry and Mapping with Mutiple Metrics Linear Least Square ICP
 - [YuePanEdward/MULLS](https://github.com/YuePanEdward/MULLS) - MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square [ICRA '21]
 - [ChaoqinRobotics/LINS---LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) - A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter
-- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - Hardware-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
-- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - Hardware-accelerated, deep learned model support for object detection including YOLOv8 and DetectNet
+- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - NVIDIA-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
+- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - NVIDIA-accelerated, deep learned model support for image space object detection
 - [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search.
 - [NVIDIA-ISAAC-ROS/isaac_ros_nitros](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros) - NVIDIA Isaac Transport for ROS package for hardware-acceleration friendly movement of messages
 - [haotiangu/LeGO_LOAM_OUSTER_64](https://github.com/haotiangu/LeGO_LOAM_OUSTER_64) - Lidar odometry is an effective navigation technique for robot localization when a robot does not have access to GPS. A robot's motion is estimated by solving for the translation and rotation across co
@@ -1595,7 +1595,7 @@
 
 - [liruihui/PU-GAN](https://github.com/liruihui/PU-GAN) - PU-GAN: a Point Cloud Upsampling Adversarial Network, ICCV, 2019
 - [isongxw/Qt-VTK-Demo](https://github.com/isongxw/Qt-VTK-Demo) - 
-- [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi
+- [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
 - [Y-pandaman/miivii_gmsl_camera](https://github.com/Y-pandaman/miivii_gmsl_camera) - 
 - [zherlock030/YOLOv5_Torchscript](https://github.com/zherlock030/YOLOv5_Torchscript) - C++ code for running a yolov5s model.
 - [halostorm/PCAT_open_source](https://github.com/halostorm/PCAT_open_source) - PointCloud Annotation Tools, support to label object bound box, ground, lane and kerb
@@ -1629,7 +1629,7 @@
 - [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection"
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
-- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
+- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [GongWeiSheng/DIDLM](https://github.com/GongWeiSheng/DIDLM) - 
 - [ntnu-arl/lidar_degeneracy_datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) - LiDAR degeneracy dataset for LiDAR-radar-inertial fusion methods.
 - [ldtho/DifFUSER](https://github.com/ldtho/DifFUSER) - DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation
