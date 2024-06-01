@@ -221,7 +221,7 @@
 
 ## ai 
 
-- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - Hardware-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
+- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - NVIDIA-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
@@ -780,8 +780,8 @@
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
-- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - Hardware-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
-- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - Hardware-accelerated, deep learned model support for object detection including YOLOv8 and DetectNet
+- [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - NVIDIA-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
+- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - NVIDIA-accelerated, deep learned model support for image space object detection
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -1442,7 +1442,7 @@
 ## machine-learning 
 
 - [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
-- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - Hardware-accelerated, deep learned model support for object detection including YOLOv8 and DetectNet
+- [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - NVIDIA-accelerated, deep learned model support for image space object detection
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
@@ -1827,7 +1827,7 @@
 - [BravoCharlie-ai/Sparce_to_Dense](https://github.com/BravoCharlie-ai/Sparce_to_Dense) - 
 - [PengYu-Team/DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 - [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 https://arxiv.org/abs/2404.00498
-- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
+- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [PengYu-Team/Co-LRIO](https://github.com/PengYu-Team/Co-LRIO) - A ROS2 package of CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms.
 - [LiZhengXiao99/Geomatics-Program](https://github.com/LiZhengXiao99/Geomatics-Program) - 2024年测绘程序设计比赛准备的资料，包括通知文件、赛题说明、日程安排、参考资料、参考例程、测试数据、我写的练习程序、写程序步骤总结、C#-WinForm语法、常见问题
 - [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去
@@ -2987,7 +2987,7 @@
 - [SonwYang/Cell_segmentation_via_TensorRT](https://github.com/SonwYang/Cell_segmentation_via_TensorRT) - TensorRT,Semantic Segmentation
 - [SonwYang/onnxruntime_segmentation](https://github.com/SonwYang/onnxruntime_segmentation) - onnxruntime
 - [SonwYang/onnxruntime_resnet](https://github.com/SonwYang/onnxruntime_resnet) - onnxruntime
-- [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi
+- [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
 - [pytorch/ort](https://github.com/pytorch/ort) - Accelerate PyTorch models with ONNX Runtime
 - [PolySync/core-python-api](https://github.com/PolySync/core-python-api) - An experimental PolySync Core Python 3 API.
