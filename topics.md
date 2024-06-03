@@ -2081,7 +2081,7 @@
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
 - [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - WidthFormer: Toward Efficient Transformer-based BEV View Transformation
-- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
@@ -2759,8 +2759,8 @@
 - [GDUT-Kyle/faster_lio_sam](https://github.com/GDUT-Kyle/faster_lio_sam) - FASTER-LIO-SAM: A SLAM system based on iVox and GTSAM.
 - [KennyWGH/ikd-Tree-detailed](https://github.com/KennyWGH/ikd-Tree-detailed) - 「香港大学 MaRS 实验室」开源 ikd-Tree 算法中文注释版；新增了header-only分支，便于直接嵌入工程。
 - [hku-mars/ikd-Tree](https://github.com/hku-mars/ikd-Tree) - This repository provides implementation of an incremental k-d tree for robotic applications.
-- [ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey](https://github.com/ApoorvRoboticist/Vision-RADAR-Fusion-BEV-Survey) - Vision-RADAR fusion for Robotics BEV Perception: A Survey
-- [ApoorvRoboticist/VisionBEVDetectionSurvey](https://github.com/ApoorvRoboticist/VisionBEVDetectionSurvey) - 
+- [apoorv-ml/Vision-RADAR-Fusion-BEV-Survey](https://github.com/apoorv-ml/Vision-RADAR-Fusion-BEV-Survey) - Vision-RADAR fusion for Robotics BEV Perception: A Survey
+- [apoorv-ml/VisionBEVDetectionSurvey](https://github.com/apoorv-ml/VisionBEVDetectionSurvey) - 
 - [JeffWang987/OpenOccupancy](https://github.com/JeffWang987/OpenOccupancy) - [ICCV 2023] OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception
 - [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
@@ -2796,7 +2796,7 @@
 - [tarashakhurana/4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting) - CVPR 2023: Official code for `Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'
 - [JOP-Lee/READ](https://github.com/JOP-Lee/READ) - AAAI2023，implementation of "READ:  Large-Scale Neural Scene Rendering for Autonomous Driving", the experimental results are significantly better than Nerf-based methods
 - [jinwandou/-KalmanFilter-](https://github.com/jinwandou/-KalmanFilter-) - OpenCV2——卡尔曼滤波(KalmanFilter)详解
-- [ApoorvRoboticist/Transformers-Sensor-Fusion](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion) - This repo holds trending techniques for sensor fusion task using Transformers
+- [apoorv-ml/Transformers-Sensor-Fusion](https://github.com/apoorv-ml/Transformers-Sensor-Fusion) - This repo holds trending techniques for sensor fusion task using Transformers
 - [nomewang/M3DM](https://github.com/nomewang/M3DM) - 
 - [I2-Multimedia-Lab/ProxyFormer](https://github.com/I2-Multimedia-Lab/ProxyFormer) - ProxyFormer (CVPR 2023)
 - [pranavkdm/R-PointHop](https://github.com/pranavkdm/R-PointHop) - R-PointHop: A Green, Accurate and Unsupervised Point Cloud Registration Method
