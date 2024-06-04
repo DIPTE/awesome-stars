@@ -77,6 +77,7 @@
 
 - [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - [RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 - [xiaohulugo/VanishingPointDetection](https://github.com/xiaohulugo/VanishingPointDetection) - 2-Line Exhaustive Searching for Real-Time Vanishing Point Estimation in Manhattan World
+- [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
 - [Embedfire/nmealib](https://github.com/Embedfire/nmealib) - 
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [ZainZh/sunriseX3_yolov8](https://github.com/ZainZh/sunriseX3_yolov8) - 地平线horizon开发板部署工具
@@ -233,6 +234,7 @@
 
 - [daniel89710/lightNet-TRT](https://github.com/daniel89710/lightNet-TRT) - LightNet-TRT is a high-efficiency and real-time implementation of convolutional neural networks (CNNs) using Edge AI.
 - [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (RAL 2023)
+- [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 - [HRex39/Newton-M2-Ros-Driver](https://github.com/HRex39/Newton-M2-Ros-Driver) - 星网宇达Newton M2 Ros Package解析GPFPD与GTIMU程序
@@ -1622,7 +1624,6 @@
 ## Others 
 
 - [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources
-- [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - MiniGPT-3D: Efficiently Aligning 3D Point Clouds with    Large Language Models using 2D Priors（Under Review）
@@ -1639,7 +1640,6 @@
 - [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
-- [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
 - [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [autodriving-heart/CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) - CVPR 2024 Papers Autonomous Driving
@@ -1956,7 +1956,7 @@
 - [GaussianObject/GaussianObject](https://github.com/GaussianObject/GaussianObject) - Code for "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - PointMamba: A Simple State Space Model for Point Cloud Analysis
-- [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
@@ -2322,7 +2322,7 @@
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [qcraftai/pillar-motion](https://github.com/qcraftai/pillar-motion) - Self-Supervised Pillar Motion Learning for Autonomous Driving (CVPR 2021)
 - [qcraftai/pillarnext](https://github.com/qcraftai/pillarnext) - PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds (CVPR 2023)
-- [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ubuntu application indicator to show various system parameters
+- [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ayatana application indicator to show various system parameters - Debian and Ubuntu
 - [leafqycc/rknn-multi-threaded](https://github.com/leafqycc/rknn-multi-threaded) - A simple demo of yolov5s running on rk3588/3588s using Python (about 72 frames). / 一个使用Python在rk3588/3588s上运行的yolov5s简单demo(大约72帧/s)。
 - [fcjian/AeDet](https://github.com/fcjian/AeDet) - AeDet: Azimuth-invariant Multi-view 3D Object Detection, CVPR2023
 - [BraveGroup/FullySparseFusion](https://github.com/BraveGroup/FullySparseFusion) - Fully Sparse Fusion for 3D Object Detection
