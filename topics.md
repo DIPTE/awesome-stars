@@ -1930,7 +1930,7 @@
 - [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
 - [zhudongwork/SAM_TensorRT](https://github.com/zhudongwork/SAM_TensorRT) - This is the code to implement Segment Anything (SAM) using TensorRT(C++).
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
-- [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, DWA, Bezier,
+- [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：matlab implementation of Dijkstra, A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, RPP, DWA, DDPG
 - [xiangli0608/Learning_localization_from_scratch_ws](https://github.com/xiangli0608/Learning_localization_from_scratch_ws) - 
 - [fishros/transforms3d_cpp](https://github.com/fishros/transforms3d_cpp) - 基于Eigen实现的机器人位姿转换库
 - [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
@@ -1981,7 +1981,7 @@
 - [LinkSoul-AI/Chinese-LLaVA](https://github.com/LinkSoul-AI/Chinese-LLaVA) - 支持中英文双语视觉-文本对话的开源可商用多模态模型。
 - [GaussianObject/GaussianObject](https://github.com/GaussianObject/GaussianObject) - Code for "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
-- [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
+- [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [Dao-AILab/fast-hadamard-transform](https://github.com/Dao-AILab/fast-hadamard-transform) - Fast Hadamard transform in CUDA, with a PyTorch interface
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) - Causal depthwise conv1d in CUDA, with a PyTorch interface
@@ -2537,7 +2537,7 @@
 - [Caesar-github/libmali](https://github.com/Caesar-github/libmali) - libmali for rockchip
 - [qcraftai/pillar-motion](https://github.com/qcraftai/pillar-motion) - Self-Supervised Pillar Motion Learning for Autonomous Driving (CVPR 2021)
 - [qcraftai/pillarnext](https://github.com/qcraftai/pillarnext) - PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds (CVPR 2023)
-- [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ubuntu application indicator to show various system parameters
+- [fossfreedom/indicator-sysmonitor](https://github.com/fossfreedom/indicator-sysmonitor) - Ayatana application indicator to show various system parameters - Debian and Ubuntu
 - [ChisBread/rk3588-gaming-step-by-step](https://github.com/ChisBread/rk3588-gaming-step-by-step) - 只有中文! 一步步教你在RK3588(Debian-based OS)上运行各种游戏
 - [jjm2473/ffmpeg-rk](https://github.com/jjm2473/ffmpeg-rk) - 支持rockchip mpp硬件加速编解码的ffmpeg版本。Forked ffmpeg that supports rkmpp decodeing, encoding and rga scaling
 - [zhuyuliang/gst_rtsp_client](https://github.com/zhuyuliang/gst_rtsp_client) - gstreamer rtsp client support rockchip and jetson nx for C/C++ Python
