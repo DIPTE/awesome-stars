@@ -375,7 +375,7 @@
 - [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 - [drilistbox/TRT_FlashOcc](https://github.com/drilistbox/TRT_FlashOcc) - 
-- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
+- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : ) 。**VideoPipe下一版本正在开发中，在保证跨平台、易上手的前提下，预计性能直逼deepstream等各硬件平台官方框架**。
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
@@ -1923,7 +1923,7 @@
 - [chrischoy/DeepGlobalRegistration](https://github.com/chrischoy/DeepGlobalRegistration) - [CVPR 2020 Oral] A differentiable framework for 3D registration
 - [goncalo120/3DRegNet](https://github.com/goncalo120/3DRegNet) - [CVPR 2020, Poster] 3DRegNet: A Deep Neural Network for 3D Point Registration (Not Updated)
 - [ZhiChen902/SC2-PCR](https://github.com/ZhiChen902/SC2-PCR) - SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration (CVPR 2022)
-- [l1997i/lim3d](https://github.com/l1997i/lim3d) - 🔥(CVPR 2023) Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation
+- [l1997i/LiM3D](https://github.com/l1997i/LiM3D) - 🔥(CVPR 2023) Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation
 - [Jiang-HB/VBReg](https://github.com/Jiang-HB/VBReg) - Robust Outlier Rejection for 3D Registration with Variational Bayes (Accepted by CVPR-2023)
 - [abhi1kumar/SeaBird](https://github.com/abhi1kumar/SeaBird) - [CVPR 2024] Official PyTorch Code of SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects
 - [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
