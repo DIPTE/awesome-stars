@@ -2147,7 +2147,7 @@
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
 - [chiyukunpeng/nuscenes_viz](https://github.com/chiyukunpeng/nuscenes_viz) - visualize datasets like nuscenes
 - [achao-c/MMFusion](https://github.com/achao-c/MMFusion) - The official implementation of MMFusion.
-- [l-sf/Linfer](https://github.com/l-sf/Linfer) - 基于TensorRT的C++高性能推理库，YOLOPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
+- [l-sf/Linfer](https://github.com/l-sf/Linfer) - 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
 - [HariPrasanth-SM/Vision-Fusion-Early-Fusion](https://github.com/HariPrasanth-SM/Vision-Fusion-Early-Fusion) - In this project, the camera and LiDAR data are fused by early sensor fusion technique
 - [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a next generation of 3D AI service production system.
 - [shenlan2017/Apollo_ShenLan](https://github.com/shenlan2017/Apollo_ShenLan) - 
@@ -2390,7 +2390,7 @@
 - [DerrickXuNu/MPDA](https://github.com/DerrickXuNu/MPDA) - [ICRA2023] The official implementation of paper "Bridging the Domain Gap for Multi-Agent Perception"
 - [PJLab-ADG/PCSim](https://github.com/PJLab-ADG/PCSim) - PCSim: LiDAR Point Cloud Simulation and Sensor Placement! Code of [ICRA 2023] "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library" and [ICCV 2023] "Optimizing the Placeme
 - [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
-- [T-head-Semi/open_source_ISP](https://github.com/T-head-Semi/open_source_ISP) - 
+- [XUANTIE-RV/open_source_ISP](https://github.com/XUANTIE-RV/open_source_ISP) - 
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - 
 - [ros2/message_filters](https://github.com/ros2/message_filters) - 
 - [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
@@ -2812,7 +2812,7 @@
 - [poppin-mice/AAHLS_Final_PointPillars](https://github.com/poppin-mice/AAHLS_Final_PointPillars) - Repo for the AAHLS final of team 1 (PointPillars)
 - [mRobotit/mRobot_book](https://github.com/mRobotit/mRobot_book) - 
 - [naver-ai/BlendNeRF](https://github.com/naver-ai/BlendNeRF) - Official pytorch implementation of BlendNeRF (ICCV 2023)
-- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (Accepted to IJCV 2023)
+- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (IJCV 2024)
 - [TixiaoShan/imaging_lidar_place_recognition](https://github.com/TixiaoShan/imaging_lidar_place_recognition) - ICRA 2021 - Robust Place Recognition using an Imaging Lidar
 - [fanyang3/fanyang3.github.io](https://github.com/fanyang3/fanyang3.github.io) - 
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
