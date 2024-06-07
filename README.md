@@ -416,7 +416,7 @@
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [zhangpanyi/a-star-algorithm](https://github.com/zhangpanyi/a-star-algorithm) - C++实现的高效A*算法
 - [YuYuCong/Astar](https://github.com/YuYuCong/Astar) - 机器人路径规划A*算法
-- [l-sf/Linfer](https://github.com/l-sf/Linfer) - 基于TensorRT的C++高性能推理库，YOLOPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
+- [l-sf/Linfer](https://github.com/l-sf/Linfer) - 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
 - [shenlan2017/Apollo_ShenLan](https://github.com/shenlan2017/Apollo_ShenLan) - 
 - [ramitix/Car_lane_sign_detection](https://github.com/ramitix/Car_lane_sign_detection) - 
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -500,7 +500,7 @@
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
 - [OpenCalib/SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) - 
 - [StephenYang190/rangenet_lib](https://github.com/StephenYang190/rangenet_lib) - Rangenet lib in TensorRT8
-- [T-head-Semi/open_source_ISP](https://github.com/T-head-Semi/open_source_ISP) - 
+- [XUANTIE-RV/open_source_ISP](https://github.com/XUANTIE-RV/open_source_ISP) - 
 - [ros2/message_filters](https://github.com/ros2/message_filters) - 
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [LittleRain626/rknn_yolov5_3588_bytetrack](https://github.com/LittleRain626/rknn_yolov5_3588_bytetrack) - 
@@ -737,6 +737,7 @@
 - [kahowang/sensor-fusion-for-localization-and-mapping](https://github.com/kahowang/sensor-fusion-for-localization-and-mapping) - 深蓝学院 多传感器定位融合第四期 学习笔记
 - [mlverse/lltm](https://github.com/mlverse/lltm) - Long Long Term Memory Neural Net Cells
 - [llvm/torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - row-major matmul optimization
 - [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake) - 你还在学CMake的过程中毫无头绪吗？你还在为复杂程序库依赖发愁吗？你是否觉得原生CMake的编写冗余而低效？那就快来学习和使用PICMake吧！只需要一行，无论是可执行，动态库还是静态库，轻松搞定！同时高效支持多目标，复杂库的编译安装，从此告别大量冗余CMake代码，专注开发核心应用程序，编译不再愁！ 例如下面是使用PICMake编译一个依赖OpenGL的可执行文件，只需要一行！
@@ -1750,7 +1751,6 @@
 - [industrialtablet/RK3588-Development-Board](https://github.com/industrialtablet/RK3588-Development-Board) - This repository is RK3588 Development Board Documents from HYY Technology Co.,Ltd.
 - [HeBangYan/PF-Attack](https://github.com/HeBangYan/PF-Attack) - The code for AAAI2023 (Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization)
 - [AngelLM/Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) - "Multi-Level Intermediate Representation" Compiler Infrastructure
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [faridghm/Meta-SeL](https://github.com/faridghm/Meta-SeL) - 
@@ -2489,7 +2489,7 @@
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [naver-ai/BlendNeRF](https://github.com/naver-ai/BlendNeRF) - Official pytorch implementation of BlendNeRF (ICCV 2023)
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
-- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (Accepted to IJCV 2023)
+- [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (IJCV 2024)
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
 - [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
