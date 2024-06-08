@@ -436,7 +436,7 @@
 - [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - An Alternative for Triton Inference Server. Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Bac
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Backends
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
@@ -993,6 +993,7 @@
 - [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
 - [pointpillars-on-openvino/pointpillars-on-openvino](https://github.com/pointpillars-on-openvino/pointpillars-on-openvino) - 
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
+- [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [ser94mor/lidar-obstacle-detection](https://github.com/ser94mor/lidar-obstacle-detection) - Project: Lidar Obstacle Detection || Udacity: Sensor Fusion Engineer Nanodegree
 - [intel/OpenVINO-optimization-for-PointPillars](https://github.com/intel/OpenVINO-optimization-for-PointPillars) - OpenVINO™ optimization for PointPillars*
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -1887,7 +1888,7 @@
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
 - [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
-- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 https://arxiv.org/abs/2404.00498
+- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
 - [AIR-THU/DAIR-RCooper](https://github.com/AIR-THU/DAIR-RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
@@ -2093,7 +2094,7 @@
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - [ICLR 2024] DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
 - [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
-- [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
+- [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - [Arxiv 2022] This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
 - [jhkohpav/MGTANet](https://github.com/jhkohpav/MGTANet) - 
 - [ICEORY/PMF](https://github.com/ICEORY/PMF) - Perception-aware multi-sensor fusion for 3D LiDAR semantic segmentation (ICCV 2021)
 - [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - [CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
@@ -2925,7 +2926,6 @@
 - [Lam1360/YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) - 在 oxford hand 数据集上对 YOLOv3 做模型剪枝（network slimming）
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [666DZY666/micronet](https://github.com/666DZY666/micronet) - micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(&gt;2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-
-- [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [NVIDIA-AI-IOT/yolo_deepstream](https://github.com/NVIDIA-AI-IOT/yolo_deepstream) - yolo model qat and deploy with deepstream&tensorrt
 - [onnx/onnxmltools](https://github.com/onnx/onnxmltools) - ONNXMLTools enables conversion of models to ONNX
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
