@@ -1115,7 +1115,7 @@
 ## deployment 
 
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - An Alternative for Triton Inference Server. Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Bac
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Backends
 - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
 - [HaohaoNJU/CenterFusion](https://github.com/HaohaoNJU/CenterFusion) - NN-based radar-camera post sensor fusion implemented by TensorRT
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
@@ -1826,7 +1826,7 @@
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 - [BravoCharlie-ai/Sparce_to_Dense](https://github.com/BravoCharlie-ai/Sparce_to_Dense) - 
 - [PengYu-Team/DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
-- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 https://arxiv.org/abs/2404.00498
+- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [PengYu-Team/Co-LRIO](https://github.com/PengYu-Team/Co-LRIO) - A ROS2 package of CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms.
 - [LiZhengXiao99/Geomatics-Program](https://github.com/LiZhengXiao99/Geomatics-Program) - 2024年测绘程序设计比赛准备的资料，包括通知文件、赛题说明、日程安排、参考资料、参考例程、测试数据、我写的练习程序、写程序步骤总结、C#-WinForm语法、常见问题
@@ -2214,7 +2214,7 @@
 - [JokerEyeAdas/AdasSourrondView](https://github.com/JokerEyeAdas/AdasSourrondView) - The C++ code demo for surround view of car
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
-- [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
+- [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - [Arxiv 2022] This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
 - [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
 - [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
 - [chenchaoxu/UtransFusion](https://github.com/chenchaoxu/UtransFusion) - 
@@ -4703,7 +4703,7 @@
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - An Alternative for Triton Inference Server. Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Bac
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Backends
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
