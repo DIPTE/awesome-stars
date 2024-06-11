@@ -737,7 +737,6 @@
 - [kahowang/sensor-fusion-for-localization-and-mapping](https://github.com/kahowang/sensor-fusion-for-localization-and-mapping) - 深蓝学院 多传感器定位融合第四期 学习笔记
 - [mlverse/lltm](https://github.com/mlverse/lltm) - Long Long Term Memory Neural Net Cells
 - [llvm/torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - row-major matmul optimization
 - [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake) - 你还在学CMake的过程中毫无头绪吗？你还在为复杂程序库依赖发愁吗？你是否觉得原生CMake的编写冗余而低效？那就快来学习和使用PICMake吧！只需要一行，无论是可执行，动态库还是静态库，轻松搞定！同时高效支持多目标，复杂库的编译安装，从此告别大量冗余CMake代码，专注开发核心应用程序，编译不再愁！ 例如下面是使用PICMake编译一个依赖OpenGL的可执行文件，只需要一行！
@@ -1532,6 +1531,7 @@
 ## LLVM 
 
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Lua 
 
