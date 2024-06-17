@@ -1805,7 +1805,7 @@
 - [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources
 - [daniel89710/lightNet-TRT](https://github.com/daniel89710/lightNet-TRT) - LightNet-TRT is a high-efficiency and real-time implementation of convolutional neural networks (CNNs) using Edge AI.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
-- [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (RAL 2023)
+- [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
 - [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 
 - [zhanggang001/HEDNet](https://github.com/zhanggang001/HEDNet) - HEDNet (NeurIPS 2023) & SAFDNet (CVPR 2024 Oral)
 - [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
@@ -1829,7 +1829,7 @@
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 - [aakashjuseja-aj/Sparse_to_Dense](https://github.com/aakashjuseja-aj/Sparse_to_Dense) - 
 - [PengYu-Team/DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
-- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨
+- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 96% in 35 seconds
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [PengYu-Team/Co-LRIO](https://github.com/PengYu-Team/Co-LRIO) - A ROS2 package of CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms.
 - [LiZhengXiao99/Geomatics-Program](https://github.com/LiZhengXiao99/Geomatics-Program) - 2024年测绘程序设计比赛准备的资料，包括通知文件、赛题说明、日程安排、参考资料、参考例程、测试数据、我写的练习程序、写程序步骤总结、C#-WinForm语法、常见问题
@@ -2424,7 +2424,7 @@
 - [kirushyk/gst-instruments](https://github.com/kirushyk/gst-instruments) - Easy-to-use profiler for GStreamer
 - [dsx0511/3DMOTFormer](https://github.com/dsx0511/3DMOTFormer) - Offical implementation of ICCV2023 paper 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking.
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
-- [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
+- [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Official implementation of our TIV'23 paper:  Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [chaytonmin/UniWorld](https://github.com/chaytonmin/UniWorld) - UniWorld: Autonomous Driving Pre-training via World Models
 - [mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF) - Official Implementation (PyTorch) of "Point Cloud Augmentation with Weighted Local Transformations", ICCV 2021
@@ -2924,7 +2924,7 @@
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [Nrusher/nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) - shell for MCU. 单片机命令行交互。
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
-- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6, YOLOv5), nms plugin support
+- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv10,YOLOv9,YOLOv8,YOLOv7,YOLOv6,YOLOX,YOLOv5), nms plugin support
 - [hku-mars/lidar_car_platfrom](https://github.com/hku-mars/lidar_car_platfrom) - 
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
 - [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
