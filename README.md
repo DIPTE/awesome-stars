@@ -234,7 +234,7 @@
 
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
 - [daniel89710/lightNet-TRT](https://github.com/daniel89710/lightNet-TRT) - LightNet-TRT is a high-efficiency and real-time implementation of convolutional neural networks (CNNs) using Edge AI.
-- [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (RAL 2023)
+- [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
 - [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
@@ -695,7 +695,6 @@
 - [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) - C++ object detection inference from video or image input source
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
-- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6, YOLOv5), nms plugin support
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
 - [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
 - [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
@@ -1889,7 +1888,7 @@
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
 - [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
-- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨
+- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 96% in 35 seconds
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
 - [AIR-THU/DAIR-RCooper](https://github.com/AIR-THU/DAIR-RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
@@ -2247,7 +2246,7 @@
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [dsx0511/3DMOTFormer](https://github.com/dsx0511/3DMOTFormer) - Offical implementation of ICCV2023 paper 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking.
 - [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) - Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving
-- [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
+- [chaytonmin/Occupancy-MAE](https://github.com/chaytonmin/Occupancy-MAE) - Official implementation of our TIV'23 paper:  Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders
 - [mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF) - Official Implementation (PyTorch) of "Point Cloud Augmentation with Weighted Local Transformations", ICCV 2021
 - [sophgo/sophon_opencv](https://github.com/sophgo/sophon_opencv) - 
 - [sophgo/sophon_ffmpeg](https://github.com/sophgo/sophon_ffmpeg) - 
@@ -2537,6 +2536,7 @@
 - [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - Unleash the Potential of Image Branch for Cross-modal 3D Object Detection [NeurIPS2023]
 - [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023).
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
+- [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv10,YOLOv9,YOLOv8,YOLOv7,YOLOv6,YOLOX,YOLOv5), nms plugin support
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [eccv22-ood-workshop/ROBIN-dataset](https://github.com/eccv22-ood-workshop/ROBIN-dataset) - ECCV 2022 Workshop: A Benchmark for Robustness to Individual Nuisances in Real-World Out-of-Distribution Shifts
