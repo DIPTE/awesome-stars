@@ -54,6 +54,7 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vala](#vala)
 - [Verilog](#verilog)
 - [Vue](#vue)
@@ -232,6 +233,8 @@
 
 ## C++ 
 
+- [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - 《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
+- [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
 - [daniel89710/lightNet-TRT](https://github.com/daniel89710/lightNet-TRT) - LightNet-TRT is a high-efficiency and real-time implementation of convolutional neural networks (CNNs) using Edge AI.
 - [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
@@ -1872,6 +1875,7 @@
 
 ## Python 
 
+- [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
 - [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted at CVPR 2024
 - [yinjunbo/IS-Fusion](https://github.com/yinjunbo/IS-Fusion) - This repository contains the PyTorch implementation of the CVPR'2024 paper (Highlight), IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection.
@@ -1993,7 +1997,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [motional/polarstream](https://github.com/motional/polarstream) - 
 - [Yzichen/FlashOCC](https://github.com/Yzichen/FlashOCC) - 
-- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp and python implementation of depth-anything model using tensorrt api.
+- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - TensorRT implementation of Depth-Anything V1, V2
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds](https://github.com/SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds) - With Pynq -DPU overlay on KV260, we made 3D Object Detection on Point Clouds generated from LiDAR Faster than ever!
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
@@ -2638,7 +2642,7 @@
 - [SPengLiang/LPCG](https://github.com/SPengLiang/LPCG) - [ECCV 2022] Lidar Point Cloud Guided Monocular 3D Object Detection.
 - [hzykent/LiDAL](https://github.com/hzykent/LiDAL) - Implementation of ECCV2022 paper - LiDAL: Inter-frame Uncertainty Based Active Learning for 3D LiDAR Semantic Segmentation
 - [Cc-Hy/CMKD](https://github.com/Cc-Hy/CMKD) - Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection (ECCV 2022 Oral)
-- [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - [ICCV2023 Oral] PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)
+- [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - [ICCV2023 Best Paper Finalist] PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)
 - [PRBonn/4DMOS](https://github.com/PRBonn/4DMOS) - Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions (RAL 2022)
 - [val-iisc/3d-lmnet](https://github.com/val-iisc/3d-lmnet) - Repository for 3D-LMNet: Latent Embedding Matching for Accurate and Diverse 3D Point Cloud Reconstruction from a Single Image [BMVC 2018]
 - [CVMI-Lab/FS3D](https://github.com/CVMI-Lab/FS3D) - (NeurlPS 2022) Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection
@@ -3888,6 +3892,10 @@
 - [open-mmlab/labelbee](https://github.com/open-mmlab/labelbee) - LabelBee is an annotation Library
 - [walzimmer/3d-bat](https://github.com/walzimmer/3d-bat) - 3D Bounding Box Annotation Tool (3D-BAT) Point cloud and Image Labeling
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
+
+## Typst 
+
+- [ivaquero/book-control](https://github.com/ivaquero/book-control) - DR_CAN 哔站系列课程笔记 + Simulink 代码
 
 ## Vala 
 
