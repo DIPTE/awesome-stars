@@ -657,7 +657,7 @@
 - [spacewalk01/tensorrt-yolov9](https://github.com/spacewalk01/tensorrt-yolov9) - Cpp and python implementation of YOLOv9 using TensorRT API
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
-- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp and python implementation of depth-anything model using tensorrt api.
+- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - TensorRT implementation of Depth-Anything V1, V2
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
@@ -1443,6 +1443,7 @@
 
 ## machine-learning 
 
+- [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
 - [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - NVIDIA-accelerated, deep learned model support for image space object detection
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -1795,6 +1796,9 @@
 
 ## others 
 
+- [ivaquero/book-control](https://github.com/ivaquero/book-control) - DR_CAN 哔站系列课程笔记 + Simulink 代码
+- [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - 《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
+- [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 - [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [TommyZihao/vlm_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
@@ -3104,7 +3108,7 @@
 - [SPengLiang/LPCG](https://github.com/SPengLiang/LPCG) - [ECCV 2022] Lidar Point Cloud Guided Monocular 3D Object Detection.
 - [hzykent/LiDAL](https://github.com/hzykent/LiDAL) - Implementation of ECCV2022 paper - LiDAL: Inter-frame Uncertainty Based Active Learning for 3D LiDAR Semantic Segmentation
 - [Cc-Hy/CMKD](https://github.com/Cc-Hy/CMKD) - Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection (ECCV 2022 Oral)
-- [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - [ICCV2023 Oral] PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)
+- [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - [ICCV2023 Best Paper Finalist] PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)
 - [val-iisc/3d-lmnet](https://github.com/val-iisc/3d-lmnet) - Repository for 3D-LMNet: Latent Embedding Matching for Accurate and Diverse 3D Point Cloud Reconstruction from a Single Image [BMVC 2018]
 - [LaughingMaan/LMNet-v2.0](https://github.com/LaughingMaan/LMNet-v2.0) - Starting my LMNet project again
 - [CVMI-Lab/FS3D](https://github.com/CVMI-Lab/FS3D) - (NeurlPS 2022) Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection
@@ -4560,7 +4564,7 @@
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
-- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - Unofficial cpp and python implementation of depth-anything model using tensorrt api.
+- [spacewalk01/depth-anything-tensorrt](https://github.com/spacewalk01/depth-anything-tensorrt) - TensorRT implementation of Depth-Anything V1, V2
 - [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
