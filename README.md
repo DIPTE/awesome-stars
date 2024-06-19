@@ -1645,7 +1645,6 @@
 - [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
-- [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [autodriving-heart/CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) - CVPR 2024 Papers Autonomous Driving
 - [Chrisz236/llm-rk3588](https://github.com/Chrisz236/llm-rk3588) - Run Large Language Models on RK3588 with GPU-acceleration
@@ -1661,7 +1660,6 @@
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
-- [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - [CVPR2024] PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
 - [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
@@ -1875,6 +1873,8 @@
 
 ## Python 
 
+- [sbysbysbys/VoMa](https://github.com/sbysbysbys/VoMa) - 
+- [DaTongjie/BEVSpread](https://github.com/DaTongjie/BEVSpread) - 
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
 - [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted at CVPR 2024
@@ -1947,6 +1947,7 @@
 - [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
 - [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
 - [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - [CVPR-2024] One Model For Image/Video/Instractive/Open-Vocabulary Segmentation
+- [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
 - [oneformer3d/oneformer3d](https://github.com/oneformer3d/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [Hzbupahaozi/yolov8_xj3_deploy](https://github.com/Hzbupahaozi/yolov8_xj3_deploy) - yolov8的训练以及在旭日x3派上的部署
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
@@ -2027,6 +2028,7 @@
 - [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - [ICML'24] EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty
 - [YujiaLiu76/point2cad](https://github.com/YujiaLiu76/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
 - [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
+- [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - [CVPR2024] PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
 - [16lemoing/dot](https://github.com/16lemoing/dot) - Dense Optical Tracking: Connecting the Dots
 - [junshengzhou/VP2P-Match](https://github.com/junshengzhou/VP2P-Match) - [NeurIPS'2023 Spotlight]: Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
@@ -2816,7 +2818,7 @@
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [GCaptainNemo/RTSP-camera-display-realtime](https://github.com/GCaptainNemo/RTSP-camera-display-realtime) - Grab Hikvision network camera and display it in pyqt control in real time.
 - [miemie2013/Pytorch-PPYOLO](https://github.com/miemie2013/Pytorch-PPYOLO) - ppyolo in pytorch. 44.8% box mAP.
-- [ImmortalTracker/ImmortalTracker](https://github.com/ImmortalTracker/ImmortalTracker) - 
+- [esdolo/ImmortalTracker](https://github.com/esdolo/ImmortalTracker) - 
 - [hailanyi/CasA](https://github.com/hailanyi/CasA) - A Cascade Attention Network for 3D Object Detection from LiDAR point clouds
 - [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
 - [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - [IEEE T-PAMI] Awesome BEV perception research and cookbook for all level audience in autonomous diriving
