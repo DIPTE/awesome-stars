@@ -80,6 +80,7 @@
 - [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
+- [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1018,7 +1019,7 @@
 - [OmidPoursaeed/Self_supervised_Learning_Point_Clouds](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds) - Self-supervised Learning of Point Clouds via Orientation Estimation (3DV 2020)
 - [ajhamdi/MVTN](https://github.com/ajhamdi/MVTN) - pytorch implementation of the ICCV'21 paper "MVTN: Multi-View Transformation Network for 3D Shape Recognition"
 - [dkoguciuk/mesh2pointcloud](https://github.com/dkoguciuk/mesh2pointcloud) - A mini scripts to sample ModelNet40 or ShapeNetCore55v2 meshes into 3D point clouds
-- [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [shanjiayao/PTT](https://github.com/shanjiayao/PTT) - Official PyTorch Implementation for "PTT: Point-Track-Transformer Module for 3D Single Object Trackingin Point Clouds"
 - [datamllab/autovideo](https://github.com/datamllab/autovideo) - AutoVideo: An Automated Video Action Recognition System
@@ -1441,6 +1442,10 @@
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 
+## lua 
+
+- [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+
 ## machine-learning 
 
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
@@ -1796,6 +1801,8 @@
 
 ## others 
 
+- [sbysbysbys/VoMa](https://github.com/sbysbysbys/VoMa) - 
+- [DaTongjie/BEVSpread](https://github.com/DaTongjie/BEVSpread) - 
 - [ivaquero/book-control](https://github.com/ivaquero/book-control) - DR_CAN 哔站系列课程笔记 + Simulink 代码
 - [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - 《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
 - [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
@@ -3414,7 +3421,7 @@
 - [GCaptainNemo/RTSP-camera-display-realtime](https://github.com/GCaptainNemo/RTSP-camera-display-realtime) - Grab Hikvision network camera and display it in pyqt control in real time.
 - [GCaptainNemo/Fusion-Lidar-Camera-ROS](https://github.com/GCaptainNemo/Fusion-Lidar-Camera-ROS) - This repository uses a ROS node to subscribe to camera (hikvision) and lidar (livox) data. After the node merges the data, it publishes the colored point cloud and displays it in rviz.
 - [miemie2013/Pytorch-PPYOLO](https://github.com/miemie2013/Pytorch-PPYOLO) - ppyolo in pytorch. 44.8% box mAP.
-- [ImmortalTracker/ImmortalTracker](https://github.com/ImmortalTracker/ImmortalTracker) - 
+- [esdolo/ImmortalTracker](https://github.com/esdolo/ImmortalTracker) - 
 - [hailanyi/CasA](https://github.com/hailanyi/CasA) - A Cascade Attention Network for 3D Object Detection from LiDAR point clouds
 - [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
 - [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - [IEEE T-PAMI] Awesome BEV perception research and cookbook for all level audience in autonomous diriving
