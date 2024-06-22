@@ -96,6 +96,7 @@
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
+- [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
 - [open-source](#open-source)
@@ -778,6 +779,7 @@
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 
 ## deep-learning 
 
@@ -1256,7 +1258,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) - Recipes for the ConanCenter repository
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
@@ -1500,6 +1501,7 @@
 - [mindspore-courses/d2l-mindspore](https://github.com/mindspore-courses/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
+- [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [conan-community/conan-tiny-dnn](https://github.com/conan-community/conan-tiny-dnn) - [DEPRECATED] Conan.io recipes for tiny-dnn
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
@@ -1726,6 +1728,10 @@
 - [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 
+## nosql 
+
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+
 ## npm 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -1807,7 +1813,6 @@
 
 ## others 
 
-- [sbysbysbys/VoMa](https://github.com/sbysbysbys/VoMa) - 
 - [DaTongjie/BEVSpread](https://github.com/DaTongjie/BEVSpread) - 
 - [ivaquero/book-control](https://github.com/ivaquero/book-control) - DR_CAN 哔站系列课程笔记 + Simulink 代码
 - [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - 《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
@@ -2118,7 +2123,7 @@
 - [suyunzzz/Ground-Plane-Fitting](https://github.com/suyunzzz/Ground-Plane-Fitting) - 
 - [suyunzzz/ray_filter_ground](https://github.com/suyunzzz/ray_filter_ground) - 
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
-- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - [ICML'24] EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty
+- [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE
 - [YujiaLiu76/point2cad](https://github.com/YujiaLiu76/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
 - [compuphase/minIni](https://github.com/compuphase/minIni) - A small and portable INI file library with read/write support
 - [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
@@ -3179,7 +3184,6 @@
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [renesas-rz/rzv_drp-ai_tvm](https://github.com/renesas-rz/rzv_drp-ai_tvm) - Extension package of Apache TVM (Machine Learning Compiler) for Renesas DRP-AI accelerators powered by Edgecortix MERA(TM) Based Apache TVM version: v0.11.1
 - [renesas-rz/meta-renesas-ai-demos](https://github.com/renesas-rz/meta-renesas-ai-demos) - This repository is EOL. Please use https://github.com/renesas-rz/meta-rz-edge-ai-demo instead.
-- [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
 - [vLAR-group/UnsupObjSeg](https://github.com/vLAR-group/UnsupObjSeg) - 🔥Benchmarking Unsupervised Object Segmentation (NeurIPS 2022)
 - [dheera/rosboard](https://github.com/dheera/rosboard) - ROS node that turns your robot into a web server to visualize ROS topics
 - [PRBonn/semantic_suma](https://github.com/PRBonn/semantic_suma) - SuMa++: Efficient LiDAR-based Semantic SLAM (Chen et al IROS 2019)
