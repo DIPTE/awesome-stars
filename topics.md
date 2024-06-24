@@ -2929,7 +2929,7 @@
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
-- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection', ECCV 2020
+- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection'
 - [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) - A paper list of lane detection.
 - [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
