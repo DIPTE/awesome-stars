@@ -102,7 +102,6 @@
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - 
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
-- [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [Caesar-github/gstreamer-rockchip](https://github.com/Caesar-github/gstreamer-rockchip) - The Gstreamer hardware encoder/decoder plugins for Rockchip platform
 - [BedRockJie/Rockchip_camera_encoder_Networkput](https://github.com/BedRockJie/Rockchip_camera_encoder_Networkput) - 
 - [kirushyk/gst-instruments](https://github.com/kirushyk/gst-instruments) - Easy-to-use profiler for GStreamer
@@ -509,6 +508,7 @@
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [LittleRain626/rknn_yolov5_3588_bytetrack](https://github.com/LittleRain626/rknn_yolov5_3588_bytetrack) - 
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
+- [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [sophgo/ChatGLM2-TPU](https://github.com/sophgo/ChatGLM2-TPU) - run ChatGLM2-6B in BM1684X
 - [Xrvitd/GCNO](https://github.com/Xrvitd/GCNO) - Code of Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-Number Field. ACM Transactions on Graphics (SIGGRAPH 2023).
@@ -543,7 +543,6 @@
 - [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
 - [rgaufman/live555](https://github.com/rgaufman/live555) - A mirror of the live555 source code.
 - [Z-Xiong/LightTrack-ncnn](https://github.com/Z-Xiong/LightTrack-ncnn) - Ncnn version demo of [CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search
-- [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, Y
 - [nvpro-samples/vk_video_samples](https://github.com/nvpro-samples/vk_video_samples) - Vulkan video samples
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [zhuyuliang/gst_rtsp_client](https://github.com/zhuyuliang/gst_rtsp_client) - gstreamer rtsp client support rockchip and jetson nx for C/C++ Python
@@ -1380,6 +1379,7 @@
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
@@ -1405,7 +1405,6 @@
 - [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
 - [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - IEEE TPAMI: Latency-aware Unified Dynamic Networks for Efficient Image Recognition
@@ -1953,7 +1952,6 @@
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - GenAD: Generative End-to-End Autonomous Driving
 - [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - 
-- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - Tactics2D: A Reinforcement Learning Environment Library with Generative Scenarios for Driving Decision-making
@@ -2147,6 +2145,7 @@
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
 - [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - [CVPR 2023] Learning a 3D Morphable Face Reflectance Model from Low-cost Data
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
@@ -2325,6 +2324,7 @@
 - [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2023] NeRF-RPN: A general framework for object detection in NeRFs
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
 - [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
+- [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, Y
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [qcraftai/pillar-motion](https://github.com/qcraftai/pillar-motion) - Self-Supervised Pillar Motion Learning for Autonomous Driving (CVPR 2021)
@@ -2527,7 +2527,7 @@
 - [Loahit5101/PointPillars-Camera-LiDAR-Fusion](https://github.com/Loahit5101/PointPillars-Camera-LiDAR-Fusion) - Implementation of PointPillars Network with LiDAR-camera fusion for 3D Object Detection in Autonomous Driving.
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
-- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection'
+- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] Official PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection'
 - [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
 - [guofei9987/github_star_counter](https://github.com/guofei9987/github_star_counter) - Count a GitHub user's total stars and forks
