@@ -818,7 +818,6 @@
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - [ICLR24] Official implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
-- [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
 - [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
@@ -2037,8 +2036,6 @@
 - [WiringPi/WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
-- [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
-- [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
 - [tech-shrimp/FreeWechatPush](https://github.com/tech-shrimp/FreeWechatPush) - 使用免费的微信测试公众号，做微信推送，给女朋友推送天气，课程提醒。
@@ -2534,7 +2531,7 @@
 - [haibo-qiu/CDFormer](https://github.com/haibo-qiu/CDFormer) - Code for "Collect-and-Distribute Transformer for 3D Point Cloud Analysis"
 - [koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration [ROS1/ROS2]
 - [hustvl/SparseTrack](https://github.com/hustvl/SparseTrack) - Official PyTorch implementation of SparseTrack (the new version of code will come soon)
-- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing] Interactive Natural Image Matting with Segment Anything Models
+- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing (Vol.147 Jul.24)] Interactive Natural Image Matting with Segment Anything Models
 - [SPengLiang/Camera-Calibration-of-Zhang-s-method](https://github.com/SPengLiang/Camera-Calibration-of-Zhang-s-method) - Zhang‘s method camera calibration implement by numpy
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - 
 - [OpenCalib/CalibAnything](https://github.com/OpenCalib/CalibAnything) - 
@@ -2929,7 +2926,7 @@
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
-- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection'
+- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] Official PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection'
 - [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) - A paper list of lane detection.
 - [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
@@ -5054,6 +5051,8 @@
 - [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
 - [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 - [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pu
+- [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
+- [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration
 - [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [jhu-lcsr/handeye_calib_camodocal](https://github.com/jhu-lcsr/handeye_calib_camodocal) - Easy to use and accurate hand eye calibration which has been working reliably for years (2016-present) with kinect, kinectv2, rgbd cameras, optical trackers, and several robots including the ur5 and k
