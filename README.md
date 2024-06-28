@@ -2668,7 +2668,7 @@
 - [autonomousvision/voxgraf](https://github.com/autonomousvision/voxgraf) - Official code release for VoxGRAF: Fast 3D-Aware Image Synthesis with Sparse Voxel Grids
 - [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [LittlePey/SFD-TWISE](https://github.com/LittlePey/SFD-TWISE) - 
-- [lvyufeng/easy_mindspore](https://github.com/lvyufeng/easy_mindspore) - 
+- [lvyufeng/easy_mindspore_bk](https://github.com/lvyufeng/easy_mindspore_bk) - 
 - [grispeut/TSD_mindspore](https://github.com/grispeut/TSD_mindspore) - 第三届华为云无人车挑战杯复赛Top1方案分享, Traffic sign detection, yolov4, mindspore
 - [pprp/GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) - 基于MindSpore AI框架实现零售商品识别 top1方案
 - [mindspore-lab/mindface](https://github.com/mindspore-lab/mindface) - MindFace is an open source toolkit based on MindSpore, containing the most advanced face recognition and detection models, such as ArcFace, RetinaFace and other models
