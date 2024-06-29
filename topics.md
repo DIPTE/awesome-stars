@@ -1981,7 +1981,7 @@
 - [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
 - [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
 - [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
-- [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - [CVPR-2024] One Model For Image/Video/Instractive/Open-Vocabulary Segmentation
+- [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - OMG-LLaVA and OMG-Seg codebase
 - [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [autodriving-heart/CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) - CVPR 2024 Papers Autonomous Driving
@@ -2531,7 +2531,7 @@
 - [haibo-qiu/CDFormer](https://github.com/haibo-qiu/CDFormer) - Code for "Collect-and-Distribute Transformer for 3D Point Cloud Analysis"
 - [koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration [ROS1/ROS2]
 - [hustvl/SparseTrack](https://github.com/hustvl/SparseTrack) - Official PyTorch implementation of SparseTrack (the new version of code will come soon)
-- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing (Vol.147 Jul.24)] Interactive Natural Image Matting with Segment Anything Models
+- [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing (Vol.147 Jul. '24)] Interactive Natural Image Matting with Segment Anything Models
 - [SPengLiang/Camera-Calibration-of-Zhang-s-method](https://github.com/SPengLiang/Camera-Calibration-of-Zhang-s-method) - Zhang‘s method camera calibration implement by numpy
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - [CVPR 2024] Learning Occupancy for Monocular 3D Object Detection
 - [OpenCalib/CalibAnything](https://github.com/OpenCalib/CalibAnything) - 
