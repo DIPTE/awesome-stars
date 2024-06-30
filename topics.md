@@ -3492,7 +3492,7 @@
 - [PaddlePaddle/PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) - PaddleSlim is an open-source library for deep model compression and architecture search.
 - [JMoonr/mmlane](https://github.com/JMoonr/mmlane) - multi-modal 3D Lane Detection
 - [TuSimple/centerformer](https://github.com/TuSimple/centerformer) - Implementation for CenterFormer: Center-based Transformer for 3D Object Detection (ECCV 2022)
-- [Jun-CEN/Open_world_3D_semantic_segmentation](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation) - [ECCV 2022] Open-world Semantic Segmentation for LIDAR Point Clouds
+- [Jun-CEN/Open-world-3D-semantic-segmentation](https://github.com/Jun-CEN/Open-world-3D-semantic-segmentation) - [ECCV 2022] Open-world Semantic Segmentation for LIDAR Point Clouds
 - [onnx/onnx-mlir](https://github.com/onnx/onnx-mlir) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure
 - [zhechen/PLARD](https://github.com/zhechen/PLARD) - Progressive LiDAR Adaptation for Road Detection
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
