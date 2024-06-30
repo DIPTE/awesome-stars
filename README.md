@@ -2865,7 +2865,7 @@
 - [PaddlePaddle/PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) - PaddleSlim is an open-source library for deep model compression and architecture search.
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [TuSimple/centerformer](https://github.com/TuSimple/centerformer) - Implementation for CenterFormer: Center-based Transformer for 3D Object Detection (ECCV 2022)
-- [Jun-CEN/Open_world_3D_semantic_segmentation](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation) - [ECCV 2022] Open-world Semantic Segmentation for LIDAR Point Clouds
+- [Jun-CEN/Open-world-3D-semantic-segmentation](https://github.com/Jun-CEN/Open-world-3D-semantic-segmentation) - [ECCV 2022] Open-world Semantic Segmentation for LIDAR Point Clouds
 - [rusty1s/pytorch_scatter](https://github.com/rusty1s/pytorch_scatter) - PyTorch Extension Library of Optimized Scatter Operations
 - [SxJyJay/MSMDFusion](https://github.com/SxJyJay/MSMDFusion) - [CVPR 2023] MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection
 - [zhechen/PLARD](https://github.com/zhechen/PLARD) - Progressive LiDAR Adaptation for Road Detection
