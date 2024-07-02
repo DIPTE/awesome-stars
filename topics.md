@@ -157,7 +157,7 @@
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
-- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
+- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
@@ -451,6 +451,7 @@
 
 ## compiler 
 
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -1418,7 +1419,7 @@
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024] DriveLM: Driving with Graph Visual Question Answering
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
@@ -1846,7 +1847,7 @@
 - [tum-vision/fastfusion](https://github.com/tum-vision/fastfusion) - Volumetric 3D Mapping in Real-Time on a CPU
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
-- [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
+- [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan: An Open-Source Large Language Model
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 - [aakashjuseja-aj/Sparse_to_Dense](https://github.com/aakashjuseja-aj/Sparse_to_Dense) - 
 - [PengYu-Team/DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
@@ -1913,7 +1914,7 @@
 - [KennyWGH/efficient_online_segmentation](https://github.com/KennyWGH/efficient_online_segmentation) - Efficient Online Segmentation of Ground&Wall Points for Multi-line Spinning LiDARs. //在线分割激光点云中的地面点和墙面点。
 - [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
 - [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
-- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
+- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - [ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
 - [makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping](https://github.com/makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping) - 
 - [cshang412/BEV_parkingSlot](https://github.com/cshang412/BEV_parkingSlot) - process parking slots detected on Bev image, generate the parking slots on the world coordinate.
 - [lewisjiang/contour-context](https://github.com/lewisjiang/contour-context) - [ICRA'23] Official code repo for "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation"
@@ -1962,7 +1963,7 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [nwesem/mtcnn_facenet_cpp_tensorRT](https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT) - Face Recognition on NVIDIA Jetson (Nano) using TensorRT
 - [wyc15002105071/Recorder](https://github.com/wyc15002105071/Recorder) - The Recorder Application of RK3588 for Qt
-- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
+- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - 🔥 [ECCV2024] Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
 - [yzrobot/adaptive_clustering](https://github.com/yzrobot/adaptive_clustering) - [ROS package] Lightweight and Accurate Point Cloud Clustering
 - [fishros/LeGO-LOAM-ROS2](https://github.com/fishros/LeGO-LOAM-ROS2) - 支持ROS2 Humble版本的LeGO-LOAM
 - [joaofaro/KCFcpp](https://github.com/joaofaro/KCFcpp) - C++ Implementation of KCF Tracker
@@ -1992,7 +1993,7 @@
 - [BigWide/xwgi5651](https://github.com/BigWide/xwgi5651) - 星网宇达组合导航SDK程序
 - [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
-- [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - GenAD: Generative End-to-End Autonomous Driving
+- [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - [ECCV 2024] GenAD: Generative End-to-End Autonomous Driving
 - [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - 
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -2100,7 +2101,7 @@
 - [UofT-EcoSystem/Minuet](https://github.com/UofT-EcoSystem/Minuet) - [EuroSys'24] Minuet: Accelerating 3D Sparse Convolutions on GPUs
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
-- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - [IROS 2024 Oral] WidthFormer: Toward Efficient Transformer-based BEV View Transformation
+- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - [IROS 2024] WidthFormer: Toward Efficient Transformer-based BEV View Transformation
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -2141,7 +2142,7 @@
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
 - [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
-- [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - 3D World Model for Autonomous Driving
+- [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
 - [kaist-avelab/K-Radar](https://github.com/kaist-avelab/K-Radar) - 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions
 - [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
 - [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) - 
@@ -2266,7 +2267,7 @@
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
-- [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
+- [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - [ECCV 2024] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 - [tyhuang0428/CLIP2Point](https://github.com/tyhuang0428/CLIP2Point) - [ICCV 2023] CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training
 - [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
 - [fishros/yolov_ros2](https://github.com/fishros/yolov_ros2) - 基于 YOLOv5 的 ROS 2 封装，允许用户使用给定的模型文件和图像话题进行实时物体检测。
@@ -2787,7 +2788,7 @@
 - [zombieCraig/ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator
 - [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) - QT based cross platform canbus tool
 - [yushulx/docker-arm64-arm32-python-barcode-detection](https://github.com/yushulx/docker-arm64-arm32-python-barcode-detection) - 
-- [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - Video Foundation Models & Data for Multimodal Understanding
+- [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 - [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) - [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
 - [Smorodov/Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) - Multiple Object Tracker, Based on  Hungarian algorithm + Kalman filter.
 - [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
@@ -4564,11 +4565,13 @@
 
 ## programming 
 
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## python 
 
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
 - [explosion5/Dolphins](https://github.com/explosion5/Dolphins) - Main code of Dolphins dataset
 - [koide3/small_gicp](https://github.com/koide3/small_gicp) - Efficient and parallel algorithms for point cloud registration [C++, Python]
