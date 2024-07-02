@@ -1300,7 +1300,7 @@
 - [aakashjuseja-aj/Sparse_to_Dense](https://github.com/aakashjuseja-aj/Sparse_to_Dense) - 
 - [NVlabs/M2BEV](https://github.com/NVlabs/M2BEV) - 
 - [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
-- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Driving with Graph Visual Question Answering
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024] DriveLM: Driving with Graph Visual Question Answering
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
@@ -1545,7 +1545,6 @@
 
 ## MATLAB 
 
-- [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去
 - [wanghuohuo0716/hybrid_A_star](https://github.com/wanghuohuo0716/hybrid_A_star) - 本仓库是对混合A*算法的matlab复现
 - [ai-winter/matlab_motion_planning](https://github.com/ai-winter/matlab_motion_planning) - Motion planning and Navigation of AGV/AMR：matlab implementation of Dijkstra, A*, Theta*, JPS, D*, LPA*, D* Lite, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, Voronoi, PID, LQR, MPC, APF, RPP, DWA, DDPG
 - [scott89/KCF](https://github.com/scott89/KCF) - Source code for "high-speed tracking with kernelized correlation filters"
@@ -1680,7 +1679,7 @@
 - [JinglinZhan/Real-Aug](https://github.com/JinglinZhan/Real-Aug) - Real-Aug: Realistic Scene Synthesis for LiDAR Augmentation in 3D Object Detection
 - [adept-thu/CAMO-MOT](https://github.com/adept-thu/CAMO-MOT) - Official code of CAMO-MOT
 - [darkpgmr/DarkLabel](https://github.com/darkpgmr/DarkLabel) - Video/Image Labeling and Annotation Tool
-- [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
+- [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - [ECCV 2024] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 - [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - Radar Camera Fusion in Autonomous Driving
 - [Little-Podi/Transformer_Tracking](https://github.com/Little-Podi/Transformer_Tracking) - This repository is a paper digest of Transformer-related approaches in visual tracking tasks.
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
@@ -1872,6 +1871,7 @@
 
 ## Python 
 
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [DaTongjie/BEVSpread](https://github.com/DaTongjie/BEVSpread) - 
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
@@ -1888,10 +1888,11 @@
 - [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) - [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
-- [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan-Chat: An Open-Source Bilingual Chatbot
+- [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan: An Open-Source Large Language Model
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 - [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 3.29 seconds 💨 96% in 35 seconds
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
 - [AIR-THU/DAIR-RCooper](https://github.com/AIR-THU/DAIR-RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [explosion5/Dolphins](https://github.com/explosion5/Dolphins) - Main code of Dolphins dataset
@@ -1912,7 +1913,7 @@
 - [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI application and comparison on Gazebo and real-wor
 - [heethesh/lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - Light-weight camera LiDAR calibration package for ROS using OpenCV and PCL (PnP + LM optimization)
 - [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
-- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
+- [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - [ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
@@ -1932,7 +1933,7 @@
 - [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
 - [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
+- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - 🔥 [ECCV2024] Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
 - [WailordHe/DenseSSM](https://github.com/WailordHe/DenseSSM) - A repository for DenseSSMs
 - [PacktPublishing/3D-Deep-Learning-with-Python](https://github.com/PacktPublishing/3D-Deep-Learning-with-Python) - 3D Deep Learning with Python, Published by Packt
 - [LMD0311/DAPT](https://github.com/LMD0311/DAPT) - [CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
@@ -1949,7 +1950,7 @@
 - [oneformer3d/oneformer3d](https://github.com/oneformer3d/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [Hzbupahaozi/yolov8_xj3_deploy](https://github.com/Hzbupahaozi/yolov8_xj3_deploy) - yolov8的训练以及在旭日x3派上的部署
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
-- [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - GenAD: Generative End-to-End Autonomous Driving
+- [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - [ECCV 2024] GenAD: Generative End-to-End Autonomous Driving
 - [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -2013,7 +2014,7 @@
 - [cqu20160901/DETR_onnx_tensorRT_V2](https://github.com/cqu20160901/DETR_onnx_tensorRT_V2) - DETR tensor去除推理过程无用辅助头+fp16部署再次加速+解决转tensorrt 输出全为0问题的新方法。
 - [wu-zhonghua/RAC-Net](https://github.com/wu-zhonghua/RAC-Net) - 
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
-- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - [IROS 2024 Oral] WidthFormer: Toward Efficient Transformer-based BEV View Transformation
+- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - [IROS 2024] WidthFormer: Toward Efficient Transformer-based BEV View Transformation
 - [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -2036,7 +2037,7 @@
 - [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
 - [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
-- [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - 3D World Model for Autonomous Driving
+- [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
 - [kaist-avelab/K-Radar](https://github.com/kaist-avelab/K-Radar) - 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions
 - [Evocargo/Lidar-Annotation-is-All-You-Need](https://github.com/Evocargo/Lidar-Annotation-is-All-You-Need) - 2D road segmentation using lidar data during training
 - [ApolloAuto/apollo-model-centerpoint](https://github.com/ApolloAuto/apollo-model-centerpoint) - 
@@ -2176,7 +2177,7 @@
 - [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - This repo is the official implementation of "BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird's-Eye View".
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
-- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [arXiv 2023] PointLLM: Empowering Large Language Models to Understand Point Clouds
+- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
@@ -2465,7 +2466,7 @@
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
 - [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [yushulx/docker-arm64-arm32-python-barcode-detection](https://github.com/yushulx/docker-arm64-arm32-python-barcode-detection) - 
-- [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - Video Foundation Models & Data for Multimodal Understanding
+- [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 - [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) - [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
 - [dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
