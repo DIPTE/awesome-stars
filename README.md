@@ -103,7 +103,6 @@
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - 
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
-- [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [Caesar-github/gstreamer-rockchip](https://github.com/Caesar-github/gstreamer-rockchip) - The Gstreamer hardware encoder/decoder plugins for Rockchip platform
 - [BedRockJie/Rockchip_camera_encoder_Networkput](https://github.com/BedRockJie/Rockchip_camera_encoder_Networkput) - 
 - [kirushyk/gst-instruments](https://github.com/kirushyk/gst-instruments) - Easy-to-use profiler for GStreamer
@@ -444,7 +443,7 @@
 - [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Backends
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Bridge the gap between deep learning training and serving
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
@@ -514,6 +513,7 @@
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [LittleRain626/rknn_yolov5_3588_bytetrack](https://github.com/LittleRain626/rknn_yolov5_3588_bytetrack) - 
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
+- [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [sophgo/ChatGLM2-TPU](https://github.com/sophgo/ChatGLM2-TPU) - run ChatGLM2-6B in BM1684X
 - [Xrvitd/GCNO](https://github.com/Xrvitd/GCNO) - Code of Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-Number Field. ACM Transactions on Graphics (SIGGRAPH 2023).
@@ -1890,6 +1890,7 @@
 
 ## Python 
 
+- [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [invictus717/MiCo](https://github.com/invictus717/MiCo) - Explore the Limits of Omni-modal Pretraining at Scale
 - [uzh-rpg/dagr](https://github.com/uzh-rpg/dagr) - Code for the paper "Low Latency Automotive Vision with Event Cameras", published in Nature
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
