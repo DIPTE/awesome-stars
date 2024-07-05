@@ -2211,7 +2211,7 @@
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
 - [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024] PointLLM: Empowering Large Language Models to Understand Point Clouds
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 7B base and chat models. 1M context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
@@ -2300,7 +2300,7 @@
 - [mamadouDembele/TwinLiteNet-ONNX-TENSORRT-ROS](https://github.com/mamadouDembele/TwinLiteNet-ONNX-TENSORRT-ROS) - 
 - [chequanghuy/TwinLiteNet](https://github.com/chequanghuy/TwinLiteNet) - 
 - [XiangchenYin/PE-YOLO](https://github.com/XiangchenYin/PE-YOLO) - 
-- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
+- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - [ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
 - [FiveLu/stream3dppe](https://github.com/FiveLu/stream3dppe) - StreamPETR with 3dppe Extension
 - [drilistbox/3DPPE](https://github.com/drilistbox/3DPPE) - 
 - [BIT-DYN/pointpillars_ros](https://github.com/BIT-DYN/pointpillars_ros) - A ros implement for pointpillars (OpenPCDet based)
