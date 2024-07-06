@@ -1440,7 +1440,7 @@
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024] DriveLM: Driving with Graph Visual Question Answering
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 7B base and chat models. 1M context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
@@ -2512,7 +2512,7 @@
 - [sophgo/ChatGLM2-TPU](https://github.com/sophgo/ChatGLM2-TPU) - run ChatGLM2-6B in BM1684X
 - [Xrvitd/GCNO](https://github.com/Xrvitd/GCNO) - Code of Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-Number Field. ACM Transactions on Graphics (SIGGRAPH 2023).
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
+- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - [ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行
 - [FiveLu/stream3dppe](https://github.com/FiveLu/stream3dppe) - StreamPETR with 3dppe Extension
 - [drilistbox/3DPPE](https://github.com/drilistbox/3DPPE) - 
