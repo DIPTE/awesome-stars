@@ -494,6 +494,7 @@
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
 - [danini/graph-cut-ransac](https://github.com/danini/graph-cut-ransac) - The Graph-Cut RANSAC algorithm proposed in paper: Daniel Barath and Jiri Matas; Graph-Cut RANSAC, Conference on Computer Vision and Pattern Recognition, 2018. It is available at http://openaccess.thec
+- [l1997i/LiM3D](https://github.com/l1997i/LiM3D) - 🔥(CVPR 2023) Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving papers.
 - [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - PointMamba: A Simple State Space Model for Point Cloud Analysis
@@ -808,6 +809,7 @@
 - [NVIDIA-ISAAC-ROS/isaac_ros_object_detection](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) - NVIDIA-accelerated, deep learned model support for image space object detection
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
+- [l1997i/LiM3D](https://github.com/l1997i/LiM3D) - 🔥(CVPR 2023) Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
@@ -1986,7 +1988,6 @@
 - [goncalo120/3DRegNet](https://github.com/goncalo120/3DRegNet) - [CVPR 2020, Poster] 3DRegNet: A Deep Neural Network for 3D Point Registration (Not Updated)
 - [ZhiChen902/SC2-PCR](https://github.com/ZhiChen902/SC2-PCR) - SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration (CVPR 2022)
 - [mujiubai/SC2-PCR-CPP](https://github.com/mujiubai/SC2-PCR-CPP) - SC2-PCR c++ version
-- [l1997i/LiM3D](https://github.com/l1997i/LiM3D) - 🔥(CVPR 2023) Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation
 - [Jiang-HB/VBReg](https://github.com/Jiang-HB/VBReg) - Robust Outlier Rejection for 3D Registration with Variational Bayes (Accepted by CVPR-2023)
 - [zhangxy0517/3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) - Source code of CVPR 2023 paper
 - [abhi1kumar/SeaBird](https://github.com/abhi1kumar/SeaBird) - [CVPR 2024] Official PyTorch Code of SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects
@@ -3103,7 +3104,7 @@
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) - row-major matmul optimization
 - [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake) - 你还在学CMake的过程中毫无头绪吗？你还在为复杂程序库依赖发愁吗？你是否觉得原生CMake的编写冗余而低效？那就快来学习和使用PICMake吧！只需要一行，无论是可执行，动态库还是静态库，轻松搞定！同时高效支持多目标，复杂库的编译安装，从此告别大量冗余CMake代码，专注开发核心应用程序，编译不再愁！ 例如下面是使用PICMake编译一个依赖OpenGL的可执行文件，只需要一行！
-- [MrZhouWenBo/openPCDetExportONNX](https://github.com/MrZhouWenBo/openPCDetExportONNX) - 
+- [jose-zhou/openPCDetExportONNX](https://github.com/jose-zhou/openPCDetExportONNX) - 
 - [UM-ARM-Lab/pytorch_collision_checker](https://github.com/UM-ARM-Lab/pytorch_collision_checker) - PyTorch Collision Checker
 - [LoyalLumber/Benchmark_3DOD](https://github.com/LoyalLumber/Benchmark_3DOD) - 
 - [zju3dv/Vox-Fusion](https://github.com/zju3dv/Vox-Fusion) - Code for "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", ISMAR 2022
