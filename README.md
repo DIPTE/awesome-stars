@@ -2637,7 +2637,7 @@
 - [hailanyi/TED](https://github.com/hailanyi/TED) - Transformation-Equivariant 3D Object Detection for Autonomous Driving
 - [BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) - compiler learning resources collect.
 - [opendr-eu/opendr](https://github.com/opendr-eu/opendr) - A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning
-- [MrZhouWenBo/openPCDetExportONNX](https://github.com/MrZhouWenBo/openPCDetExportONNX) - 
+- [jose-zhou/openPCDetExportONNX](https://github.com/jose-zhou/openPCDetExportONNX) - 
 - [ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation) - Python scripts for performing 6D pose estimation and shape reconstruction using the CenterSnap model in ONNX
 - [UM-ARM-Lab/pytorch_mppi](https://github.com/UM-ARM-Lab/pytorch_mppi) - Model Predictive Path Integral (MPPI) with approximate dynamics implemented in pytorch
 - [UM-ARM-Lab/pytorch_collision_checker](https://github.com/UM-ARM-Lab/pytorch_collision_checker) - PyTorch Collision Checker
