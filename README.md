@@ -1685,7 +1685,7 @@
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
-- [youngfly/CURFusion](https://github.com/youngfly/CURFusion) - 3D multi-modal detection
+- [youngfly/Dynamic-Adjustment-Fusion](https://github.com/youngfly/Dynamic-Adjustment-Fusion) - 3D multi-modal detection
 - [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
 - [chenchaoxu/UtransFusion](https://github.com/chenchaoxu/UtransFusion) - 
 - [ADLab-AutoDrive/FusionFormer](https://github.com/ADLab-AutoDrive/FusionFormer) - 
@@ -2019,7 +2019,7 @@
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
-- [SuperDuperDB/superduper](https://github.com/SuperDuperDB/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
@@ -2598,7 +2598,7 @@
 - [salesforce/ULIP](https://github.com/salesforce/ULIP) - 
 - [dvlab-research/spconv-plus](https://github.com/dvlab-research/spconv-plus) - 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
-- [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper] Planning-oriented Autonomous Driving
+- [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR'23 Best Paper Award] Planning-oriented Autonomous Driving
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
 - [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition.
 - [haomo-ai/MotionSeg3D](https://github.com/haomo-ai/MotionSeg3D) - [IROS 2022] Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
