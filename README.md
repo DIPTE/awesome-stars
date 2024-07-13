@@ -1011,7 +1011,7 @@
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [IntelLabs/SLIDE_opt_ia](https://github.com/IntelLabs/SLIDE_opt_ia) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN. Contains YOLOv5, YOLOv6, YOLOX, YOLOR, FaceDet, HeadSeg, HeadPose, Matting etc. Engine: ONNXRuntime, MNN.
+- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN. Contains YOLOv5, YOLOv6, YOLOX, YOLOv8, FaceDet, HeadSeg, HeadPose, Matting etc. Engine: ONNXRuntime, MNN.
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
