@@ -4775,7 +4775,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
-- [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo v5, v7, v8 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your
+- [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo X, v7, v8 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your 
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models).
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
