@@ -40,6 +40,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [PureBasic](#purebasic)
 - [Python](#python)
@@ -1882,6 +1883,10 @@
 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 
+## PowerShell 
+
+- [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder
+
 ## Prolog 
 
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
@@ -2084,7 +2089,7 @@
 - [MCG-NJU/MeMOTR](https://github.com/MCG-NJU/MeMOTR) - [ICCV 2023] MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking
 - [HariPrasanth-SM/Vision-Fusion-Early-Fusion](https://github.com/HariPrasanth-SM/Vision-Fusion-Early-Fusion) - In this project, the camera and LiDAR data are fused by early sensor fusion technique
 - [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a next generation of 3D AI service production system.
-- [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo v5, v7, v8 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your
+- [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo X, v7, v8 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your 
 - [autodistill/autodistill-gpt-4v](https://github.com/autodistill/autodistill-gpt-4v) - GPT-4V(ision) module for use with Autodistill.
 - [autodistill/autodistill-segment-anything](https://github.com/autodistill/autodistill-segment-anything) - Use Segment Anything to identify objects in an image.
 - [autodistill/autodistill-yolov8](https://github.com/autodistill/autodistill-yolov8) - YOLOv8 Target Model plugin for Autodistill
@@ -3856,7 +3861,6 @@
 - [industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588](https://github.com/industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588) - This is the documentation for RK3566 RK3568 RK3588 Tablet and miniPC products
 - [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - 🐳 Dockerfiles to provide HTML5 VNC interface to access Ubuntu Desktop + ROS 2
 - [Tiryoh/ros2_setup_scripts_ubuntu](https://github.com/Tiryoh/ros2_setup_scripts_ubuntu) - 🔧 unofficial ROS 2 install/setup scripts for Ubuntu
-- [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder
 - [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [crigroup/openrave-installation](https://github.com/crigroup/openrave-installation) - Bash scripts to install OpenRAVE from source
 - [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
