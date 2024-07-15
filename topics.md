@@ -490,7 +490,7 @@
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
-- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
 - [danini/graph-cut-ransac](https://github.com/danini/graph-cut-ransac) - The Graph-Cut RANSAC algorithm proposed in paper: Daniel Barath and Jiri Matas; Graph-Cut RANSAC, Conference on Computer Vision and Pattern Recognition, 2018. It is available at http://openaccess.thec
@@ -5105,7 +5105,7 @@
 - [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
-- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 - [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 - [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A*, JPS, D*, LPA*, D* Lite, Theta*, RRT, RRT*, RRT-Connect, Informed RRT*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pu
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
