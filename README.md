@@ -1957,7 +1957,7 @@
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
-- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight] Gaussian Splatting SLAM
+- [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
 - [xy-guo/MVSNet_pytorch](https://github.com/xy-guo/MVSNet_pytorch) - PyTorch Implementation of MVSNet
 - [prs-eth/OverlapPredator](https://github.com/prs-eth/OverlapPredator) - [CVPR 2021, Oral] PREDATOR: Registration of 3D Point Clouds with Low Overlap.
 - [haoyu94/Coarse-to-fine-correspondences](https://github.com/haoyu94/Coarse-to-fine-correspondences) - PyTorch implementation of NeurIPS 2021 paper: "CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration"
@@ -2650,7 +2650,7 @@
 - [zju3dv/Vox-Fusion](https://github.com/zju3dv/Vox-Fusion) - Code for "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", ISMAR 2022
 - [zju3dv/Vox-Surf](https://github.com/zju3dv/Vox-Surf) - Code for "Vox-Surf: Voxel-based Implicit Surface Representation", TVCG 2022
 - [zju3dv/ENeRF](https://github.com/zju3dv/ENeRF) - SIGGRAPH Asia 2022: Code for "Efficient Neural Radiance Fields for Interactive Free-viewpoint Video"
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle. （将PaddleOCR模型做了转换，采用ONNXRuntime推理，速度很快）
 - [DanceTrack/DanceTrack](https://github.com/DanceTrack/DanceTrack) - [CVPR2022] DanceTrack: Multiple Object Tracking in Uniform Appearance and Diverse Motion
 - [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple Object Tracking with Transformer
 - [Gorilla-Lab-SCUT/TTAC](https://github.com/Gorilla-Lab-SCUT/TTAC) - [NeurIPS 2022] Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering
