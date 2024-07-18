@@ -444,11 +444,11 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [Cambricon/easydk](https://github.com/Cambricon/easydk) - easy development kit
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
-- [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
-- [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
+- [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - [TRO 2022] Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
+- [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - [IROS 2020] Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Bridge the gap between deep learning training and serving
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch With Multi-threads
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
@@ -2076,7 +2076,6 @@
 - [valeoai/PointBeV](https://github.com/valeoai/PointBeV) - Official implementation of PointBeV: A Sparse Approach to BeV Predictions
 - [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
-- [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
 - [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
 - [kaist-avelab/K-Radar](https://github.com/kaist-avelab/K-Radar) - 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions
 - [Evocargo/Lidar-Annotation-is-All-You-Need](https://github.com/Evocargo/Lidar-Annotation-is-All-You-Need) - 2D road segmentation using lidar data during training
@@ -3757,7 +3756,7 @@
 - [mys007/ecc](https://github.com/mys007/ecc) - Edge-Conditioned Convolutions on Graphs
 - [blister1824/rename](https://github.com/blister1824/rename) - Single image to mesh reconstruction using a graph-based convolutional neural network
 - [DeepLearnPhysics/dynamic-gcnn](https://github.com/DeepLearnPhysics/dynamic-gcnn) - Dynamic Graph Convolutional Neural Network for 3D point cloud semantic segmentation
-- [meliketoy/graph-cnn.pytorch](https://github.com/meliketoy/graph-cnn.pytorch) - Pytorch Implementation for Graph Convolutional Neural Networks
+- [bmsookim/graph-cnn.pytorch](https://github.com/bmsookim/graph-cnn.pytorch) - Pytorch Implementation for Graph Convolutional Neural Networks
 - [BichenWuUCB/SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
 - [xucao-42/pointnet_re](https://github.com/xucao-42/pointnet_re) - A tensorflow  re-implementation of pointnet.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
