@@ -1140,7 +1140,7 @@
 ## deployment 
 
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Bridge the gap between deep learning training and serving
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch With Multi-threads
 - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
 - [HaohaoNJU/CenterFusion](https://github.com/HaohaoNJU/CenterFusion) - NN-based radar-camera post sensor fusion implemented by TensorRT
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
@@ -2191,7 +2191,6 @@
 - [EdwardLeeLPZ/PowerBEV](https://github.com/EdwardLeeLPZ/PowerBEV) - POWERBEV, a novel and elegant vision-based end-to-end framework that only consists of 2D convolutional layers to perform perception and forecasting of multiple objects in BEVs.
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
 - [GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection](https://github.com/GutlapalliNikhil/Complex-YOLO-ROS-3D-Object-Detection) - Complex YOLO ROS is a 3D object detection system interfaced with ROS, enabling real-time robotics applications. It utilizes Lidar data and deep learning techniques for accurate detection and localizat
-- [Wu-didi/complex-YOLOv5](https://github.com/Wu-didi/complex-YOLOv5) - 
 - [wzzheng/OccWorld](https://github.com/wzzheng/OccWorld) - [ECCV 2024] 3D World Model for Autonomous Driving
 - [kaist-avelab/K-Radar](https://github.com/kaist-avelab/K-Radar) - 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions
 - [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
@@ -2244,8 +2243,8 @@
 - [Cambricon/easydk](https://github.com/Cambricon/easydk) - easy development kit
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [GreyZhang/g_s32k144](https://github.com/GreyZhang/g_s32k144) - learning records about S32K144 MCU (FreeRTOS, UART, CAN, SPI, PIT, FreeMaster, RTC, GPS, DMA, WatchDog、J1939、UDS、XCP、CCP)
-- [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
-- [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
+- [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - [TRO 2022] Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
+- [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - [IROS 2020] Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
@@ -4535,7 +4534,7 @@
 - [SamuelStentz/Graph-Convolutional-Neural-Network](https://github.com/SamuelStentz/Graph-Convolutional-Neural-Network) - 
 - [mys007/ecc](https://github.com/mys007/ecc) - Edge-Conditioned Convolutions on Graphs
 - [blister1824/rename](https://github.com/blister1824/rename) - Single image to mesh reconstruction using a graph-based convolutional neural network
-- [meliketoy/graph-cnn.pytorch](https://github.com/meliketoy/graph-cnn.pytorch) - Pytorch Implementation for Graph Convolutional Neural Networks
+- [bmsookim/graph-cnn.pytorch](https://github.com/bmsookim/graph-cnn.pytorch) - Pytorch Implementation for Graph Convolutional Neural Networks
 - [BichenWuUCB/SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
 - [xucao-42/pointnet_re](https://github.com/xucao-42/pointnet_re) - A tensorflow  re-implementation of pointnet.
 - [dwkegu/pyCharmProject](https://github.com/dwkegu/pyCharmProject) - 
@@ -4780,7 +4779,7 @@
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Bridge the gap between deep learning training and serving
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch With Multi-threads
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
