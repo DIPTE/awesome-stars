@@ -1643,7 +1643,6 @@
 - [XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) - A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.
 - [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources
 - [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
-- [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [ACM MM 2024] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
 - [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection"
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
@@ -1669,7 +1668,6 @@
 - [IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) - [WACV 2024 Survey Paper] Multimodal Large Language Models for Autonomous Driving
 - [Cc-Hy/UniVision](https://github.com/Cc-Hy/UniVision) - 
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
-- [foxglove/studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
 - [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) - awesome-autonomous-driving
 - [diffusion-facex/FaceX](https://github.com/diffusion-facex/FaceX) - 
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
@@ -1925,6 +1923,7 @@
 - [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [NEU-REAL/SeqTrack3d](https://github.com/NEU-REAL/SeqTrack3d) - [ICRA'24] SeqTrack3d: Exploring Sequence Information for Robust 3D Point Cloud Tracking
+- [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
 - [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) - [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
