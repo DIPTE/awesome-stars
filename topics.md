@@ -2449,7 +2449,7 @@
 - [ucla-mobility/OpenCDA](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 - [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 - [xiaoaoran/SynLiDAR](https://github.com/xiaoaoran/SynLiDAR) - SynLiDAR: Synthetic LiDAR sequential point cloud dataset with point-wise annotations (AAAI2022)
-- [lxtGH/Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - [Arxiv-04-2023] Transformer-Based Visual Segmentation: A Survey
+- [lxtGH/Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - [T-PAMI-2024] Transformer-Based Visual Segmentation: A Survey
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [liuyixin-louis/arxiv2latex](https://github.com/liuyixin-louis/arxiv2latex) - Download the source latex code of multiple arXiv paper with one click
 - [liyingying0113/rope3d-dataset-tools](https://github.com/liyingying0113/rope3d-dataset-tools) - 
@@ -2586,7 +2586,7 @@
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - [ICCV 2023] OccNet: Scene as Occupancy
-- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
+- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI] All you need for End-to-end Autonomous Driving
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2023] NeRF-RPN: A general framework for object detection in NeRFs
