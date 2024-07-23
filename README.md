@@ -1706,7 +1706,7 @@
 - [tdzdog/SEFormer](https://github.com/tdzdog/SEFormer) - AAAI2023: SEFormer: Structure Embedding Transformer for 3D Object Detection
 - [OpenPerceptionX/PersFormer_3DLane](https://github.com/OpenPerceptionX/PersFormer_3DLane) - [ECCV2022 oral] Perspective Transformer on 3D Lane Detection
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
-- [lxtGH/Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - [Arxiv-04-2023] Transformer-Based Visual Segmentation: A Survey
+- [lxtGH/Awesome-Segmentation-With-Transformer](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) - [T-PAMI-2024] Transformer-Based Visual Segmentation: A Survey
 - [jinlong17/V2VLC](https://github.com/jinlong17/V2VLC) - 
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [jiaweihe1996/BA-Det](https://github.com/jiaweihe1996/BA-Det) - (CVPR 2023) Official PyTorch implementation of the paper: 3D Video Object Detection with Learnable Object-Centric Global Optimization.
@@ -1718,7 +1718,7 @@
 - [jianrenw/PanoNet3D](https://github.com/jianrenw/PanoNet3D) - 
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
-- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
+- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI] All you need for End-to-end Autonomous Driving
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [PeterJaq/Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) - 
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
