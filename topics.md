@@ -928,7 +928,7 @@
 - [axinc-ai/ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
 - [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
-- [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
+- [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 - [noahcao/OC_SORT](https://github.com/noahcao/OC_SORT) - [CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
@@ -978,7 +978,7 @@
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
 - [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) - YOLO ROS: Real-Time Object Detection for ROS
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
-- [openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn) - A primitive library for neural network
+- [OpenPPL/ppl.nn](https://github.com/OpenPPL/ppl.nn) - A primitive library for neural network
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr
@@ -1689,7 +1689,7 @@
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [axinc-ai/ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
 - [LiuXiaolong19920720/simple_net](https://github.com/LiuXiaolong19920720/simple_net) - A simple deep neural network implemented in C++，based with OpenCV Mat matrix class
-- [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
+- [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [Xilinx/finn](https://github.com/Xilinx/finn) - Dataflow compiler for QNN inference on FPGAs
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
@@ -1706,7 +1706,7 @@
 - [VeriSilicon/TIM-VX](https://github.com/VeriSilicon/TIM-VX) - VeriSilicon Tensor Interface Module
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) - Open Neural Network Exchange to C compiler.
-- [openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn) - A primitive library for neural network
+- [OpenPPL/ppl.nn](https://github.com/OpenPPL/ppl.nn) - A primitive library for neural network
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [julrog/nn_vis](https://github.com/julrog/nn_vis) - A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.
@@ -1782,7 +1782,7 @@
 - [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [AngelLM/Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
-- [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
+- [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [YiChenCityU/Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) - Track Advancement of SLAM 跟踪SLAM前沿动态【2021 version】業務調整，暫停更新
 
 ## opencv 
@@ -3439,7 +3439,7 @@
 - [vedderb/bldc-hardware](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller from Benjamin Vedder
 - [vedderb/bldc-tool](https://github.com/vedderb/bldc-tool) - A Qt program to control and debug my BLDC-controller
 - [Huiminshii/DPNet](https://github.com/Huiminshii/DPNet) - DPNet: Dual-Path Network for Real-time Object Detection with Lightweight Attention
-- [openppl-public/CuAssembler](https://github.com/openppl-public/CuAssembler) - An unofficial cuda assembler, for all generations of SASS, hopefully ：）
+- [OpenPPL/CuAssembler](https://github.com/OpenPPL/CuAssembler) - An unofficial cuda assembler, for all generations of SASS, hopefully ：）
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [Megvii-BaseDetection/BEVDepth](https://github.com/Megvii-BaseDetection/BEVDepth) - Official code for BEVDepth.
 - [wcirq/trt-samples-for-hackathon-cn](https://github.com/wcirq/trt-samples-for-hackathon-cn) - 
@@ -3646,7 +3646,7 @@
 - [RUSH-LAB/SLIDE](https://github.com/RUSH-LAB/SLIDE) - 
 - [k0suke-murakami/kitti_pretrained_point_pillars](https://github.com/k0suke-murakami/kitti_pretrained_point_pillars) - 
 - [MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN. Contains YOLOv5, YOLOv6, YOLOX, YOLOv8, FaceDet, HeadSeg, HeadPose, Matting etc. Engine: ONNXRuntime, MNN.
+- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN, TNN, NCNN and TensorRT.
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
 - [linyliny/curb_detection](https://github.com/linyliny/curb_detection) - based on the paper A real-time curb detection and tracking method for UGVs by using a 3D-LIDAR sensor
@@ -4855,7 +4855,7 @@
 - [sovrasov/3d-object-detection.pytorch](https://github.com/sovrasov/3d-object-detection.pytorch) - 
 - [open-mmlab/mmeval](https://github.com/open-mmlab/mmeval) - A unified evaluation library for multiple machine learning libraries
 - [openvinotoolkit/openvino_contrib](https://github.com/openvinotoolkit/openvino_contrib) - Repository for OpenVINO's extra modules
-- [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
+- [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [DeepVAC/libdeepvac](https://github.com/DeepVAC/libdeepvac) - Use PyTorch model in C++ project
 - [DeepVAC/deepvac](https://github.com/DeepVAC/deepvac) - PyTorch Project Specification.
 - [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS'22] An official PyTorch implementation of PTv2.
