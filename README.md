@@ -975,7 +975,7 @@
 - [prabindh/qt5-opencv3-darknet](https://github.com/prabindh/qt5-opencv3-darknet) - Qt5 + Darknet/Yolo + OpenCV3
 - [hpc203/bytetrack-opencv-onnxruntime](https://github.com/hpc203/bytetrack-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOX+ByteTrack目标跟踪，包含C++和Python两个版本的程序
 - [ucb-bar/onnxruntime-riscv](https://github.com/ucb-bar/onnxruntime-riscv) - Fork of upstream onnxruntime focused on supporting risc-v accelerators
-- [openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn) - A primitive library for neural network
+- [OpenPPL/ppl.nn](https://github.com/OpenPPL/ppl.nn) - A primitive library for neural network
 - [herumi/xbyak](https://github.com/herumi/xbyak) - a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2/AVX-512 by C++ header
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr
@@ -1012,7 +1012,7 @@
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [IntelLabs/SLIDE_opt_ia](https://github.com/IntelLabs/SLIDE_opt_ia) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN. Contains YOLOv5, YOLOv6, YOLOX, YOLOv8, FaceDet, HeadSeg, HeadPose, Matting etc. Engine: ONNXRuntime, MNN.
+- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN, TNN, NCNN and TensorRT.
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
@@ -1642,7 +1642,6 @@
 - [hku-mars/btc_descriptor](https://github.com/hku-mars/btc_descriptor) - 
 - [NVlabs/Hydra-MDP](https://github.com/NVlabs/Hydra-MDP) - 
 - [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources
-- [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [ACM MM 2024] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
 - [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection"
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
@@ -1923,6 +1922,7 @@
 - [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [NEU-REAL/SeqTrack3d](https://github.com/NEU-REAL/SeqTrack3d) - [ICRA'24] SeqTrack3d: Exploring Sequence Information for Robust 3D Point Cloud Tracking
+- [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
 - [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) - [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
@@ -2778,7 +2778,7 @@
 - [diegovalsesia/HyCoRe](https://github.com/diegovalsesia/HyCoRe) - Code for "Rethinking the compositionality of point clouds through regularization in the hyperbolic space" (NeurIPS 2022)
 - [ZhanHeshen/PointCMT](https://github.com/ZhanHeshen/PointCMT) - [NeurIPS2022] Let Images Give You More: Point Cloud Cross-Modal Training for Shape Analysis
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
-- [openppl-public/ppq](https://github.com/openppl-public/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
+- [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [xiguadong/pcl_for_linux](https://github.com/xiguadong/pcl_for_linux) - 
 - [xoz1206/CalibDNN](https://github.com/xoz1206/CalibDNN) - 2021, CalibDNN: Multimodal Sensor Calibration for Perception Using Deep Neural Networks 구현
 - [IIPCVLAB/LCCNet](https://github.com/IIPCVLAB/LCCNet) - Official PyTorch implementation of the paper “LCCNet: Lidar and Camera Self-Calibration usingCost Volume Network”.
@@ -2826,7 +2826,7 @@
 - [ibaiGorordo/ONNX-CREStereo-Depth-Estimation](https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation) - Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
 - [JetsonHacksNano/CSI-Camera](https://github.com/JetsonHacksNano/CSI-Camera) - Simple example of using a CSI-Camera (like the Raspberry Pi Version 2 camera) with the NVIDIA Jetson Developer Kit
 - [Huiminshii/DPNet](https://github.com/Huiminshii/DPNet) - DPNet: Dual-Path Network for Real-time Object Detection with Lightweight Attention
-- [openppl-public/CuAssembler](https://github.com/openppl-public/CuAssembler) - An unofficial cuda assembler, for all generations of SASS, hopefully ：）
+- [OpenPPL/CuAssembler](https://github.com/OpenPPL/CuAssembler) - An unofficial cuda assembler, for all generations of SASS, hopefully ：）
 - [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) - 
 - [Megvii-BaseDetection/BEVDepth](https://github.com/Megvii-BaseDetection/BEVDepth) - Official code for BEVDepth.
 - [Megvii-BaseDetection/cvpods](https://github.com/Megvii-BaseDetection/cvpods) - All-in-one Toolbox for Computer Vision Research.
