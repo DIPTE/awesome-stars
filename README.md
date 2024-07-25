@@ -221,6 +221,7 @@
 
 ## C# # 
 
+- [ZhouZijie77/Unity-PointCloud-Navigation](https://github.com/ZhouZijie77/Unity-PointCloud-Navigation) - 使用Unity开发的显示点云及通过点云地图生成可通行区域并使用A*算法进行路径规划移动端应用程序。
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
@@ -233,6 +234,7 @@
 
 ## C++ 
 
+- [SHU3DVision/SmartEye](https://github.com/SHU3DVision/SmartEye) - 深度、点云图像的实时显示
 - [KwanWaiPang/RGBD-GS-ICP-SLAM-Comment](https://github.com/KwanWaiPang/RGBD-GS-ICP-SLAM-Comment) - RGBD GS-ICP SLAM的中文注释版
 - [Lab-of-AI-and-Robotics/GS_ICP_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - [ECCV 2024] RGBD GS-ICP SLAM
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
@@ -243,7 +245,7 @@
 - [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - 《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
 - [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
-- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 TensorRT-YOLO: Supports YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, and PP-YOLOE using TensorRT acceleration with EfficientNMS, CUDA Kernels and CUDA Graphs!
+- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 你的YOLO部署神器。TensorRT Plugin、CUDA Kernel、CUDA Graphs三管齐下，享受闪电般的推理速度。| Your YOLO Deployment Powerhouse. With the synergy of TensorRT Plugins, CUDA Kernels, and CUDA Graphs, experience lightning-fast in
 - [daniel89710/lightNet-TRT](https://github.com/daniel89710/lightNet-TRT) - LightNet-TRT is a high-efficiency and real-time implementation of convolutional neural networks (CNNs) using Edge AI.
 - [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
 - [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 
@@ -456,7 +458,7 @@
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
-- [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
+- [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [linghu8812/yolov5_fastreid_deepsort_tensorrt](https://github.com/linghu8812/yolov5_fastreid_deepsort_tensorrt) - 
 - [Dao-zhi/MultiCameraTargetTracking](https://github.com/Dao-zhi/MultiCameraTargetTracking) - 基于TLD算法和GOTURN算法的多摄像头目标跟踪
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
@@ -1247,7 +1249,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA&C++ 笔记 / 大模型手撕CUDA / 技术博客，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -1641,6 +1643,7 @@
 - [zympsyche/BevWorld](https://github.com/zympsyche/BevWorld) - 
 - [hku-mars/btc_descriptor](https://github.com/hku-mars/btc_descriptor) - 
 - [NVlabs/Hydra-MDP](https://github.com/NVlabs/Hydra-MDP) - 
+- [XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) - A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.
 - [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [ACM MM 2024] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
 - [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection"
@@ -1895,6 +1898,7 @@
 
 ## Python 
 
+- [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [invictus717/MiCo](https://github.com/invictus717/MiCo) - Explore the Limits of Omni-modal Pretraining at Scale
 - [uzh-rpg/dagr](https://github.com/uzh-rpg/dagr) - Code for the paper "Low Latency Automotive Vision with Event Cameras", published in Nature
@@ -2572,7 +2576,7 @@
 - [ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch) - official repo for the paper "SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images"
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [ajhamdi/mvtorch](https://github.com/ajhamdi/mvtorch) - a Pytorch library for multi-view 3D understanding and generation
-- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks [IJCV2023]
+- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks
 - [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation [IJCV2023]
 - [Sense-GVT/Fast-BEV](https://github.com/Sense-GVT/Fast-BEV) - Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
@@ -3848,7 +3852,6 @@
 
 ## Shell 
 
-- [XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) - A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [Fruit-Pi/rockchip-test](https://github.com/Fruit-Pi/rockchip-test) - 
