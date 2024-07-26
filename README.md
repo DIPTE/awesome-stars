@@ -2824,7 +2824,7 @@
 - [BerkeleyAutomation/perception](https://github.com/BerkeleyAutomation/perception) - AUTOLab perception toolkit
 - [vguzov/cloudrender](https://github.com/vguzov/cloudrender) - An OpenGL framework for pointcloud and mesh rendering
 - [JinyongJeong/DeeplabV3_Apolloscape_and_CityScape](https://github.com/JinyongJeong/DeeplabV3_Apolloscape_and_CityScape) - 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [Matchstic/stanley](https://github.com/Matchstic/stanley) - An autonomous drone to follow a person, using the OAK-D Lite and MAVLink
 - [SpectacularAI/sdk-examples](https://github.com/SpectacularAI/sdk-examples) - Spectacular AI SDK examples
 - [ibaiGorordo/ONNX-CREStereo-Depth-Estimation](https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation) - Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
@@ -2856,7 +2856,7 @@
 - [brandesjj/centerfusionpp](https://github.com/brandesjj/centerfusionpp) - CenterFusion++ is a frustum propsal-based camera and radar sensor fusion network.
 - [HaohaoNJU/CenterFusion](https://github.com/HaohaoNJU/CenterFusion) - NN-based radar-camera post sensor fusion implemented by TensorRT
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
-- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
+- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [GCaptainNemo/RTSP-camera-display-realtime](https://github.com/GCaptainNemo/RTSP-camera-display-realtime) - Grab Hikvision network camera and display it in pyqt control in real time.
 - [miemie2013/Pytorch-PPYOLO](https://github.com/miemie2013/Pytorch-PPYOLO) - ppyolo in pytorch. 44.8% box mAP.
