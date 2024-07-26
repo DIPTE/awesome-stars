@@ -141,6 +141,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -683,7 +684,7 @@
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
+- [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
@@ -1843,6 +1844,8 @@
 
 ## others 
 
+- [SHU3DVision/SmartEye](https://github.com/SHU3DVision/SmartEye) - 深度、点云图像的实时显示
+- [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [zympsyche/BevWorld](https://github.com/zympsyche/BevWorld) - 
 - [KwanWaiPang/RGBD-GS-ICP-SLAM-Comment](https://github.com/KwanWaiPang/RGBD-GS-ICP-SLAM-Comment) - RGBD GS-ICP SLAM的中文注释版
 - [Lab-of-AI-and-Robotics/GS_ICP_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - [ECCV 2024] RGBD GS-ICP SLAM
@@ -1872,7 +1875,7 @@
 - [TommyZihao/vlm_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
 - [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted at CVPR 2024
 - [yinjunbo/IS-Fusion](https://github.com/yinjunbo/IS-Fusion) - This repository contains the PyTorch implementation of the CVPR'2024 paper (Highlight), IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection.
-- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 TensorRT-YOLO: Supports YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, and PP-YOLOE using TensorRT acceleration with EfficientNMS, CUDA Kernels and CUDA Graphs!
+- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 你的YOLO部署神器。TensorRT Plugin、CUDA Kernel、CUDA Graphs三管齐下，享受闪电般的推理速度。| Your YOLO Deployment Powerhouse. With the synergy of TensorRT Plugins, CUDA Kernels, and CUDA Graphs, experience lightning-fast in
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
 - [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources
 - [daniel89710/lightNet-TRT](https://github.com/daniel89710/lightNet-TRT) - LightNet-TRT is a high-efficiency and real-time implementation of convolutional neural networks (CNNs) using Edge AI.
@@ -2949,7 +2952,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA&C++ 笔记 / 大模型手撕CUDA / 技术博客，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -2982,7 +2985,7 @@
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
-- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks [IJCV2023]
+- [Eaphan/Robust3DOD](https://github.com/Eaphan/Robust3DOD) - A Comprehensive Study of the Robustness for LiDAR-based 3D Object Detectors against Adversarial Attacks
 - [LeapLabTHU/Text4Point](https://github.com/LeapLabTHU/Text4Point) - 
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
@@ -3428,7 +3431,6 @@
 - [aravindSwamy94/Robotic-Manipulation](https://github.com/aravindSwamy94/Robotic-Manipulation) - Robotic Manipulation exercises- Robot motion planning, Pick and place object, Object hold
 - [ctu-vras/visuo-haptic-shape-completion](https://github.com/ctu-vras/visuo-haptic-shape-completion) - Simulation, benchmark, and dataset for active uncertainty-driven visuo-haptic shape completion.
 - [ApolloScapeAuto/dataset-api](https://github.com/ApolloScapeAuto/dataset-api) - The ApolloScape Open Dataset for Autonomous Driving and its Application.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [openpilot/OpenPilot](https://github.com/openpilot/OpenPilot) - OpenPilot Github Mirror
 - [Matchstic/stanley](https://github.com/Matchstic/stanley) - An autonomous drone to follow a person, using the OAK-D Lite and MAVLink
 - [SpectacularAI/sdk-examples](https://github.com/SpectacularAI/sdk-examples) - Spectacular AI SDK examples
@@ -3471,7 +3473,7 @@
 - [hylmak/Tracking-Objects-as-Points](https://github.com/hylmak/Tracking-Objects-as-Points) - 
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
 - [Jittor/JNeRF](https://github.com/Jittor/JNeRF) - JNeRF is a NeRF benchmark based on Jittor. JNeRF re-implemented instant-ngp and achieved same performance with original paper.
-- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
+- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
 - [GCaptainNemo/Camera-Calib-OpenCV](https://github.com/GCaptainNemo/Camera-Calib-OpenCV) - Opencv calibration program for different checkerboards.
 - [GCaptainNemo/RTSP-camera-display-realtime](https://github.com/GCaptainNemo/RTSP-camera-display-realtime) - Grab Hikvision network camera and display it in pyqt control in real time.
 - [GCaptainNemo/Fusion-Lidar-Camera-ROS](https://github.com/GCaptainNemo/Fusion-Lidar-Camera-ROS) - This repository uses a ROS node to subscribe to camera (hikvision) and lidar (livox) data. After the node merges the data, it publishes the colored point cloud and displays it in rviz.
@@ -5037,6 +5039,7 @@
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [dependon/simple-image-filter](https://github.com/dependon/simple-image-filter) - Qt,filter,图像处理,image process
 - [industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588](https://github.com/industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588) - This is the documentation for RK3566 RK3568 RK3588 Tablet and miniPC products
 - [huolu1987/Qt-study](https://github.com/huolu1987/Qt-study) - Qt study  学习资料，官方示例深扒目前包含：地址薄管理，串口工具
@@ -5134,6 +5137,7 @@
 - [Avinash2468/RackLay](https://github.com/Avinash2468/RackLay) - RackLay: Monocular Multi-Layered Layout Estimation for Warehouses with Sim2Real Transfer
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [methylDragon/pcl-ros-tutorial](https://github.com/methylDragon/pcl-ros-tutorial) - A fairly in-depth tutorial for the Point Cloud Library (with ROS integration notes!)
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [ros-planning/navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack.  Code for finding where the robot is and how it can get somewhere else.
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
 - [PRBonn/depth_clustering](https://github.com/PRBonn/depth_clustering) - :taxi: Fast and robust clustering of point clouds generated with a Velodyne sensor.
@@ -5330,6 +5334,10 @@
 - [dtcMLOps/compilingPCL-Linux](https://github.com/dtcMLOps/compilingPCL-Linux) - This is a tutorial of how to compile PCL 1.11.1 on Ubuntu 20.04.2 LTS
 - [Qengineering/caffe](https://github.com/Qengineering/caffe) - Caffe-ssd: a fast open framework for deep learning adapted for Raspberry Pi, Jetson Nano and Ubuntu. Fixed for cuDNN 8
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
+
+## unity 
+
+- [ZhouZijie77/Unity-PointCloud-Navigation](https://github.com/ZhouZijie77/Unity-PointCloud-Navigation) - 使用Unity开发的显示点云及通过点云地图生成可通行区域并使用A*算法进行路径规划移动端应用程序。
 
 ## unreal-engine 
 
