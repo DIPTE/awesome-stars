@@ -304,6 +304,7 @@
 
 ## artificial-intelligence 
 
+- [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
@@ -486,6 +487,7 @@
 
 ## computer-vision 
 
+- [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
 - [ispc-lab/LiDAR4D](https://github.com/ispc-lab/LiDAR4D) - 💫 [CVPR 2024] LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
@@ -1477,6 +1479,7 @@
 
 ## machine-learning 
 
+- [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
@@ -1844,6 +1847,10 @@
 
 ## others 
 
+- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
+- [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - code for iros24 submission "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems"
+- [raaslab/3D_bridge_meshes](https://github.com/raaslab/3D_bridge_meshes) - Creating 3D meshes with UAVs. This project aims to combine 3D mesh construction using fundamantle practices with infrastructure inspection using novel navigation methods.
+- [raaslab/GATSBI](https://github.com/raaslab/GATSBI) - 
 - [SHU3DVision/SmartEye](https://github.com/SHU3DVision/SmartEye) - 深度、点云图像的实时显示
 - [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [zympsyche/BevWorld](https://github.com/zympsyche/BevWorld) - 
@@ -4761,6 +4768,7 @@
 
 ## pytorch 
 
+- [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [Na-Z/attMPTI](https://github.com/Na-Z/attMPTI) - [CVPR 2021] Few-shot 3D Point Cloud Semantic Segmentation
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
 - [oneformer3d/oneformer3d](https://github.com/oneformer3d/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
@@ -5137,7 +5145,7 @@
 - [Avinash2468/RackLay](https://github.com/Avinash2468/RackLay) - RackLay: Monocular Multi-Layered Layout Estimation for Warehouses with Sim2Real Transfer
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [methylDragon/pcl-ros-tutorial](https://github.com/methylDragon/pcl-ros-tutorial) - A fairly in-depth tutorial for the Point Cloud Library (with ROS integration notes!)
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [ros-planning/navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack.  Code for finding where the robot is and how it can get somewhere else.
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
 - [PRBonn/depth_clustering](https://github.com/PRBonn/depth_clustering) - :taxi: Fast and robust clustering of point clouds generated with a Velodyne sensor.
