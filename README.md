@@ -184,6 +184,7 @@
 - [vedderb/bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
 - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) - :zap: Based on yolo's ultra-lightweight universal target detection algorithm, the calculation amount is only 250mflops, the ncnn model size is only 666kb, the Raspberry Pi 3b can run up to 15fps+, and
 - [google/XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
+- [nxp-mcuxpresso/mcux-sdk-examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples) - MCUXpresso SDK Examples
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [GStreamer/gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework
 - [pytorch/QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
@@ -234,6 +235,9 @@
 
 ## C++ 
 
+- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
+- [raaslab/3D_bridge_meshes](https://github.com/raaslab/3D_bridge_meshes) - Creating 3D meshes with UAVs. This project aims to combine 3D mesh construction using fundamantle practices with infrastructure inspection using novel navigation methods.
+- [raaslab/GATSBI](https://github.com/raaslab/GATSBI) - 
 - [SHU3DVision/SmartEye](https://github.com/SHU3DVision/SmartEye) - 深度、点云图像的实时显示
 - [KwanWaiPang/RGBD-GS-ICP-SLAM-Comment](https://github.com/KwanWaiPang/RGBD-GS-ICP-SLAM-Comment) - RGBD GS-ICP SLAM的中文注释版
 - [Lab-of-AI-and-Robotics/GS_ICP_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - [ECCV 2024] RGBD GS-ICP SLAM
@@ -1640,6 +1644,7 @@
 
 ## Others 
 
+- [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [zympsyche/BevWorld](https://github.com/zympsyche/BevWorld) - 
 - [hku-mars/btc_descriptor](https://github.com/hku-mars/btc_descriptor) - 
 - [NVlabs/Hydra-MDP](https://github.com/NVlabs/Hydra-MDP) - 
@@ -1794,7 +1799,6 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [renesas/tflite-micro-renesas](https://github.com/renesas/tflite-micro-renesas) - TFLM examples using Renesas microcontrollers
 - [Masmiseim36/nxpSDK](https://github.com/Masmiseim36/nxpSDK) - Collection of SDKs for NXP Controllers
-- [nxp-mcuxpresso/mcux-sdk-examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples) - MCUXpresso SDK Examples
 - [ai4ce/DiscoNet](https://github.com/ai4ce/DiscoNet) - [NeurIPS2021] Learning Distilled Collaboration Graph for Multi-Agent Perception
 - [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation) - Awesome Knowledge Distillation
 - [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
@@ -1898,6 +1902,7 @@
 
 ## Python 
 
+- [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - code for iros24 submission "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems"
 - [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [invictus717/MiCo](https://github.com/invictus717/MiCo) - Explore the Limits of Omni-modal Pretraining at Scale
@@ -2824,7 +2829,7 @@
 - [BerkeleyAutomation/perception](https://github.com/BerkeleyAutomation/perception) - AUTOLab perception toolkit
 - [vguzov/cloudrender](https://github.com/vguzov/cloudrender) - An OpenGL framework for pointcloud and mesh rendering
 - [JinyongJeong/DeeplabV3_Apolloscape_and_CityScape](https://github.com/JinyongJeong/DeeplabV3_Apolloscape_and_CityScape) - 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [Matchstic/stanley](https://github.com/Matchstic/stanley) - An autonomous drone to follow a person, using the OAK-D Lite and MAVLink
 - [SpectacularAI/sdk-examples](https://github.com/SpectacularAI/sdk-examples) - Spectacular AI SDK examples
 - [ibaiGorordo/ONNX-CREStereo-Depth-Estimation](https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation) - Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
