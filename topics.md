@@ -1437,7 +1437,7 @@
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
-- [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
@@ -1783,7 +1783,7 @@
 
 ## open-source 
 
-- [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [AngelLM/Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
 - [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
@@ -1847,6 +1847,7 @@
 
 ## others 
 
+- [xiihoo/Books_Robot_SLAM_Navigation](https://github.com/xiihoo/Books_Robot_SLAM_Navigation) - This project is supporting code for the book of Robot SLAM Navigation Core Technology and the Actual Combat.
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
 - [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - code for iros24 submission "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems"
 - [raaslab/3D_bridge_meshes](https://github.com/raaslab/3D_bridge_meshes) - Creating 3D meshes with UAVs. This project aims to combine 3D mesh construction using fundamantle practices with infrastructure inspection using novel navigation methods.
