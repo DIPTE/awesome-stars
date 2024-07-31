@@ -2063,7 +2063,7 @@
 - [cqu20160901/DETR_onnx_tensorRT_V2](https://github.com/cqu20160901/DETR_onnx_tensorRT_V2) - DETR tensor去除推理过程无用辅助头+fp16部署再次加速+解决转tensorrt 输出全为0问题的新方法。
 - [wu-zhonghua/RAC-Net](https://github.com/wu-zhonghua/RAC-Net) - 
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
-- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - [IROS 2024] WidthFormer: Toward Efficient Transformer-based BEV View Transformation
+- [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - [IROS 2024 Oral Presentation] WidthFormer: Toward Efficient Transformer-based BEV View Transformation
 - [OpenRobotLab/HIMLoco](https://github.com/OpenRobotLab/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
