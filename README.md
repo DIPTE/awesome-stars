@@ -539,7 +539,7 @@
 - [jjw-DL/Model_Deployment](https://github.com/jjw-DL/Model_Deployment) - 深度学习模型部署基础
 - [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples) - Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
 - [Doctor-James/Mask_Detector](https://github.com/Doctor-James/Mask_Detector) - 本项目可以检测人是否佩戴口罩，若佩戴则输出绿框，未佩戴则输出红框; 本项目基于yolov5，部署通过TensorRT加速，帧率可达200FPS
-- [OpenVINO-dev-contest/decode-infer-on-GPU](https://github.com/OpenVINO-dev-contest/decode-infer-on-GPU) - This sample shows how to use the oneAPI Video Processing Library (oneVPL) to perform a single and multi-source video decode and preprocess and inference using OpenVINO to show the device surface shari
+- [openvino-dev-samples/decode-infer-on-GPU](https://github.com/openvino-dev-samples/decode-infer-on-GPU) - This sample shows how to use the oneAPI Video Processing Library (oneVPL) to perform a single and multi-source video decode and preprocess and inference using OpenVINO to show the device surface shari
 - [AutoLidarPerception/segmenters_lib](https://github.com/AutoLidarPerception/segmenters_lib) - The LiDAR segmenters library, for segmentation-based detection.
 - [OuyangJunyuan/PCAT-Ground-Optimized](https://github.com/OuyangJunyuan/PCAT-Ground-Optimized) - 
 - [Qjizhi/TensorRT-CenterNet-3D](https://github.com/Qjizhi/TensorRT-CenterNet-3D) - tensorrt5, centernet, 3d detection, kitti, centerface, deform conv, int8,
@@ -938,7 +938,7 @@
 - [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
 - [google-coral/libcoral](https://github.com/google-coral/libcoral) - C++ API for ML inferencing and transfer-learning on Coral devices
 - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) - 用c++实现了yolov5使用openvino的部署
-- [OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
+- [openvino-dev-samples/YOLOv7_OpenVINO_cpp-python](https://github.com/openvino-dev-samples/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
 - [AI-OP/image-classifier](https://github.com/AI-OP/image-classifier) - Image classifier to help TensorFlow Lite C++ API usage with Bazel.
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [isl-org/open3d-cmake-find-package](https://github.com/isl-org/open3d-cmake-find-package) - Find pre-installed Open3D package in CMake
@@ -1923,7 +1923,7 @@
 - [DaTongjie/BEVSpread](https://github.com/DaTongjie/BEVSpread) - 
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
-- [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted at CVPR 2024
+- [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (
 - [yinjunbo/IS-Fusion](https://github.com/yinjunbo/IS-Fusion) - This repository contains the PyTorch implementation of the CVPR'2024 paper (Highlight), IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection.
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
 - [ispc-lab/LiDAR4D](https://github.com/ispc-lab/LiDAR4D) - 💫 [CVPR 2024] LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis
