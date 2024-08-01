@@ -721,7 +721,7 @@
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) - 用c++实现了yolov5使用openvino的部署
-- [OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
+- [openvino-dev-samples/YOLOv7_OpenVINO_cpp-python](https://github.com/openvino-dev-samples/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
 - [isl-org/open3d-cmake-find-package](https://github.com/isl-org/open3d-cmake-find-package) - Find pre-installed Open3D package in CMake
 - [iwatake2222/rotation_master](https://github.com/iwatake2222/rotation_master) - Provide conversion between the major representations of 3D rotation and visualize the orientation of a rigid body
 - [iwatake2222/InferenceHelper](https://github.com/iwatake2222/InferenceHelper) - C++ Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, OpenVINO, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
@@ -952,7 +952,7 @@
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
-- [OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
+- [openvino-dev-samples/YOLOv7_OpenVINO_cpp-python](https://github.com/openvino-dev-samples/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
 - [open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [iwatake2222/InferenceHelper](https://github.com/iwatake2222/InferenceHelper) - C++ Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, OpenVINO, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
@@ -1881,7 +1881,7 @@
 - [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [TommyZihao/vlm_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
-- [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Accepted at CVPR 2024
+- [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (
 - [yinjunbo/IS-Fusion](https://github.com/yinjunbo/IS-Fusion) - This repository contains the PyTorch implementation of the CVPR'2024 paper (Highlight), IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection.
 - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 你的YOLO部署神器。TensorRT Plugin、CUDA Kernel、CUDA Graphs三管齐下，享受闪电般的推理速度。| Your YOLO Deployment Powerhouse. With the synergy of TensorRT Plugins, CUDA Kernels, and CUDA Graphs, experience lightning-fast in
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
@@ -2541,7 +2541,7 @@
 - [tusen-ai/MV2D](https://github.com/tusen-ai/MV2D) - Code for "Object as Query: Lifting any 2D Object Detector to 3D Detection"
 - [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples) - Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
 - [Doctor-James/Mask_Detector](https://github.com/Doctor-James/Mask_Detector) - 本项目可以检测人是否佩戴口罩，若佩戴则输出绿框，未佩戴则输出红框; 本项目基于yolov5，部署通过TensorRT加速，帧率可达200FPS
-- [OpenVINO-dev-contest/decode-infer-on-GPU](https://github.com/OpenVINO-dev-contest/decode-infer-on-GPU) - This sample shows how to use the oneAPI Video Processing Library (oneVPL) to perform a single and multi-source video decode and preprocess and inference using OpenVINO to show the device surface shari
+- [openvino-dev-samples/decode-infer-on-GPU](https://github.com/openvino-dev-samples/decode-infer-on-GPU) - This sample shows how to use the oneAPI Video Processing Library (oneVPL) to perform a single and multi-source video decode and preprocess and inference using OpenVINO to show the device surface shari
 - [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [Xiao-Hu-Z/pointpillars_int8](https://github.com/Xiao-Hu-Z/pointpillars_int8) - 
 - [HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection](https://github.com/HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection) - This is the official released code for CVPR 2022 "Investigating the Impact of Multi-LiDAR Placement on Object Detection for Autonomous Driving"
@@ -4687,7 +4687,7 @@
 - [KernelA/egl-offscreen-render](https://github.com/KernelA/egl-offscreen-render) - OpenGL offscreen rendering with EGL and antialiasing
 - [ibaiGorordo/ONNX-CREStereo-Depth-Estimation](https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation) - Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
-- [OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
+- [openvino-dev-samples/YOLOv7_OpenVINO_cpp-python](https://github.com/openvino-dev-samples/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [hpc203/yolopv2-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolopv2-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOPV2目标检测+可驾驶区域分割+车道线分割，一共包含54个onnx模型，依然是包含C++和Python两个版本的程序。仅仅只依赖OpenCV就能运行，彻底摆脱对任何深度学习框架的依赖。
 - [PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving) - A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）
