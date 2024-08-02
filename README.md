@@ -1284,6 +1284,7 @@
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
+- [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [osrf/docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
 - [davibe/docker-gstreamer-raspbian-build](https://github.com/davibe/docker-gstreamer-raspbian-build) - Building latest git version of gstreamer and plugins for raspberry pi (raspbian)
 - [dtcMLOps/pcl-docker](https://github.com/dtcMLOps/pcl-docker) - Point Cloud Library docker container
@@ -1321,7 +1322,6 @@
 - [NVlabs/M2BEV](https://github.com/NVlabs/M2BEV) - 
 - [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024] DriveLM: Driving with Graph Visual Question Answering
-- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
 - [cgye96/3dfsl.github.io](https://github.com/cgye96/3dfsl.github.io) - project page of few-shot learning for 3d point cloud classification
@@ -1367,6 +1367,7 @@
 - [DiT-3D/FastDiT-3D](https://github.com/DiT-3D/FastDiT-3D) - 
 - [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [OpenMask3D/openmask3d.github.io](https://github.com/OpenMask3D/openmask3d.github.io) - 
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -1645,7 +1646,6 @@
 
 ## Others 
 
-- [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [zympsyche/BevWorld](https://github.com/zympsyche/BevWorld) - 
 - [hku-mars/btc_descriptor](https://github.com/hku-mars/btc_descriptor) - 
 - [NVlabs/Hydra-MDP](https://github.com/NVlabs/Hydra-MDP) - 
@@ -1903,6 +1903,7 @@
 
 ## Python 
 
+- [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - code for iros24 submission "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems"
 - [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
@@ -2033,7 +2034,7 @@
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
@@ -2512,7 +2513,6 @@
 - [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 - [JUGGHM/PENet_ICRA2021](https://github.com/JUGGHM/PENet_ICRA2021) - ICRA 2021 "Towards Precise and Efficient Image Guided Depth Completion"
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
-- [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [yushulx/docker-arm64-arm32-python-barcode-detection](https://github.com/yushulx/docker-arm64-arm32-python-barcode-detection) - 
 - [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 - [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) - [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
