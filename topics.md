@@ -2104,7 +2104,7 @@
 - [krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch) - A PyTorch re-implementation of Neural Radiance Fields
 - [IrohXu/lanenet-lane-detection-pytorch](https://github.com/IrohXu/lanenet-lane-detection-pytorch) - Unofficial implemention of lanenet model for real time lane detection Pytorch Version
 - [IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) - [WACV 2024 Survey Paper] Multimodal Large Language Models for Autonomous Driving
-- [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - 
+- [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - State-of-the-art bilingual open-sourced Math reasoning LLMs.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [motional/polarstream](https://github.com/motional/polarstream) - 
 - [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
