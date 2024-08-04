@@ -534,7 +534,7 @@
 - [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
 - [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
-- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything, MobileSAM!!
+- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [nearthlab/SiamMaskCpp](https://github.com/nearthlab/SiamMaskCpp) - C++ Implementation of SiamMask
@@ -1220,7 +1220,6 @@
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [CodingHanYa/workspace](https://github.com/CodingHanYa/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
-- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## frontend 
@@ -2757,7 +2756,7 @@
 - [zjuluolun/pointCloudLibrviz](https://github.com/zjuluolun/pointCloudLibrviz) - 使用Qt+librviz+ros设计点云显示界面
 - [ehaleva/RIQ](https://github.com/ehaleva/RIQ) - Rotation-Invariant Quantization
 - [yokinglou/CRIN](https://github.com/yokinglou/CRIN) - The repo of AAAI-23 paper: "CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame".
-- [zjuluolun/BEVPlace](https://github.com/zjuluolun/BEVPlace) - A rotation-invariant, generalizable, and SOTA LiDAR place recognition method.
+- [zjuluolun/BEVPlace](https://github.com/zjuluolun/BEVPlace) - A LiDAR-based complete global localization method.
 - [dingxin-zhang/PaRot](https://github.com/dingxin-zhang/PaRot) - [AAAI 2023] PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration
 - [richardrl/bandu_v1_full_clean](https://github.com/richardrl/bandu_v1_full_clean) - Codebase for ICRA 2022 paper "Stable Object Reorientation using Contact Plane Registration"
 - [yizhangphd/FreqPCR](https://github.com/yizhangphd/FreqPCR) - [CVPR 2023 Highlight] Frequency-Modulated Point Cloud Rendering with Easy Editing.
@@ -5048,7 +5047,6 @@
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
-- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
 - [dependon/simple-image-filter](https://github.com/dependon/simple-image-filter) - Qt,filter,图像处理,image process
 - [industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588](https://github.com/industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588) - This is the documentation for RK3566 RK3568 RK3588 Tablet and miniPC products
 - [huolu1987/Qt-study](https://github.com/huolu1987/Qt-study) - Qt study  学习资料，官方示例深扒目前包含：地址薄管理，串口工具
