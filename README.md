@@ -1457,6 +1457,7 @@
 - [CodingSheep1229/openpilot-lane-detection](https://github.com/CodingSheep1229/openpilot-lane-detection) - an end to end lane detection based on openpilot model https://comma.ai/
 - [Divadi/simple_plot3d](https://github.com/Divadi/simple_plot3d) - A simple 3D & BEV visualizer for point clouds and 3D boxes.
 - [StanfordASL/Trajectron-plus-plus](https://github.com/StanfordASL/Trajectron-plus-plus) - Code accompanying the ECCV 2020 paper "Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data" by Tim Salzmann*, Boris Ivanovic*, Punarjay Chakravarty, and Marco Pavone (* d
+- [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [ApolloScapeAuto/dataset-api](https://github.com/ApolloScapeAuto/dataset-api) - The ApolloScape Open Dataset for Autonomous Driving and its Application.
 - [Chinmayrane16/ReconNet-PyTorch](https://github.com/Chinmayrane16/ReconNet-PyTorch) - A non-iterative algorithm to reconstruct images from compressively sensed measurements.
 - [open-mmlab/OpenMMLabCourse](https://github.com/open-mmlab/OpenMMLabCourse) - OpenMMLab course index and stuff
@@ -1793,7 +1794,6 @@
 - [haoai-1997/Deep-learning-Survey-for-Omnidirectional-vision](https://github.com/haoai-1997/Deep-learning-Survey-for-Omnidirectional-vision) - 
 - [areuther/ai-accelerators](https://github.com/areuther/ai-accelerators) - CSV spreadsheets and other material for AI accelerator survey papers
 - [xushuan/google_latest_usb_driver_windows](https://github.com/xushuan/google_latest_usb_driver_windows) - 
-- [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [xxlbigbrother/Fusion-RCNN](https://github.com/xxlbigbrother/Fusion-RCNN) - This is the official code of FusionRCNN: LiDAR-Camera Fusion for Two-stage 3D Object Detection.
 - [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) - A curated list of radar datasets, detection, tracking and fusion
 - [megvii-research/introduction-neural-3d-reconstruction](https://github.com/megvii-research/introduction-neural-3d-reconstruction) - Course materials for Introduction to Neural 3D Reconstruction
@@ -2352,7 +2352,7 @@
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
 - [CGuangyan-BIT/PointGPT](https://github.com/CGuangyan-BIT/PointGPT) - [NeurIPS 2023] PointGPT: Auto-regressively Generative Pre-training from Point Clouds
 - [xijiu9/Train_Transformers_with_INT4](https://github.com/xijiu9/Train_Transformers_with_INT4) - 
-- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything, MobileSAM!!
+- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
 - [ChuRuaNh0/FastSam_Awsome_TensorRT](https://github.com/ChuRuaNh0/FastSam_Awsome_TensorRT) - 
 - [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 - [BooHwang/segment_anything_tensorrt](https://github.com/BooHwang/segment_anything_tensorrt) - Accelerate segment anything model inference using Tensorrt 8.6.1.6
@@ -2466,7 +2466,7 @@
 - [liu115/mesh2voxel](https://github.com/liu115/mesh2voxel) - 
 - [liu115/mesh2points](https://github.com/liu115/mesh2points) - 
 - [ehaleva/RIQ](https://github.com/ehaleva/RIQ) - Rotation-Invariant Quantization
-- [zjuluolun/BEVPlace](https://github.com/zjuluolun/BEVPlace) - A rotation-invariant, generalizable, and SOTA LiDAR place recognition method.
+- [zjuluolun/BEVPlace](https://github.com/zjuluolun/BEVPlace) - A LiDAR-based complete global localization method.
 - [dingxin-zhang/PaRot](https://github.com/dingxin-zhang/PaRot) - [AAAI 2023] PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration
 - [richardrl/bandu_v1_full_clean](https://github.com/richardrl/bandu_v1_full_clean) - Codebase for ICRA 2022 paper "Stable Object Reorientation using Contact Plane Registration"
 - [yizhangphd/FreqPCR](https://github.com/yizhangphd/FreqPCR) - [CVPR 2023 Highlight] Frequency-Modulated Point Cloud Rendering with Easy Editing.
