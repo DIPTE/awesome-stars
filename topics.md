@@ -708,7 +708,7 @@
 - [leggedrobotics/open3d_slam](https://github.com/leggedrobotics/open3d_slam) - Pointcloud-based graph SLAM written in C++ using open3D library.
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) - Recipes for the ConanCenter repository
-- [SMRT-AIST/fast_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
+- [koide3/fast_gicp](https://github.com/koide3/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
 - [LiuXiaolong19920720/simple_net](https://github.com/LiuXiaolong19920720/simple_net) - A simple deep neural network implemented in C++，based with OpenCV Mat matrix class
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
@@ -1989,7 +1989,7 @@
 - [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
 - [publicsite/COLMAP-OpenMVS-Pipeline](https://github.com/publicsite/COLMAP-OpenMVS-Pipeline) - A CPU 3D Reconstruction pipeline using COLMAP and OpenMVS
 - [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！
-- [SMRT-AIST/interactive_slam](https://github.com/SMRT-AIST/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
+- [koide3/interactive_slam](https://github.com/koide3/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
 - [koide3/ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
 - [prs-eth/OverlapPredator](https://github.com/prs-eth/OverlapPredator) - [CVPR 2021, Oral] PREDATOR: Registration of 3D Point Clouds with Low Overlap.
 - [haoyu94/Coarse-to-fine-correspondences](https://github.com/haoyu94/Coarse-to-fine-correspondences) - PyTorch implementation of NeurIPS 2021 paper: "CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration"
@@ -4678,7 +4678,7 @@
 - [virtual-vehicle/pointcloudset](https://github.com/virtual-vehicle/pointcloudset) - Efficient analysis of large datasets of point clouds recorded over time
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [SMRT-AIST/fast_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
+- [koide3/fast_gicp](https://github.com/koide3/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
 - [open-mmlab/mmeval](https://github.com/open-mmlab/mmeval) - A unified evaluation library for multiple machine learning libraries
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [DeepVAC/deepvac](https://github.com/DeepVAC/deepvac) - PyTorch Project Specification.
