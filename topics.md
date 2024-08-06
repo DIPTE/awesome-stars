@@ -2401,7 +2401,7 @@
 - [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
 - [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
 - [url-kaist/Patchwork2](https://github.com/url-kaist/Patchwork2) - Are you ready for fast and robust ground-segmentation for all terrain robots?
-- [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
+- [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - PaddlePaddle Code Convert Toolkit. 『飞桨』深度学习代码转换工具
 - [EnVision-Research/Adv3D](https://github.com/EnVision-Research/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for [IEEE Transactions on Vehicular Technology] "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
@@ -3032,7 +3032,7 @@
 - [lemenkov/libyuv](https://github.com/lemenkov/libyuv) - Unofficial libyuv mirror. Please submit any issues or PRs upstream.
 - [swords123/IDA-3D](https://github.com/swords123/IDA-3D) - IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for Autonomous Driving, in CVPR2020
 - [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) - 
-- [ouster-lidar/ouster_example](https://github.com/ouster-lidar/ouster_example) - Ouster, Inc. sample code
+- [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Ouster, Inc. sample code
 - [salesforce/ULIP](https://github.com/salesforce/ULIP) - 
 - [dvlab-research/spconv-plus](https://github.com/dvlab-research/spconv-plus) - 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
