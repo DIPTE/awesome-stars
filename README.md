@@ -728,7 +728,7 @@
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [lemenkov/libyuv](https://github.com/lemenkov/libyuv) - Unofficial libyuv mirror. Please submit any issues or PRs upstream.
 - [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) - 
-- [ouster-lidar/ouster_example](https://github.com/ouster-lidar/ouster_example) - Ouster, Inc. sample code
+- [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Ouster, Inc. sample code
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [hpi-xnor/BMXNet-v2](https://github.com/hpi-xnor/BMXNet-v2) - BMXNet 2: An Open-Source Binary Neural Network Implementation Based on MXNet
 - [12-10-8/HRNet_TensorRT](https://github.com/12-10-8/HRNet_TensorRT) - 
@@ -2218,7 +2218,7 @@
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - Code Convert to PaddlePaddle Toolkit
+- [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - PaddlePaddle Code Convert Toolkit. 『飞桨』深度学习代码转换工具
 - [EnVision-Research/Adv3D](https://github.com/EnVision-Research/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for [IEEE Transactions on Vehicular Technology] "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
 - [haooozi/FAML-RT](https://github.com/haooozi/FAML-RT) - Official Pytorch Implementation for [Information Sciences] "FAML-RT: Feature Alignment based multi-level Metric Learning network for Robust Tracker"
