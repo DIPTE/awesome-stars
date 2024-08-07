@@ -1442,7 +1442,7 @@
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024] DriveLM: Driving with Graph Visual Question Answering
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 7B base and chat models. 1M context support
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 base and chat models. 1M context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
 - [pengsongyou/openscene](https://github.com/pengsongyou/openscene) - [CVPR'23] OpenScene: 3D Scene Understanding with Open Vocabularies
@@ -2379,7 +2379,7 @@
 - [hollow-503/UniM2AE](https://github.com/hollow-503/UniM2AE) - This is the official implementation of the paper - UniM$^2$AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving
 - [MCG-NJU/LinK](https://github.com/MCG-NJU/LinK) - [CVPR 2023] LinK: Linear Kernel for LiDAR-based 3D Perception
 - [Cuogeihong/CEASC](https://github.com/Cuogeihong/CEASC) - The official implementation of CEASC
-- [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - 
+- [sankin97/LoGoNet](https://github.com/sankin97/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 - [ZZY816/COM](https://github.com/ZZY816/COM) - Curricular Object Manipulation in LiDAR-based Object Detection（CVPR 2023）
 - [IranQin/SupFusion](https://github.com/IranQin/SupFusion) - This is the official code of the paper "SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection"
 - [conceptofmind/toolformer](https://github.com/conceptofmind/toolformer) - 
