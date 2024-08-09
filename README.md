@@ -198,7 +198,6 @@
 - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) - Open Neural Network Exchange to C compiler.
 - [SiliconLabs/mltk](https://github.com/SiliconLabs/mltk) - A Python package with command-line utilities and scripts to aid the development  of machine learning models for Silicon Lab's embedded platforms
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
-- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN, TNN, NCNN and TensorRT.
 - [dut-media-lab/Image-Stitching](https://github.com/dut-media-lab/Image-Stitching) - Leveraging Line-point Consistence to Preserve Structures for Wide Parallax Image Stitching
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
@@ -511,7 +510,7 @@
 - [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
 - [i-v-s/strong-sort-cpp](https://github.com/i-v-s/strong-sort-cpp) - C++ implementation of the paper "StrongSORT: Make DeepSORT Great Again"
 - [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm with Re-ID and Camera Motion Compensation
-- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - OC_SORT implemented in C++ with Eigen Library
+- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2024] OC-SORT implemented in C++ with Eigen Library
 - [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
 - [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
 - [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
@@ -722,7 +721,7 @@
 - [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping package
 - [python-rapidjson/python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - Python wrapper around rapidjson
 - [zjhellofss/ffmpeg_cuda](https://github.com/zjhellofss/ffmpeg_cuda) - ffmpeg的cuda解码方式
-- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
+- [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 - [unmannedlab/point_labeler](https://github.com/unmannedlab/point_labeler) - 
 - [unmannedlab/imu_lidar_calibration](https://github.com/unmannedlab/imu_lidar_calibration) - Target-free Extrinsic Calibration of a 3D Lidar and an IMU
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -1020,6 +1019,7 @@
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [IntelLabs/SLIDE_opt_ia](https://github.com/IntelLabs/SLIDE_opt_ia) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
+- [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠 A lite C++ toolkit of awesome AI models, support ONNXRuntime, MNN, TNN, NCNN and TensorRT.
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
@@ -1719,7 +1719,6 @@
 - [jinlong17/V2VLC](https://github.com/jinlong17/V2VLC) - 
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [jiaweihe1996/BA-Det](https://github.com/jiaweihe1996/BA-Det) - (CVPR 2023) Official PyTorch implementation of the paper: 3D Video Object Detection with Learnable Object-Centric Global Optimization.
-- [Robertwyq/Frustum](https://github.com/Robertwyq/Frustum) - [CVPR 2023] FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection
 - [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
@@ -2282,6 +2281,7 @@
 - [IRMVLab/ASTA3DConv](https://github.com/IRMVLab/ASTA3DConv) - Codes for TIM2021 paper "Anchor-Based Spatio-Temporal Attention 3-D Convolutional Networks for Dynamic 3-D Point Cloud Sequences"
 - [s-duuu/pred_fusion](https://github.com/s-duuu/pred_fusion) - Object Trajectory Prediction using ROS, YOLOv5, PointPillars, CRAT-Pred
 - [aydnzn/Enhancing-LiDAR-based-3D-Object-Detection](https://github.com/aydnzn/Enhancing-LiDAR-based-3D-Object-Detection) - This repository contains a Master's Thesis on enhancing LiDAR-based 3D Object Detection in autonomous vehicles using synthetic data. The research explores the use of the Ansys AVxcelerate Sensors Simu
+- [Robertwyq/Frustum](https://github.com/Robertwyq/Frustum) - [CVPR 2023] FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection
 - [zhuoxiao-chen/ReDB-DA-3Ddet](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet) - [ICCV 2023] Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling
 - [ddsediri/IterativePFN](https://github.com/ddsediri/IterativePFN) - Official code implementation for the paper "IterativePFN: True Iterative Point Cloud Filtering" (published in CVPR 2023).
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
