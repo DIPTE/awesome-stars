@@ -1402,7 +1402,7 @@
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
-- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
