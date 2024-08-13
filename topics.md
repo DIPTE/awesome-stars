@@ -161,7 +161,7 @@
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
-- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024] PointLLM: Empowering Large Language Models to Understand Point Clouds
+- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024 Oral] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
@@ -1441,7 +1441,7 @@
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024] DriveLM: Driving with Graph Visual Question Answering
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 base and chat models. 1M context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [Pointcept/GPT4Point](https://github.com/Pointcept/GPT4Point) - [CVPR'24 Highlight] GPT4Point: A Unified Framework for Point-Language Understanding and Generation.
@@ -2022,7 +2022,7 @@
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [nwesem/mtcnn_facenet_cpp_tensorRT](https://github.com/nwesem/mtcnn_facenet_cpp_tensorRT) - Face Recognition on NVIDIA Jetson (Nano) using TensorRT
 - [wyc15002105071/Recorder](https://github.com/wyc15002105071/Recorder) - The Recorder Application of RK3588 for Qt
-- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - 🔥 [ECCV2024] Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
+- [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - [ECCV2024 Oral🔥] Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
 - [yzrobot/adaptive_clustering](https://github.com/yzrobot/adaptive_clustering) - [ROS package] Lightweight and Accurate Point Cloud Clustering
 - [fishros/LeGO-LOAM-ROS2](https://github.com/fishros/LeGO-LOAM-ROS2) - 支持ROS2 Humble版本的LeGO-LOAM
 - [joaofaro/KCFcpp](https://github.com/joaofaro/KCFcpp) - C++ Implementation of KCF Tracker
