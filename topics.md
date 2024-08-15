@@ -595,7 +595,7 @@
 - [DerrickXuNu/v2x-vit](https://github.com/DerrickXuNu/v2x-vit) - [ECCV2022] Official Implementation of  paper "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer"
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [ai4ce/EgoPAT3D](https://github.com/ai4ce/EgoPAT3D) - [CVPR 2022] Egocentric Action Target Prediction in 3D
-- [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - [ECCV2022 Oral] Perspective Transformer on 3D Lane Detection
+- [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - [ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection
 - [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [jishnujayakumar/MV-Tractus](https://github.com/jishnujayakumar/MV-Tractus) - A simple tool to extract motion vectors from h264 encoded videos.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -1001,7 +1001,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [ai4ce/EgoPAT3D](https://github.com/ai4ce/EgoPAT3D) - [CVPR 2022] Egocentric Action Target Prediction in 3D
-- [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - [ECCV2022 Oral] Perspective Transformer on 3D Lane Detection
+- [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - [ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection
 - [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [ydwen/opensphere](https://github.com/ydwen/opensphere) - A hyperspherical face recognition library based on PyTorch
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -1143,7 +1143,7 @@
 ## deployment 
 
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) - Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch With Multi-threads
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch
 - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
 - [HaohaoNJU/CenterFusion](https://github.com/HaohaoNJU/CenterFusion) - NN-based radar-camera post sensor fusion implemented by TensorRT
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
@@ -3036,7 +3036,7 @@
 - [salesforce/ULIP](https://github.com/salesforce/ULIP) - 
 - [dvlab-research/spconv-plus](https://github.com/dvlab-research/spconv-plus) - 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
-- [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR'23 Best Paper Award] Planning-oriented Autonomous Driving
+- [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
 - [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition.
 - [haomo-ai/MotionSeg3D](https://github.com/haomo-ai/MotionSeg3D) - [IROS 2022] Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
@@ -4788,7 +4788,7 @@
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch With Multi-threads
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
