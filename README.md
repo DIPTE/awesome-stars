@@ -2611,7 +2611,7 @@
 - [salesforce/ULIP](https://github.com/salesforce/ULIP) - 
 - [dvlab-research/spconv-plus](https://github.com/dvlab-research/spconv-plus) - 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
-- [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR'23 Best Paper Award] Planning-oriented Autonomous Driving
+- [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
 - [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition.
 - [haomo-ai/MotionSeg3D](https://github.com/haomo-ai/MotionSeg3D) - [IROS 2022] Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
@@ -3003,7 +3003,7 @@
 - [kienduynguyen/BoxeR](https://github.com/kienduynguyen/BoxeR) - Code release for "BoxeR: Box-Attention for 2D and 3D Transformers"
 - [ocNflag/point2seq](https://github.com/ocNflag/point2seq) - 
 - [hancyran/RepSurf](https://github.com/hancyran/RepSurf) - [CVPR 2022 Oral] Official implementation for "Surface Representation for Point Clouds"
-- [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - [ECCV2022 Oral] Perspective Transformer on 3D Lane Detection
+- [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - [ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection
 - [Tsinghua-MARS-Lab/HDMapNet](https://github.com/Tsinghua-MARS-Lab/HDMapNet) - 
 - [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) - [ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [dragonlong/equi-pose](https://github.com/dragonlong/equi-pose) - [NeurIPS 2021], self-supervised 6D pose on category level
