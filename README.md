@@ -2513,7 +2513,6 @@
 - [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 - [JUGGHM/PENet_ICRA2021](https://github.com/JUGGHM/PENet_ICRA2021) - ICRA 2021 "Towards Precise and Efficient Image Guided Depth Completion"
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
-- [yushulx/docker-arm64-arm32-python-barcode-detection](https://github.com/yushulx/docker-arm64-arm32-python-barcode-detection) - 
 - [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 - [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) - [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
 - [dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
