@@ -688,7 +688,7 @@
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
-- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流，作者微信: ChunelFeng
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
