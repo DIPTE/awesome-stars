@@ -294,6 +294,7 @@
 - [Gutsgwh1997/CIL-SLAM](https://github.com/Gutsgwh1997/CIL-SLAM) - An unfinished camera-imu-lidar tightly coupled simultaneous localization and mapping system.
 - [nkliuhui/sync_gps_lidar_imu_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam) - lidar-imu-cam-GPS时间戳硬件同步方案
 - [Livox-SDK/livox_relocalization](https://github.com/Livox-SDK/livox_relocalization) - A relocalization package for Livox LiDARs.
+- [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI, M-LOAM, LOCUS, SLICT, MA-LIO application and com
 - [laxnpander/OpenREALM](https://github.com/laxnpander/OpenREALM) - OpenREALM is a pipeline for real-time aerial mapping utilizing visual SLAM and 3D reconstruction frameworks.
 - [jedeschaud/ct_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
 - [facontidavide/rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
@@ -1959,7 +1960,6 @@
 - [yangyangyang127/Seg-NN](https://github.com/yangyangyang127/Seg-NN) - [CVPR2024 Hightlight] No Time to Train: Empowering Non-Parametric Networks for Few-shot 3D Scene Segmentation
 - [heshuting555/PAP-FZS3D](https://github.com/heshuting555/PAP-FZS3D) - [TIP-2023] Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation
 - [Na-Z/attMPTI](https://github.com/Na-Z/attMPTI) - [CVPR 2021] Few-shot 3D Point Cloud Semantic Segmentation
-- [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI application and comparison on Gazebo and real-wor
 - [heethesh/lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - Light-weight camera LiDAR calibration package for ROS using OpenCV and PCL (PnP + LM optimization)
 - [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
 - [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - [ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
