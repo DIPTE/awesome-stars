@@ -21,6 +21,7 @@
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
@@ -120,6 +121,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
@@ -427,6 +429,37 @@
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
+## c-plus-plus 
+
+- [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
+- [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
+- [nmellado/Super4PCS](https://github.com/nmellado/Super4PCS) - Efficient Global Point-cloud registration
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11
+- [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+- [michel-meneses/great-opencl-examples](https://github.com/michel-meneses/great-opencl-examples) - Collection of easy, well-documented and useful OpenCL examples in C++.
+- [yaoli1992/bin_picking](https://github.com/yaoli1992/bin_picking) - this is a binpicking code base on PCL
+- [fverdoja/Fast-3D-Pointcloud-Segmentation](https://github.com/fverdoja/Fast-3D-Pointcloud-Segmentation) - Fast 3D point cloud segmentation using supervoxels with geometry and color for 3D scene understanding
+- [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
+- [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
+- [doe300/VC4CL](https://github.com/doe300/VC4CL) - OpenCL implementation running on the VideoCore IV GPU of the Raspberry Pi models
+- [dtcMLOps/DBScan-PCL-Optimized](https://github.com/dtcMLOps/DBScan-PCL-Optimized) - DBScan algorithm using Octrees to cluster 3D points in a space with PCL Library
+- [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
+- [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+- [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
+- [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
+- [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+- [jlblancoc/nanoflann](https://github.com/jlblancoc/nanoflann) - nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
+- [CKchaos/scn2pointcloud_tool](https://github.com/CKchaos/scn2pointcloud_tool) - The toolbox implements the data conversion from CAD models (such as .obj/.off file) to point cloud(surface voxels) with RGB value and labels.
+- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
+- [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 
 ## chatgpt 
 
@@ -1751,7 +1784,7 @@
 ## nlp 
 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
-- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4
+- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
@@ -1985,7 +2018,7 @@
 - [makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping](https://github.com/makendi19841/Parking-Slot-Detection-3D-LiDar-Raw-Ping) - 
 - [cshang412/BEV_parkingSlot](https://github.com/cshang412/BEV_parkingSlot) - process parking slots detected on Bev image, generate the parking slots on the world coordinate.
 - [lewisjiang/contour-context](https://github.com/lewisjiang/contour-context) - [ICRA'23] Official code repo for "Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation"
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [ppwwyyxx/OpenPano](https://github.com/ppwwyyxx/OpenPano) - Automatic Panorama Stitching From Scratch
 - [KumarRobotics/sloam](https://github.com/KumarRobotics/sloam) - Semantic LIDAR odometry and mapping for cylinderical objects (e.g. trees in forests)
 - [lilin-hitcrt/SSC](https://github.com/lilin-hitcrt/SSC) - Semantic Scan Context
@@ -2221,7 +2254,6 @@
 - [yangjiaolong/Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
 - [isl-org/FastGlobalRegistration](https://github.com/isl-org/FastGlobalRegistration) - Fast Global Registration
 - [norlab-ulaval/libnabo](https://github.com/norlab-ulaval/libnabo) - A fast K Nearest Neighbor library for low-dimensional spaces
-- [nmellado/Super4PCS](https://github.com/nmellado/Super4PCS) - Efficient Global Point-cloud registration
 - [huapohen/general_parking_slot_detection](https://github.com/huapohen/general_parking_slot_detection) - 
 - [cggos/state_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
@@ -2250,11 +2282,9 @@
 - [THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 - [creapunk/CLN-ClosedLoopNemaDriver](https://github.com/creapunk/CLN-ClosedLoopNemaDriver) - Compact closed-loop stepper motor driver designed for NEMA motors
 - [Tencent/libco](https://github.com/Tencent/libco) - libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
-- [yyzybb537/libgo](https://github.com/yyzybb537/libgo) - Go-style concurrency in C++11
 - [YukangLiu/netco](https://github.com/YukangLiu/netco) - A lightweight c++11 symetric coroutine library which can be used for network programming.
 - [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
 - [waymo-research/waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
-- [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [Cambricon/easydk](https://github.com/Cambricon/easydk) - easy development kit
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
@@ -2675,7 +2705,6 @@
 - [JiayuZou2020/DiffBEV](https://github.com/JiayuZou2020/DiffBEV) - Official PyTorch implementation for a conditional diffusion probability model in BEV perception
 - [open-mmlab/playground](https://github.com/open-mmlab/playground) - A central hub for gathering and showcasing amazing projects that extend OpenMMLab with SAM and other exciting features.
 - [PaddlePaddle/PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) - 
-- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
 - [KhronosGroup/OpenCL-Headers](https://github.com/KhronosGroup/OpenCL-Headers) - Khronos OpenCL-Headers
 - [iree-org/iree-nvgpu](https://github.com/iree-org/iree-nvgpu) - 
@@ -2937,7 +2966,6 @@
 - [mithi/fusion-ukf](https://github.com/mithi/fusion-ukf) - An unscented Kalman Filter implementation for fusing lidar and radar sensor measurements.
 - [TRI-ML/PF-Track](https://github.com/TRI-ML/PF-Track) - Implementation of PF-Track
 - [xiaohulugo/3DLineDetection](https://github.com/xiaohulugo/3DLineDetection) - A simple and efficient 3D line detection algorithm for large scale unorganized point cloud
-- [yaoli1992/bin_picking](https://github.com/yaoli1992/bin_picking) - this is a binpicking code base on PCL
 - [yaoli1992/LiDAR-Point-Cloud-Compression](https://github.com/yaoli1992/LiDAR-Point-Cloud-Compression) - modify from https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression
 - [jkk-research/pointcloud_to_grid](https://github.com/jkk-research/pointcloud_to_grid) - ROS 1 and ROS 2 node that converts sensor_msgs/PointCloud2 LIDAR data to nav_msgs/OccupancyGrid 2D map data based on intensity and / or height. 🤖
 - [wangx1996/Semantic-Kitti-Label-Read](https://github.com/wangx1996/Semantic-Kitti-Label-Read) - A c++ version code to read semantic kitti label.
@@ -3166,7 +3194,6 @@
 - [halostorm/pointCloud_ground_detection](https://github.com/halostorm/pointCloud_ground_detection) - 
 - [artivis/pointcloud_to_rangeimage](https://github.com/artivis/pointcloud_to_rangeimage) - [ROS][C++] Convert a pointcloud to rangeimage and back to pointcloud
 - [veraposeidon/PointCloudVolumeMeasure](https://github.com/veraposeidon/PointCloudVolumeMeasure) - 点云测体积Demo：用Kinect+PCL点云库测量方体体积。
-- [fverdoja/Fast-3D-Pointcloud-Segmentation](https://github.com/fverdoja/Fast-3D-Pointcloud-Segmentation) - Fast 3D point cloud segmentation using supervoxels with geometry and color for 3D scene understanding
 - [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) - Papers and Datasets  about Point Cloud.
 - [ChengpengChen/RepGhost](https://github.com/ChengpengChen/RepGhost) - RepGhost: A Hardware-Efficient Ghost Module via Re-parameterization
 - [sp4cerat/Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) - Mesh triangle reduction using quadrics
@@ -3306,7 +3333,6 @@
 - [Shimingyi/MotioNet](https://github.com/Shimingyi/MotioNet) - A deep neural network that directly reconstructs the motion of a 3D human skeleton from monocular video [ToG 2020]
 - [frankfengdi/LidarMTL](https://github.com/frankfengdi/LidarMTL) - The official code release of LidarMTL, a simple and efficient multi-task network for 3D object detection and road understanding
 - [xmba15/obstacle_detection_stixelnet](https://github.com/xmba15/obstacle_detection_stixelnet) - stixelnet for obstacle region detection of road scenes
-- [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [AlbinZhu/yolov7-polygon-detection](https://github.com/AlbinZhu/yolov7-polygon-detection) - yolov7-polygon-detection
 - [NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes) - 
@@ -3337,7 +3363,6 @@
 - [Ghustwb/WechatArtical](https://github.com/Ghustwb/WechatArtical) - “卡本特”公众号文章
 - [NVIDIA/VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework) - Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions
 - [unicap/unicap](https://github.com/unicap/unicap) - unicap provides a uniform interface to video capture devices.
-- [doe300/VC4CL](https://github.com/doe300/VC4CL) - OpenCL implementation running on the VideoCore IV GPU of the Raspberry Pi models
 - [thortex/rpi3-vc4cl](https://github.com/thortex/rpi3-vc4cl) - VC4CL for Raspberry Pi 3
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [diegovalsesia/HyCoRe](https://github.com/diegovalsesia/HyCoRe) - Code for "Rethinking the compositionality of point clouds through regularization in the hyperbolic space" (NeurIPS 2022)
@@ -3350,7 +3375,6 @@
 - [sqhuang/QtPCL](https://github.com/sqhuang/QtPCL) - qt界面框架 for PCL
 - [dtcMLOps/pcl-docker](https://github.com/dtcMLOps/pcl-docker) - Point Cloud Library docker container
 - [dtcMLOps/vtk-hello-world](https://github.com/dtcMLOps/vtk-hello-world) - VTK simple hello world
-- [dtcMLOps/DBScan-PCL-Optimized](https://github.com/dtcMLOps/DBScan-PCL-Optimized) - DBScan algorithm using Octrees to cluster 3D points in a space with PCL Library
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [elben6exam/raspbeery_pi4_arm_openvino](https://github.com/elben6exam/raspbeery_pi4_arm_openvino) - 
 - [xdien/build-openssl-armv7](https://github.com/xdien/build-openssl-armv7) - Build openssl for android armv7 running with qt. use android NDK 17c
@@ -3401,7 +3425,6 @@
 - [zhen8838/K210_Yolo_framework](https://github.com/zhen8838/K210_Yolo_framework) - Yolo v3 framework base on tensorflow, support multiple models, multiple datasets, any number of output layers, any number of anchors, model prune, and portable model to K210 !
 - [kendryte/kendryte-flash-windows](https://github.com/kendryte/kendryte-flash-windows) - Kendryte flash utility for Windows
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
-- [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
 - [RYAN9528221/FFMPEG-MFC-VC-Mux-recoding-audio-and-mixed-it-with-.BMP-to-YUV-Image-Buffer](https://github.com/RYAN9528221/FFMPEG-MFC-VC-Mux-recoding-audio-and-mixed-it-with-.BMP-to-YUV-Image-Buffer) - 
 - [sophon-ai-algo/sophon-qt](https://github.com/sophon-ai-algo/sophon-qt) - 
 - [sophon-ai-algo/examples](https://github.com/sophon-ai-algo/examples) - Examples for SophonSDK
@@ -3613,7 +3636,6 @@
 - [pytorch/builder](https://github.com/pytorch/builder) - Continuous builder and binary build scripts for pytorch
 - [wavefrontshaping/complexPyTorch](https://github.com/wavefrontshaping/complexPyTorch) - A high-level toolbox for using complex valued neural networks in PyTorch
 - [mfxox/ILCC](https://github.com/mfxox/ILCC) - Intensity-based_Lidar_Camera_Calibration
-- [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
 - [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v9.0.0) CyberRT Framework  CMake Build
 - [zhxt/cyber-rt](https://github.com/zhxt/cyber-rt) - Redistributed Apollo CyberRT, built with CMake.
 - [storypku/CyberRT](https://github.com/storypku/CyberRT) - Apollo CyberRT framework for Autonomous Driving
@@ -5089,6 +5111,16 @@
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+
+## reinforcement-learning 
+
+- [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - Tactics2D: A Reinforcement Learning Environment Library with Generative Scenarios for Driving Decision-making
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
+- [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - ♟️ Vectorized RL game environments in JAX
+- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
+- [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
+- [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
 ## rest-api 
 
