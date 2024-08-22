@@ -87,7 +87,6 @@
 - [ZainZh/sunriseX3_yolov8](https://github.com/ZainZh/sunriseX3_yolov8) - 地平线horizon开发板部署工具
 - [Dao-AILab/fast-hadamard-transform](https://github.com/Dao-AILab/fast-hadamard-transform) - Fast Hadamard transform in CUDA, with a PyTorch interface
 - [WiringPi/WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
-- [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient) - A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）
 - [leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading) - A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。
@@ -396,6 +395,7 @@
 - [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 - [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : ) 。**VideoPipe下一版本正在开发中，在保证跨平台、易上手的前提下，预计性能直逼deepstream等各硬件平台官方框架**。
+- [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
@@ -476,7 +476,7 @@
 - [aljosaosep/ciwt](https://github.com/aljosaosep/ciwt) - This repository contains code for the tracking system as described in ''Combined Image- and World-Space Tracking in Traffic Scenes'', ICRA 2017.
 - [SonginCV/MAF_HDA](https://github.com/SonginCV/MAF_HDA) - An official implementation of the MAF_HDA Tracker
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
-- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4
+- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流，作者微信: ChunelFeng
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
@@ -1168,6 +1168,7 @@
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [wang-ps/O-CNN](https://github.com/wang-ps/O-CNN) - This repository contains the code of our O-CNN paper.
 - [jlblancoc/nanoflann](https://github.com/jlblancoc/nanoflann) - nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees
+- [microsoft/DirectML](https://github.com/microsoft/DirectML) - DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported har
 - [TeXworks/texworks](https://github.com/TeXworks/texworks) - Main codebase for TeXworks, a simple interface for working with TeX documents
 - [Dingyuec/3D_Model_Retrieval_Based_On_Sketches](https://github.com/Dingyuec/3D_Model_Retrieval_Based_On_Sketches) - 
 - [joesfer/Sampler](https://github.com/joesfer/Sampler) - Maya plugin implementing utility nodes to voxelize and sample geometry
@@ -1963,7 +1964,7 @@
 - [heethesh/lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - Light-weight camera LiDAR calibration package for ROS using OpenCV and PCL (PnP + LM optimization)
 - [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
 - [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - [ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
 - [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
@@ -3546,7 +3547,6 @@
 - [scutcr7/GVCNN](https://github.com/scutcr7/GVCNN) - a pytorch implement of GVCNN
 - [qq456cvb/QENet](https://github.com/qq456cvb/QENet) - Quaternion Equivariant Capsule Networks for 3D Point Clouds
 - [Banconxuan/RTM3D](https://github.com/Banconxuan/RTM3D) - The official PyTorch Implementation of RTM3D and KM3D for Monocular 3D Object Detection
-- [microsoft/DirectML](https://github.com/microsoft/DirectML) - DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported har
 - [JonasSchult/dcm-net](https://github.com/JonasSchult/dcm-net) - This work is based on our paper "DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes", which appeared at the IEEE Conference On Computer Vision And Pattern Recognition (CVPR) 2020
 - [chihhuiho/VISPE](https://github.com/chihhuiho/VISPE) - Code for Exploit Clues from Views: Self-Supervised and Regularized Learning for Multiview Object Recognition
 - [nihalsid/ViewAL](https://github.com/nihalsid/ViewAL) - [CVPR'20] Implementation for the paper "ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation"
