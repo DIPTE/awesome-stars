@@ -393,7 +393,7 @@
 - [gisbi-kim/SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM) - LiDAR-inertial SLAM: Scan Context + LIO-SAM
 - [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
-- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : ) 。**VideoPipe下一版本正在开发中，在保证跨平台、易上手的前提下，预计性能直逼deepstream等各硬件平台官方框架**。
+- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
@@ -879,7 +879,6 @@
 - [thb1314/ffmpeg-qt-openvino-rtmp](https://github.com/thb1314/ffmpeg-qt-openvino-rtmp) - 
 - [sambios/ffmpeg-pusher](https://github.com/sambios/ffmpeg-pusher) - Use ffmpeg to push stream to server, support file and many protocols like rtsp/rtmp/tcp/udp etc.
 - [gongluck/AnalysisAVP](https://github.com/gongluck/AnalysisAVP) - 音视频学习，相关文件格式/协议分析，框架学习等。encode decode；rgb yuv h264 aac flv mp4 rtmp；libyuv x264 openh264 faac faad2 fdk-aac librtmp ffmpeg sdl2 webrtc；android ios capture videotoolbox；
-- [tsingsee/EasyIPCamera](https://github.com/tsingsee/EasyIPCamera) - RTSP Server：free, elegant, simple, high performance RTSP Server for smart-devices/desktop-application,such as Android-Camera/Windows-Desktop-LiveStreaming/ARM-IPCamera,also can run in Windows/Linux/AR
 - [tsingsee/EasyScreenLive](https://github.com/tsingsee/EasyScreenLive) - Streaming media sdk tool：EasyScreenLive是一款简单、高效、稳定的集采集，编码，组播，推流和流媒体RTSP服务于一身的同屏功能组件，具低延时，高效能，低丢包等特点。目前支持Windows，Android平台，通过EasyScreenLive我们就可以避免接触到稍显复杂的音视频源采集，编码和流媒体推送以及RTSP/RTP/RTCP/RTMP服务流程，只需要调用Ea
 - [MingYueRuYa/FFmpeg-RTMP](https://github.com/MingYueRuYa/FFmpeg-RTMP) - 对FFmpeg和RTMP的学习
 - [jkuri/opencv-ffmpeg-rtmp-stream](https://github.com/jkuri/opencv-ffmpeg-rtmp-stream) - OpenCV FFMpeg Live Video Stream over RTMP protocol.
