@@ -174,7 +174,7 @@
 - [1244975831/RtmpPlayerDemo](https://github.com/1244975831/RtmpPlayerDemo) - FFMPEG库进行Rtmp流的解析并显示
 - [EasyDarwin/EasyPlayer-RTSP-Win](https://github.com/EasyDarwin/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
 - [freeeyes/ffmpeg4_camera_to_rtmp](https://github.com/freeeyes/ffmpeg4_camera_to_rtmp) - ffmpeg4 camera to rtmp stream
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT real-time operating system (RTOS).
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [vseasky/riscv-k210](https://github.com/vseasky/riscv-k210) - K210  PCB YOLO
 - [zhen8838/K210_Yolo_framework](https://github.com/zhen8838/K210_Yolo_framework) - Yolo v3 framework base on tensorflow, support multiple models, multiple datasets, any number of output layers, any number of anchors, model prune, and portable model to K210 !
@@ -1737,7 +1737,7 @@
 - [fishros/d2l-ros2](https://github.com/fishros/d2l-ros2) - 动手学ROS2课程配套教程，欢迎关注公众号《鱼香ROS》
 - [colorfulfuture/GC-VRNN](https://github.com/colorfulfuture/GC-VRNN) - 
 - [MediaBrain-SJTU/TBP-Former](https://github.com/MediaBrain-SJTU/TBP-Former) - 
-- [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
+- [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
 - [yokinglou/CRIN](https://github.com/yokinglou/CRIN) - The repo of AAAI-23 paper: "CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame".
 - [weakmono3d/weakmono3d](https://github.com/weakmono3d/weakmono3d) - 
 - [teddyluo/motion-planning-chs](https://github.com/teddyluo/motion-planning-chs) - 运动规划综述中文翻译
@@ -1995,7 +1995,7 @@
 - [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
 - [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - OMG-LLaVA and OMG-Seg codebase
 - [NVlabs/BEV-Planner](https://github.com/NVlabs/BEV-Planner) - 
-- [oneformer3d/oneformer3d](https://github.com/oneformer3d/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
+- [filaPro/oneformer3d](https://github.com/filaPro/oneformer3d) - [CVPR2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation
 - [Hzbupahaozi/yolov8_xj3_deploy](https://github.com/Hzbupahaozi/yolov8_xj3_deploy) - yolov8的训练以及在旭日x3派上的部署
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - [ECCV 2024] GenAD: Generative End-to-End Autonomous Driving
