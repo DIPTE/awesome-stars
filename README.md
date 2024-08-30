@@ -127,6 +127,7 @@
 - [monsiw/object-detection-yolo](https://github.com/monsiw/object-detection-yolo) - The project aims to use a trained model in the YOLO network to detect objects that will be detected by the robot structure with a computer on which ROS has been installed. ROS manages the individual p
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [CANopenNode/CANopenLinux](https://github.com/CANopenNode/CANopenLinux) - CANopenNode on Linux devices
+- [QQxiaoming/quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) - This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 - [zombieCraig/uds-server](https://github.com/zombieCraig/uds-server) - CAN UDS Simulator and Fuzzer
 - [craigpeacock/CAN-Examples](https://github.com/craigpeacock/CAN-Examples) - Example C code for CAN Sockets on Linux
@@ -1746,7 +1747,6 @@
 - [SysCV/TrafficBots](https://github.com/SysCV/TrafficBots) - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. ICRA 2023. Code is now available at https://github.com/zhejz/TrafficBots
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
 - [hku-mars/ROG-Map](https://github.com/hku-mars/ROG-Map) - 
-- [QQxiaoming/quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) - This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development
 - [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
 - [apoorv-ml/Vision-RADAR-Fusion-BEV-Survey](https://github.com/apoorv-ml/Vision-RADAR-Fusion-BEV-Survey) - Vision-RADAR fusion for Robotics BEV Perception: A Survey
 - [apoorv-ml/VisionBEVDetectionSurvey](https://github.com/apoorv-ml/VisionBEVDetectionSurvey) - 
@@ -2032,7 +2032,7 @@
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
