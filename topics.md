@@ -889,7 +889,7 @@
 - [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - [ICLR24] Official implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
-- [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
+- [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight 💡] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [Qengineering/YoloV5-NPU](https://github.com/Qengineering/YoloV5-NPU) - YoloV5 NPU for the RK3566/68/88
@@ -995,7 +995,7 @@
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) - :zap: A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is
 - [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) - A curated list of radar datasets, detection, tracking and fusion
-- [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - Self-Supervised Scene Flow Estimation with 4-D Automotive Radar (RA-L & IROS'22)
+- [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - [RA-L & IROS'22] Self-Supervised Scene Flow Estimation with 4-D Automotive Radar
 - [megvii-research/megvii-pku-dl-course](https://github.com/megvii-research/megvii-pku-dl-course) - Homepage for the joint course of Megvii Inc. and Peking University on Deep Learning.
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
@@ -3004,7 +3004,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to SSE4 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA/C++ 笔记 / 大模型手撕CUDA / 技术博客，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA/C++ 笔记 / 技术博客: fp32、fp16/bf16、fp8/int8、flash_attn、sgemm、sgemv、warp/block reduce、dot prod、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -3540,7 +3540,7 @@
 - [hcwinsemius/RTK_GNSS](https://github.com/hcwinsemius/RTK_GNSS) - Manual for RTK GNSS with low cost u-blox ZED-F9P receivers rover-base setup
 - [TUMFTM/RadarSeg](https://github.com/TUMFTM/RadarSeg) - 
 - [radar-lab/autolabelling_radar](https://github.com/radar-lab/autolabelling_radar) - Automatic Radar-Camera Dataset Generation for Sensor-Fusion Applications
-- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - PyTorch code reproduction of RadarNet (ECCV'20) for radar-based 3D object detection
+- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - [ECCV'20] PyTorch Reproduction for RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects
 - [TUMFTM/CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) - 
 - [megvii-research/introduction-neural-3d-reconstruction](https://github.com/megvii-research/introduction-neural-3d-reconstruction) - Course materials for Introduction to Neural 3D Reconstruction
 - [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples) - Examples for using ONNX Runtime for model training.
@@ -4924,7 +4924,7 @@
 - [yizhou-wang/RODNet](https://github.com/yizhou-wang/RODNet) - RODNet: Radar object detection network
 - [CharlesShang/DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
 - [lucasjinreal/DCNv2_latest](https://github.com/lucasjinreal/DCNv2_latest) - DCNv2 supports decent pytorch such as torch 1.5+ (now 1.8+)
-- [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - Self-Supervised Scene Flow Estimation with 4-D Automotive Radar (RA-L & IROS'22)
+- [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - [RA-L & IROS'22] Self-Supervised Scene Flow Estimation with 4-D Automotive Radar
 - [open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [ttanzhiqiang/onnx_tensorrt_project](https://github.com/ttanzhiqiang/onnx_tensorrt_project) - Support Yolov5(4.0)/Yolov5(5.0)/YoloR/YoloX/Yolov4/Yolov3/CenterNet/CenterFace/RetinaFace/Classify/Unet. use darknet/libtorch/pytorch/mxnet to onnx to tensorrt
