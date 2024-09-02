@@ -1256,7 +1256,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA/C++ 笔记 / 大模型手撕CUDA / 技术博客，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉CUDA/C++ 笔记 / 技术博客: fp32、fp16/bf16、fp8/int8、flash_attn、sgemm、sgemv、warp/block reduce、dot prod、elementwise、softmax、layernorm、rmsnorm、hist etc.
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -2190,7 +2190,7 @@
 - [JunshengFu/vehicle-detection](https://github.com/JunshengFu/vehicle-detection) - Created vehicle detection pipeline with two approaches: (1) deep neural networks (YOLO framework) and (2) support vector machines ( OpenCV + HOG).
 - [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - YOLOV5 semi-automatic annotation tool (Based on labelImg)
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
-- [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
+- [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight 💡] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - [CVPR 2023] Learning a 3D Morphable Face Reflectance Model from Low-cost Data
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
@@ -2876,9 +2876,9 @@
 - [yan-wyb/rtsp-web-appliation](https://github.com/yan-wyb/rtsp-web-appliation) - 
 - [bitfsd/ConeDetection](https://github.com/bitfsd/ConeDetection) - Detection moudle using paddlepaddle for formular student driverless
 - [hcwinsemius/RTK_GNSS](https://github.com/hcwinsemius/RTK_GNSS) - Manual for RTK GNSS with low cost u-blox ZED-F9P receivers rover-base setup
-- [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - Self-Supervised Scene Flow Estimation with 4-D Automotive Radar (RA-L & IROS'22)
+- [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - [RA-L & IROS'22] Self-Supervised Scene Flow Estimation with 4-D Automotive Radar
 - [TUMFTM/RadarSeg](https://github.com/TUMFTM/RadarSeg) - 
-- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - PyTorch code reproduction of RadarNet (ECCV'20) for radar-based 3D object detection
+- [Toytiny/RadarNet-pytorch](https://github.com/Toytiny/RadarNet-pytorch) - [ECCV'20] PyTorch Reproduction for RadarNet: Exploiting Radar for Robust Perception of Dynamic Objects
 - [TUMFTM/CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) - 
 - [megvii-research/megvii-pku-dl-course](https://github.com/megvii-research/megvii-pku-dl-course) - Homepage for the joint course of Megvii Inc. and Peking University on Deep Learning.
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
