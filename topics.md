@@ -1904,6 +1904,8 @@
 
 ## others 
 
+- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [huangwl18/ReKep](https://github.com/huangwl18/ReKep) - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
 - [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU.
 - [AssafSinger94/dino-tracker](https://github.com/AssafSinger94/dino-tracker) - Official Pytorch Implementation for “DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video”
