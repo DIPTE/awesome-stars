@@ -447,7 +447,7 @@
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
 - [doe300/VC4CL](https://github.com/doe300/VC4CL) - OpenCL implementation running on the VideoCore IV GPU of the Raspberry Pi models
-- [dtcMLOps/DBScan-PCL-Optimized](https://github.com/dtcMLOps/DBScan-PCL-Optimized) - DBScan algorithm using Octrees to cluster 3D points in a space with PCL Library
+- [codebydant/DBScan-PCL-Optimized](https://github.com/codebydant/DBScan-PCL-Optimized) - DBScan algorithm using Octrees to cluster 3D points in a space with PCL Library
 - [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -487,6 +487,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -764,8 +765,8 @@
 - [LiuXiaolong19920720/simple_net](https://github.com/LiuXiaolong19920720/simple_net) - A simple deep neural network implemented in C++，based with OpenCV Mat matrix class
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [dtcMLOps/video2image-opencv](https://github.com/dtcMLOps/video2image-opencv) - This is a c++ program to convert a video to frames
-- [dtcMLOps/video2opencv-video](https://github.com/dtcMLOps/video2opencv-video) - This is a C++ program to convert a video to opencv format video
+- [codebydant/video2image-opencv](https://github.com/codebydant/video2image-opencv) - This is a c++ program to convert a video to frames
+- [codebydant/video2opencv-video](https://github.com/codebydant/video2opencv-video) - This is a C++ program to convert a video to opencv format video
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [DeepVAC/libdeepvac](https://github.com/DeepVAC/libdeepvac) - Use PyTorch model in C++ project
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -903,6 +904,7 @@
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [darrenjkt/SEE-MTDA](https://github.com/darrenjkt/SEE-MTDA) - (RA-L 2022) See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation.
 - [rui-qian/BADet](https://github.com/rui-qian/BADet) - Rui Qian, Xin Lai, Xirong Li: BADet: Boundary-Aware 3D Object Detection from Point Clouds (Pattern Recognition 2022: IF=8.518)
+- [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio
 - [Turoad/lanedet](https://github.com/Turoad/lanedet) - An open source lane detection toolbox based on PyTorch, including SCNN, RESA, UFLD, LaneATT, CondLane, etc.
@@ -1023,7 +1025,7 @@
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [miracleyoo/pytorch-lightning-template](https://github.com/miracleyoo/pytorch-lightning-template) - An easy/swift-to-adapt PyTorch-Lighting template. 套壳模板，简单易用，稍改原来Pytorch代码，即可适配Lightning。You can translate your previous Pytorch code much easier using this template, and keep your freedom to edit all 
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [VeriSilicon/TIM-VX](https://github.com/VeriSilicon/TIM-VX) - VeriSilicon Tensor Interface Module
@@ -1604,7 +1606,7 @@
 - [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) - A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
 - [MegEngine/MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
 - [PINTO0309/simple-onnx-processing-tools](https://github.com/PINTO0309/simple-onnx-processing-tools) - A set of simple tools for splitting, merging, OP deletion, size compression, rewriting attributes and constants, OP generation, change opset, change to the specified input order, addition of OP, RGB t
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
@@ -1759,7 +1761,7 @@
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [Maratyszcza/NNPACK](https://github.com/Maratyszcza/NNPACK) - Acceleration package for neural networks on multi-core CPUs
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [godweiyang/NN-CUDA-Example](https://github.com/godweiyang/NN-CUDA-Example) - Several simple examples for popular neural network toolkits calling custom CUDA operators.
@@ -1863,8 +1865,8 @@
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [conan-community/conan-opencv](https://github.com/conan-community/conan-opencv) - [DEPRECATED] Conan recipes for OpenCV
 - [LiuXiaolong19920720/simple_net](https://github.com/LiuXiaolong19920720/simple_net) - A simple deep neural network implemented in C++，based with OpenCV Mat matrix class
-- [dtcMLOps/video2image-opencv](https://github.com/dtcMLOps/video2image-opencv) - This is a c++ program to convert a video to frames
-- [dtcMLOps/video2opencv-video](https://github.com/dtcMLOps/video2opencv-video) - This is a C++ program to convert a video to opencv format video
+- [codebydant/video2image-opencv](https://github.com/codebydant/video2image-opencv) - This is a c++ program to convert a video to frames
+- [codebydant/video2opencv-video](https://github.com/codebydant/video2opencv-video) - This is a C++ program to convert a video to opencv format video
 - [andreanobile/opencv_ffmpeg_streaming](https://github.com/andreanobile/opencv_ffmpeg_streaming) - rtmp streaming from opencv with ffmpeg / avcodec using C++ or Python
 - [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 - [ibaiGorordo/ONNX-CREStereo-Depth-Estimation](https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation) - Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
@@ -1904,6 +1906,7 @@
 
 ## others 
 
+- [AIR-DISCOVER/Hint-AD](https://github.com/AIR-DISCOVER/Hint-AD) - CoRL2024 | Hint-AD: Holistically Aligned Interpretability for End-to-End Autonomous Driving
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [huangwl18/ReKep](https://github.com/huangwl18/ReKep) - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
@@ -2401,7 +2404,7 @@
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
 - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
 - [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
-- [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
+- [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - [ICCV 2023] Adaptive Rotated Convolution for Rotated Object Detection
 - [princeton-vl/Oriented1D](https://github.com/princeton-vl/Oriented1D) - Official code for ICCV 2023 paper "Convolutional Networks with Oriented 1D Kernels"
 - [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (Accepted to ICRA'24)
 - [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
@@ -2478,7 +2481,7 @@
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
-- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - IEEE TPAMI: Latency-aware Unified Dynamic Networks for Efficient Image Recognition
+- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - [IEEE TPAMI] Latency-aware Unified Dynamic Networks for Efficient Image Recognition
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
 - [IDEA-Research/3D-deformable-attention](https://github.com/IDEA-Research/3D-deformable-attention) - [ICCV 2023] Official implementation of the paper "DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting"
@@ -3375,7 +3378,7 @@
 - [nightn/CloudViewer](https://github.com/nightn/CloudViewer) - A cross-platform point cloud visualization software powered by PCL and Qt.
 - [doubleZ0108/Play-with-NVIDIA-Jetson-Nano](https://github.com/doubleZ0108/Play-with-NVIDIA-Jetson-Nano) - Try Edge Computing devices from scratch --- NVIDIA Jetson Nano
 - [dingmyu/D4LCN](https://github.com/dingmyu/D4LCN) - A pytorch implementation of "D4LCN: Learning Depth-Guided Convolutions for Monocular 3D Object Detection" CVPR 2020
-- [Xilinx/kria-vitis-platforms](https://github.com/Xilinx/kria-vitis-platforms) - Kria KV260 Vitis platforms and overlays
+- [Xilinx/kria-vitis-platforms](https://github.com/Xilinx/kria-vitis-platforms) - Kria Vitis platforms and overlays
 - [Xilinx/XilinxBoardStore](https://github.com/Xilinx/XilinxBoardStore) - 
 - [ming71/yolov3-polygon](https://github.com/ming71/yolov3-polygon) - Arbitrary-oriented object detection based on yolov3.
 - [Xilinx/Vitis_Model_Composer](https://github.com/Xilinx/Vitis_Model_Composer) - Vitis Model Composer Examples and Tutorials
@@ -3398,8 +3401,8 @@
 - [daviddoria/VTK_PCL_Conversions](https://github.com/daviddoria/VTK_PCL_Conversions) - NOTE: This work has been merged into the PCL trunk repository. Conversion between the VTP and PCD file formats
 - [ros-perception/perception_open3d](https://github.com/ros-perception/perception_open3d) - Open3D analog to perception_pcl, containing conversion functions from Open3D to/from ROS types
 - [sqhuang/QtPCL](https://github.com/sqhuang/QtPCL) - qt界面框架 for PCL
-- [dtcMLOps/pcl-docker](https://github.com/dtcMLOps/pcl-docker) - Point Cloud Library docker container
-- [dtcMLOps/vtk-hello-world](https://github.com/dtcMLOps/vtk-hello-world) - VTK simple hello world
+- [codebydant/pcl-docker](https://github.com/codebydant/pcl-docker) - Point Cloud Library docker container
+- [codebydant/vtk-hello-world](https://github.com/codebydant/vtk-hello-world) - VTK simple hello world
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [elben6exam/raspbeery_pi4_arm_openvino](https://github.com/elben6exam/raspbeery_pi4_arm_openvino) - 
 - [xdien/build-openssl-armv7](https://github.com/xdien/build-openssl-armv7) - Build openssl for android armv7 running with qt. use android NDK 17c
@@ -4746,7 +4749,7 @@
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [MegEngine/MegEngine](https://github.com/MegEngine/MegEngine) - MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
 - [PINTO0309/simple-onnx-processing-tools](https://github.com/PINTO0309/simple-onnx-processing-tools) - A set of simple tools for splitting, merging, OP deletion, size compression, rewriting attributes and constants, OP generation, change opset, change to the specified input order, addition of OP, RGB t
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [godweiyang/NN-CUDA-Example](https://github.com/godweiyang/NN-CUDA-Example) - Several simple examples for popular neural network toolkits calling custom CUDA operators.
 - [deeplearning4j/deeplearning4j-examples](https://github.com/deeplearning4j/deeplearning4j-examples) - Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)
 - [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
@@ -5406,7 +5409,7 @@
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [industrialtablet/RK3588-Development-Board](https://github.com/industrialtablet/RK3588-Development-Board) - This repository is RK3588 Development Board Documents from HYY Technology Co.,Ltd.
-- [dtcMLOps/compilingPCL-Linux](https://github.com/dtcMLOps/compilingPCL-Linux) - This is a tutorial of how to compile PCL 1.11.1 on Ubuntu 20.04.2 LTS
+- [codebydant/compilingPCL-Linux](https://github.com/codebydant/compilingPCL-Linux) - This is a tutorial of how to compile PCL 1.11.1 on Ubuntu 20.04.2 LTS
 - [Qengineering/caffe](https://github.com/Qengineering/caffe) - Caffe-ssd: a fast open framework for deep learning adapted for Raspberry Pi, Jetson Nano and Ubuntu. Fixed for cuDNN 8
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
 
