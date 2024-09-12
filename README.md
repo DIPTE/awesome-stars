@@ -873,9 +873,9 @@
 - [daviddoria/VTK_PCL_Conversions](https://github.com/daviddoria/VTK_PCL_Conversions) - NOTE: This work has been merged into the PCL trunk repository. Conversion between the VTP and PCD file formats
 - [ros-perception/perception_open3d](https://github.com/ros-perception/perception_open3d) - Open3D analog to perception_pcl, containing conversion functions from Open3D to/from ROS types
 - [sqhuang/QtPCL](https://github.com/sqhuang/QtPCL) - qt界面框架 for PCL
-- [dtcMLOps/video2image-opencv](https://github.com/dtcMLOps/video2image-opencv) - This is a c++ program to convert a video to frames
-- [dtcMLOps/video2opencv-video](https://github.com/dtcMLOps/video2opencv-video) - This is a C++ program to convert a video to opencv format video
-- [dtcMLOps/DBScan-PCL-Optimized](https://github.com/dtcMLOps/DBScan-PCL-Optimized) - DBScan algorithm using Octrees to cluster 3D points in a space with PCL Library
+- [codebydant/video2image-opencv](https://github.com/codebydant/video2image-opencv) - This is a c++ program to convert a video to frames
+- [codebydant/video2opencv-video](https://github.com/codebydant/video2opencv-video) - This is a C++ program to convert a video to opencv format video
+- [codebydant/DBScan-PCL-Optimized](https://github.com/codebydant/DBScan-PCL-Optimized) - DBScan algorithm using Octrees to cluster 3D points in a space with PCL Library
 - [elben6exam/raspbeery_pi4_arm_openvino](https://github.com/elben6exam/raspbeery_pi4_arm_openvino) - 
 - [openvinotoolkit/openvino_contrib](https://github.com/openvinotoolkit/openvino_contrib) - Repository for OpenVINO's extra modules
 - [RaulHuertas/Qt3DLinuxARM](https://github.com/RaulHuertas/Qt3DLinuxARM) - An example of how to build applications using qt3d on arm/linux platforms. It's for when the libs are already built, but not found with "QT += 3dcore 3drender ..." commands
@@ -969,7 +969,7 @@
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [PaddlePaddle/Paddle-Lite-Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo) - lib, demo, model, data
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [onnx/onnx-mlir](https://github.com/onnx/onnx-mlir) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
@@ -1229,7 +1229,7 @@
 - [ravijo/ros_zeromq_tutorial](https://github.com/ravijo/ros_zeromq_tutorial) - ZeroMQ tutorial for ROS
 - [moveit/panda_moveit_config](https://github.com/moveit/panda_moveit_config) - The Panda robot is the flagship MoveIt integration robot
 - [conan-community/conan-eigen](https://github.com/conan-community/conan-eigen) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
-- [dtcMLOps/vtk-hello-world](https://github.com/dtcMLOps/vtk-hello-world) - VTK simple hello world
+- [codebydant/vtk-hello-world](https://github.com/codebydant/vtk-hello-world) - VTK simple hello world
 - [bashbug/pcl-for-android](https://github.com/bashbug/pcl-for-android) - Cross-compilation of PCL (point cloud library) for Android
 - [CivilNet/SYSZUX-FACE](https://github.com/CivilNet/SYSZUX-FACE) - face detect based on opencv & libdeepvac
 - [sophon-ai-algo/sophon-qt](https://github.com/sophon-ai-algo/sophon-qt) - 
@@ -1295,7 +1295,7 @@
 - [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [osrf/docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
 - [davibe/docker-gstreamer-raspbian-build](https://github.com/davibe/docker-gstreamer-raspbian-build) - Building latest git version of gstreamer and plugins for raspberry pi (raspbian)
-- [dtcMLOps/pcl-docker](https://github.com/dtcMLOps/pcl-docker) - Point Cloud Library docker container
+- [codebydant/pcl-docker](https://github.com/codebydant/pcl-docker) - Point Cloud Library docker container
 - [cartesi/image-toolchain](https://github.com/cartesi/image-toolchain) - Image with RISC-V toolchains
 - [all-in-simplicity/openresty-rtmp-ffmpeg-api](https://github.com/all-in-simplicity/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
 - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) - darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）
@@ -1369,6 +1369,7 @@
 
 ## JavaScript 
 
+- [AIR-DISCOVER/Hint-AD](https://github.com/AIR-DISCOVER/Hint-AD) - CoRL2024 | Hint-AD: Holistically Aligned Interpretability for End-to-End Autonomous Driving
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [kahowang/lab-3dslam-plotform](https://github.com/kahowang/lab-3dslam-plotform) - 
 - [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
@@ -1436,7 +1437,7 @@
 - [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
-- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - IEEE TPAMI: Latency-aware Unified Dynamic Networks for Efficient Image Recognition
+- [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - [IEEE TPAMI] Latency-aware Unified Dynamic Networks for Efficient Image Recognition
 - [WWangYuHsiang/SMILEtrack](https://github.com/WWangYuHsiang/SMILEtrack) - 
 - [xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything) - Open-source and strong foundation image recognition models.
 - [syncdoth/RetNet](https://github.com/syncdoth/RetNet) - Huggingface compatible implementation of RetNet (Retentive Networks, https://arxiv.org/pdf/2307.08621.pdf) including parallel, recurrent, and chunkwise forward.
@@ -1723,6 +1724,7 @@
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
 - [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
+- [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [tdzdog/SEFormer](https://github.com/tdzdog/SEFormer) - AAAI2023: SEFormer: Structure Embedding Transformer for 3D Object Detection
 - [OpenPerceptionX/PersFormer_3DLane](https://github.com/OpenPerceptionX/PersFormer_3DLane) - [ECCV2022 oral] Perspective Transformer on 3D Lane Detection
@@ -1796,7 +1798,7 @@
 - [ZVISION-lidar/zvision_ugv_data](https://github.com/ZVISION-lidar/zvision_ugv_data) - 
 - [Ghustwb/WechatArtical](https://github.com/Ghustwb/WechatArtical) - “卡本特”公众号文章
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
-- [dtcMLOps/compilingPCL-Linux](https://github.com/dtcMLOps/compilingPCL-Linux) - This is a tutorial of how to compile PCL 1.11.1 on Ubuntu 20.04.2 LTS
+- [codebydant/compilingPCL-Linux](https://github.com/codebydant/compilingPCL-Linux) - This is a tutorial of how to compile PCL 1.11.1 on Ubuntu 20.04.2 LTS
 - [sanguinariojoe/vtk-builds](https://github.com/sanguinariojoe/vtk-builds) - Automatic builds of VTK
 - [EricChen2013/Course](https://github.com/EricChen2013/Course) - 流媒体技术视频教程：RTSP、RTMP、HLS、HTTP、EasyDarwin、live555、ffmpeg、图像识别、智能分析、编解码、流媒体传输、高性能服务器
 - [haoai-1997/Deep-learning-Survey-for-Omnidirectional-vision](https://github.com/haoai-1997/Deep-learning-Survey-for-Omnidirectional-vision) - 
@@ -2194,7 +2196,7 @@
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
 - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
 - [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
-- [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - ICCV 2023: Adaptive Rotated Convolution for Rotated Object Detection
+- [LeapLabTHU/ARC](https://github.com/LeapLabTHU/ARC) - [ICCV 2023] Adaptive Rotated Convolution for Rotated Object Detection
 - [princeton-vl/Oriented1D](https://github.com/princeton-vl/Oriented1D) - Official code for ICCV 2023 paper "Convolutional Networks with Oriented 1D Kernels"
 - [llmbev/talk2bev](https://github.com/llmbev/talk2bev) - Talk2BEV: Language-Enhanced Bird's Eye View Maps (Accepted to ICRA'24)
 - [yangyuke001/DriveGPT](https://github.com/yangyuke001/DriveGPT) - auto drive from GPT
@@ -3919,7 +3921,7 @@
 
 ## SystemVerilog 
 
-- [Xilinx/kria-vitis-platforms](https://github.com/Xilinx/kria-vitis-platforms) - Kria KV260 Vitis platforms and overlays
+- [Xilinx/kria-vitis-platforms](https://github.com/Xilinx/kria-vitis-platforms) - Kria Vitis platforms and overlays
 
 ## Tcl 
 
