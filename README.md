@@ -235,6 +235,7 @@
 
 ## C++ 
 
+- [liangheming/VoxelMapPlus_FASTLIO2](https://github.com/liangheming/VoxelMapPlus_FASTLIO2) - FAST-LIO 2 with VoxelMapPlus and STD
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
 - [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU.
@@ -1403,6 +1404,7 @@
 
 ## Jupyter Notebook 
 
+- [TommyZihao/openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [TommyZihao/vlm_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
@@ -3158,7 +3160,7 @@
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [Julie-tang00/Point-BERT](https://github.com/Julie-tang00/Point-BERT) - [CVPR 2022] Pre-Training 3D Point Cloud Transformers with Masked Point Modeling
 - [rayguan97/M3DETR](https://github.com/rayguan97/M3DETR) - Code base for M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers
-- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [once-for-auto-driving/once_devkit](https://github.com/once-for-auto-driving/once_devkit) - 
 - [AutoVision-cloud/Deformable-PV-RCNN](https://github.com/AutoVision-cloud/Deformable-PV-RCNN) - [ECCVW-2020] Deformable PV-RCNN: Improving 3D Object Detection with Learned Deformations
 - [tianweiy/CenterPoint-KITTI](https://github.com/tianweiy/CenterPoint-KITTI) - 
