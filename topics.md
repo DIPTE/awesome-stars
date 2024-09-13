@@ -1906,6 +1906,8 @@
 
 ## others 
 
+- [TommyZihao/openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
+- [liangheming/VoxelMapPlus_FASTLIO2](https://github.com/liangheming/VoxelMapPlus_FASTLIO2) - FAST-LIO 2 with VoxelMapPlus and STD
 - [AIR-DISCOVER/Hint-AD](https://github.com/AIR-DISCOVER/Hint-AD) - CoRL2024 | Hint-AD: Holistically Aligned Interpretability for End-to-End Autonomous Driving
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [huangwl18/ReKep](https://github.com/huangwl18/ReKep) - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
@@ -3936,7 +3938,7 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [Julie-tang00/Point-BERT](https://github.com/Julie-tang00/Point-BERT) - [CVPR 2022] Pre-Training 3D Point Cloud Transformers with Masked Point Modeling
 - [Hub-Tian/Awesome-3D-Detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors) - Paperlist of awesome 3D detection methods
-- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.【安全加固，暂停交互，请耐心等待】
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [once-for-auto-driving/once_devkit](https://github.com/once-for-auto-driving/once_devkit) - 
 - [once-for-auto-driving/once-for-auto-driving.github.io](https://github.com/once-for-auto-driving/once-for-auto-driving.github.io) - webpage for the ONCE dataset
 - [QingyongHu/SensatUrban](https://github.com/QingyongHu/SensatUrban) - 🔥Urban-scale point cloud dataset (CVPR 2021 & IJCV 2022)
