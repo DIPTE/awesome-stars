@@ -235,6 +235,7 @@
 
 ## C++ 
 
+- [Clothooo/lvt2calib](https://github.com/Clothooo/lvt2calib) - A unified calibration for 3D LiDARs, visual cameras and thermal cameras
 - [liangheming/VoxelMapPlus_FASTLIO2](https://github.com/liangheming/VoxelMapPlus_FASTLIO2) - FAST-LIO 2 with VoxelMapPlus and STD
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
@@ -1384,7 +1385,6 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [coperception/where2comm](https://github.com/coperception/where2comm) - [NeurIPS 2022] Where2comm
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
-- [dihuangdh/dihuangdh.github.io](https://github.com/dihuangdh/dihuangdh.github.io) - 
 - [waveform80/pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
 - [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [dheera/rosboard](https://github.com/dheera/rosboard) - ROS node that turns your robot into a web server to visualize ROS topics
@@ -1412,6 +1412,7 @@
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
+- [GaussianObject/GaussianObject](https://github.com/GaussianObject/GaussianObject) - Code for "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
@@ -2025,7 +2026,6 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
 - [LinkSoul-AI/Chinese-LLaVA](https://github.com/LinkSoul-AI/Chinese-LLaVA) - 支持中英文双语视觉-文本对话的开源可商用多模态模型。
-- [GaussianObject/GaussianObject](https://github.com/GaussianObject/GaussianObject) - Code for "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - PointMamba: A Simple State Space Model for Point Cloud Analysis
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
