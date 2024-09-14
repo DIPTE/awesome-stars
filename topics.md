@@ -1906,6 +1906,7 @@
 
 ## others 
 
+- [Clothooo/lvt2calib](https://github.com/Clothooo/lvt2calib) - A unified calibration for 3D LiDARs, visual cameras and thermal cameras
 - [TommyZihao/openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
 - [liangheming/VoxelMapPlus_FASTLIO2](https://github.com/liangheming/VoxelMapPlus_FASTLIO2) - FAST-LIO 2 with VoxelMapPlus and STD
 - [AIR-DISCOVER/Hint-AD](https://github.com/AIR-DISCOVER/Hint-AD) - CoRL2024 | Hint-AD: Holistically Aligned Interpretability for End-to-End Autonomous Driving
@@ -3088,7 +3089,6 @@
 - [unmannedlab/imu_lidar_calibration](https://github.com/unmannedlab/imu_lidar_calibration) - Target-free Extrinsic Calibration of a 3D Lidar and an IMU
 - [liang3588/MeshMAE](https://github.com/liang3588/MeshMAE) - MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis
 - [zhangzhao2022/pointscatter](https://github.com/zhangzhao2022/pointscatter) - [ECCV'22 Oral] PointScatter: Point Set Representation for Tubular Structure Extraction
-- [dihuangdh/dihuangdh.github.io](https://github.com/dihuangdh/dihuangdh.github.io) - 
 - [junjie18/CMT](https://github.com/junjie18/CMT) - [ICCV 2023] Cross Modal Transformer: Towards Fast and Robust 3D Object Detection
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - A tool to build ROS and ROS2 workspaces for various targets
