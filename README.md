@@ -2770,7 +2770,7 @@
 - [VNOpenAI/pushup-counter-app](https://github.com/VNOpenAI/pushup-counter-app) - Count pushups from video/webcam. Tech stack: Keypoint detection, BlazePose, action recognition.
 - [sbis04/blazepose-oak](https://github.com/sbis04/blazepose-oak) - OAK Blazepose
 - [vincentfung13/MINE](https://github.com/vincentfung13/MINE) - Code and models for our ICCV 2021 paper "MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis"
-- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
+- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a Visual Odometry (VO) pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local features based on Deep Learning.
 - [conan-community/conan-pybind11](https://github.com/conan-community/conan-pybind11) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
 - [conan-community/conan-boost](https://github.com/conan-community/conan-boost) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
 - [conan-community/conan-opencv](https://github.com/conan-community/conan-opencv) - [DEPRECATED] Conan recipes for OpenCV
