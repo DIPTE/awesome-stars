@@ -3128,7 +3128,7 @@
 - [NVIDIA-AI-IOT/CUDA-PointPillars](https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars) - A project demonstrating how to use CUDA-PointPillars to deal with cloud points data from lidar.
 - [hova88/OpenPCDet](https://github.com/hova88/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [azureology/kitti-velo2cam](https://github.com/azureology/kitti-velo2cam) - lidar to camera projection of KITTI
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [tusen-ai/SimpleTrack](https://github.com/tusen-ai/SimpleTrack) - 
 - [Xharlie/BtcDet](https://github.com/Xharlie/BtcDet) - Behind the Curtain: Learning Occluded Shapes for 3D Object Detection
 - [mikecheninoulu/CGT](https://github.com/mikecheninoulu/CGT) - Code for Contrastive-Geometry Networks for Generalized 3D Pose Transfer
