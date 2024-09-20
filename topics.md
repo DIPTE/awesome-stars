@@ -105,6 +105,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -1848,6 +1849,18 @@
 - [OpenPPL/ppq](https://github.com/OpenPPL/ppq) - PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool.
 - [YiChenCityU/Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research) - Track Advancement of SLAM 跟踪SLAM前沿动态【2021 version】業務調整，暫停更新
 
+## openai 
+
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
 ## opencv 
 
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
@@ -3339,7 +3352,7 @@
 - [lijx10/PCLKeypoints](https://github.com/lijx10/PCLKeypoints) - Python wrapper for some point cloud keypoint detectors of PCL, including ISS, Harris3D, SIFT3D
 - [libuvc/libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices
 - [pupil-labs/libuvc](https://github.com/pupil-labs/libuvc) - a cross-platform library for USB video devices
-- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
+- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a Visual Odometry (VO) pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local features based on Deep Learning.
 - [naibaf7/libdnn](https://github.com/naibaf7/libdnn) - Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL
 - [conan-community/conan-pybind11](https://github.com/conan-community/conan-pybind11) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
 - [conan-community/conan-boost](https://github.com/conan-community/conan-boost) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
@@ -3886,7 +3899,7 @@
 - [hova88/OpenPCDet](https://github.com/hova88/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [azureology/kitti-velo2cam](https://github.com/azureology/kitti-velo2cam) - lidar to camera projection of KITTI
 - [bmwcarit/pcl-people-tracker-timing-test](https://github.com/bmwcarit/pcl-people-tracker-timing-test) - This test suite measures the people tracker runtime from the open-source library Point Cloud Library (PCL). It captures and visualizes the runtime and the runtime's dependency on certain calibration v
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [jingma-git/RealSkel](https://github.com/jingma-git/RealSkel) - Real-time Skeletonization for Sketch-based Modeling
 - [Aman-Preet-Singh-Gulati/Vehicle-count-detect](https://github.com/Aman-Preet-Singh-Gulati/Vehicle-count-detect) - 
 - [tusen-ai/SimpleTrack](https://github.com/tusen-ai/SimpleTrack) - 
