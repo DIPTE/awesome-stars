@@ -565,7 +565,7 @@
 - [autodistill/autodistill-yolov8](https://github.com/autodistill/autodistill-yolov8) - YOLOv8 Target Model plugin for Autodistill
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models).
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
-- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [fubel/synthehicle](https://github.com/fubel/synthehicle) - [WACVW 2023] A massive synthetic dataset for 3D multi-target multi-camera tracking and segmentation.
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
@@ -885,7 +885,7 @@
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models).
 - [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch
 - [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
-- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
@@ -1919,6 +1919,9 @@
 
 ## others 
 
+- [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
+- [AutoLidarPerception/tracking_lib](https://github.com/AutoLidarPerception/tracking_lib) - Tracking objects obtaining from segmentor and improve segmentation. https://github.com/LidarPerception/segmenters_lib
+- [AutoLidarPerception/object_builders_lib](https://github.com/AutoLidarPerception/object_builders_lib) - Object Orientation Corrected Bounding Box Fit for Point Cloud Clusters.
 - [HopeCollector/clbrl](https://github.com/HopeCollector/clbrl) - 标定 多线/单线激光雷达 和 旋转电机
 - [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 - [Clothooo/lvt2calib](https://github.com/Clothooo/lvt2calib) - A unified calibration for 3D LiDARs, visual cameras and thermal cameras
@@ -2371,7 +2374,7 @@
 - [Hectoor/Ffmpeg_ros_image_trans](https://github.com/Hectoor/Ffmpeg_ros_image_trans) - This demo can help you receive rtmp stream,and  transmit images through ROS
 - [Nightmare-n/UniPAD](https://github.com/Nightmare-n/UniPAD) - UniPAD: A Universal Pre-training Paradigm for Autonomous Driving (CVPR 2024)
 - [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) - 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）
-- [zehuichen123/Graph-DETR4D](https://github.com/zehuichen123/Graph-DETR4D) - [ACM MM2022, Arxiv2023] Graph-DETR Series for Multi-View 3D Object Detection
+- [zehuichen123/Graph-DETR4D](https://github.com/zehuichen123/Graph-DETR4D) - [ACM MM2022, TIP2024] Graph-DETR Series for Multi-View 3D Object Detection
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - [ICLR 2024] DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [JokerEyeAdas/AdasSourrondView](https://github.com/JokerEyeAdas/AdasSourrondView) - The C++ code demo for surround view of car
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
@@ -4717,7 +4720,7 @@
 - [ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-](https://github.com/ibaiGorordo/Ultrafast-Lane-Detection-Inference-Pytorch-) - Example scripts for the detection of lanes using the ultra fast lane detection model in Pytorch.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [MissiaL/hikvision-client](https://github.com/MissiaL/hikvision-client) - Client for Hikvision devices
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
