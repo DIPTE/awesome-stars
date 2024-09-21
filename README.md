@@ -235,6 +235,8 @@
 
 ## C++ 
 
+- [AutoLidarPerception/tracking_lib](https://github.com/AutoLidarPerception/tracking_lib) - Tracking objects obtaining from segmentor and improve segmentation. https://github.com/LidarPerception/segmenters_lib
+- [AutoLidarPerception/object_builders_lib](https://github.com/AutoLidarPerception/object_builders_lib) - Object Orientation Corrected Bounding Box Fit for Point Cloud Clusters.
 - [HopeCollector/clbrl](https://github.com/HopeCollector/clbrl) - 标定 多线/单线激光雷达 和 旋转电机
 - [Clothooo/lvt2calib](https://github.com/Clothooo/lvt2calib) - A unified calibration for 3D LiDARs, visual cameras and thermal cameras
 - [liangheming/VoxelMapPlus_FASTLIO2](https://github.com/liangheming/VoxelMapPlus_FASTLIO2) - FAST-LIO 2 with VoxelMapPlus and STD
@@ -2132,7 +2134,7 @@
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
-- [labelmeai/labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - [CVPR 2024] 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - Layout-Guided multi-view driving scene video generation with latent diffusion model
 - [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
@@ -2161,7 +2163,7 @@
 - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
 - [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) - 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）
 - [DerryHub/BEVFormer_tensorrt](https://github.com/DerryHub/BEVFormer_tensorrt) - BEVFormer inference on TensorRT, including INT8 Quantization and Custom TensorRT Plugins (float/half/half2/int8).
-- [zehuichen123/Graph-DETR4D](https://github.com/zehuichen123/Graph-DETR4D) - [ACM MM2022, Arxiv2023] Graph-DETR Series for Multi-View 3D Object Detection
+- [zehuichen123/Graph-DETR4D](https://github.com/zehuichen123/Graph-DETR4D) - [ACM MM2022, TIP2024] Graph-DETR Series for Multi-View 3D Object Detection
 - [PJLab-ADG/DiLu](https://github.com/PJLab-ADG/DiLu) - [ICLR 2024] DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
 - [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
@@ -3962,6 +3964,7 @@
 
 ## Typst 
 
+- [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
 - [ivaquero/book-control](https://github.com/ivaquero/book-control) - DR_CAN 哔站系列课程笔记 + 代码
 
 ## Vala 
