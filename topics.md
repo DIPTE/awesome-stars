@@ -1919,6 +1919,7 @@
 
 ## others 
 
+- [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) - 
 - [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
 - [AutoLidarPerception/tracking_lib](https://github.com/AutoLidarPerception/tracking_lib) - Tracking objects obtaining from segmentor and improve segmentation. https://github.com/LidarPerception/segmenters_lib
 - [AutoLidarPerception/object_builders_lib](https://github.com/AutoLidarPerception/object_builders_lib) - Object Orientation Corrected Bounding Box Fit for Point Cloud Clusters.
