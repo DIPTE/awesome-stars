@@ -235,6 +235,9 @@
 
 ## C++ 
 
+- [PRBonn/kiss-icp](https://github.com/PRBonn/kiss-icp) - A LiDAR odometry pipeline that just works
+- [zm0612/funny_lidar_slam](https://github.com/zm0612/funny_lidar_slam) - A real-time multifunctional Lidar SLAM package.
+- [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
 - [AutoLidarPerception/tracking_lib](https://github.com/AutoLidarPerception/tracking_lib) - Tracking objects obtaining from segmentor and improve segmentation. https://github.com/LidarPerception/segmenters_lib
 - [AutoLidarPerception/object_builders_lib](https://github.com/AutoLidarPerception/object_builders_lib) - Object Orientation Corrected Bounding Box Fit for Point Cloud Clusters.
 - [HopeCollector/clbrl](https://github.com/HopeCollector/clbrl) - 标定 多线/单线激光雷达 和 旋转电机
@@ -313,7 +316,7 @@
 - [SlamMate/Universal-outdoor-indoor-dynamic-vSLAM-based-on-pre-trained-models](https://github.com/SlamMate/Universal-outdoor-indoor-dynamic-vSLAM-based-on-pre-trained-models) - This repository contains the open-source code for the paper "Semantic SLAM for mobile robots in dynamic environments based on visual camera sensors" by Qi Zhang and Changdi Li, published in the Measur
 - [gaowenliang/imu_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance.
 - [MegviiRobot/CamLaserCalibraTool](https://github.com/MegviiRobot/CamLaserCalibraTool) - Extrinsic Calibration of a Camera and 2d Laser
-- [tier4/CalibrationTools](https://github.com/tier4/CalibrationTools) - 
+- [tier4/CalibrationTools](https://github.com/tier4/CalibrationTools) - sensor calibration tools for autonomous driving and robotics
 - [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - [RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
 - [beltransen/velo2cam_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
 - [GAfieldCN/automatic-camera-pointcloud-calibration](https://github.com/GAfieldCN/automatic-camera-pointcloud-calibration) - Automatic Calibration for Camera and Solid-state LiDAR (Livox)
@@ -1267,7 +1270,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉 CUDA Learn Notes with PyTorch: fp32、fp16/bf16、fp8/int8、flash_attn、sgemm、sgemv、warp/block reduce、dot prod、elementwise、softmax、layernorm、rmsnorm、hist etc.
+- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 🎉 Modern CUDA Learn Notes with PyTorch: fp32, fp16, bf16, fp8/int8, flash_attn, sgemm, sgemv, warp/block reduce, dot, elementwise, softmax, layernorm, rmsnorm.
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -1665,6 +1668,8 @@
 
 ## Others 
 
+- [changshuowang/GPSFormer](https://github.com/changshuowang/GPSFormer) - This is a PyTorch implementation of GPSFormer proposed by our paper "GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding"(ECCV2024)
+- [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - [ECCV 2024] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
 - [HR-zju/LiCROcc](https://github.com/HR-zju/LiCROcc) - 
 - [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 - [zympsyche/BevWorld](https://github.com/zympsyche/BevWorld) - 
@@ -1919,6 +1924,8 @@
 
 ## Python 
 
+- [qizekun/ShapeLLM](https://github.com/qizekun/ShapeLLM) - [ECCV 2024] ShapeLLM: Universal 3D Object Understanding for Embodied Interaction
+- [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) - 
 - [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 - [huangwl18/ReKep](https://github.com/huangwl18/ReKep) - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
