@@ -860,6 +860,7 @@
 
 ## deep-learning 
 
+- [PRBonn/MapMOS](https://github.com/PRBonn/MapMOS) - Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023)
 - [invictus717/MiCo](https://github.com/invictus717/MiCo) - Explore the Limits of Omni-modal Pretraining at Scale
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [CVMI-Lab/PLA](https://github.com/CVMI-Lab/PLA) - (CVPR 2023) PLA: Language-Driven Open-Vocabulary 3D Scene Understanding & (CVPR2024) RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding
@@ -1497,6 +1498,7 @@
 
 ## llm 
 
+- [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1926,6 +1928,11 @@
 
 ## others 
 
+- [haomo-ai/ModaLink](https://github.com/haomo-ai/ModaLink) - [IROS 2024] This repository contains the implementation of our paper:  ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition
+- [SCNU-RISLAB/MF-MOS](https://github.com/SCNU-RISLAB/MF-MOS) - This repo is the offical PyTorch implementation of MF-MOS.
+- [SCNU-RISLAB/MotionBEVpp](https://github.com/SCNU-RISLAB/MotionBEVpp) - A Moving Object Semantic Segmentation Model Based on the Bird's eye view - jxLiang's Bachelor Thesis Code
+- [xieKKKi/MotionBEV](https://github.com/xieKKKi/MotionBEV) - A simple yet effective framework for LiDAR-based moving object segmentation.
+- [nubot-nudt/InsMOS](https://github.com/nubot-nudt/InsMOS) - [IROS23] InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data
 - [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - A MultiModal Mapping (M2Mapping) Framework for LiDAR-Visual Systems
 - [hithqd/PointRWKV](https://github.com/hithqd/PointRWKV) - 
 - [ThomasVonWu/SparseEnd2End](https://github.com/ThomasVonWu/SparseEnd2End) - End2EndPerception deployment solution based on vision sparse transformer paradigm is open sourced.
@@ -4869,6 +4876,7 @@
 
 ## pytorch 
 
+- [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [Na-Z/attMPTI](https://github.com/Na-Z/attMPTI) - [CVPR 2021] Few-shot 3D Point Cloud Semantic Segmentation
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
