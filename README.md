@@ -1930,6 +1930,13 @@
 
 ## Python 
 
+- [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
+- [haomo-ai/ModaLink](https://github.com/haomo-ai/ModaLink) - [IROS 2024] This repository contains the implementation of our paper:  ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition
+- [SCNU-RISLAB/MF-MOS](https://github.com/SCNU-RISLAB/MF-MOS) - This repo is the offical PyTorch implementation of MF-MOS.
+- [SCNU-RISLAB/MotionBEVpp](https://github.com/SCNU-RISLAB/MotionBEVpp) - A Moving Object Semantic Segmentation Model Based on the Bird's eye view - jxLiang's Bachelor Thesis Code
+- [xieKKKi/MotionBEV](https://github.com/xieKKKi/MotionBEV) - A simple yet effective framework for LiDAR-based moving object segmentation.
+- [nubot-nudt/InsMOS](https://github.com/nubot-nudt/InsMOS) - [IROS23] InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data
+- [PRBonn/MapMOS](https://github.com/PRBonn/MapMOS) - Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023)
 - [hithqd/PointRWKV](https://github.com/hithqd/PointRWKV) - 
 - [ThomasVonWu/SparseEnd2End](https://github.com/ThomasVonWu/SparseEnd2End) - End2EndPerception deployment solution based on vision sparse transformer paradigm is open sourced.
 - [happinesslz/LION](https://github.com/happinesslz/LION) - [NeurIPS 2024] Official code of ”LION: Linear Group RNN for 3D Object Detection in Point Clouds“
