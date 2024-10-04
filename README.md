@@ -1759,7 +1759,7 @@
 - [jianrenw/PanoNet3D](https://github.com/jianrenw/PanoNet3D) - 
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
-- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI] All you need for End-to-end Autonomous Driving
+- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [PeterJaq/Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) - 
 - [yanyitech/coolpi_4B_docs](https://github.com/yanyitech/coolpi_4B_docs) - 
@@ -2212,7 +2212,7 @@
 - [arangesh/TrackMPNN](https://github.com/arangesh/TrackMPNN) - 
 - [wangxiyang2022/YONTD-MOT](https://github.com/wangxiyang2022/YONTD-MOT) - This is the offical implementation of the paper "You Only Need Two Detectors to Achieve Multi-Modal 3D Multi-Object Tracking "
 - [hejiawei2023/UG3DMOT](https://github.com/hejiawei2023/UG3DMOT) - 
-- [ocetintas/MPNTrackSeg](https://github.com/ocetintas/MPNTrackSeg) - "Multi-Object Tracking and Segmentation via Neural Message Passing" (IJCV 2022) - Official Implementation
+- [ocetintas/MPNTrackSeg](https://github.com/ocetintas/MPNTrackSeg) - [IJCV 2022] Multi-Object Tracking and Segmentation via Neural Message Passing
 - [tobiasfshr/MOTSFusion](https://github.com/tobiasfshr/MOTSFusion) - MOTSFusion: Track to Reconstruct and Reconstruct to Track
 - [VisualComputingInstitute/TrackR-CNN](https://github.com/VisualComputingInstitute/TrackR-CNN) - TrackR-CNN baseline method for Multi-Object Tracking and Segmentation (MOTS)
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
@@ -2278,7 +2278,7 @@
 - [xmm-prio/BEVTrack](https://github.com/xmm-prio/BEVTrack) - This repo is the official implementation of "BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird's-Eye View".
 - [wzzheng/PointOcc](https://github.com/wzzheng/PointOcc) - Efficient Point-based 3D Semantic Occupancy Prediction
 - [raindrop313/ICCV-2023-MB-TaylorFormer](https://github.com/raindrop313/ICCV-2023-MB-TaylorFormer) - 
-- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024 Oral] PointLLM: Empowering Large Language Models to Understand Point Clouds
+- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024 Award Candidate] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 base and chat models. 1M context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
