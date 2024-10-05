@@ -1964,7 +1964,7 @@
 - [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [invictus717/MiCo](https://github.com/invictus717/MiCo) - Explore the Limits of Omni-modal Pretraining at Scale
 - [uzh-rpg/dagr](https://github.com/uzh-rpg/dagr) - Code for the paper "Low Latency Automotive Vision with Event Cameras", published in Nature
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [aipixel/GaussianAvatar](https://github.com/aipixel/GaussianAvatar) - [CVPR 2024] The official repo for "GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians"
 - [drilistbox/FlashOCC_on_UniOcc_and_RenderOCC](https://github.com/drilistbox/FlashOCC_on_UniOcc_and_RenderOCC) - 
 - [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
@@ -2787,11 +2787,11 @@
 - [BorealisAI/DT-Fixup](https://github.com/BorealisAI/DT-Fixup) - Optimizing Deeper Transformers on Small Datasets https://arxiv.org/abs/2012.15355
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
-- [vLAR-group/UnsupObjSeg](https://github.com/vLAR-group/UnsupObjSeg) - 🔥Benchmarking Unsupervised Object Segmentation (NeurIPS 2022)
+- [vLAR-group/UnsupObjSeg](https://github.com/vLAR-group/UnsupObjSeg) - 🔥Benchmarking Unsupervised Obj Seg (NeurIPS 2022 & IJCV 2024)
 - [vLAR-group/DM-NeRF](https://github.com/vLAR-group/DM-NeRF) - 🔥DM-NeRF in PyTorch (ICLR 2023)
 - [kiwicampus/rosboard_client](https://github.com/kiwicampus/rosboard_client) - Client for remotely streaming ROS messages through websockets using rosboard as server
 - [hkzhang-git/ParC-Net](https://github.com/hkzhang-git/ParC-Net) - [ECCV 2022] Source code of  "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers"
-- [vLAR-group/OGC](https://github.com/vLAR-group/OGC) - 🔥OGC in PyTorch (NeurIPS 2022)
+- [vLAR-group/OGC](https://github.com/vLAR-group/OGC) - 🔥OGC in PyTorch (NeurIPS 2022 & TPAMI 2024)
 - [yewzijian/3DFeatNet](https://github.com/yewzijian/3DFeatNet) - 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration
 - [paulwong16/DeepVCP](https://github.com/paulwong16/DeepVCP) - Code for reproducing DeepVCP
 - [vccheng2001/DeepVCP-Pointcloud-Registration](https://github.com/vccheng2001/DeepVCP-Pointcloud-Registration) - 
