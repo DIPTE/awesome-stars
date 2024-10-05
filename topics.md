@@ -170,7 +170,7 @@
 - [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
-- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024 Oral] PointLLM: Empowering Large Language Models to Understand Point Clouds
+- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024 Award Candidate] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [xiaoaoran/3d_url_survey](https://github.com/xiaoaoran/3d_url_survey) - (TPAMI2023) Unsupervised Point Cloud Representation Learning with Deep Neural Networks: A Survey
 - [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
@@ -474,14 +474,14 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inference, scalable model hosting, 
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
-- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024 Oral] PointLLM: Empowering Large Language Models to Understand Point Clouds
+- [OpenRobotLab/PointLLM](https://github.com/OpenRobotLab/PointLLM) - [ECCV 2024 Award Candidate] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 base and chat models. 1M context support
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 
 ## chatgpt 
 
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
@@ -504,7 +504,7 @@
 
 ## cli 
 
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
@@ -1335,6 +1335,7 @@
 
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
@@ -1863,7 +1864,7 @@
 
 ## openai 
 
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -2437,7 +2438,7 @@
 - [arangesh/TrackMPNN](https://github.com/arangesh/TrackMPNN) - 
 - [wangxiyang2022/YONTD-MOT](https://github.com/wangxiyang2022/YONTD-MOT) - This is the offical implementation of the paper "You Only Need Two Detectors to Achieve Multi-Modal 3D Multi-Object Tracking "
 - [hejiawei2023/UG3DMOT](https://github.com/hejiawei2023/UG3DMOT) - 
-- [ocetintas/MPNTrackSeg](https://github.com/ocetintas/MPNTrackSeg) - "Multi-Object Tracking and Segmentation via Neural Message Passing" (IJCV 2022) - Official Implementation
+- [ocetintas/MPNTrackSeg](https://github.com/ocetintas/MPNTrackSeg) - [IJCV 2022] Multi-Object Tracking and Segmentation via Neural Message Passing
 - [tobiasfshr/MOTSFusion](https://github.com/tobiasfshr/MOTSFusion) - MOTSFusion: Track to Reconstruct and Reconstruct to Track
 - [VisualComputingInstitute/TrackR-CNN](https://github.com/VisualComputingInstitute/TrackR-CNN) - TrackR-CNN baseline method for Multi-Object Tracking and Segmentation (MOTS)
 - [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
@@ -2719,7 +2720,7 @@
 - [jiaweihe1996/BA2-Det](https://github.com/jiaweihe1996/BA2-Det) - 
 - [PJLab-ADG/DetZero](https://github.com/PJLab-ADG/DetZero) - [ICCV 2023] DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 - [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) - [ICCV 2023] OccNet: Scene as Occupancy
-- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI] All you need for End-to-end Autonomous Driving
+- [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - [IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [Deci-AI/super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 - [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2023] NeRF-RPN: A general framework for object detection in NeRFs
@@ -3356,7 +3357,7 @@
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 - [renesas-rz/rzv_drp-ai_tvm](https://github.com/renesas-rz/rzv_drp-ai_tvm) - Extension package of Apache TVM (Machine Learning Compiler) for Renesas DRP-AI accelerators powered by Edgecortix MERA(TM) Based Apache TVM version: v0.11.1
 - [renesas-rz/meta-renesas-ai-demos](https://github.com/renesas-rz/meta-renesas-ai-demos) - This repository is EOL. Please use https://github.com/renesas-rz/meta-rz-edge-ai-demo instead.
-- [vLAR-group/UnsupObjSeg](https://github.com/vLAR-group/UnsupObjSeg) - 🔥Benchmarking Unsupervised Object Segmentation (NeurIPS 2022)
+- [vLAR-group/UnsupObjSeg](https://github.com/vLAR-group/UnsupObjSeg) - 🔥Benchmarking Unsupervised Obj Seg (NeurIPS 2022 & IJCV 2024)
 - [dheera/rosboard](https://github.com/dheera/rosboard) - ROS node that turns your robot into a web server to visualize ROS topics
 - [PRBonn/semantic_suma](https://github.com/PRBonn/semantic_suma) - SuMa++: Efficient LiDAR-based Semantic SLAM (Chen et al IROS 2019)
 - [ethz-asl/segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments
@@ -3369,7 +3370,7 @@
 - [tu-darmstadt-ros-pkg/hector_slam](https://github.com/tu-darmstadt-ros-pkg/hector_slam) - hector_slam contains ROS packages related to performing SLAM in unstructed environments like those encountered in the Urban Search and Rescue (USAR) scenarios of the RoboCup Rescue competition.
 - [ros-perception/slam_gmapping](https://github.com/ros-perception/slam_gmapping) - http://www.ros.org/wiki/slam_gmapping
 - [hkzhang-git/ParC-Net](https://github.com/hkzhang-git/ParC-Net) - [ECCV 2022] Source code of  "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers"
-- [vLAR-group/OGC](https://github.com/vLAR-group/OGC) - 🔥OGC in PyTorch (NeurIPS 2022)
+- [vLAR-group/OGC](https://github.com/vLAR-group/OGC) - 🔥OGC in PyTorch (NeurIPS 2022 & TPAMI 2024)
 - [LAStools/LAStools](https://github.com/LAStools/LAStools) - efficient tools for LiDAR processing
 - [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
 - [yewzijian/3DFeatNet](https://github.com/yewzijian/3DFeatNet) - 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration
