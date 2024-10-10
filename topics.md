@@ -1508,6 +1508,7 @@
 
 ## llm 
 
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent。
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
@@ -1870,6 +1871,7 @@
 
 ## openai 
 
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent。
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -1938,6 +1940,11 @@
 
 ## others 
 
+- [morrisfl/UniFEx](https://github.com/morrisfl/UniFEx) - Framework for computationally efficient training of universal image feature extraction models.
+- [neu-autonomy/FeatureLIOM](https://github.com/neu-autonomy/FeatureLIOM) - 
+- [huahuasousou/dair_v2x_i_dataset_vis](https://github.com/huahuasousou/dair_v2x_i_dataset_vis) - For visualizing the dair-v2x-i dataset
+- [ayesha-ishaq/Open3DTrack](https://github.com/ayesha-ishaq/Open3DTrack) - Code for Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking
+- [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - 
 - [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, RTCM3, NTRIP & SPARTN Protocols
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [DaniloXiao/BEV-RoadSeg](https://github.com/DaniloXiao/BEV-RoadSeg) - BEV-RoadSeg for Freespace Detection in PyTorch, including Python onnx and tensorRT API versions.
@@ -5379,6 +5386,7 @@
 
 ## tensorflow 
 
+- [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - 【深度学习模型部署框架】支持tf/torch/trt/trtllm/vllm以及更多nn框架，支持dynamic batching、streaming模式，支持python/c++双语言，可限制，可拓展，高性能。帮助用户快速地将模型部署到线上，并通过http/rpc接口方式提供服务。
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
