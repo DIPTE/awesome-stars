@@ -545,6 +545,7 @@
 
 ## computer-vision 
 
+- [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
@@ -1220,6 +1221,7 @@
 
 ## docker 
 
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
@@ -1537,6 +1539,7 @@
 
 ## localization 
 
+- [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
 - [gisbi-kim/SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM) - Robust LiDAR SLAM with a versatile plug-and-play loop closing and pose-graph optimization.
 - [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
 - [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
@@ -1559,6 +1562,7 @@
 
 ## machine-learning 
 
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
@@ -1940,6 +1944,15 @@
 
 ## others 
 
+- [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) - 
+- [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) - 
+- [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
+- [StiphyJay/LiDAR-PTQ](https://github.com/StiphyJay/LiDAR-PTQ) - ICLR2024:  LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection.
+- [Z-Pengcheng/MGS-SLAM](https://github.com/Z-Pengcheng/MGS-SLAM) - 
+- [mirage-project/mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
+- [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
+- [orhir/PoseAnything](https://github.com/orhir/PoseAnything) - A Graph-Based Approach for Category-Agnostic Pose Estimation [ECCV 2024]
+- [HeKun-NVIDIA/TensorRT-Developer_Guide_in_Chinese](https://github.com/HeKun-NVIDIA/TensorRT-Developer_Guide_in_Chinese) - 
 - [morrisfl/UniFEx](https://github.com/morrisfl/UniFEx) - Framework for computationally efficient training of universal image feature extraction models.
 - [neu-autonomy/FeatureLIOM](https://github.com/neu-autonomy/FeatureLIOM) - 
 - [huahuasousou/dair_v2x_i_dataset_vis](https://github.com/huahuasousou/dair_v2x_i_dataset_vis) - For visualizing the dair-v2x-i dataset
@@ -1961,7 +1974,7 @@
 - [Jittor/JAD](https://github.com/Jittor/JAD) - 
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 - [jhescobar05/simple_ros_client_application](https://github.com/jhescobar05/simple_ros_client_application) - A desktop application using the Qt framework to publish messages over a websocket connection to utilize ROS service and pub/sub functionality. The published messages can control the movements a ROS to
-- [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for ICRA 2025.
+- [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping".
 - [RozDavid/LOL](https://github.com/RozDavid/LOL) - LOL: Lidar-only Odometry and Localization in 3D point cloud maps
 - [wh200720041/intensity_slam](https://github.com/wh200720041/intensity_slam) - Intensity-SLAM: Intensity Assisted Localization and Mapping for Large Scale Environment RA-L 2021
 - [IMRL/HPPLO-Net](https://github.com/IMRL/HPPLO-Net) - 
@@ -1971,7 +1984,7 @@
 - [zm0612/funny_lidar_slam](https://github.com/zm0612/funny_lidar_slam) - A real-time multifunctional Lidar SLAM package.
 - [changshuowang/GPSFormer](https://github.com/changshuowang/GPSFormer) - This is a PyTorch implementation of GPSFormer proposed by our paper "GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding"(ECCV2024)
 - [qizekun/ShapeLLM](https://github.com/qizekun/ShapeLLM) - [ECCV 2024] ShapeLLM: Universal 3D Object Understanding for Embodied Interaction
-- [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - [ECCV 2024] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
+- [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - [ECCV 2024 Oral] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
 - [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) - 
 - [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
 - [AutoLidarPerception/tracking_lib](https://github.com/AutoLidarPerception/tracking_lib) - Tracking objects obtaining from segmentor and improve segmentation. https://github.com/LidarPerception/segmenters_lib
