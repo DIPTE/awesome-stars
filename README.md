@@ -1698,6 +1698,7 @@
 
 ## Others 
 
+- [Ilya-Fradlin/Interactive4D](https://github.com/Ilya-Fradlin/Interactive4D) - 
 - [ShiPC-AI/LPR-Survey](https://github.com/ShiPC-AI/LPR-Survey) - A survey of LiDAR-based place recognition
 - [GYee/CV_interviews_Q-A](https://github.com/GYee/CV_interviews_Q-A) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块，一起努力向offers发起冲击！
 - [MIT-SPARK/KISS-Matcher](https://github.com/MIT-SPARK/KISS-Matcher) - 
@@ -1961,6 +1962,8 @@
 
 ## Python 
 
+- [sunshuofeng/X-3D](https://github.com/sunshuofeng/X-3D) - X-3D:  Explicit 3D Structure Modeling for Point Cloud Recognition (CVPR2024)
+- [jerryfeng2003/PointGST](https://github.com/jerryfeng2003/PointGST) - Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning
 - [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps
 - [rst-tu-dortmund/lerojd](https://github.com/rst-tu-dortmund/lerojd) - 
 - [BIT-DA/Annotator](https://github.com/BIT-DA/Annotator) - [NeurIPS 2023] Official Implementation of A Generic Active Learning Baseline for LiDAR Semantic Segmentation
@@ -2006,7 +2009,7 @@
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [prs-eth/PanopticSegForLargeScalePointCloud](https://github.com/prs-eth/PanopticSegForLargeScalePointCloud) - Code and dataset of paper "TOWARDS ACCURATE INSTANCE SEGMENTATION IN LARGE-SCALE LIDAR POINT CLOUDS"
 - [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
-- [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - V2I-CALIB and V2I-CALIB++: An Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
+- [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - V2I-CALIB and V2I-CALIB++: Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
 - [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [invictus717/MiCo](https://github.com/invictus717/MiCo) - Explore the Limits of Omni-modal Pretraining at Scale
