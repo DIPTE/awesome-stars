@@ -52,6 +52,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [Tcl](#tcl)
@@ -79,6 +80,8 @@
 
 ## C 
 
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - [RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
 - [xiaohulugo/VanishingPointDetection](https://github.com/xiaohulugo/VanishingPointDetection) - 2-Line Exhaustive Searching for Real-Time Vanishing Point Estimation in Manhattan World
@@ -118,6 +121,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [jjm2473/ffmpeg-rk](https://github.com/jjm2473/ffmpeg-rk) - 支持rockchip mpp硬件加速编解码的ffmpeg版本。Forked ffmpeg that supports rkmpp decodeing, encoding and rga scaling
 - [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS) - 从ROS1到ROS2无人机编程实战指南
+- [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [NVIDIA-AI-IOT/deepstream-occupancy-analytics](https://github.com/NVIDIA-AI-IOT/deepstream-occupancy-analytics) - This is a sample application for counting people entering/leaving in a building using NVIDIA Deepstream SDK, Transfer Learning Toolkit (TLT), and pre-trained models. This application can be used to bu
 - [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 - [airockchip/librga](https://github.com/airockchip/librga) - 
@@ -237,8 +241,13 @@
 
 ## C++ 
 
+- [microsoft/T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
+- [uzh-rpg/rl_vo](https://github.com/uzh-rpg/rl_vo) - Repository relating to "Reinforcement Learning Meets Visual Odometry" (ECCV, 2024).
+- [ctu-mrs/pacnav](https://github.com/ctu-mrs/pacnav) - This repository contains the TMUX scripts to run the Gazebo simulations and real-world experiments for the paper entitled "PACNav: A Communication and External Localization Free Collective Swarm of UA
+- [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [tiev-tongji/LIMOT](https://github.com/tiev-tongji/LIMOT) - A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking.
 - [TUMFTM/ORB_SLAM3_RGBL](https://github.com/TUMFTM/ORB_SLAM3_RGBL) - RGB-L: An Extension to Integrate LiDAR Data into ORB-SLAM3
+- [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps
 - [luigifreda/plvs](https://github.com/luigifreda/plvs) - PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation.
 - [XiaoBaiiiiii/colmap-pcd](https://github.com/XiaoBaiiiiii/colmap-pcd) - Image-to-point cloud Registration Tool
 - [YJZLuckyBoy/liorf](https://github.com/YJZLuckyBoy/liorf) - This repo is modified based on LIO_SAM, which remove the feature extraction module and makes it easier to adapt your sensor.
@@ -254,7 +263,7 @@
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
 - [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
 - [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - 【深度学习模型部署框架】支持tf/torch/trt/trtllm/vllm以及更多nn框架，支持dynamic batching、streaming模式，支持python/c++双语言，可限制，可拓展，高性能。帮助用户快速地将模型部署到线上，并通过http/rpc接口方式提供服务。
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent。
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent，支持多模态。
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [jhescobar05/simple_ros_client_application](https://github.com/jhescobar05/simple_ros_client_application) - A desktop application using the Qt framework to publish messages over a websocket connection to utilize ROS service and pub/sub functionality. The published messages can control the movements a ROS to
 - [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping".
@@ -624,7 +633,6 @@
 - [m-schuetz/CudaLOD](https://github.com/m-schuetz/CudaLOD) - 
 - [autoexpect/ffmpeg_tutorial](https://github.com/autoexpect/ffmpeg_tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
-- [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
@@ -1353,6 +1361,8 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
@@ -1364,6 +1374,7 @@
 
 ## HTML 
 
+- [spectral-compute/scale-docs](https://github.com/spectral-compute/scale-docs) - 
 - [aakashjuseja-aj/Sparse_to_Dense](https://github.com/aakashjuseja-aj/Sparse_to_Dense) - 
 - [Tsinghua-MARS-Lab/DriveVLM](https://github.com/Tsinghua-MARS-Lab/DriveVLM) - 
 - [NVlabs/M2BEV](https://github.com/NVlabs/M2BEV) - 
@@ -1406,6 +1417,8 @@
 
 ## JavaScript 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 - [AIR-DISCOVER/Hint-AD](https://github.com/AIR-DISCOVER/Hint-AD) - CoRL2024 | Hint-AD: Holistically Aligned Interpretability for End-to-End Autonomous Driving
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -1440,6 +1453,7 @@
 
 ## Jupyter Notebook 
 
+- [abdullahtarek/tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) - This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to e
 - [huahuasousou/dair_v2x_i_dataset_vis](https://github.com/huahuasousou/dair_v2x_i_dataset_vis) - For visualizing the dair-v2x-i dataset
 - [TommyZihao/openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
@@ -1698,6 +1712,8 @@
 
 ## Others 
 
+- [flink-china/flink-training-course](https://github.com/flink-china/flink-training-course) - Flink 中文视频课程（持续更新...）
+- [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 - [Ilya-Fradlin/Interactive4D](https://github.com/Ilya-Fradlin/Interactive4D) - 
 - [ShiPC-AI/LPR-Survey](https://github.com/ShiPC-AI/LPR-Survey) - A survey of LiDAR-based place recognition
 - [GYee/CV_interviews_Q-A](https://github.com/GYee/CV_interviews_Q-A) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块，一起努力向offers发起冲击！
@@ -1941,6 +1957,7 @@
 
 ## PHP 
 
+- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 
 ## Perl 
@@ -1962,9 +1979,25 @@
 
 ## Python 
 
+- [Event-AHU/EventVOT_Benchmark](https://github.com/Event-AHU/EventVOT_Benchmark) - [CVPR-2024] The First High Definition (HD) Event based Visual Object Tracking Benchmark Dataset
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
+- [CG80499/KAN-GPT-2](https://github.com/CG80499/KAN-GPT-2) - Training small GPT-2 style models using Kolmogorov-Arnold networks.
+- [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
+- [eureka-research/DrEureka](https://github.com/eureka-research/DrEureka) - Official Repository for "DrEureka: Language Model Guided Sim-To-Real Transfer" (RSS 2024)
+- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
+- [test-time-training/ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch) - Official PyTorch implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
+- [GindaChen/FlexFlashAttention3](https://github.com/GindaChen/FlexFlashAttention3) - FlexAttention w/ FlashAttention3 Support
+- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
+- [OpenTeleVision/TeleVision](https://github.com/OpenTeleVision/TeleVision) - [CoRL 2024] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
+- [dxyang/DQN_pytorch](https://github.com/dxyang/DQN_pytorch) - Vanilla DQN, Double DQN, and Dueling DQN implemented in PyTorch
+- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA: Towards Open-Source Interactive Omni Multimodal LLM
+- [emidan19/deep-tempest](https://github.com/emidan19/deep-tempest) - Restoration for TEMPEST images using deep-learning
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [AXERA-TECH/RT-DETR](https://github.com/AXERA-TECH/RT-DETR) - Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
+- [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
 - [sunshuofeng/X-3D](https://github.com/sunshuofeng/X-3D) - X-3D:  Explicit 3D Structure Modeling for Point Cloud Recognition (CVPR2024)
 - [jerryfeng2003/PointGST](https://github.com/jerryfeng2003/PointGST) - Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning
-- [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps
 - [rst-tu-dortmund/lerojd](https://github.com/rst-tu-dortmund/lerojd) - 
 - [BIT-DA/Annotator](https://github.com/BIT-DA/Annotator) - [NeurIPS 2023] Official Implementation of A Generic Active Learning Baseline for LiDAR Semantic Segmentation
 - [g-meghana-reddy/open-world-panoptic-segmentation](https://github.com/g-meghana-reddy/open-world-panoptic-segmentation) - 
@@ -2760,7 +2793,7 @@
 - [zju3dv/Vox-Fusion](https://github.com/zju3dv/Vox-Fusion) - Code for "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", ISMAR 2022
 - [zju3dv/Vox-Surf](https://github.com/zju3dv/Vox-Surf) - Code for "Vox-Surf: Voxel-based Implicit Surface Representation", TVCG 2022
 - [zju3dv/ENeRF](https://github.com/zju3dv/ENeRF) - SIGGRAPH Asia 2022: Code for "Efficient Neural Radiance Fields for Interactive Free-viewpoint Video"
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle. （将PaddleOCR模型做了转换，采用ONNXRuntime推理，速度很快）
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [DanceTrack/DanceTrack](https://github.com/DanceTrack/DanceTrack) - [CVPR2022] DanceTrack: Multiple Object Tracking in Uniform Appearance and Diverse Motion
 - [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple Object Tracking with Transformer
 - [Gorilla-Lab-SCUT/TTAC](https://github.com/Gorilla-Lab-SCUT/TTAC) - [NeurIPS 2022] Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering
@@ -3940,6 +3973,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [ViliamVadocz/nvidia-video-codec-sdk](https://github.com/ViliamVadocz/nvidia-video-codec-sdk) - Rust bindings for NVIDIA Video Codec SDK
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -3959,6 +3993,7 @@
 
 ## Shell 
 
+- [fly-apps/ollama-open-webui](https://github.com/fly-apps/ollama-open-webui) - Self-host a ChatGPT-style web interface for Ollama 🦙
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [Fruit-Pi/rockchip-test](https://github.com/Fruit-Pi/rockchip-test) - 
@@ -4000,6 +4035,12 @@
 - [google-coral/test_data](https://github.com/google-coral/test_data) - Trained and compiled TF Lite models, and other testing data for Coral devices
 - [bazelbuild/examples](https://github.com/bazelbuild/examples) - Examples for Bazel
 
+## Svelte 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - This repo is no longer maintained, please use our main Open WebUI repo.
+
 ## Swift 
 
 - [apple/ml-mobileone](https://github.com/apple/ml-mobileone) - This repository contains the official implementation of the research paper, "An Improved One millisecond Mobile Backbone".
@@ -4023,6 +4064,9 @@
 
 ## TypeScript 
 
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [teleporthq/teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
 - [caorushizi/mediago](https://github.com/caorushizi/mediago) - m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
