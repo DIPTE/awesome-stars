@@ -6,6 +6,7 @@
 ## Contents
 
 - [Arc](#arc)
+- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [BitBake](#bitbake)
 - [C](#c)
@@ -66,6 +67,10 @@
 ## Arc 
 
 - [YonoHub/YonohubDemos](https://github.com/YonoHub/YonohubDemos) - 
+
+## Assembly 
+
+- [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 
 ## Batchfile 
 
@@ -228,7 +233,6 @@
 ## C# # 
 
 - [ZhouZijie77/Unity-PointCloud-Navigation](https://github.com/ZhouZijie77/Unity-PointCloud-Navigation) - 使用Unity开发的显示点云及通过点云地图生成可通行区域并使用A*算法进行路径规划移动端应用程序。
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
@@ -412,7 +416,6 @@
 - [joaofaro/KCFcpp](https://github.com/joaofaro/KCFcpp) - C++ Implementation of KCF Tracker
 - [marty1885/paroli](https://github.com/marty1885/paroli) - Streaming TTS based on Piper with optional RK3588 NPU support
 - [EEPT-LAB/DipG-Seg](https://github.com/EEPT-LAB/DipG-Seg) - The official implementation of DipG-Seg.
-- [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
 - [BigWide/xwgi5651](https://github.com/BigWide/xwgi5651) - 星网宇达组合导航SDK程序
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
@@ -618,7 +621,7 @@
 - [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
-- [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
+- [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
 - [liushuan/MNN-MTCNN-CPU-OPENCL](https://github.com/liushuan/MNN-MTCNN-CPU-OPENCL) - MNN MTCNN C++
 - [intel/fpga-runtime-for-opencl](https://github.com/intel/fpga-runtime-for-opencl) - Intel® FPGA Runtime for OpenCL™ Software Technology
 - [michel-meneses/great-opencl-examples](https://github.com/michel-meneses/great-opencl-examples) - Collection of easy, well-documented and useful OpenCL examples in C++.
@@ -1188,6 +1191,7 @@
 - [hpc203/license-plate-detect-recoginition-opencv](https://github.com/hpc203/license-plate-detect-recoginition-opencv) - 使用opencv部署深度学习车牌检测与识别，包含Python和C++两种版本的实现
 - [idealab-isu/GPView](https://github.com/idealab-isu/GPView) - GPU Accelerated Voxelization Framework for 3D CAD models.
 - [RMonica/rviz_cloud_annotation](https://github.com/RMonica/rviz_cloud_annotation) - Point cloud annotation tool based on RViz
+- [halostorm/PCAT_open_source](https://github.com/halostorm/PCAT_open_source) - PointCloud Annotation Tools, support to label object bound box, ground, lane and kerb
 - [feicay/LaserNet](https://github.com/feicay/LaserNet) - 
 - [mhsung/libigl-renderer](https://github.com/mhsung/libigl-renderer) - 
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
@@ -1421,7 +1425,7 @@
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 - [AIR-DISCOVER/Hint-AD](https://github.com/AIR-DISCOVER/Hint-AD) - CoRL2024 | Hint-AD: Holistically Aligned Interpretability for End-to-End Autonomous Driving
-- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [kahowang/lab-3dslam-plotform](https://github.com/kahowang/lab-3dslam-plotform) - 
 - [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
 - [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
@@ -1465,13 +1469,13 @@
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [GaussianObject/GaussianObject](https://github.com/GaussianObject/GaussianObject) - GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting (SIGGRAPH Asia 2024, TOG)
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - [ECCV 2024] Tokenize Anything via Prompting
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inference, scalable model hosting, 
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -1688,7 +1692,6 @@
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
 - [Y-pandaman/miivii_gmsl_camera](https://github.com/Y-pandaman/miivii_gmsl_camera) - 
 - [zherlock030/YOLOv5_Torchscript](https://github.com/zherlock030/YOLOv5_Torchscript) - C++ code for running a yolov5s model.
-- [halostorm/PCAT_open_source](https://github.com/halostorm/PCAT_open_source) - PointCloud Annotation Tools, support to label object bound box, ground, lane and kerb
 - [KeeganRen/FaceReconstruction](https://github.com/KeeganRen/FaceReconstruction) - Facial Landmark Detection and head pose compute use dlib, Real time Face Reconstruction use 3D Morphable Face Model fitting
 - [kimeguida/Open3D_2019-02-13](https://github.com/kimeguida/Open3D_2019-02-13) - Point cloud registration (open3d.org)
 
@@ -1723,7 +1726,7 @@
 - [StiphyJay/LiDAR-PTQ](https://github.com/StiphyJay/LiDAR-PTQ) - ICLR2024:  LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection.
 - [Z-Pengcheng/MGS-SLAM](https://github.com/Z-Pengcheng/MGS-SLAM) - 
 - [HeKun-NVIDIA/TensorRT-Developer_Guide_in_Chinese](https://github.com/HeKun-NVIDIA/TensorRT-Developer_Guide_in_Chinese) - 
-- [neu-autonomy/FeatureLIOM](https://github.com/neu-autonomy/FeatureLIOM) - 
+- [neu-autonomy/FeatureLIOM](https://github.com/neu-autonomy/FeatureLIOM) - Official Implementation of Feature Extractor for DFLIOM
 - [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - 
 - [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - A MultiModal Mapping (M2Mapping) Framework for LiDAR-Visual Systems
 - [changshuowang/GPSFormer](https://github.com/changshuowang/GPSFormer) - This is a PyTorch implementation of GPSFormer proposed by our paper "GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding"(ECCV2024)
@@ -1979,6 +1982,9 @@
 
 ## Python 
 
+- [otaheri/MANO](https://github.com/otaheri/MANO) - A PyTorch Implementation of MANO hand model.
+- [lixiny/manotorch](https://github.com/lixiny/manotorch) - MANO in pyTORCH (anatomical constraints, anchors, etc)
+- [CalciferZh/SMPL](https://github.com/CalciferZh/SMPL) - NumPy, TensorFlow and PyTorch implementation of human body SMPL model and infant body SMIL model.
 - [Event-AHU/EventVOT_Benchmark](https://github.com/Event-AHU/EventVOT_Benchmark) - [CVPR-2024] The First High Definition (HD) Event based Visual Object Tracking Benchmark Dataset
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
 - [CG80499/KAN-GPT-2](https://github.com/CG80499/KAN-GPT-2) - Training small GPT-2 style models using Kolmogorov-Arnold networks.
@@ -2073,7 +2079,7 @@
 - [NEU-REAL/SeqTrack3d](https://github.com/NEU-REAL/SeqTrack3d) - [ICRA'24] SeqTrack3d: Exploring Sequence Information for Robust 3D Point Cloud Tracking
 - [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
-- [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [MM 2024] [Need only one 3090] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
+- [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [MM 2024] [Need only a 3090] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
 - [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) - [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
@@ -2170,6 +2176,7 @@
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inference, scalable model hosting, 
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
@@ -2609,7 +2616,7 @@
 - [gangweiX/IGEV](https://github.com/gangweiX/IGEV) - [CVPR 2023] Iterative Geometry Encoding Volume for Stereo Matching and Multi-View Stereo
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
 - [cschenxiang/DRSformer](https://github.com/cschenxiang/DRSformer) - Learning A Sparse Transformer Network for Effective Image Deraining (CVPR 2023)
-- [tsingqguo/efficientderain](https://github.com/tsingqguo/efficientderain) - we propose EfficientDerain for high-efficiency single-image deraining
+- [tsingqguo/efficientderain](https://github.com/tsingqguo/efficientderain) - We propose EfficientDerain for high-efficiency single-image deraining at AAAI 2021. The latest extended version has been accepted by IJCV at 2024. Please check the released code at https://github.com/
 - [XiaLiPKU/RESCAN](https://github.com/XiaLiPKU/RESCAN) - Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining
 - [zhang-can/ECO-pytorch](https://github.com/zhang-can/ECO-pytorch) - PyTorch implementation for "ECO: Efficient Convolutional Network for Online Video Understanding", ECCV 2018
 - [PengBoXiangShang/SiamRPN_plus_plus_PyTorch](https://github.com/PengBoXiangShang/SiamRPN_plus_plus_PyTorch) - SiamRPN, SiamRPN++, unofficial implementation of "SiamRPN++" (CVPR2019), multi-GPUs, LMDB.
@@ -3081,6 +3088,7 @@
 - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含14个onnx模型，依然是包含C++和Python两个版本的程序
 - [PaddlePaddle/Paddle3D](https://github.com/PaddlePaddle/Paddle3D) - A 3D computer vision development toolkit based on PaddlePaddle. It supports point-cloud object detection, segmentation, and monocular 3D object detection models.
 - [ethnhe/PVN3D](https://github.com/ethnhe/PVN3D) - Code for "PVN3D: A  Deep  Point-wise  3D  Keypoints  Hough  Voting  Network  for 6DoF  Pose  Estimation", CVPR 2020
+- [pytorch/builder](https://github.com/pytorch/builder) - Continuous builder and binary build scripts for pytorch
 - [jiachens/ModelNet40-C](https://github.com/jiachens/ModelNet40-C) - Repo for "Benchmarking Robustness of 3D Point Cloud Recognition against Common Corruptions"  https://arxiv.org/abs/2201.12296
 - [wavefrontshaping/complexPyTorch](https://github.com/wavefrontshaping/complexPyTorch) - A high-level toolbox for using complex valued neural networks in PyTorch
 - [mfxox/ILCC](https://github.com/mfxox/ILCC) - Intensity-based_Lidar_Camera_Calibration
@@ -4021,7 +4029,6 @@
 - [polesapart/Qt5-arm-cross-build](https://github.com/polesapart/Qt5-arm-cross-build) - Docker scripts for building a qt5 opensource image via cross-compilation
 - [Amanda-Barbara/opencv_build](https://github.com/Amanda-Barbara/opencv_build) - build for x86 or arm on linux
 - [IvanSolis1989/OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY) - 多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900acs、Lin
-- [pytorch/builder](https://github.com/pytorch/builder) - Continuous builder and binary build scripts for pytorch
 - [guochengqian/PointNeXt](https://github.com/guochengqian/PointNeXt) - [NeurIPS'22] PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies
 - [KamitaniLab/docker-images](https://github.com/KamitaniLab/docker-images) - 
 - [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
