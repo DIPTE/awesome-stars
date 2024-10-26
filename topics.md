@@ -1578,7 +1578,7 @@
 
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent，支持多模态。
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent，支持多模态，支持gradio聊天界面。
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
@@ -1957,7 +1957,7 @@
 ## openai 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent，支持多模态。
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过接入TensorRT-LLM以及Tokenizers.cpp实现纯c++版本高性能LLM服务，兼容OpenAI接口协议，支持chat和function call模式，支持ai agent，支持多模态，支持gradio聊天界面。
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -2088,7 +2088,7 @@
 - [neu-autonomy/FeatureLIOM](https://github.com/neu-autonomy/FeatureLIOM) - Official Implementation of Feature Extractor for DFLIOM
 - [huahuasousou/dair_v2x_i_dataset_vis](https://github.com/huahuasousou/dair_v2x_i_dataset_vis) - For visualizing the dair-v2x-i dataset
 - [ayesha-ishaq/Open3DTrack](https://github.com/ayesha-ishaq/Open3DTrack) - Code for Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking
-- [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - 
+- [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - Improving 3D Large Language Model via Robust Instruction Tuning
 - [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, RTCM3, NTRIP & SPARTN Protocols
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [DaniloXiao/BEV-RoadSeg](https://github.com/DaniloXiao/BEV-RoadSeg) - BEV-RoadSeg for Freespace Detection in PyTorch, including Python onnx and tensorRT API versions.
@@ -2165,7 +2165,7 @@
 - [NickHezhuolin/OS-Det3D](https://github.com/NickHezhuolin/OS-Det3D) - 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [DaTongjie/BEVSpread](https://github.com/DaTongjie/BEVSpread) - 
-- [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - 《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
+- [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - Code for the book "ROS 2 Programming - Based on Modern C++ and Python 3"     《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
 - [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 - [dsx0511/ADA-Track](https://github.com/dsx0511/ADA-Track) - Offical implementation of CVPR2024 paper ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
