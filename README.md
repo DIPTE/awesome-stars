@@ -155,7 +155,7 @@
 - [muratdemirtas/MT7601u](https://github.com/muratdemirtas/MT7601u) - Ubuntu and Embedded Linux(Raspberry Pi, Banana Pi etc.) drivers for MediaTek MT7601u Wireless Chipset. Support Access Point(AP) and Station Mode(STA). Tested on 32-64 Bit Ubuntu and Raspberry Pi 2 wit
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsic functions
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-- [eclipse-paho/paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
+- [eclipse-paho/paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 - [Nrusher/nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) - shell for MCU. 单片机命令行交互。
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
@@ -300,6 +300,7 @@
 - [KwanWaiPang/RGBD-GS-ICP-SLAM-Comment](https://github.com/KwanWaiPang/RGBD-GS-ICP-SLAM-Comment) - RGBD GS-ICP SLAM的中文注释版
 - [Lab-of-AI-and-Robotics/GS_ICP_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - [ECCV 2024] RGBD GS-ICP SLAM
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+- [GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai) - 
 - [hku-mars/btc_descriptor](https://github.com/hku-mars/btc_descriptor) - 
 - [hku-mars/D-Map](https://github.com/hku-mars/D-Map) - D-Map provides an efficient occupancy mapping approach for high-resolution LiDAR sensors.
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
@@ -1314,7 +1315,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 📚Tensor/CUDA Cores, 📖150+ CUDA Kernels, ⚡️⚡️toy-hgemm library with WMMA, MMA and CuTe (98%~100% TFLOPS of cuBLAS 🎉🎉).
+- [DefTruth/CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes) - 📚150+ Tensor/CUDA Cores Kernels, ⚡️flash-attention-mma, ⚡️hgemm with WMMA, MMA and CuTe (98%~100% TFLOPS of cuBLAS 🎉🎉).
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -1424,6 +1425,7 @@
 
 ## JavaScript 
 
+- [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
@@ -1750,7 +1752,7 @@
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method
 - [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
-- [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
+- [DoongLi/awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
@@ -2640,7 +2642,7 @@
 - [jialeli1/lidarseg3d](https://github.com/jialeli1/lidarseg3d) - A repository for LiDAR 3D semantic segmentation in autonomous driving scenarios.  Also the official implementations of our ECCV 2022 paper (SDSeg3D) and CVPR 2023 paper (MSeg3D).
 - [megvii-research/OccDepth](https://github.com/megvii-research/OccDepth) - Maybe the first academic open work on stereo 3D SSC method with vision-only input.
 - [astra-vision/MonoScene](https://github.com/astra-vision/MonoScene) - [CVPR 2022] "MonoScene: Monocular 3D Semantic Scene Completion": 3D Semantic Occupancy Prediction from a single image
-- [BLVLab/PiMAE](https://github.com/BLVLab/PiMAE) - [CVPR2023] Official implementation of “PiMAE: Point cloud and Image Interactive Masked Autoencoders for 3D Object Detecion”
+- [antonioo-c/PiMAE](https://github.com/antonioo-c/PiMAE) - [CVPR2023] Official implementation of “PiMAE: Point cloud and Image Interactive Masked Autoencoders for 3D Object Detecion”
 - [ma-xu/FCViT](https://github.com/ma-xu/FCViT) - A Close Look at Spatial Modeling: From Attention to Convolution
 - [ma-xu/Context-Cluster](https://github.com/ma-xu/Context-Cluster) - [ICLR 2023 Oral] Image as Set of Points
 - [ZrrSkywalker/Point-NN](https://github.com/ZrrSkywalker/Point-NN) - [CVPR 2023] Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis
@@ -2906,7 +2908,7 @@
 - [VNOpenAI/pushup-counter-app](https://github.com/VNOpenAI/pushup-counter-app) - Count pushups from video/webcam. Tech stack: Keypoint detection, BlazePose, action recognition.
 - [sbis04/blazepose-oak](https://github.com/sbis04/blazepose-oak) - OAK Blazepose
 - [vincentfung13/MINE](https://github.com/vincentfung13/MINE) - Code and models for our ICCV 2021 paper "MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis"
-- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a visual SLAM pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local and global features based on Deep Learning, different loop-closing methods, and a volum
+- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a visual SLAM pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local and global features, different loop-closing methods, a volumetric reconstruction pipeli
 - [conan-community/conan-pybind11](https://github.com/conan-community/conan-pybind11) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
 - [conan-community/conan-boost](https://github.com/conan-community/conan-boost) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
 - [conan-community/conan-opencv](https://github.com/conan-community/conan-opencv) - [DEPRECATED] Conan recipes for OpenCV
@@ -3100,6 +3102,7 @@
 - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含14个onnx模型，依然是包含C++和Python两个版本的程序
 - [PaddlePaddle/Paddle3D](https://github.com/PaddlePaddle/Paddle3D) - A 3D computer vision development toolkit based on PaddlePaddle. It supports point-cloud object detection, segmentation, and monocular 3D object detection models.
 - [ethnhe/PVN3D](https://github.com/ethnhe/PVN3D) - Code for "PVN3D: A  Deep  Point-wise  3D  Keypoints  Hough  Voting  Network  for 6DoF  Pose  Estimation", CVPR 2020
+- [pytorch/builder](https://github.com/pytorch/builder) - Continuous builder and binary build scripts for pytorch
 - [jiachens/ModelNet40-C](https://github.com/jiachens/ModelNet40-C) - Repo for "Benchmarking Robustness of 3D Point Cloud Recognition against Common Corruptions"  https://arxiv.org/abs/2201.12296
 - [wavefrontshaping/complexPyTorch](https://github.com/wavefrontshaping/complexPyTorch) - A high-level toolbox for using complex valued neural networks in PyTorch
 - [mfxox/ILCC](https://github.com/mfxox/ILCC) - Intensity-based_Lidar_Camera_Calibration
@@ -4040,7 +4043,6 @@
 - [polesapart/Qt5-arm-cross-build](https://github.com/polesapart/Qt5-arm-cross-build) - Docker scripts for building a qt5 opensource image via cross-compilation
 - [Amanda-Barbara/opencv_build](https://github.com/Amanda-Barbara/opencv_build) - build for x86 or arm on linux
 - [IvanSolis1989/OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY) - 多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900acs、Lin
-- [pytorch/builder](https://github.com/pytorch/builder) - Continuous builder and binary build scripts for pytorch
 - [guochengqian/PointNeXt](https://github.com/guochengqian/PointNeXt) - [NeurIPS'22] PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies
 - [KamitaniLab/docker-images](https://github.com/KamitaniLab/docker-images) - 
 - [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
