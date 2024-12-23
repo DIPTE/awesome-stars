@@ -308,7 +308,7 @@
 - [homalozoa/ros2_for_beginners_code](https://github.com/homalozoa/ros2_for_beginners_code) - Code for the book "ROS 2 Programming - Based on Modern C++ and Python 3"     《ROS 2机器人编程实战——基于现代C++和Python 3》配套代码及相关内容维护
 - [electech6/ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
-- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - 🚀 你的YOLO部署神器。TensorRT Plugin、CUDA Kernel、CUDA Graphs三管齐下，享受闪电般的推理速度。| Your YOLO Deployment Powerhouse. With the synergy of TensorRT Plugins, CUDA Kernels, and CUDA Graphs, experience lightning-fast in
+- [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) - TensorRT-YOLO: A high-performance, easy-to-use YOLO deployment toolkit for NVIDIA, powered by TensorRT plugins and CUDA Graph, supporting C++ and Python.
 - [daniel89710/lightNet-TRT](https://github.com/daniel89710/lightNet-TRT) - LightNet-TRT is a high-efficiency and real-time implementation of convolutional neural networks (CNNs) using Edge AI.
 - [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
 - [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 🪙 COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (ICRA 2024)
@@ -1475,7 +1475,7 @@
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [chensjtu/GaussianObject](https://github.com/chensjtu/GaussianObject) - GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting (SIGGRAPH Asia 2024, TOG)
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
@@ -2563,7 +2563,7 @@
 - [PaddlePaddle/PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) - 
 - [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - ♟️ Vectorized RL game environments in JAX
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl) - Really Fast End-to-End Jax RL Implementations
-- [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python Low-level Bindings
+- [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
 - [jzhang538/PointCert](https://github.com/jzhang538/PointCert) - [CVPR 2023] "PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees": official code implementation.
 - [PJLab-ADG/3DTrans](https://github.com/PJLab-ADG/3DTrans) - An open-source codebase for exploring autonomous driving pre-training
 - [hujiecpp/YOSO](https://github.com/hujiecpp/YOSO) - Code release for paper "You Only Segment Once: Towards Real-Time Panoptic Segmentation" [CVPR 2023]
@@ -4088,7 +4088,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [teleporthq/teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
