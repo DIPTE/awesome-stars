@@ -1152,7 +1152,7 @@
 - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) - 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序
 - [bmwcarit/pcl-people-tracker-timing-test](https://github.com/bmwcarit/pcl-people-tracker-timing-test) - This test suite measures the people tracker runtime from the open-source library Point Cloud Library (PCL). It captures and visualizes the runtime and the runtime's dependency on certain calibration v
 - [novak-99/MLPP](https://github.com/novak-99/MLPP) - A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.
-- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
+- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient library for processing and rendering 3D data
 - [jingma-git/RealSkel](https://github.com/jingma-git/RealSkel) - Real-time Skeletonization for Sketch-based Modeling
 - [xiangli0608/cartographer_detailed_comments_ws](https://github.com/xiangli0608/cartographer_detailed_comments_ws) - cartographer work space with detailed comments
 - [jkk-research/urban_road_filter](https://github.com/jkk-research/urban_road_filter) - Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles 🚗
