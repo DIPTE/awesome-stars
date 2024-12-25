@@ -2017,7 +2017,7 @@
 - [KernelA/egl-offscreen-render](https://github.com/KernelA/egl-offscreen-render) - OpenGL offscreen rendering with EGL and antialiasing
 - [iwatake2222/rotation_master](https://github.com/iwatake2222/rotation_master) - Provide conversion between the major representations of 3D rotation and visualize the orientation of a rigid body
 - [julrog/nn_vis](https://github.com/julrog/nn_vis) - A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.
-- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
+- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient library for processing and rendering 3D data
 - [mmatl/pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 
