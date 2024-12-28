@@ -782,7 +782,7 @@
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm with Re-ID and Camera Motion Compensation
-- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2024] OC-SORT implemented in C++ with Eigen Library
+- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2024] OC-SORT implemented in C++ with Eigen Library, Plus a Android Demo Apk
 - [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
@@ -2028,6 +2028,8 @@
 
 ## others 
 
+- [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source reproduction of Waymo’s EMMA model.
+- [Amyyyy11/3D-Registration-in-30-Years-A-Survey](https://github.com/Amyyyy11/3D-Registration-in-30-Years-A-Survey) - 
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [ziqi-ma/Find3D](https://github.com/ziqi-ma/Find3D) - Open-world 3D part segmentation of point clouds
@@ -2350,7 +2352,7 @@
 - [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [wzzheng/GenAD](https://github.com/wzzheng/GenAD) - [ECCV 2024] GenAD: Generative End-to-End Autonomous Driving
-- [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - We propose LiRaFusion to tackle LiDAR-radar fusion for 3D object detection to fill the performance gap of existing LiDAR-radar detectors.
+- [Song-Jingyu/LiRaFusion](https://github.com/Song-Jingyu/LiRaFusion) - [ICRA 2024] - We propose LiRaFusion to tackle LiDAR-radar fusion for 3D object detection to fill the performance gap of existing LiDAR-radar detectors.
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
