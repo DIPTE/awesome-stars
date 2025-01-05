@@ -258,6 +258,7 @@
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) - NVIDIA-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Build end-to-end AI applications and agent workflows on your existing data infrastructure and preferred tools - without migrating your data.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
@@ -366,7 +367,7 @@
 - [isaaccorley/simpleview-pytorch](https://github.com/isaaccorley/simpleview-pytorch) - PyTorch implementation of SimpleView from "Revisiting Point Cloud Classification with a Simple and Effective Baseline", Goyal et al. (2020)
 - [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [lucidrains/point-transformer-pytorch](https://github.com/lucidrains/point-transformer-pytorch) - Implementation of the Point Transformer layer, in Pytorch
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [Yochengliu/DensePoint](https://github.com/Yochengliu/DensePoint) - DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing (ICCV 2019)
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [Sophia-11/Awesome-CVPR-Paper](https://github.com/Sophia-11/Awesome-CVPR-Paper) - CVPR 论文收集，包含但不限于2022、2021、2020、2019、2018、2017文章
@@ -495,7 +496,6 @@
 
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [MM 2024] [Need only a 3090] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Build end-to-end AI applications and agent workflows on your existing data infrastructure and preferred tools - without migrating your data.
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
@@ -517,7 +517,7 @@
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
@@ -531,7 +531,7 @@
 ## cli 
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
@@ -721,7 +721,7 @@
 - [lorenmt/vsl](https://github.com/lorenmt/vsl) - The implementation of "Learning a Hierarchical Latent-Variable Model of 3D Shapes" [3DV 2018].
 - [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron) - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera 
 - [jac99/MinkLoc3D](https://github.com/jac99/MinkLoc3D) - MinkLoc3D: Point Cloud Based Large-Scale Place Recognition
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on.
 - [Sierkinhane/mtcnn-pytorch](https://github.com/Sierkinhane/mtcnn-pytorch) - A face detection algorithm
@@ -1180,7 +1180,7 @@
 - [XingangPan/GAN2Shape](https://github.com/XingangPan/GAN2Shape) - Code for GAN2Shape (ICLR2021 oral)
 - [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron) - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera 
 - [jac99/MinkLoc3D](https://github.com/jac99/MinkLoc3D) - MinkLoc3D: Point Cloud Based Large-Scale Place Recognition
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [Yochengliu/DensePoint](https://github.com/Yochengliu/DensePoint) - DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing (ICCV 2019)
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on.
@@ -1284,7 +1284,7 @@
 
 ## dotfiles 
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
 ## dotnet 
 
@@ -1337,6 +1337,7 @@
 
 ## framework 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [CodingHanYa/workspace](https://github.com/CodingHanYa/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
@@ -1453,7 +1454,7 @@
 - [GCaptainNemo/Cuda-Image-Processing](https://github.com/GCaptainNemo/Cuda-Image-Processing) - Using CUDA GPU Programming to speed up image processing.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [lijx10/DeepI2P](https://github.com/lijx10/DeepI2P) - DeepI2P: Image-to-Point Cloud Registration via Deep Classification. CVPR 2021
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 
@@ -1578,7 +1579,7 @@
 
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过GPRS+TensorRT-LLM+Tokenizers.cpp实现纯C++版高性能OpenAI LLM服务，支持chat和function call模式，支持ai agent，支持分布式多卡推理，支持多模态，支持gradio聊天界面。
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【高性能OpenAI LLM服务】通过GPRS+TensorRT-LLM+Tokenizers.cpp实现纯C++版高性能OpenAI LLM服务，支持chat和function call模式，支持ai agent，支持分布式多卡推理，支持多模态，支持gradio聊天界面。
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
@@ -1741,7 +1742,7 @@
 - [minzhang-1/PointHop](https://github.com/minzhang-1/PointHop) - PointHop: An Explainable Machine Learning Method for Point Cloud Classification
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron) - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera 
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
@@ -1782,7 +1783,7 @@
 
 ## matlab 
 
-- [ivaquero/book-control](https://github.com/ivaquero/book-control) - DR_CAN 哔站系列课程笔记 + 代码
+- [ivaquero/book-control](https://github.com/ivaquero/book-control) - 简明控制理论教程，基于 DR_CAN 哔站系列课程
 - [matlab-deep-learning/Lidar-object-detection-using-complex-yolov4](https://github.com/matlab-deep-learning/Lidar-object-detection-using-complex-yolov4) - Object detection and transfer learning on point clouds using pretrained Complex-YOLOv4 models in MATLAB
 
 ## microsoft 
@@ -1885,7 +1886,7 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [mariogeiger/se3cnn](https://github.com/mariogeiger/se3cnn) - Euclidean Neural Networks
 - [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron) - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera 
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on.
 - [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
@@ -1903,7 +1904,7 @@
 ## nextjs 
 
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
 
 ## nlp 
@@ -1957,7 +1958,7 @@
 ## openai 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【grps接入trtllm】通过GPRS+TensorRT-LLM+Tokenizers.cpp实现纯C++版高性能OpenAI LLM服务，支持chat和function call模式，支持ai agent，支持分布式多卡推理，支持多模态，支持gradio聊天界面。
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【高性能OpenAI LLM服务】通过GPRS+TensorRT-LLM+Tokenizers.cpp实现纯C++版高性能OpenAI LLM服务，支持chat和function call模式，支持ai agent，支持分布式多卡推理，支持多模态，支持gradio聊天界面。
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -2017,7 +2018,7 @@
 - [KernelA/egl-offscreen-render](https://github.com/KernelA/egl-offscreen-render) - OpenGL offscreen rendering with EGL and antialiasing
 - [iwatake2222/rotation_master](https://github.com/iwatake2222/rotation_master) - Provide conversion between the major representations of 3D rotation and visualize the orientation of a rigid body
 - [julrog/nn_vis](https://github.com/julrog/nn_vis) - A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.
-- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient library for processing and rendering 3D data
+- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient library for processing and rendering 3D data (C++ & Python)
 - [mmatl/pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 
@@ -2068,7 +2069,7 @@
 - [jerryfeng2003/PointGST](https://github.com/jerryfeng2003/PointGST) - Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning
 - [tiev-tongji/LIMOT](https://github.com/tiev-tongji/LIMOT) - A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking.
 - [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps
-- [ShiPC-AI/LPR-Survey](https://github.com/ShiPC-AI/LPR-Survey) - A survey of LiDAR-based place recognition
+- [ShiPC-AI/LPR-Survey](https://github.com/ShiPC-AI/LPR-Survey) - [CSUR 2024] LiDAR-based Place Recognition For Autonomous Driving: A Survey
 - [luigifreda/plvs](https://github.com/luigifreda/plvs) - PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation.
 - [XiaoBaiiiiii/colmap-pcd](https://github.com/XiaoBaiiiiii/colmap-pcd) - Image-to-point cloud Registration Tool
 - [rst-tu-dortmund/lerojd](https://github.com/rst-tu-dortmund/lerojd) - 
@@ -3049,7 +3050,7 @@
 - [zjuluolun/pointCloudLibrviz](https://github.com/zjuluolun/pointCloudLibrviz) - 使用Qt+librviz+ros设计点云显示界面
 - [ehaleva/RIQ](https://github.com/ehaleva/RIQ) - Rotation-Invariant Quantization
 - [yokinglou/CRIN](https://github.com/yokinglou/CRIN) - The repo of AAAI-23 paper: "CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame".
-- [zjuluolun/BEVPlace](https://github.com/zjuluolun/BEVPlace) - A LiDAR-based complete global localization method.
+- [zjuluolun/BEVPlace2](https://github.com/zjuluolun/BEVPlace2) - A LiDAR-based complete global localization method.
 - [dingxin-zhang/PaRot](https://github.com/dingxin-zhang/PaRot) - [AAAI 2023] PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration
 - [richardrl/bandu_v1_full_clean](https://github.com/richardrl/bandu_v1_full_clean) - Codebase for ICRA 2022 paper "Stable Object Reorientation using Contact Plane Registration"
 - [yizhangphd/FreqPCR](https://github.com/yizhangphd/FreqPCR) - [CVPR 2023 Highlight] Frequency-Modulated Point Cloud Rendering with Easy Editing.
@@ -3770,7 +3771,7 @@
 - [esdolo/ImmortalTracker](https://github.com/esdolo/ImmortalTracker) - 
 - [hailanyi/CasA](https://github.com/hailanyi/CasA) - A Cascade Attention Network for 3D Object Detection from LiDAR point clouds
 - [hailanyi/3D-Multi-Object-Tracker](https://github.com/hailanyi/3D-Multi-Object-Tracker) - A project for 3D multi-object tracking
-- [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - [IEEE T-PAMI] Awesome BEV perception research and cookbook for all level audience in autonomous diriving
+- [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) - [IEEE T-PAMI 2023] Awesome BEV perception research and cookbook for all level audience in autonomous diriving
 - [whai362/PVT](https://github.com/whai362/PVT) - Official implementation of PVT series
 - [szq0214/SReT](https://github.com/szq0214/SReT) - Official PyTorch implementation of our ECCV 2022 paper "Sliced Recursive Transformer"
 - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) - :zap: Based on yolo's ultra-lightweight universal target detection algorithm, the calculation amount is only 250mflops, the ncnn model size is only 666kb, the Raspberry Pi 3b can run up to 15fps+, and
@@ -5018,7 +5019,7 @@
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron) - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera 
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [pytorch/tnt](https://github.com/pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
@@ -5272,7 +5273,7 @@
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - [ICCVW-2021] SA-Det3D: Self-attention based Context-Aware 3D Object Detection
 - [google-research-datasets/Objectron](https://github.com/google-research-datasets/Objectron) - Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera 
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [erikwijmans/Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch) - PyTorch implementation of Pointnet2/Pointnet++
 - [anshulpaigwar/Attentional-PointNet](https://github.com/anshulpaigwar/Attentional-PointNet) - Attentional-PointNet is Deep-Neural-Network architecture for 3D object detection in point clouds
 - [huawei-noah/Efficient-AI-Backbones](https://github.com/huawei-noah/Efficient-AI-Backbones) - Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.
@@ -5371,7 +5372,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 
 ## react-native 
@@ -5473,7 +5474,7 @@
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [PaoPaoRobot/ICRA2020-paper-list](https://github.com/PaoPaoRobot/ICRA2020-paper-list) - ICRA2020 paperlist by paopaorobot
 - [MIT-SPARK/TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus) - A fast and robust point cloud registration library
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [facebookresearch/votenet](https://github.com/facebookresearch/votenet) - Deep Hough Voting for 3D Object Detection in Point Clouds
 - [charlesq34/frustum-pointnets](https://github.com/charlesq34/frustum-pointnets) - Frustum PointNets for 3D Object Detection from RGB-D Data
 - [roboticslab-uc3m/textiles](https://github.com/roboticslab-uc3m/textiles) - Research on algorithms for garment perception, manipulation...
@@ -5519,7 +5520,7 @@
 
 ## shell 
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -5646,7 +5647,7 @@
 
 ## terminal 
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
