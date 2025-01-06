@@ -352,7 +352,7 @@
 - [Gutsgwh1997/CIL-SLAM](https://github.com/Gutsgwh1997/CIL-SLAM) - An unfinished camera-imu-lidar tightly coupled simultaneous localization and mapping system.
 - [nkliuhui/sync_gps_lidar_imu_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam) - lidar-imu-cam-GPS时间戳硬件同步方案
 - [Livox-SDK/livox_relocalization](https://github.com/Livox-SDK/livox_relocalization) - A relocalization package for Livox LiDARs.
-- [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI, M-LOAM, LOCUS, SLICT, MA-LIO application and com
+- [engcang/SLAM-application](https://github.com/engcang/SLAM-application) - LeGO-LOAM, LIO-SAM, LVI-SAM, FAST-LIO2, Faster-LIO, VoxelMap, R3LIVE, Point-LIO, KISS-ICP, DLO, DLIO, Ada-LIO, PV-LIO, SLAMesh, ImMesh, FAST-LIO-MULTI, M-LOAM, LOCUS, SLICT, MA-LIO, CT-ICP, GenZ-ICP, 
 - [laxnpander/OpenREALM](https://github.com/laxnpander/OpenREALM) - OpenREALM is a pipeline for real-time aerial mapping utilizing visual SLAM and 3D reconstruction frameworks.
 - [jedeschaud/ct_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
 - [facontidavide/rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
