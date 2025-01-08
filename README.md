@@ -232,6 +232,7 @@
 
 ## C# # 
 
+- [luotengyuan/MyMapTools](https://github.com/luotengyuan/MyMapTools) - 由于工作中经常和地图、GPS坐标转换、GPS轨迹查看等内容相关，经常要借助一些在线网站和工具来查看地图和位置等，在一次偶然的机会中了解到一个[GMap.NET](https://github.com/radioman/greatmaps)开源的桌面地图库和基于GMap.NET实现的[MapDownloader](https://github.com/luxiaoxun/MapDownloader)
 - [ZhouZijie77/Unity-PointCloud-Navigation](https://github.com/ZhouZijie77/Unity-PointCloud-Navigation) - 使用Unity开发的显示点云及通过点云地图生成可通行区域并使用A*算法进行路径规划移动端应用程序。
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
@@ -245,6 +246,9 @@
 
 ## C++ 
 
+- [knzo25/bevfusion_ros2](https://github.com/knzo25/bevfusion_ros2) - BEVFusion implementation in ROS2
+- [wyzdwdz/ppserver](https://github.com/wyzdwdz/ppserver) - pointpillar server for SensorSOW
+- [TJU-Aerial-Robotics/YOPO](https://github.com/TJU-Aerial-Robotics/YOPO) - You Only Plan Once: A Learning Based Quadrotor Planner
 - [ShiPC-AI/TCF](https://github.com/ShiPC-AI/TCF) - [RAL 2024] RANSAC Back to SOTA: A Two-Stage Consensus Filtering for Real-Time 3D Registration
 - [aleksi-kangas/ets2-lane-detection](https://github.com/aleksi-kangas/ets2-lane-detection) - Lane detection in Euro Truck Simulator 2 using Ultra-Fast-Lane-Detection V1 & V2
 - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) - This repository is based on shouxieai/tensorRT_Pro, with adjustments to support YOLOv8.
@@ -1273,6 +1277,7 @@
 
 ## CMake 
 
+- [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [Ar-Ray-code/bbox_ex_msgs](https://github.com/Ar-Ray-code/bbox_ex_msgs) - Extended message for darknet_ros_msgs
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
@@ -1723,6 +1728,9 @@
 
 ## Others 
 
+- [NEU-REAL/4D-CS](https://github.com/NEU-REAL/4D-CS) - 
+- [sheng00125/LIV-GaussMap](https://github.com/sheng00125/LIV-GaussMap) - 
+- [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
 - [Amyyyy11/3D-Registration-in-30-Years-A-Survey](https://github.com/Amyyyy11/3D-Registration-in-30-Years-A-Survey) - 
 - [flink-china/flink-training-course](https://github.com/flink-china/flink-training-course) - Flink 中文视频课程（持续更新...）
 - [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
@@ -1752,7 +1760,7 @@
 - [ZhongqunZHANG/awesome-6d-object](https://github.com/ZhongqunZHANG/awesome-6d-object) - Awesome work on object 6 DoF pose estimation
 - [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method
 - [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
-- [DoongLi/awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
+- [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
 - [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
 - [ryhnhao/RCooper](https://github.com/ryhnhao/RCooper) - [CVPR2024] Dumped repo of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
@@ -1844,7 +1852,7 @@
 - [wangx1996/Lidar-Ground-Segmantation-Paper-List](https://github.com/wangx1996/Lidar-Ground-Segmantation-Paper-List) - Collect paper about ground segmentation in 3D point cloud.
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [kuba-moo/mt7601u](https://github.com/kuba-moo/mt7601u) - Linux mac80211-based driver for Mediatek MT7601U USB bgn WiFi dongle
-- [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects.
+- [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
 - [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) - A paper list of lane detection.
 - [ajhamdi/vointcloud](https://github.com/ajhamdi/vointcloud) - Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding (ICLR 2023)
@@ -1986,6 +1994,8 @@
 
 ## Python 
 
+- [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highligt paper: Matching Anything by Segmenting Anything
+- [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - Real-time dense scene reconstruction with SLAM3R
 - [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source reproduction of Waymo’s EMMA model.
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
@@ -2009,7 +2019,7 @@
 - [OpenTeleVision/TeleVision](https://github.com/OpenTeleVision/TeleVision) - [CoRL 2024] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [dxyang/DQN_pytorch](https://github.com/dxyang/DQN_pytorch) - Vanilla DQN, Double DQN, and Dueling DQN implemented in PyTorch
-- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA: Towards Open-Source Interactive Omni Multimodal LLM
+- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction
 - [emidan19/deep-tempest](https://github.com/emidan19/deep-tempest) - Restoration for TEMPEST images using deep-learning
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [AXERA-TECH/RT-DETR](https://github.com/AXERA-TECH/RT-DETR) - Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
@@ -2123,7 +2133,7 @@
 - [heethesh/lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - Light-weight camera LiDAR calibration package for ROS using OpenCV and PCL (PnP + LM optimization)
 - [Tsinghua-MARS-Lab/Occ3D](https://github.com/Tsinghua-MARS-Lab/Occ3D) - 
 - [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) - [ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation Metric
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [spla-tam/SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM (CVPR 2024)
 - [VladimirYugay/Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting
 - [muskie82/MonoGS](https://github.com/muskie82/MonoGS) - [CVPR'24 Highlight & Best Demo Award] Gaussian Splatting SLAM
@@ -2523,7 +2533,7 @@
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
 - [haibo-qiu/CDFormer](https://github.com/haibo-qiu/CDFormer) - Code for "Collect-and-Distribute Transformer for 3D Point Cloud Analysis"
-- [hustvl/SparseTrack](https://github.com/hustvl/SparseTrack) - Official PyTorch implementation of SparseTrack (the new version of code will come soon)
+- [hustvl/SparseTrack](https://github.com/hustvl/SparseTrack) - Official PyTorch implementation of SparseTrack
 - [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing (Vol.147 Jul. '24)] Interactive Natural Image Matting with Segment Anything Models
 - [SPengLiang/Camera-Calibration-of-Zhang-s-method](https://github.com/SPengLiang/Camera-Calibration-of-Zhang-s-method) - Zhang‘s method camera calibration implement by numpy
 - [SPengLiang/OccupancyM3D](https://github.com/SPengLiang/OccupancyM3D) - [CVPR 2024] Learning Occupancy for Monocular 3D Object Detection
@@ -4069,7 +4079,7 @@
 - [apple/ml-mobileone](https://github.com/apple/ml-mobileone) - This repository contains the official implementation of the research paper, "An Improved One millisecond Mobile Backbone".
 - [kingreza/quantization](https://github.com/kingreza/quantization) - A deep dive into Apple's coremltools quantization and how to reduce the size of a Core ML model without losing accuracy and performance
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
-- [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
+- [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 ## SystemVerilog 
 
