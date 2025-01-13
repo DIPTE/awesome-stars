@@ -318,7 +318,7 @@
 - [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 🪙 COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (ICRA 2024)
 - [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Flexible data visualization software for embedded devices and projects
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Data visualization software for embedded devices and projects
 - [HRex39/Newton-M2-Ros-Driver](https://github.com/HRex39/Newton-M2-Ros-Driver) - 星网宇达Newton M2 Ros Package解析GPFPD与GTIMU程序
 - [OSGeo/PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 - [RoboMaster/RoboRTS](https://github.com/RoboMaster/RoboRTS) - An open source software stack for Real-Time Strategy research on mobile robots
@@ -1306,7 +1306,6 @@
 ## Cuda 
 
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
-- [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
 - [Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes](https://github.com/Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes) - CUDA C 编程权威指南代码实现 包含了书上第二章到第八章的大部分代码实现和作者笔记，全由作者本人手动实现，难免有错误的地方，请大家谨慎参考，非常欢迎对错误的指正。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
@@ -1481,7 +1480,6 @@
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
 - [chensjtu/GaussianObject](https://github.com/chensjtu/GaussianObject) - GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting (SIGGRAPH Asia 2024, TOG)
 - [camenduru/YoloWorld-EfficientSAM-jupyter](https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
@@ -1743,7 +1741,6 @@
 - [StiphyJay/LiDAR-PTQ](https://github.com/StiphyJay/LiDAR-PTQ) - ICLR2024:  LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection.
 - [Z-Pengcheng/MGS-SLAM](https://github.com/Z-Pengcheng/MGS-SLAM) - 
 - [HeKun-NVIDIA/TensorRT-Developer_Guide_in_Chinese](https://github.com/HeKun-NVIDIA/TensorRT-Developer_Guide_in_Chinese) - 
-- [neu-autonomy/FeatureLIOM](https://github.com/neu-autonomy/FeatureLIOM) - Official Implementation of Feature Extractor for DFLIOM
 - [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - Improving 3D Large Language Model via Robust Instruction Tuning
 - [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - A MultiModal Mapping (M2Mapping) Framework for LiDAR-Visual Systems
 - [changshuowang/GPSFormer](https://github.com/changshuowang/GPSFormer) - This is a PyTorch implementation of GPSFormer proposed by our paper "GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding"(ECCV2024)
@@ -1862,7 +1859,7 @@
 - [unmannedlab/LiDARNet](https://github.com/unmannedlab/LiDARNet) - LiDARNet: A Boundary-Aware Domain Adaptation Model for Point Cloud Semantic Segmentation
 - [Inspur-Autodrive/Inspur_DABNet4D](https://github.com/Inspur-Autodrive/Inspur_DABNet4D) - This method performs 3D object detection in the BEV space using images from multiple cameras.
 - [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
-- [industrialtablet/RK3588-Development-Board](https://github.com/industrialtablet/RK3588-Development-Board) - This repository is RK3588 Development Board Documents from HYY Technology Co.,Ltd.
+- [industrialtablet/RK3576S-RK3576-RK3588-Development-Board](https://github.com/industrialtablet/RK3576S-RK3576-RK3588-Development-Board) - This repository is RK3576s RK3576 RK3588 Development Board Documents from HYY Technology Co.,Ltd.
 - [HeBangYan/PF-Attack](https://github.com/HeBangYan/PF-Attack) - The code for AAAI2023 (Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization)
 - [AngelLM/Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) - "Multi-Level Intermediate Representation" Compiler Infrastructure
@@ -1996,7 +1993,7 @@
 
 - [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highligt paper: Matching Anything by Segmenting Anything
 - [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - Real-time dense scene reconstruction with SLAM3R
-- [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source reproduction of Waymo’s EMMA model.
+- [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source "reproduction" of Waymo’s EMMA model.
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
 - [ziqi-ma/Find3D](https://github.com/ziqi-ma/Find3D) - Open-world 3D part segmentation of point clouds
@@ -2037,6 +2034,7 @@
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [orhir/PoseAnything](https://github.com/orhir/PoseAnything) - A Graph-Based Approach for Category-Agnostic Pose Estimation [ECCV 2024]
 - [morrisfl/UniFEx](https://github.com/morrisfl/UniFEx) - Framework for computationally efficient training of universal image feature extraction models.
+- [neu-autonomy/FeatureLIOM](https://github.com/neu-autonomy/FeatureLIOM) - Official Implementation of Feature Extractor for DFLIOM
 - [ayesha-ishaq/Open3DTrack](https://github.com/ayesha-ishaq/Open3DTrack) - Code for Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - 3D Reconstruction Software
 - [GenericMappingTools/pygmt](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
@@ -2063,6 +2061,7 @@
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [IRMVLab/DVLO](https://github.com/IRMVLab/DVLO) - [ECCV 2024 Oral] DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment
 - [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) - 
+- [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 - [TommyZihao/openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
 - [huangwl18/ReKep](https://github.com/huangwl18/ReKep) - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
 - [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -2180,6 +2179,7 @@
 - [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - [NeurIPS 2024] PointMamba: A Simple State Space Model for Point Cloud Analysis
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
 - [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
@@ -2239,7 +2239,7 @@
 - [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - [CVPR 2024 Highlight] Visual Point Cloud Forecasting
 - [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
-- [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
+- [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - [AAAI 2025] Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
 - [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE-1 (ICML'24) and EAGLE-2 (EMNLP'24)
 - [prs-eth/point2cad](https://github.com/prs-eth/point2cad) - Code for "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"
 - [ZhangXiaze/DeepPointMap](https://github.com/ZhangXiaze/DeepPointMap) - Implementation of DeepPointMap (AAAI2024), a nerual network-based LiDAR SLAM architecture in Pytorch
