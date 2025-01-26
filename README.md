@@ -246,6 +246,8 @@
 
 ## C++ 
 
+- [tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry) - 
+- [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
 - [koide3/iridescence](https://github.com/koide3/iridescence) - 3D visualization library for rapid prototyping of 3D algorithms
 - [koide3/gtsam_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
 - [knzo25/bevfusion_ros2](https://github.com/knzo25/bevfusion_ros2) - BEVFusion implementation in ROS2
@@ -298,6 +300,7 @@
 - [gisbi-kim/SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM) - Robust LiDAR SLAM with a versatile plug-and-play loop closing and pose-graph optimization.
 - [ZikangYuan/sr_lio](https://github.com/ZikangYuan/sr_lio) - [IROS 2024] A  LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency
 - [ZikangYuan/dynamic_lio](https://github.com/ZikangYuan/dynamic_lio) - A LiDAR-inertial odometry for dynamic environments.
+- [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 - [xiihoo/Books_Robot_SLAM_Navigation](https://github.com/xiihoo/Books_Robot_SLAM_Navigation) - This project is supporting code for the book of Robot SLAM Navigation Core Technology and the Actual Combat.
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
 - [raaslab/3D_bridge_meshes](https://github.com/raaslab/3D_bridge_meshes) - Creating 3D meshes with UAVs. This project aims to combine 3D mesh construction using fundamantle practices with infrastructure inspection using novel navigation methods.
@@ -305,7 +308,7 @@
 - [SHU3DVision/SmartEye](https://github.com/SHU3DVision/SmartEye) - 深度、点云图像的实时显示
 - [KwanWaiPang/RGBD-GS-ICP-SLAM-Comment](https://github.com/KwanWaiPang/RGBD-GS-ICP-SLAM-Comment) - RGBD GS-ICP SLAM的中文注释版
 - [Lab-of-AI-and-Robotics/GS_ICP_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - [ECCV 2024] RGBD GS-ICP SLAM
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
 - [GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai) - 
 - [hku-mars/btc_descriptor](https://github.com/hku-mars/btc_descriptor) - 
 - [hku-mars/D-Map](https://github.com/hku-mars/D-Map) - D-Map provides an efficient occupancy mapping approach for high-resolution LiDAR sensors.
@@ -539,7 +542,7 @@
 - [yanx27/JS3C-Net](https://github.com/yanx27/JS3C-Net) - Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion (AAAI 2021)
 - [aljosaosep/ciwt](https://github.com/aljosaosep/ciwt) - This repository contains code for the tracking system as described in ''Combined Image- and World-Space Tracking in Traffic Scenes'', ICRA 2017.
 - [SonginCV/MAF_HDA](https://github.com/SonginCV/MAF_HDA) - An official implementation of the MAF_HDA Tracker
-- [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
+- [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn. This project has merged into MNN.
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
@@ -1062,7 +1065,7 @@
 - [eProsima/Fast-CDR](https://github.com/eProsima/Fast-CDR) - eProsima FastCDR library provides two serialization mechanisms. One is the standard CDR serialization mechanism, while the other is a faster implementation of it. Looking for commercial support? Conta
 - [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com
 - [foonathan/memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
-- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v9.0.0) CyberRT Framework  CMake Build
+- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v10.0.0) CyberRT Framework  CMake Build
 - [zhxt/cyber-rt](https://github.com/zhxt/cyber-rt) - Redistributed Apollo CyberRT, built with CMake.
 - [storypku/CyberRT](https://github.com/storypku/CyberRT) - Apollo CyberRT framework for Autonomous Driving
 - [sunmiaozju/smartcar](https://github.com/sunmiaozju/smartcar) - 自动驾驶系统实现
@@ -1146,7 +1149,7 @@
 - [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) - Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems
 - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - 🍅🍅🍅YOLOv5-Lite: Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.7M (fp16). Reach 15 FPS on the Raspberry Pi 4B~
 - [hpc203/yolov5-lite-onnxruntime](https://github.com/hpc203/yolov5-lite-onnxruntime) - 使用ONNXRuntime部署yolov5-lite目标检测，包含C++和Python两个版本的程序
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/
 - [techshoww/mnn-yolov5](https://github.com/techshoww/mnn-yolov5) - Imported from https://gitee.com/techshoww/mnn-yolov5.
 - [fangchuan/serialPortHelper](https://github.com/fangchuan/serialPortHelper) - 串口小助手程序，刻画出四通道曲线波形、接收视频、加载谷歌地图
 - [DLR-RM/3DObjectTracking](https://github.com/DLR-RM/3DObjectTracking) - Algorithms and Publications on 3D Object Tracking
@@ -1393,6 +1396,7 @@
 - [NVlabs/M2BEV](https://github.com/NVlabs/M2BEV) - 
 - [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering
+- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
 - [cgye96/3dfsl.github.io](https://github.com/cgye96/3dfsl.github.io) - project page of few-shot learning for 3d point cloud classification
@@ -1444,7 +1448,6 @@
 - [DiT-3D/FastDiT-3D](https://github.com/DiT-3D/FastDiT-3D) - 
 - [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
-- [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [OpenMask3D/openmask3d.github.io](https://github.com/OpenMask3D/openmask3d.github.io) - 
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -1729,6 +1732,10 @@
 
 ## Others 
 
+- [xuqingyuan2000/LP-ICP](https://github.com/xuqingyuan2000/LP-ICP) - 
+- [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) - 
+- [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [NEU-REAL/4D-CS](https://github.com/NEU-REAL/4D-CS) - 
 - [sheng00125/LIV-GaussMap](https://github.com/sheng00125/LIV-GaussMap) - 
 - [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
@@ -1747,7 +1754,6 @@
 - [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - Improving 3D Large Language Model via Robust Instruction Tuning
 - [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - A MultiModal Mapping (M2Mapping) Framework for LiDAR-Visual Systems
 - [changshuowang/GPSFormer](https://github.com/changshuowang/GPSFormer) - This is a PyTorch implementation of GPSFormer proposed by our paper "GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding"(ECCV2024)
-- [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 - [zympsyche/BevWorld](https://github.com/zympsyche/BevWorld) - 
 - [NVlabs/Hydra-MDP](https://github.com/NVlabs/Hydra-MDP) - 
 - [XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) - A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.
@@ -1994,6 +2000,13 @@
 
 ## Python 
 
+- [qizekun/VPP](https://github.com/qizekun/VPP) - [NeurIPS 2023] VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation
+- [zh320/realtime-semantic-segmentation-pytorch](https://github.com/zh320/realtime-semantic-segmentation-pytorch) - PyTorch implementation of over 30 realtime semantic segmentations models, e.g. BiSeNetv1, BiSeNetv2, CGNet, ContextNet, DABNet, DDRNet, EDANet, ENet, ERFNet, ESPNet, ESPNetv2, FastSCNN, ICNet, LEDNet,
+- [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code) 在线课程主页：http://111.229.117.200:8100/ (作者独立搭建
+- [skyshoumeng/PC-BEV](https://github.com/skyshoumeng/PC-BEV) - Offical code for: PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation
+- [Tsinghua-MARS-Lab/CVT-Occ](https://github.com/Tsinghua-MARS-Lab/CVT-Occ) - CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction
+- [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) - Code for "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT"
+- [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - Gaga: Group Any Gaussians via 3D-aware Memory Bank
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highligt paper: Matching Anything by Segmenting Anything
 - [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - Real-time dense scene reconstruction with SLAM3R
@@ -2087,7 +2100,7 @@
 - [gwenzhang/Voxel-Mamba](https://github.com/gwenzhang/Voxel-Mamba) - [NIPS'24] Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection
 - [MetaSLAM/GPRS_Survey](https://github.com/MetaSLAM/GPRS_Survey) - Benchmark for lidar and visual place recognition
 - [mapbench/toolkit](https://github.com/mapbench/toolkit) - Is Your HD Map Constructor Reliable under Sensor Corruptions?
-- [zyc00/Point-SAM](https://github.com/zyc00/Point-SAM) - Point-SAM: This is the official repository of "Point-SAM: Promptable 3D Segmentation Model for Point Clouds". We provide codes for running our demo and links to download checkpoints.
+- [zyc00/Point-SAM](https://github.com/zyc00/Point-SAM) - [ICLR 2025] Point-SAM: This is the official repository of "Promptable 3D Segmentation Model for Point Clouds". We provide codes for running our demo and links to download checkpoints.
 - [NickHezhuolin/OS-Det3D](https://github.com/NickHezhuolin/OS-Det3D) - 
 - [xuxw98/DSPDet3D](https://github.com/xuxw98/DSPDet3D) - [ECCV 2024] 3D Small Object Detection with Dynamic Spatial Pruning
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
@@ -3297,7 +3310,7 @@
 - [qcraftai/simtrack](https://github.com/qcraftai/simtrack) - Exploring Simple 3D Multi-Object Tracking for Autonomous Driving (ICCV 2021)
 - [kevindean/YDLidarSLAM](https://github.com/kevindean/YDLidarSLAM) - plan on utilizing openIMU300RI and YDLidar G2 to perform SLAM operations... this is the beginning
 - [RobotLocomotion/director](https://github.com/RobotLocomotion/director) - A robotics interface and visualization framework, with extensive applications for working with http://drake.mit.edu
-- [Chenguoz/PointSCNet](https://github.com/Chenguoz/PointSCNet) - Code Release of PointSCNet: Point Cloud Structure and Correlation Learning based on Space Filling Curve guided Sampling
+- [Chenguoz/PointSCNet](https://github.com/Chenguoz/PointSCNet) - [Symmetry 2022] Code Release of PointSCNet: Point Cloud Structure and Correlation Learning based on Space Filling Curve guided Sampling
 - [Adonis-galaxy/DSPoint](https://github.com/Adonis-galaxy/DSPoint) - Official pytorch implementation of "DSPoint: Dual-scale Point Cloud Recognition with High-frequency Fusion"
 - [crane-papercode/3DMedPT](https://github.com/crane-papercode/3DMedPT) - Project page: https://3dmedpt.github.io/
 - [HuangJunJie2017/BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Code base of the BEVDet series .
