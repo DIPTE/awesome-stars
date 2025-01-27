@@ -171,6 +171,7 @@
 
 ## 3d 
 
+- [qizekun/VPP](https://github.com/qizekun/VPP) - [NeurIPS 2023] VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation
 - [city-super/Scaffold-GS](https://github.com/city-super/Scaffold-GS) - [CVPR 2024 Highlight] Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [MM 2024] [Need only a 3090] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
@@ -776,7 +777,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
-- [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
+- [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn. This project has merged into MNN.
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
@@ -1120,7 +1121,7 @@
 - [OpenDriveLab/OpenLane](https://github.com/OpenDriveLab/OpenLane) - [ECCV 2022 Oral] OpenLane: Large-scale Realistic 3D Lane Dataset
 - [salehjg/DGCNN-on-FPGA](https://github.com/salehjg/DGCNN-on-FPGA) - PLEASE USE THE NEW REPO https://github.com/salehjg/DeepPoint-V2-FPGA . The deprecated in-order-queue-based repository for "DGCNN on FPGA: Acceleration of The Point CloudClassifier Using FPGAs".
 - [MegEngine/RepLKNet](https://github.com/MegEngine/RepLKNet) - Official MegEngine implementation of RepLKNet
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/
 - [lucadellalib/tensor-field-networks](https://github.com/lucadellalib/tensor-field-networks) - TensorFlow implementation of Tensor Field Networks.  Developed and tested on Ubuntu 18.04 LTS
 - [zhangzhengde0225/CDNet](https://github.com/zhangzhengde0225/CDNet) - The tutorials, datasets and source codes of the crosswalk detection (zebra crossing detection) network, which is robust in real scenes and real-time in Jetson nano. cross. detect. pedestrian.
 - [AlejandroBarrera/birdnet2](https://github.com/AlejandroBarrera/birdnet2) - Official Pytorch implementation of Birdnet+
@@ -1581,7 +1582,7 @@
 - [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【高性能OpenAI LLM服务】通过GPRS+TensorRT-LLM+Tokenizers.cpp实现纯C++版高性能OpenAI LLM服务，支持chat和function call模式，支持ai agent，支持分布式多卡推理，支持多模态，支持gradio聊天界面。
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
@@ -1604,6 +1605,7 @@
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
 - [axinc-ai/ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/
 
 ## localization 
 
@@ -1727,7 +1729,7 @@
 - [jishnujayakumar/MV-Tractus](https://github.com/jishnujayakumar/MV-Tractus) - A simple tool to extract motion vectors from h264 encoded videos.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/
 - [fregu856/ebms_3dod](https://github.com/fregu856/ebms_3dod) - Official implementation of "Accurate 3D Object Detection using Energy-Based Models", CVPR Workshops 2021.
 - [novak-99/MLPP](https://github.com/novak-99/MLPP) - A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.
 - [enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects) - computer vision projects |  计算机视觉相关好玩的AI项目（Python、C++、embedded system）
@@ -2032,6 +2034,17 @@
 
 ## others 
 
+- [tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry) - 
+- [Charmve/OccNet-Course](https://github.com/Charmve/OccNet-Course) - 国内首个占据栅格网络全栈课程《从BEV到Occupancy Network，算法原理与工程实践》，包含端侧部署。Surrounding Semantic Occupancy Perception Course for Autonomous Driving (docs,  ppt and source code) 在线课程主页：http://111.229.117.200:8100/ (作者独立搭建
+- [skyshoumeng/PC-BEV](https://github.com/skyshoumeng/PC-BEV) - Offical code for: PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation
+- [Tsinghua-MARS-Lab/CVT-Occ](https://github.com/Tsinghua-MARS-Lab/CVT-Occ) - CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction
+- [xuqingyuan2000/LP-ICP](https://github.com/xuqingyuan2000/LP-ICP) - 
+- [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) - Code for "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT"
+- [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) - 
+- [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
+- [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - Gaga: Group Any Gaussians via 3D-aware Memory Bank
+- [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [luotengyuan/MyMapTools](https://github.com/luotengyuan/MyMapTools) - 由于工作中经常和地图、GPS坐标转换、GPS轨迹查看等内容相关，经常要借助一些在线网站和工具来查看地图和位置等，在一次偶然的机会中了解到一个[GMap.NET](https://github.com/radioman/greatmaps)开源的桌面地图库和基于GMap.NET实现的[MapDownloader](https://github.com/luxiaoxun/MapDownloader)
 - [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
@@ -2187,7 +2200,7 @@
 - [MetaSLAM/GPRS_Survey](https://github.com/MetaSLAM/GPRS_Survey) - Benchmark for lidar and visual place recognition
 - [XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) - A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.
 - [mapbench/toolkit](https://github.com/mapbench/toolkit) - Is Your HD Map Constructor Reliable under Sensor Corruptions?
-- [zyc00/Point-SAM](https://github.com/zyc00/Point-SAM) - Point-SAM: This is the official repository of "Point-SAM: Promptable 3D Segmentation Model for Point Clouds". We provide codes for running our demo and links to download checkpoints.
+- [zyc00/Point-SAM](https://github.com/zyc00/Point-SAM) - [ICLR 2025] Point-SAM: This is the official repository of "Promptable 3D Segmentation Model for Point Clouds". We provide codes for running our demo and links to download checkpoints.
 - [NickHezhuolin/OS-Det3D](https://github.com/NickHezhuolin/OS-Det3D) - 
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [DaTongjie/BEVSpread](https://github.com/DaTongjie/BEVSpread) - 
@@ -3903,7 +3916,7 @@
 - [pytorch/builder](https://github.com/pytorch/builder) - Continuous builder and binary build scripts for pytorch
 - [wavefrontshaping/complexPyTorch](https://github.com/wavefrontshaping/complexPyTorch) - A high-level toolbox for using complex valued neural networks in PyTorch
 - [mfxox/ILCC](https://github.com/mfxox/ILCC) - Intensity-based_Lidar_Camera_Calibration
-- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v9.0.0) CyberRT Framework  CMake Build
+- [minhanghuang/CyberRT](https://github.com/minhanghuang/CyberRT) - Baidu Apollo(v10.0.0) CyberRT Framework  CMake Build
 - [zhxt/cyber-rt](https://github.com/zhxt/cyber-rt) - Redistributed Apollo CyberRT, built with CMake.
 - [storypku/CyberRT](https://github.com/storypku/CyberRT) - Apollo CyberRT framework for Autonomous Driving
 - [sunmiaozju/smartcar](https://github.com/sunmiaozju/smartcar) - 自动驾驶系统实现
@@ -4150,7 +4163,7 @@
 - [NUAAXQ/awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023) - A list of papers and datasets about point cloud analysis (processing) since 2017. Update every day!
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
 - [Kitware/LidarView](https://github.com/Kitware/LidarView) - LidarView performs real-time reception, recording, visualization and processing of 3D LiDAR data. This repository is a mirror of https://gitlab.kitware.com/LidarView/lidarview.
-- [Chenguoz/PointSCNet](https://github.com/Chenguoz/PointSCNet) - Code Release of PointSCNet: Point Cloud Structure and Correlation Learning based on Space Filling Curve guided Sampling
+- [Chenguoz/PointSCNet](https://github.com/Chenguoz/PointSCNet) - [Symmetry 2022] Code Release of PointSCNet: Point Cloud Structure and Correlation Learning based on Space Filling Curve guided Sampling
 - [Adonis-galaxy/DSPoint](https://github.com/Adonis-galaxy/DSPoint) - Official pytorch implementation of "DSPoint: Dual-scale Point Cloud Recognition with High-frequency Fusion"
 - [crane-papercode/3DMedPT](https://github.com/crane-papercode/3DMedPT) - Project page: https://3dmedpt.github.io/
 - [HuangJunJie2017/BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Code base of the BEVDet series .
@@ -5074,6 +5087,7 @@
 
 ## pytorch 
 
+- [zh320/realtime-semantic-segmentation-pytorch](https://github.com/zh320/realtime-semantic-segmentation-pytorch) - PyTorch implementation of over 30 realtime semantic segmentations models, e.g. BiSeNetv1, BiSeNetv2, CGNet, ContextNet, DABNet, DDRNet, EDANet, ENet, ERFNet, ESPNet, ESPNetv2, FastSCNN, ICNet, LEDNet,
 - [cfzd/Ultra-Fast-Lane-Detection-v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) - Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification (TPAMI 2022)
 - [otaheri/MANO](https://github.com/otaheri/MANO) - A PyTorch Implementation of MANO hand model.
 - [lixiny/manotorch](https://github.com/lixiny/manotorch) - MANO hand model in PyTorch (anatomy consistent, anchors, etc)
