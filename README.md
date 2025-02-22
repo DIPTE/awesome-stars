@@ -85,6 +85,9 @@
 
 ## C 
 
+- [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm) - 
+- [airockchip/rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
+- [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - An open-source hardware-synchronized handheld device for FAST-LIVO.
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -246,6 +249,7 @@
 
 ## C++ 
 
+- [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
 - [CodingRookie98/FaceFusionCpp](https://github.com/CodingRookie98/FaceFusionCpp) - This project is a C++ implementation of the open-source project facefusion.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 - [tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry) - 
@@ -275,12 +279,13 @@
 - [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 - [city-super/Scaffold-GS](https://github.com/city-super/Scaffold-GS) - [CVPR 2024 Highlight] Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering
 - [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
+- [MIT-SPARK/KISS-Matcher](https://github.com/MIT-SPARK/KISS-Matcher) - KISS-Matcher: Fast, Robust, and Scalable Registration for All Point Clouds
 - [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) - 
 - [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
 - [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
-- [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - 【深度学习模型部署框架】支持tf/torch/trt/trtllm/vllm以及更多nn框架，支持dynamic batching、streaming模式，支持python/c++双语言，可限制，可拓展，高性能。帮助用户快速地将模型部署到线上，并通过http/rpc接口方式提供服务。
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - 【高性能OpenAI LLM服务】通过GPRS+TensorRT-LLM+Tokenizers.cpp实现纯C++版高性能OpenAI LLM服务，支持chat和function call模式，支持ai agent，支持分布式多卡推理，支持多模态，支持gradio聊天界面。
+- [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - [Deep Learning Model Deployment Framework] Supports tf/torch/trt/trtllm/vllm and other NN frameworks. Support dynamic batching, and streaming modes. It is dual-language compatible with Python and C++,
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - [High-Performance OpenAI LLM] A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, distributed multi-GPU infe
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [jhescobar05/simple_ros_client_application](https://github.com/jhescobar05/simple_ros_client_application) - A desktop application using the Qt framework to publish messages over a websocket connection to utilize ROS service and pub/sub functionality. The published messages can control the movements a ROS to
 - [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping".
@@ -686,7 +691,7 @@
 - [nearthlab/SiamMaskCpp](https://github.com/nearthlab/SiamMaskCpp) - C++ Implementation of SiamMask
 - [wcyjerry/siam-trackers](https://github.com/wcyjerry/siam-trackers) - Fast SiamRPN++ & SiamMask in C++
 - [phbender/liblanelet](https://github.com/phbender/liblanelet) - Lanelet maps have been introduced in the context of the autonomous completion of the Bertha-Benz-Memorial-Route in 2013
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [lxd-cumt/ABM-SpConv](https://github.com/lxd-cumt/ABM-SpConv) - 
 - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
@@ -911,7 +916,6 @@
 - [SmallMunich/bcnn](https://github.com/SmallMunich/bcnn) - point cloud segmentation and deploy using apollo bcnn network.
 - [kosuke55/tensorrt_bcnn](https://github.com/kosuke55/tensorrt_bcnn) - Lidar apollo instance segmentation CNN
 - [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
-- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [xiezhihua001/dldt-samples](https://github.com/xiezhihua001/dldt-samples) - 
 - [elvin-n/dldt_tools](https://github.com/elvin-n/dldt_tools) - Place for dldt based tools, samples and demos
 - [linxie47/dldt-c_api](https://github.com/linxie47/dldt-c_api) - 
@@ -1149,7 +1153,7 @@
 - [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) - Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems
 - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - 🍅🍅🍅YOLOv5-Lite: Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.7M (fp16). Reach 15 FPS on the Raspberry Pi 4B~
 - [hpc203/yolov5-lite-onnxruntime](https://github.com/hpc203/yolov5-lite-onnxruntime) - 使用ONNXRuntime部署yolov5-lite目标检测，包含C++和Python两个版本的程序
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./project/android/apps/MnnLlmApp/
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.
 - [techshoww/mnn-yolov5](https://github.com/techshoww/mnn-yolov5) - Imported from https://gitee.com/techshoww/mnn-yolov5.
 - [fangchuan/serialPortHelper](https://github.com/fangchuan/serialPortHelper) - 串口小助手程序，刻画出四通道曲线波形、接收视频、加载谷歌地图
 - [DLR-RM/3DObjectTracking](https://github.com/DLR-RM/3DObjectTracking) - Algorithms and Publications on 3D Object Tracking
@@ -1359,7 +1363,7 @@
 - [davibe/docker-gstreamer-raspbian-build](https://github.com/davibe/docker-gstreamer-raspbian-build) - Building latest git version of gstreamer and plugins for raspberry pi (raspbian)
 - [codebydant/pcl-docker](https://github.com/codebydant/pcl-docker) - Point Cloud Library docker container
 - [cartesi/image-toolchain](https://github.com/cartesi/image-toolchain) - Image with RISC-V toolchains
-- [all-in-simplicity/openresty-rtmp-ffmpeg-api](https://github.com/all-in-simplicity/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
+- [charming-byte/openresty-rtmp-ffmpeg-api](https://github.com/charming-byte/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
 - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) - darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 
@@ -1421,7 +1425,7 @@
 
 ## Java 
 
-- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [Tirklee/GitHub-Chinese-Top-Charts](https://github.com/Tirklee/GitHub-Chinese-Top-Charts) - 
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
@@ -1436,6 +1440,7 @@
 
 ## JavaScript 
 
+- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 - [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -1704,6 +1709,7 @@
 - [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) - An MLIR-based toolchain for AMD AI Engine-enabled devices.
 - [iree-org/iree-nvgpu](https://github.com/iree-org/iree-nvgpu) - 
 - [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 
 ## Makefile 
 
@@ -1746,7 +1752,6 @@
 - [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 - [ShiPC-AI/LPR-Survey](https://github.com/ShiPC-AI/LPR-Survey) - [CSUR 2024] LiDAR-based Place Recognition For Autonomous Driving: A Survey
 - [GYee/CV_interviews_Q-A](https://github.com/GYee/CV_interviews_Q-A) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块，一起努力向offers发起冲击！
-- [MIT-SPARK/KISS-Matcher](https://github.com/MIT-SPARK/KISS-Matcher) - 
 - [nv-dvl/segment-anything-lidar](https://github.com/nv-dvl/segment-anything-lidar) - [ECCV 2024] Better Call SAL: Towards Learning to Segment Anything in Lidar
 - [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - [ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
 - [StiphyJay/LiDAR-PTQ](https://github.com/StiphyJay/LiDAR-PTQ) - ICLR2024:  LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection.
@@ -2001,7 +2006,7 @@
 
 ## Python 
 
-- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+- [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - YOLOv12: Attention-Centric Real-Time Object Detectors
 - [VisionXLab/point2rbox-v2](https://github.com/VisionXLab/point2rbox-v2) - Official repo of "Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances"
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [qizekun/VPP](https://github.com/qizekun/VPP) - [NeurIPS 2023] VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation
@@ -2088,7 +2093,7 @@
 - [TommyZihao/openvino_tonypi](https://github.com/TommyZihao/openvino_tonypi) - 基于OpenVINO，本地部署大模型智能体Agent，控制TonyPi人形机器人
 - [huangwl18/ReKep](https://github.com/huangwl18/ReKep) - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
 - [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
-- [AssafSinger94/dino-tracker](https://github.com/AssafSinger94/dino-tracker) - Official Pytorch Implementation for “DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video”
+- [AssafSinger94/dino-tracker](https://github.com/AssafSinger94/dino-tracker) - Official Pytorch Implementation for “DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video” (ECCV 2024)
 - [HR-zju/LiCROcc](https://github.com/HR-zju/LiCROcc) - 
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [prs-eth/PanopticSegForLargeScalePointCloud](https://github.com/prs-eth/PanopticSegForLargeScalePointCloud) - Code and dataset of paper "TOWARDS ACCURATE INSTANCE SEGMENTATION IN LARGE-SCALE LIDAR POINT CLOUDS"
@@ -2130,7 +2135,7 @@
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
 - [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan: An Open-Source Large Language Model
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
-- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - 94% on CIFAR-10 in 2.6 seconds 💨 96% in 27 seconds
+- [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - CIFAR-10 speedruns: 94% in 2.6 seconds and 96% in 27 seconds
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、GICI-Lib 等)、开源项目梳理、书籍讲义、博客翻译、教程讲座推荐；本仓库会长期更新，分享出来，既是跟大家做个交流，也激励着自己坚持学下去；所有内容都可以随意转载，原始文件都放在这了，欢迎在我的基础上整理出自己的一些文档。
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
@@ -2139,7 +2144,7 @@
 - [tum-traffic-dataset/tum-traffic-dataset-dev-kit](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) - TUM Traffic Dataset Development Kit
 - [tianqi-wang1996/DeepAccident](https://github.com/tianqi-wang1996/DeepAccident) - Code for the benchmark - DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving.
 - [tum-traffic-dataset/coopdet3d](https://github.com/tum-traffic-dataset/coopdet3d) - 
-- [GWxuan/ReID3D](https://github.com/GWxuan/ReID3D) - Official Github repository for "LiDAR-based Person Re-identification‬". (CVPR 2024)
+- [GWxuan/ReID3D](https://github.com/GWxuan/ReID3D) - [CVPR 2024] LiDAR-based Person Re-identification
 - [takahikof/RIPT_SDMM](https://github.com/takahikof/RIPT_SDMM) - Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation
 - [ldtho/DifFUSER](https://github.com/ldtho/DifFUSER) - DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -2671,7 +2676,7 @@
 - [zllrunning/SiameseX.PyTorch](https://github.com/zllrunning/SiameseX.PyTorch) - A simplified PyTorch implementation of Siamese networks for tracking: SiamFC, SiamRPN, SiamRPN++, SiamVGG, SiamDW, SiamRPN-VGG.
 - [HonglinChu/SiamTrackers](https://github.com/HonglinChu/SiamTrackers) - (2020-2022)The PyTorch version  of SiamFC，SiamRPN，DaSiamRPN, UpdateNet , SiamDW, SiamRPN++, SiamMask, SiamFC++,  SiamCAR,  SiamBAN, Ocean, LightTrack , TrTr, NanoTrack;  Visual object tracking based o
 - [huanglianghua/siamrpn-pytorch](https://github.com/huanglianghua/siamrpn-pytorch) - A clean PyTorch implementation of SiamRPN tracker, evaluated on 7 datasets.
-- [foolwood/SiamMask](https://github.com/foolwood/SiamMask) - [CVPR2019] Fast Online Object Tracking and Segmentation: A Unifying Approach
+- [foolwood/SiamMask](https://github.com/foolwood/SiamMask) - [CVPR19/TPAMI23] SiamMask: A Framework for Fast Online Object Tracking and Segmentation
 - [HRNet/HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) - The OCR approach is rephrased as Segmentation Transformer: https://arxiv.org/abs/1909.11065. This is an official implementation of semantic segmentation for HRNet. https://arxiv.org/abs/1908.07919
 - [jialeli1/lidarseg3d](https://github.com/jialeli1/lidarseg3d) - A repository for LiDAR 3D semantic segmentation in autonomous driving scenarios.  Also the official implementations of our ECCV 2022 paper (SDSeg3D) and CVPR 2023 paper (MSeg3D).
 - [megvii-research/OccDepth](https://github.com/megvii-research/OccDepth) - Maybe the first academic open work on stereo 3D SSC method with vision-only input.
