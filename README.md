@@ -287,10 +287,10 @@
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
 - [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
 - [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - Deep Learning Deployment Framework: Supports tf/torch/trt/trtllm/vllm and other NN frameworks. Support dynamic batching, and streaming modes. It is dual-language compatible with Python and C++, offeri
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - High-Performance OpenAI LLM Service: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, distributed multi-G
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [jhescobar05/simple_ros_client_application](https://github.com/jhescobar05/simple_ros_client_application) - A desktop application using the Qt framework to publish messages over a websocket connection to utilize ROS service and pub/sub functionality. The published messages can control the movements a ROS to
-- [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping".
+- [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Robustness of LiDAR-Based Pose Estimation: Evaluating and Improving Odometry and Localization Under Common Point Cloud Corruptions".
 - [RozDavid/LOL](https://github.com/RozDavid/LOL) - LOL: Lidar-only Odometry and Localization in 3D point cloud maps
 - [wh200720041/intensity_slam](https://github.com/wh200720041/intensity_slam) - Intensity-SLAM: Intensity Assisted Localization and Mapping for Large Scale Environment RA-L 2021
 - [AIS-Bonn/lidar_mars_registration](https://github.com/AIS-Bonn/lidar_mars_registration) - 
@@ -1308,6 +1308,7 @@
 
 ## CSS 
 
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [MingZhuLiu/ZLMediaServerManagent](https://github.com/MingZhuLiu/ZLMediaServerManagent) - ZLMediaKitServer后台管理系统
 
 ## Common Lisp 
@@ -1316,6 +1317,7 @@
 
 ## Cuda 
 
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
@@ -1427,6 +1429,7 @@
 
 ## Java 
 
+- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [Tirklee/GitHub-Chinese-Top-Charts](https://github.com/Tirklee/GitHub-Chinese-Top-Charts) - 
@@ -1442,7 +1445,6 @@
 
 ## JavaScript 
 
-- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 - [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -1773,7 +1775,6 @@
 - [XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) - A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.
 - [ActiveVisionLab/Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources
 - [yxzhang15/PCR](https://github.com/yxzhang15/PCR) - 
-- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [GongWeiSheng/DIDLM](https://github.com/GongWeiSheng/DIDLM) - 
 - [ntnu-arl/lidar_degeneracy_datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) - LiDAR degeneracy dataset for LiDAR-radar-inertial fusion methods.
@@ -1782,7 +1783,6 @@
 - [4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc) - Official implement for paper "OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries"
 - [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-interview-questions-on-Autonomous-Driving) - Awesome-interview-questions-on-Autonomous-Driving
-- [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
 - [autodriving-heart/CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) - CVPR 2024 Papers Autonomous Driving
 - [Chrisz236/llm-rk3588](https://github.com/Chrisz236/llm-rk3588) - Run Large Language Models on RK3588 with GPU-acceleration
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
@@ -2013,6 +2013,7 @@
 
 ## Python 
 
+- [ylwhxht/V2X-R](https://github.com/ylwhxht/V2X-R) - CVPR 2025 - V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion
 - [Jingtong0527/RobuRCDet](https://github.com/Jingtong0527/RobuRCDet) - 
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [SkyCol/ODverse33](https://github.com/SkyCol/ODverse33) - ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11
@@ -2029,7 +2030,7 @@
 - [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) - Code for "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT"
 - [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - Gaga: Group Any Gaussians via 3D-aware Memory Bank
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-- [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
+- [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - [CVPR2025] SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
 - [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highligt paper: Matching Anything by Segmenting Anything
 - [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - [CVPR 2025] Real-time dense scene reconstruction with SLAM3R
 - [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source "reproduction" of Waymo’s EMMA model.
@@ -2189,6 +2190,7 @@
 - [abhi1kumar/SeaBird](https://github.com/abhi1kumar/SeaBird) - [CVPR 2024] Official PyTorch Code of SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects
 - [NVIDIA-AI-IOT/nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
 - [Turoad/CLRNet](https://github.com/Turoad/CLRNet) - Pytorch implementation of our paper "CLRNet: Cross Layer Refinement Network for Lane Detection" (CVPR2022 Acceptance).
+- [FengZicai/LSK3DNet](https://github.com/FengZicai/LSK3DNet) - This is the official implementation of "LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels" (Accepted at CVPR 2024).
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [Haiyang-W/GiT](https://github.com/Haiyang-W/GiT) - [ECCV2024 Oral🔥] Official Implementation of "GiT: Towards Generalist Vision Transformer through Universal Language Interface"
 - [WailordHe/DenseSSM](https://github.com/WailordHe/DenseSSM) - A repository for DenseSSMs
@@ -2709,7 +2711,7 @@
 - [JierunChen/FasterNet](https://github.com/JierunChen/FasterNet) - [CVPR 2023] Code for PConv and FasterNet
 - [yinjunbo/SSDA3D](https://github.com/yinjunbo/SSDA3D) - Thie repo provides the official implementation of our AAAI-2023 paper “SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud”.
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [PJLab-ADG/OpenPCSeg](https://github.com/PJLab-ADG/OpenPCSeg) - OpenPCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
+- [BAI-Yeqi/OpenPCSeg](https://github.com/BAI-Yeqi/OpenPCSeg) - OpenPCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
 - [123zmz123/ZlgCanDriver](https://github.com/123zmz123/ZlgCanDriver) - 用于驱动周立功系列CAN卡的python 库 The zlg can driver writting by python
 - [FANG-MING/occupancy-for-nuscenes](https://github.com/FANG-MING/occupancy-for-nuscenes) - 3D occupancy
 - [NaNaoiSong/SemiPCDet](https://github.com/NaNaoiSong/SemiPCDet) - SemiPCDet is an integrated codebase for semi-sl and sl on LiDAR-based detectors. The project is built on OpenPCDet.
@@ -3071,7 +3073,7 @@
 - [brandesjj/centerfusionpp](https://github.com/brandesjj/centerfusionpp) - CenterFusion++ is a frustum propsal-based camera and radar sensor fusion network.
 - [HaohaoNJU/CenterFusion](https://github.com/HaohaoNJU/CenterFusion) - NN-based radar-camera post sensor fusion implemented by TensorRT
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
-- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
+- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLO11, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [GCaptainNemo/RTSP-camera-display-realtime](https://github.com/GCaptainNemo/RTSP-camera-display-realtime) - Grab Hikvision network camera and display it in pyqt control in real time.
 - [miemie2013/Pytorch-PPYOLO](https://github.com/miemie2013/Pytorch-PPYOLO) - ppyolo in pytorch. 44.8% box mAP.
