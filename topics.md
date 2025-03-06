@@ -783,6 +783,7 @@
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn. This project has merged into MNN.
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
@@ -1598,7 +1599,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - High-Performance OpenAI LLM Service: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, distributed multi-G
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [Open3DA/LL3DA](https://github.com/Open3DA/LL3DA) - [CVPR 2024] "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning"; an interactive Large Language 3D Assistant.
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
@@ -1984,7 +1985,7 @@
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - High-Performance OpenAI LLM Service: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, distributed multi-G
+- [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -2056,6 +2057,8 @@
 
 ## others 
 
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+- [ylwhxht/V2X-R](https://github.com/ylwhxht/V2X-R) - CVPR 2025 - V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion
 - [TUMFTM/FlexCloud](https://github.com/TUMFTM/FlexCloud) - Georeferencing of Point Cloud Maps
 - [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi) - LeKiwi - Low-Cost Mobile Manipulator
 - [SIGRobotics-UIUC/LeKiwi-sim](https://github.com/SIGRobotics-UIUC/LeKiwi-sim) - 
@@ -2094,7 +2097,7 @@
 - [wyzdwdz/ppserver](https://github.com/wyzdwdz/ppserver) - pointpillar server for SensorSOW
 - [NEU-REAL/4D-CS](https://github.com/NEU-REAL/4D-CS) - 
 - [sheng00125/LIV-GaussMap](https://github.com/sheng00125/LIV-GaussMap) - 
-- [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
+- [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - [CVPR2025] SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
 - [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highligt paper: Matching Anything by Segmenting Anything
 - [TJU-Aerial-Robotics/YOPO](https://github.com/TJU-Aerial-Robotics/YOPO) - You Only Plan Once: A Learning Based Quadrotor Planner
 - [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - [CVPR 2025] Real-time dense scene reconstruction with SLAM3R
@@ -2185,7 +2188,7 @@
 - [Jittor/JAD](https://github.com/Jittor/JAD) - 
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 - [jhescobar05/simple_ros_client_application](https://github.com/jhescobar05/simple_ros_client_application) - A desktop application using the Qt framework to publish messages over a websocket connection to utilize ROS service and pub/sub functionality. The published messages can control the movements a ROS to
-- [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping".
+- [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Robustness of LiDAR-Based Pose Estimation: Evaluating and Improving Odometry and Localization Under Common Point Cloud Corruptions".
 - [RozDavid/LOL](https://github.com/RozDavid/LOL) - LOL: Lidar-only Odometry and Localization in 3D point cloud maps
 - [wh200720041/intensity_slam](https://github.com/wh200720041/intensity_slam) - Intensity-SLAM: Intensity Assisted Localization and Mapping for Large Scale Environment RA-L 2021
 - [IMRL/HPPLO-Net](https://github.com/IMRL/HPPLO-Net) - 
@@ -3175,7 +3178,7 @@
 - [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) - A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
 - [yinjunbo/SSDA3D](https://github.com/yinjunbo/SSDA3D) - Thie repo provides the official implementation of our AAAI-2023 paper “SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud”.
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [PJLab-ADG/OpenPCSeg](https://github.com/PJLab-ADG/OpenPCSeg) - OpenPCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
+- [BAI-Yeqi/OpenPCSeg](https://github.com/BAI-Yeqi/OpenPCSeg) - OpenPCSeg: Open Source Point Cloud Segmentation Toolbox and Benchmark
 - [xingyuuchen/LIO-PPF](https://github.com/xingyuuchen/LIO-PPF) - [IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking
 - [hku-mars/ROG-Map](https://github.com/hku-mars/ROG-Map) - 
 - [FANG-MING/occupancy-for-nuscenes](https://github.com/FANG-MING/occupancy-for-nuscenes) - 3D occupancy
@@ -3830,7 +3833,7 @@
 - [hylmak/Tracking-Objects-as-Points](https://github.com/hylmak/Tracking-Objects-as-Points) - 
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
 - [Jittor/JNeRF](https://github.com/Jittor/JNeRF) - JNeRF is a NeRF benchmark based on Jittor. JNeRF re-implemented instant-ngp and achieved same performance with original paper.
-- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
+- [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLO11, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
 - [GCaptainNemo/Camera-Calib-OpenCV](https://github.com/GCaptainNemo/Camera-Calib-OpenCV) - Opencv calibration program for different checkerboards.
 - [GCaptainNemo/RTSP-camera-display-realtime](https://github.com/GCaptainNemo/RTSP-camera-display-realtime) - Grab Hikvision network camera and display it in pyqt control in real time.
 - [GCaptainNemo/Fusion-Lidar-Camera-ROS](https://github.com/GCaptainNemo/Fusion-Lidar-Camera-ROS) - This repository uses a ROS node to subscribe to camera (hikvision) and lidar (livox) data. After the node merges the data, it publishes the colored point cloud and displays it in rviz.
@@ -5007,6 +5010,7 @@
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
