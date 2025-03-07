@@ -2037,7 +2037,7 @@
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
 - [ziqi-ma/Find3D](https://github.com/ziqi-ma/Find3D) - Open-world 3D part segmentation of point clouds
-- [GigaAI-research/DriveDreamer4D](https://github.com/GigaAI-research/DriveDreamer4D) - 
+- [GigaAI-research/DriveDreamer4D](https://github.com/GigaAI-research/DriveDreamer4D) - [CVPR 2025] DriveDreamer4D
 - [Peterande/D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
 - [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
 - [cfzd/Ultra-Fast-Lane-Detection-v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) - Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification (TPAMI 2022)
