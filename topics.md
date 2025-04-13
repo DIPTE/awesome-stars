@@ -44,6 +44,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
+- [development](#development)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -429,7 +430,6 @@
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
-- [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
@@ -1279,6 +1279,11 @@
 - [HaohaoNJU/CenterPoint](https://github.com/HaohaoNJU/CenterPoint) - TensorRT deployment for CenterPoint Lidar Detection Model.
 - [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack) - [ECCV 2022] ByteTrack: Multi-Object Tracking by Associating Every Detection Box
 
+## development 
+
+- [industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588](https://github.com/industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588) - This is the documentation for RK3566 RK3568 RK3588 Tablet and miniPC products
+- [industrialtablet/RK3576S-RK3576-RK3588-Tablet-Development-Board](https://github.com/industrialtablet/RK3576S-RK3576-RK3588-Tablet-Development-Board) - This repository is RK3576s RK3576 RK3588 Tablet Development Board Documents from HYY Technology Co.,Ltd.
+
 ## devops 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
@@ -1383,6 +1388,7 @@
 
 ## gis 
 
+- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - 3D Maps for OpenSceneGraph / C++14
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 - [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
@@ -1400,7 +1406,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1410,7 +1416,7 @@
 ## golang 
 
 - [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like  seeing, hearing, and speaking
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -1480,7 +1486,6 @@
 - [NVIDIA-AI-IOT/isaac_ros_image_pipeline](https://github.com/NVIDIA-AI-IOT/isaac_ros_image_pipeline) - Isaac ROS image_pipeline package for hardware-accelerated image processing in ROS2.
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
-- [conan-community/conan-opencv](https://github.com/conan-community/conan-opencv) - [DEPRECATED] Conan recipes for OpenCV
 - [GCaptainNemo/Cuda-Image-Processing](https://github.com/GCaptainNemo/Cuda-Image-Processing) - Using CUDA GPU Programming to speed up image processing.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [lijx10/DeepI2P](https://github.com/lijx10/DeepI2P) - DeepI2P: Image-to-Point Cloud Registration via Deep Classification. CVPR 2021
@@ -1618,7 +1623,7 @@
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
@@ -1734,7 +1739,6 @@
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
 - [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
 - [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
-- [conan-community/conan-tiny-dnn](https://github.com/conan-community/conan-tiny-dnn) - [DEPRECATED] Conan.io recipes for tiny-dnn
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [open-mmlab/mmeval](https://github.com/open-mmlab/mmeval) - A unified evaluation library for multiple machine learning libraries
@@ -2044,7 +2048,6 @@
 - [joffman/ros_object_recognition](https://github.com/joffman/ros_object_recognition) - A framework for ROS-based 2D and 3D object recognition.
 - [ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation) - Python scripts for performing 6D pose estimation and shape reconstruction using the CenterSnap model in ONNX
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
-- [conan-community/conan-opencv](https://github.com/conan-community/conan-opencv) - [DEPRECATED] Conan recipes for OpenCV
 - [LiuXiaolong19920720/simple_net](https://github.com/LiuXiaolong19920720/simple_net) - A simple deep neural network implemented in C++，based with OpenCV Mat matrix class
 - [codebydant/video2image-opencv](https://github.com/codebydant/video2image-opencv) - This is a c++ program to convert a video to frames
 - [codebydant/video2opencv-video](https://github.com/codebydant/video2opencv-video) - This is a C++ program to convert a video to opencv format video
@@ -2088,6 +2091,7 @@
 
 ## others 
 
+- [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer) - Recover damaged/unfinished mp4 files with h264 video
 - [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
 - [MIT-SPARK/BUFFER-X](https://github.com/MIT-SPARK/BUFFER-X) - BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes
 - [silencht/SG-SLAM](https://github.com/silencht/SG-SLAM) - SG-SLAM: A Real-Time RGB-D Visual SLAM toward Dynamic Scenes with Semantic and Geometric Information
@@ -2121,7 +2125,7 @@
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [SkyCol/ODverse33](https://github.com/SkyCol/ODverse33) - ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11
 - [TommyZihao/Train_Custom_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
-- [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能入门指南 Embodied-AI-Guide
+- [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 - [HPCL-EI/RoboWaiter](https://github.com/HPCL-EI/RoboWaiter) - 大模型具身智能比赛-机器人控制端
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
@@ -2190,7 +2194,7 @@
 - [AXERA-TECH/RT-DETR](https://github.com/AXERA-TECH/RT-DETR) - Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
 - [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
 - [sunshuofeng/X-3D](https://github.com/sunshuofeng/X-3D) - X-3D:  Explicit 3D Structure Modeling for Point Cloud Recognition (CVPR2024)
-- [Ilya-Fradlin/Interactive4D](https://github.com/Ilya-Fradlin/Interactive4D) - 
+- [Ilya-Fradlin/Interactive4D](https://github.com/Ilya-Fradlin/Interactive4D) - [ICRA 2025] Interactive4D: Interactive 4D LiDAR Segmentation
 - [jerryfeng2003/PointGST](https://github.com/jerryfeng2003/PointGST) - Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning
 - [tiev-tongji/LIMOT](https://github.com/tiev-tongji/LIMOT) - A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking.
 - [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps
@@ -2858,7 +2862,7 @@
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [vinits5/pcrnet_pytorch](https://github.com/vinits5/pcrnet_pytorch) - This is a pytorch implementation of PCRNet
-- [caizhongang/SMPLer-X](https://github.com/caizhongang/SMPLer-X) - Official Code for "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
+- [SMPLCap/SMPLer-X](https://github.com/SMPLCap/SMPLer-X) - [NeurIPS 2023] Official Code for "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
 - [OpenCalib/SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) - 
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
@@ -3683,9 +3687,6 @@
 - [pupil-labs/libuvc](https://github.com/pupil-labs/libuvc) - a cross-platform library for USB video devices
 - [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a visual SLAM pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local and global features, different loop-closing methods, a volumetric reconstruction pipeli
 - [naibaf7/libdnn](https://github.com/naibaf7/libdnn) - Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL
-- [conan-community/conan-pybind11](https://github.com/conan-community/conan-pybind11) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
-- [conan-community/conan-boost](https://github.com/conan-community/conan-boost) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
-- [conan-community/conan-eigen](https://github.com/conan-community/conan-eigen) - [OBSOLETE] The recipe is now in https://github.com/conan-io/conan-center-index
 - [d4rkc0d3r/CompactSparseTextureDemo](https://github.com/d4rkc0d3r/CompactSparseTextureDemo) - Small demo project showing how to compact sparse textures on GPUs efficiently in unity.
 - [Kin-Zhang/mmfn](https://github.com/Kin-Zhang/mmfn) - [IROS'22] MMFN: Multi-Modal Fusion Net for End-to-End Autonomous Driving
 - [Bosszhe/PITF](https://github.com/Bosszhe/PITF) - TransFuser with PointPillar
@@ -5677,7 +5678,7 @@
 
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 - [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end op
-- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ toolkit: Deploy 100+ AI models (Stable-Diffusion, Face-Fusion, YOLO series, Det, Seg, etc) via MNN, ORT and TRT. 🎉🎉
+- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models (Stable-Diffusion, Face-Fusion, YOLO series, Det, Seg, Matting) with MNN, ORT and TRT.
 
 ## statistics 
 
