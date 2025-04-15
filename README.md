@@ -552,7 +552,6 @@
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [linghu8812/yolov5_fastreid_deepsort_tensorrt](https://github.com/linghu8812/yolov5_fastreid_deepsort_tensorrt) - 
 - [Dao-zhi/MultiCameraTargetTracking](https://github.com/Dao-zhi/MultiCameraTargetTracking) - 基于TLD算法和GOTURN算法的多摄像头目标跟踪
-- [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [beltransen/lidar_bev](https://github.com/beltransen/lidar_bev) - A ROS package for LiDAR's Bird's Eye View projection.
 - [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
 - [Hectoor/Ffmpeg_ros_image_trans](https://github.com/Hectoor/Ffmpeg_ros_image_trans) - This demo can help you receive rtmp stream,and  transmit images through ROS
@@ -1323,7 +1322,6 @@
 
 ## Cuda 
 
-- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 - [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
@@ -2044,6 +2042,7 @@
 - [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - [CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 - [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - [CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 - [ylwhxht/V2X-R](https://github.com/ylwhxht/V2X-R) - CVPR 2025 - V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion
 - [Jingtong0527/RobuRCDet](https://github.com/Jingtong0527/RobuRCDet) - 
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -2064,7 +2063,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - [CVPR2025] SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
 - [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highlight paper: Matching Anything by Segmenting Anything
-- [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - [CVPR 2025] Real-time dense scene reconstruction with SLAM3R
+- [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - [CVPR 2025 Highlight] Real-time dense scene reconstruction with SLAM3R
 - [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source "reproduction" of Waymo’s EMMA model.
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
@@ -2375,6 +2374,7 @@
 - [GehenHe/TRACTA](https://github.com/GehenHe/TRACTA) - TRACTA: Multi-Target Multi-Camera Tracking by Tracklet-to-Target Assignment
 - [rigaya/build_pkg](https://github.com/rigaya/build_pkg) - currently for test
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [zju3dv/OnePose_Plus_Plus](https://github.com/zju3dv/OnePose_Plus_Plus) - Code for "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models" NeurIPS 2022
 - [zju3dv/OnePose](https://github.com/zju3dv/OnePose) - Code for "OnePose: One-Shot Object Pose Estimation without CAD Models", CVPR 2022
 - [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) - [ICLR24] Official implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”
