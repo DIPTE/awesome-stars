@@ -332,7 +332,7 @@
 - [KwanWaiPang/RGBD-GS-ICP-SLAM-Comment](https://github.com/KwanWaiPang/RGBD-GS-ICP-SLAM-Comment) - RGBD GS-ICP SLAM的中文注释版
 - [Lab-of-AI-and-Robotics/GS_ICP_SLAM](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) - [ECCV 2024] RGBD GS-ICP SLAM
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
-- [GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai) - 
+- [duixcom/Duix.mobile](https://github.com/duixcom/Duix.mobile) - 
 - [hku-mars/btc_descriptor](https://github.com/hku-mars/btc_descriptor) - 
 - [hku-mars/D-Map](https://github.com/hku-mars/D-Map) - D-Map provides an efficient occupancy mapping approach for high-resolution LiDAR sensors.
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
@@ -1100,7 +1100,7 @@
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [IntelLabs/SLIDE_opt_ia](https://github.com/IntelLabs/SLIDE_opt_ia) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models (Stable-Diffusion, Face-Fusion, YOLO series, Det, Seg, Matting) with MNN, ORT and TRT.
+- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models (Stable-Diffusion, FaceFusion, YOLO series, Det, Seg, Matting) with MNN, ORT and TensorRT.
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
@@ -3010,7 +3010,7 @@
 - [jianboqi/CSFTools](https://github.com/jianboqi/CSFTools) - Tools to processing LiDAR point cloud
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 - [Mrmoore98/VectorMapNet_code](https://github.com/Mrmoore98/VectorMapNet_code) - This is the official code base of VectorMapNet (ICML 2023)
-- [hustvl/MapTR](https://github.com/hustvl/MapTR) - [ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
+- [hustvl/MapTR](https://github.com/hustvl/MapTR) - [ICLR'23 Spotlight & ECCV'24 & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
 - [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021)
 - [manila95/monolayout](https://github.com/manila95/monolayout) - MonoLayout: Amodal Scene Layout from a single image
 - [Avinash2468/RackLay](https://github.com/Avinash2468/RackLay) - RackLay: Monocular Multi-Layered Layout Estimation for Warehouses with Sim2Real Transfer
