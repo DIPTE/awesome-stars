@@ -250,6 +250,8 @@
 
 ## C++ 
 
+- [ZikangYuan/voxel_svio](https://github.com/ZikangYuan/voxel_svio) - [RA-L 2025 Accept without Revision] A stereo visual-inertial odometry system based on voxel map
+- [hku-mars/FAST-Calib](https://github.com/hku-mars/FAST-Calib) - A Handy Extrinsic Calibration Tool for LiDAR-camera Systems.
 - [vb44/HMM-MOS](https://github.com/vb44/HMM-MOS) - A simple and easy-to-use learning-free MOS approach for point cloud data.
 - [alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection](https://github.com/alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection) - Efficient RANSAC for Point-Cloud Shape Detection
 - [deepglint/FAST_LIO_LOCALIZATION_HUMANOID](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID) - Localization by LiDAR for Humanoid(like Unitree G1)
@@ -2027,6 +2029,7 @@
 
 ## Python 
 
+- [roboflow/trackers](https://github.com/roboflow/trackers) - A unified library for object tracking featuring clean room re-implementations of leading multi-object tracking algorithms
 - [TimSong412/OmniTrackFast](https://github.com/TimSong412/OmniTrackFast) - Official Code For Track Everything Everywhere Fast and Robustly
 - [Shiyan-cps/PointKAN-pytorch](https://github.com/Shiyan-cps/PointKAN-pytorch) - 
 - [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything) - Implementation for Describe Anything: Detailed Localized Image and Video Captioning
@@ -2036,7 +2039,7 @@
 - [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Large Language Model for Spatial Understanding
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Oral] VGGT: Visual Geometry Grounded Transformer
+- [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award Candidate] VGGT: Visual Geometry Grounded Transformer
 - [Yaepiii/M2UD](https://github.com/Yaepiii/M2UD) - 
 - [truebelief/artemis_treeiso](https://github.com/truebelief/artemis_treeiso) - TLS tree isolation/segmentation code
 - [a-zhui/nsfw_detection](https://github.com/a-zhui/nsfw_detection) - 
@@ -2444,7 +2447,7 @@
 - [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight 💡] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - [CVPR 2023] Learning a 3D Morphable Face Reflectance Model from Low-cost Data
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
-- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023)
+- [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023 & IJCV 2025)
 - [sczhou/ProPainter](https://github.com/sczhou/ProPainter) - [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [TsingWei/LiteTrack](https://github.com/TsingWei/LiteTrack) - [ICRA2024]A fast and high-performance visual object tracker with real-time speed on Jetson.
@@ -2721,7 +2724,7 @@
 - [dingxin-zhang/PaRot](https://github.com/dingxin-zhang/PaRot) - [AAAI 2023] PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration
 - [richardrl/bandu_v1_full_clean](https://github.com/richardrl/bandu_v1_full_clean) - Codebase for ICRA 2022 paper "Stable Object Reorientation using Contact Plane Registration"
 - [yizhangphd/FreqPCR](https://github.com/yizhangphd/FreqPCR) - [CVPR 2023 Highlight] Frequency-Modulated Point Cloud Rendering with Easy Editing.
-- [gangweix/IGEV](https://github.com/gangweix/IGEV) - [CVPR 2023] Iterative Geometry Encoding Volume for Stereo Matching
+- [gangweix/IGEV](https://github.com/gangweix/IGEV) - [TPAMI 2025 & CVPR 2023] Iterative Geometry Encoding Volume for Stereo Matching
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
 - [cschenxiang/DRSformer](https://github.com/cschenxiang/DRSformer) - Learning A Sparse Transformer Network for Effective Image Deraining (CVPR 2023)
 - [tsingqguo/efficientderain](https://github.com/tsingqguo/efficientderain) - We propose EfficientDerain for high-efficiency single-image deraining at AAAI 2021. The latest extended version has been accepted by IJCV at 2024. Please check the released code at https://github.com/
