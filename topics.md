@@ -260,8 +260,9 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
-- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents.
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for all AI agents.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [fly-apps/ollama-open-webui](https://github.com/fly-apps/ollama-open-webui) - Self-host a ChatGPT-style web interface for Ollama 🦙
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -326,7 +327,6 @@
 - [industrialtablet/RK3576S-RK3576-RK3588-Tablet-Development-Board](https://github.com/industrialtablet/RK3576S-RK3576-RK3588-Tablet-Development-Board) - This repository is RK3576s RK3576 RK3588 Tablet Development Board Documents from HYY Technology Co.,Ltd.
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [panyingyun/vtkandroiddemo](https://github.com/panyingyun/vtkandroiddemo) - CMake Cross Build VTK for Android Application
-- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end op
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -912,12 +912,12 @@
 ## data-visualization 
 
 - [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 
 ## database 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
@@ -1288,12 +1288,12 @@
 
 ## devops 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 ## docker 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -1570,7 +1570,7 @@
 
 ## kubernetes 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 
 ## language 
@@ -1596,7 +1596,7 @@
 
 ## linux 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Charmve/CppMaster](https://github.com/Charmve/CppMaster) - C++ Master Learning Roadmap, especially for AIoT and C++ advanced SWE
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
@@ -1654,6 +1654,7 @@
 - [axinc-ai/ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [sophgo/tpu-mlir](https://github.com/sophgo/tpu-mlir) - Machine learning compiler based on MLIR for Sophgo TPU.
+- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - Large Language Model Deployment Toolkit
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.
 
 ## localization 
@@ -1689,7 +1690,7 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [knzo25/bevfusion_ros2](https://github.com/knzo25/bevfusion_ros2) - BEVFusion implementation in ROS2
 - [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source "reproduction" of Waymo’s EMMA model.
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
@@ -1856,14 +1857,14 @@
 
 ## mongodb 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
 ## monitoring 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -1874,7 +1875,7 @@
 
 ## mysql 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
@@ -2426,7 +2427,7 @@
 - [xy-guo/MVSNet_pytorch](https://github.com/xy-guo/MVSNet_pytorch) - PyTorch Implementation of MVSNet
 - [flanggut/smvs](https://github.com/flanggut/smvs) - Shading-aware Multi-view Stereo
 - [pmoulon/CMVS-PMVS](https://github.com/pmoulon/CMVS-PMVS) - This software (CMVS) takes the output of a structure-from-motion (SfM) software as input, then decomposes the input images into a set of image clusters of managable size. An MVS software can be used t
-- [simonfuhrmann/mve](https://github.com/simonfuhrmann/mve) - Multi-View Environment
+- [simonfuhrmann/mve](https://github.com/simonfuhrmann/mve) - The Multi-View Environment: End-to-end image-based reconstruction (SfM, MVS, surface reconstruction)
 - [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
 - [publicsite/COLMAP-OpenMVS-Pipeline](https://github.com/publicsite/COLMAP-OpenMVS-Pipeline) - A CPU 3D Reconstruction pipeline using COLMAP and OpenMVS
 - [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！
@@ -3385,7 +3386,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA & Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -5037,7 +5038,7 @@
 
 ## postgresql 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## programming 
 
@@ -5486,7 +5487,6 @@
 
 ## raspberry-pi 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
@@ -5684,7 +5684,6 @@
 ## stable-diffusion 
 
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end op
 - [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models (Stable-Diffusion, FaceFusion, YOLO series, Det, Seg, Matting) with MNN, ORT and TensorRT.
 
 ## statistics 
