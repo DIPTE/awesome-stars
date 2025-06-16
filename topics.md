@@ -176,6 +176,7 @@
 
 ## 3d 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
 - [qizekun/VPP](https://github.com/qizekun/VPP) - [NeurIPS 2023] VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation
 - [city-super/Scaffold-GS](https://github.com/city-super/Scaffold-GS) - [CVPR 2024 Highlight] Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering
@@ -304,7 +305,7 @@
 
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [Morwenn/cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -776,6 +777,8 @@
 
 ## cpp 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [OroChippw/LightGlue-OnnxRunner](https://github.com/OroChippw/LightGlue-OnnxRunner) - LightGlue-OnnxRunner is a repository hosts the C++ inference code of LightGlue in ONNX format，supporting end-to-end/decouple model inference of SuperPoint/DISK + LightGlue
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
 - [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
@@ -904,7 +907,7 @@
 
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Tessil/robin-map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
@@ -1040,7 +1043,7 @@
 - [sandeep-krishnamurthy/dl-operator-benchmark](https://github.com/sandeep-krishnamurthy/dl-operator-benchmark) - Framework for benchmarking deep learning operators for Apache MXNet
 - [QingyongHu/SQN](https://github.com/QingyongHu/SQN) - SQN in Tensorflow (ECCV'2022)
 - [NervanaSystems/he-transformer](https://github.com/NervanaSystems/he-transformer) - nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [PRBonn/4DMOS](https://github.com/PRBonn/4DMOS) - Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions (RAL 2022)
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
 - [elicassion/3DTRL](https://github.com/elicassion/3DTRL) - Code for NeurIPS 2022 paper "Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space"
@@ -1293,6 +1296,7 @@
 
 ## docker 
 
+- [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
@@ -1321,7 +1325,7 @@
 ## education 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
@@ -1391,7 +1395,7 @@
 
 ## gis 
 
-- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - 3D Maps for OpenSceneGraph / C++14
+- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - 3D Maps & Terrain SDK / C++17
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 - [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
@@ -1447,7 +1451,7 @@
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) - Recipes for the ConanCenter repository
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -1585,6 +1589,7 @@
 
 ## library 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [csiro-robotics/raycloudtools](https://github.com/csiro-robotics/raycloudtools) - Command line tools for processing ray clouds, together with an associated C++ library. Ray clouds are point clouds with sensor location included per point.
 - [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
 - [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
@@ -1651,6 +1656,7 @@
 - [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
 - [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [axinc-ai/ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [sophgo/tpu-mlir](https://github.com/sophgo/tpu-mlir) - Machine learning compiler based on MLIR for Sophgo TPU.
@@ -1659,6 +1665,7 @@
 
 ## localization 
 
+- [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 - [koide3/iridescence](https://github.com/koide3/iridescence) - 3D visualization library for rapid prototyping of 3D algorithms
 - [koide3/gtsam_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
@@ -1735,7 +1742,7 @@
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [bytedance/effective_transformer](https://github.com/bytedance/effective_transformer) - Running BERT without Padding
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
 - [mindspore-courses/d2l-mindspore](https://github.com/mindspore-courses/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
@@ -1887,7 +1894,7 @@
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [mindspore-courses/d2l-mindspore](https://github.com/mindspore-courses/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
@@ -1973,7 +1980,7 @@
 - [ModelTC/lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
@@ -2076,6 +2083,7 @@
 
 ## opengl 
 
+- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - 3D Maps & Terrain SDK / C++17
 - [koide3/iridescence](https://github.com/koide3/iridescence) - 3D visualization library for rapid prototyping of 3D algorithms
 - [cgtuebingen/pointcloud-viewer](https://github.com/cgtuebingen/pointcloud-viewer) - Efficient Large-Scale Point-Cloud Viewer based on OpenGL
 - [jbehley/SuMa](https://github.com/jbehley/SuMa) - Surfel-based Mapping for 3d Laser Range Data (SuMa)
@@ -2093,6 +2101,8 @@
 
 ## others 
 
+- [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
+- [Perceive-Anything/PAM](https://github.com/Perceive-Anything/PAM) - Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos
 - [NingZiXi/battery_monitor](https://github.com/NingZiXi/battery_monitor) - battery_monitor 是一个用于监测电池电量和电压的模块，基于 ESP-IDF 的 ADC（模数转换器）功能。该模块通过测量电池电压，计算出电池的剩余电量百分比，并提供了相应的 API 接口。
 - [Yarroudh/Optim3D](https://github.com/Yarroudh/Optim3D) - Command-Line Interface (CLI) application for efficient and scalable generation of large-scale 3D building models.
 - [ZikangYuan/voxel_svio](https://github.com/ZikangYuan/voxel_svio) - [RA-L 2025 Accept without Revision] A stereo visual-inertial odometry system based on voxel map
@@ -2113,7 +2123,7 @@
 - [silencht/SG-SLAM](https://github.com/silencht/SG-SLAM) - SG-SLAM: A Real-Time RGB-D Visual SLAM toward Dynamic Scenes with Semantic and Geometric Information
 - [chengwei0427/Adaptive-LIO](https://github.com/chengwei0427/Adaptive-LIO) - [JIOT 2024] Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry
 - [zhu-xlab/Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) - Towards a Unified Copernicus Foundation Model for Earth Vision
-- [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Large Language Model for Spatial Understanding
+- [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award Candidate] VGGT: Visual Geometry Grounded Transformer
 - [suhaisheng/UniMamba](https://github.com/suhaisheng/UniMamba) - Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection
@@ -3386,7 +3396,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA & Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: 200+ CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -5044,11 +5054,13 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## python 
 
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -5103,7 +5115,7 @@
 - [ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation) - Python scripts for performing 6D pose estimation and shape reconstruction using the CenterSnap model in ONNX
 - [virtual-vehicle/pointcloudset](https://github.com/virtual-vehicle/pointcloudset) - Efficient analysis of large datasets of point clouds recorded over time
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [koide3/fast_gicp](https://github.com/koide3/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
 - [open-mmlab/mmeval](https://github.com/open-mmlab/mmeval) - A unified evaluation library for multiple machine learning libraries
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
@@ -5279,7 +5291,7 @@
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [Haiyang-W/CAGroup3D](https://github.com/Haiyang-W/CAGroup3D) - [NeurIPS2022] This is the official code of "CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds".
 - [YurongYou/Hindsight](https://github.com/YurongYou/Hindsight) - Code release for "Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception" [ICLR 2022]
@@ -5684,7 +5696,7 @@
 ## stable-diffusion 
 
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models (Stable-Diffusion, FaceFusion, YOLO series, Det, Seg, Matting) with MNN, ORT and TensorRT.
+- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models with MNN, ORT and TRT.
 
 ## statistics 
 
@@ -5716,7 +5728,6 @@
 - [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [NervanaSystems/he-transformer](https://github.com/NervanaSystems/he-transformer) - nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph
 - [bytedance/effective_transformer](https://github.com/bytedance/effective_transformer) - Running BERT without Padding
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [open-mmlab/mmeval](https://github.com/open-mmlab/mmeval) - A unified evaluation library for multiple machine learning libraries
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
