@@ -269,7 +269,6 @@
 - [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 - [TUMFTM/FlexCloud](https://github.com/TUMFTM/FlexCloud) - Georeferencing of Point Cloud Maps
 - [HITSZ-NRSL/RCPCC](https://github.com/HITSZ-NRSL/RCPCC) - [ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
-- [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm) - 
 - [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
 - [CodingRookie98/FaceFusionCpp](https://github.com/CodingRookie98/FaceFusionCpp) - This project is a C++ implementation of the open-source project facefusion.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -283,7 +282,7 @@
 - [ShiPC-AI/TCF](https://github.com/ShiPC-AI/TCF) - [RAL 2024] RANSAC Back to SOTA: A Two-Stage Consensus Filtering for Real-Time 3D Registration
 - [aleksi-kangas/ets2-lane-detection](https://github.com/aleksi-kangas/ets2-lane-detection) - Lane detection in Euro Truck Simulator 2 using Ultra-Fast-Lane-Detection V1 & V2
 - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) - This repository is based on shouxieai/tensorRT_Pro, with adjustments to support YOLOv8.
-- [microsoft/T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
+- [microsoft/T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU/NPU with lookup table
 - [uzh-rpg/rl_vo](https://github.com/uzh-rpg/rl_vo) - Repository relating to "Reinforcement Learning Meets Visual Odometry" (ECCV, 2024).
 - [ctu-mrs/pacnav](https://github.com/ctu-mrs/pacnav) - This repository contains the TMUX scripts to run the Gazebo simulations and real-world experiments for the paper entitled "PACNav: A Communication and External Localization Free Collective Swarm of UA
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
@@ -299,7 +298,7 @@
 - [OroChippw/LightGlue-OnnxRunner](https://github.com/OroChippw/LightGlue-OnnxRunner) - LightGlue-OnnxRunner is a repository hosts the C++ inference code of LightGlue in ONNX format，supporting end-to-end/decouple model inference of SuperPoint/DISK + LightGlue
 - [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 - [city-super/Scaffold-GS](https://github.com/city-super/Scaffold-GS) - [CVPR 2024 Highlight] Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering
-- [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
+- [city-super/Octree-GS](https://github.com/city-super/Octree-GS) - [TPAMI 2025] Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
 - [MIT-SPARK/KISS-Matcher](https://github.com/MIT-SPARK/KISS-Matcher) - KISS-Matcher: Fast, Robust, and Scalable Registration + ROS2 SLAM examples
 - [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) - 
 - [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
@@ -324,11 +323,11 @@
 - [liangheming/VoxelMapPlus_FASTLIO2](https://github.com/liangheming/VoxelMapPlus_FASTLIO2) - FAST-LIO 2 with VoxelMapPlus and STD
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
-- [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU.
+- [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - [IROS 2025] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU.
 - [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM [TRO]🚀
 - [gisbi-kim/SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM) - Robust LiDAR SLAM with a versatile plug-and-play loop closing and pose-graph optimization.
 - [ZikangYuan/sr_lio](https://github.com/ZikangYuan/sr_lio) - [IROS 2024] A  LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency
-- [ZikangYuan/dynamic_lio](https://github.com/ZikangYuan/dynamic_lio) - A LiDAR-inertial odometry for dynamic environments
+- [ZikangYuan/dynamic_lio](https://github.com/ZikangYuan/dynamic_lio) - [IROS 2025] A LiDAR-inertial odometry for dynamic environments
 - [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 - [xiihoo/Books_Robot_SLAM_Navigation](https://github.com/xiihoo/Books_Robot_SLAM_Navigation) - This project is supporting code for the book of Robot SLAM Navigation Core Technology and the Actual Combat.
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
@@ -352,7 +351,7 @@
 - [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 🪙 COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (ICRA 2024)
 - [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - The universal dashboard for embedded systems.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
 - [HRex39/Newton-M2-Ros-Driver](https://github.com/HRex39/Newton-M2-Ros-Driver) - 星网宇达Newton M2 Ros Package解析GPFPD与GTIMU程序
 - [OSGeo/PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 - [RoboMaster/RoboRTS](https://github.com/RoboMaster/RoboRTS) - An open source software stack for Real-Time Strategy research on mobile robots
@@ -1105,7 +1104,7 @@
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [IntelLabs/SLIDE_opt_ia](https://github.com/IntelLabs/SLIDE_opt_ia) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models with MNN, ORT and TRT.
+- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
@@ -1344,7 +1343,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: 200+ CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA.
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA.
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -1405,7 +1404,6 @@
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-- [zhaojh329/rttys](https://github.com/zhaojh329/rttys) - Access your device's terminal from anywhere via the web.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، ا
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
@@ -1498,6 +1496,7 @@
 - [Perceive-Anything/PAM](https://github.com/Perceive-Anything/PAM) - Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos
 - [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
 - [zhu-xlab/Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) - Towards a Unified Copernicus Foundation Model for Earth Vision
+- [intelligent-vehicles/BEVDriver](https://github.com/intelligent-vehicles/BEVDriver) - Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving
 - [TommyZihao/Train_Custom_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
@@ -1523,7 +1522,7 @@
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
-- [chenzomi12/aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+- [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [chongzhou96/EdgeSAM](https://github.com/chongzhou96/EdgeSAM) - Official PyTorch implementation of "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM"
 - [megvii-research/Far3D](https://github.com/megvii-research/Far3D) - [AAAI2024] Far3D: Expanding the Horizon for Surround-view 3D Object Detection
@@ -1768,7 +1767,6 @@
 - [dk-liang/UniFuture](https://github.com/dk-liang/UniFuture) - A Unified Driving World Model for Future Generation and Perception
 - [hanlin-cheng/slam-study-note](https://github.com/hanlin-cheng/slam-study-note) - 生活不易，靓仔叹气（做好笔记）
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [intelligent-vehicles/BEVDriver](https://github.com/intelligent-vehicles/BEVDriver) - Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving
 - [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi) - LeKiwi - Low-Cost Mobile Manipulator
 - [SIGRobotics-UIUC/LeKiwi-sim](https://github.com/SIGRobotics-UIUC/LeKiwi-sim) - 
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
@@ -1818,7 +1816,7 @@
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
-- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving resources (continually updated)
+- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving(LLM4AD) resources (continually updated)
 - [autodriving-heart/Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) - Awesome-BEV-Perception
 - [achao-c/MMFusion](https://github.com/achao-c/MMFusion) - The official implementation of MMFusion.
 - [youw3/AI-Algorithm-Engineer-s-Manual](https://github.com/youw3/AI-Algorithm-Engineer-s-Manual) - AI算法工程师手册  作者网站http://www.huaxiaozhuan.com/
@@ -2034,6 +2032,13 @@
 
 ## Python 
 
+- [ZhengXinyue/bilibili_project](https://github.com/ZhengXinyue/bilibili_project) - 和bilibili教学视频相关的一些源代码
+- [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - :bouncing_ball_person: Pytorch ReID: A tiny, friendly, strong pytorch implement of person re-id / vehicle re-id baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/t
+- [dvlab-research/Seg-Zero](https://github.com/dvlab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
+- [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) - 
+- [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - The official implement of "VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning"
+- [Ching725/SmartLabeler](https://github.com/Ching725/SmartLabeler) - 
 - [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
 - [Yarroudh/Optim3D](https://github.com/Yarroudh/Optim3D) - Command-Line Interface (CLI) application for efficient and scalable generation of large-scale 3D building models.
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
@@ -2047,14 +2052,14 @@
 - [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award Candidate] VGGT: Visual Geometry Grounded Transformer
+- [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 - [Yaepiii/M2UD](https://github.com/Yaepiii/M2UD) - 
 - [truebelief/artemis_treeiso](https://github.com/truebelief/artemis_treeiso) - TLS tree isolation/segmentation code
 - [a-zhui/nsfw_detection](https://github.com/a-zhui/nsfw_detection) - 
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
-- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything
+- [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything [ICCV 2025]
 - [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
 - [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - [CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 - [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - [CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
@@ -2066,6 +2071,7 @@
 - [SkyCol/ODverse33](https://github.com/SkyCol/ODverse33) - ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11
 - [HPCL-EI/RoboWaiter](https://github.com/HPCL-EI/RoboWaiter) - 大模型具身智能比赛-机器人控制端
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
+- [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm) - 
 - [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - YOLOv12: Attention-Centric Real-Time Object Detectors
 - [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 - [VisionXLab/point2rbox-v2](https://github.com/VisionXLab/point2rbox-v2) - [CVPR'25] Official repo of "Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances"
@@ -2087,7 +2093,7 @@
 - [ziqi-ma/Find3D](https://github.com/ziqi-ma/Find3D) - Open-world 3D part segmentation of point clouds
 - [GigaAI-research/DriveDreamer4D](https://github.com/GigaAI-research/DriveDreamer4D) - [CVPR 2025] DriveDreamer4D
 - [Peterande/D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotlight]
-- [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
+- [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - [IROS2025]This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
 - [cfzd/Ultra-Fast-Lane-Detection-v2](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) - Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification (TPAMI 2022)
 - [otaheri/MANO](https://github.com/otaheri/MANO) - A PyTorch Implementation of MANO hand model.
 - [lixiny/manotorch](https://github.com/lixiny/manotorch) - MANO hand model in PyTorch (anatomy consistent, anchors, etc)
@@ -2161,7 +2167,7 @@
 - [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - V2I-CALIB and V2I-CALIB++: Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
 - [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
-- [invictus717/MiCo](https://github.com/invictus717/MiCo) - Explore the Limits of Omni-modal Pretraining at Scale
+- [invictus717/MiCo](https://github.com/invictus717/MiCo) - [ICCV'25] Explore the Limits of Omni-modal Pretraining at Scale
 - [uzh-rpg/dagr](https://github.com/uzh-rpg/dagr) - Code for the paper "Low Latency Automotive Vision with Event Cameras", published in Nature
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [aipixel/GaussianAvatar](https://github.com/aipixel/GaussianAvatar) - [CVPR 2024] The official repo for "GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians"
@@ -2283,7 +2289,7 @@
 - [fkluger/parsac](https://github.com/fkluger/parsac) - PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus
 - [BraveGroup/Drive-WM](https://github.com/BraveGroup/Drive-WM) - [CVPR 2024] A world model for autonomous driving.
 - [BraveGroup/PSPS](https://github.com/BraveGroup/PSPS) - Pointly-supervised panoptic segmentation
-- [BraveGroup/PointSAM-for-MixSup](https://github.com/BraveGroup/PointSAM-for-MixSup) - Codes for ICLR 2024: "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection"
+- [BraveGroup/PointSAM-for-MixSup](https://github.com/BraveGroup/PointSAM-for-MixSup) - [ICLR 2024] MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection
 - [haomo-ai/Cam4DOcc](https://github.com/haomo-ai/Cam4DOcc) - [CVPR 2024] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications
 - [ApolloAuto/apollo-model-radar4d](https://github.com/ApolloAuto/apollo-model-radar4d) - 
 - [tusen-ai/RangeDet](https://github.com/tusen-ai/RangeDet) - Paper and Codes for “RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection” (ICCV2021)
@@ -3148,7 +3154,7 @@
 - [AbangLZU/PointPillars-TF](https://github.com/AbangLZU/PointPillars-TF) - PointPillars implementation using TensorFlow.
 - [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
 - [open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.
-- [yuhuan-wu/P2T](https://github.com/yuhuan-wu/P2T) - [TPAMI22] Pyramid Pooling Transformer for Scene Understanding
+- [yuhuan-wu/P2T](https://github.com/yuhuan-wu/P2T) - [IEEE TPAMI'23] Pyramid Pooling Transformer for Scene Understanding
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [DerrickXuNu/CoBEVT](https://github.com/DerrickXuNu/CoBEVT) - [CoRL2022] CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers
@@ -4201,7 +4207,7 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cruise-automation/rosbag.js](https://github.com/cruise-automation/rosbag.js) - ROS bag file reader for JavaScript 👜
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.
