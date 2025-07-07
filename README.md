@@ -87,7 +87,7 @@
 ## C 
 
 - [NingZiXi/battery_monitor](https://github.com/NingZiXi/battery_monitor) - battery_monitor 是一个用于监测电池电量和电压的模块，基于 ESP-IDF 的 ADC（模数转换器）功能。该模块通过测量电池电压，计算出电池的剩余电量百分比，并提供了相应的 API 接口。
-- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for all AI agents.
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents.
 - [airockchip/rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
 - [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -276,6 +276,7 @@
 - [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
 - [koide3/iridescence](https://github.com/koide3/iridescence) - 3D visualization library for rapid prototyping of 3D algorithms
 - [koide3/gtsam_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
+- [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - [ICCV'25] GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
 - [knzo25/bevfusion_ros2](https://github.com/knzo25/bevfusion_ros2) - BEVFusion implementation in ROS2
 - [wyzdwdz/ppserver](https://github.com/wyzdwdz/ppserver) - pointpillar server for SensorSOW
 - [TJU-Aerial-Robotics/YOPO](https://github.com/TJU-Aerial-Robotics/YOPO) - You Only Plan Once: A Learning Based Quadrotor Planner
@@ -553,7 +554,7 @@
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-L
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
-- [CodingHanYa/workspace](https://github.com/CodingHanYa/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
+- [web3winjack/workspace](https://github.com/web3winjack/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
@@ -606,7 +607,7 @@
 - [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2024] OC-SORT implemented in C++ with Eigen Library, Plus a Android Demo Apk
 - [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
 - [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
-- [xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT](https://github.com/xieincz/YOLOv5_ByteTrack_Multithreading_TensorRT) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
+- [xieincz/Multithreaded-YOLOv5-ByteTrack](https://github.com/xieincz/Multithreaded-YOLOv5-ByteTrack) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
 - [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
@@ -1072,6 +1073,7 @@
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr
+- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [nxp-imx/mfgtools](https://github.com/nxp-imx/mfgtools) - Freescale/NXP I.MX Chip image deploy tools.
@@ -1301,7 +1303,6 @@
 
 ## CMake 
 
-- [xieyuser/GS-LIVM](https://github.com/xieyuser/GS-LIVM) - GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [Ar-Ray-code/bbox_ex_msgs](https://github.com/Ar-Ray-code/bbox_ex_msgs) - Extended message for darknet_ros_msgs
 - [autowarefoundation/autoware_msgs](https://github.com/autowarefoundation/autoware_msgs) - 
@@ -1343,7 +1344,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA.
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA.🎉
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -1353,7 +1354,6 @@
 - [mit-han-lab/torchsparse](https://github.com/mit-han-lab/torchsparse) - [MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.
 - [chengdazhi/Deformable-Convolution-V2-PyTorch](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch) - Deformable ConvNets V2 (DCNv2) in PyTorch
 - [GCaptainNemo/Cuda-Image-Processing](https://github.com/GCaptainNemo/Cuda-Image-Processing) - Using CUDA GPU Programming to speed up image processing.
-- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - Large Language Model Deployment Toolkit
 - [cudpp/cudpp](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library
 - [xcyuyuyu/My-First-CUDA-Code](https://github.com/xcyuyuyu/My-First-CUDA-Code) - The introduction to cuda, a simple and easy cuda project
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) - [ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl
@@ -1374,7 +1374,6 @@
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
-- [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [osrf/docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
 - [davibe/docker-gstreamer-raspbian-build](https://github.com/davibe/docker-gstreamer-raspbian-build) - Building latest git version of gstreamer and plugins for raspberry pi (raspbian)
 - [codebydant/pcl-docker](https://github.com/codebydant/pcl-docker) - Point Cloud Library docker container
@@ -1691,7 +1690,7 @@
 - [giyoungjeon/ANAP](https://github.com/giyoungjeon/ANAP) - The implementation of Adaptive As-Natural-As-Possible Image Stitching
 - [YaqiLYU/AANAP](https://github.com/YaqiLYU/AANAP) - An implementation of AANAP in CVPR 2015 paper.
 - [gorchard/DVScalibration](https://github.com/gorchard/DVScalibration) - Matlab functions to help with DVS calibration using the Caltech Camera Calibration Toolbox (from http://www.vision.caltech.edu/bouguetj/calib_doc/ )
-- [zhangyujie-1998/MS_GraphSIM](https://github.com/zhangyujie-1998/MS_GraphSIM) - 
+- [zhangyujie-1998/MS_GraphSIM](https://github.com/zhangyujie-1998/MS_GraphSIM) - [ACMMM 2021] Official Implementation of the work "MS-GraphSIM: Inferring Point Cloud Quality via Multiscale Graph Similarity"
 - [cwi-dis/pointpca](https://github.com/cwi-dis/pointpca) - 
 - [MIT-SPARK/CertifiablyRobustPerception](https://github.com/MIT-SPARK/CertifiablyRobustPerception) - Certifiable Outlier-Robust Geometric Perception
 - [ZouCheng321/fusion_kitti](https://github.com/ZouCheng321/fusion_kitti) - 
@@ -1816,7 +1815,7 @@
 - [jiawen-zhu/TrackGPT](https://github.com/jiawen-zhu/TrackGPT) - Tracking with Human-Intent Reasoning
 - [OpenShapeLab/ShapeGPT](https://github.com/OpenShapeLab/ShapeGPT) - ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, a unified and user-friendly shape-language model
 - [Chopper-233/Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet) - Official Anomaly-ShapeNet
-- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM for Autonomous Driving(LLM4AD) resources (continually updated)
+- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM/VLM/VLA for Autonomous Driving(LLM4AD) resources (continually updated)
 - [autodriving-heart/Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) - Awesome-BEV-Perception
 - [achao-c/MMFusion](https://github.com/achao-c/MMFusion) - The official implementation of MMFusion.
 - [youw3/AI-Algorithm-Engineer-s-Manual](https://github.com/youw3/AI-Algorithm-Engineer-s-Manual) - AI算法工程师手册  作者网站http://www.huaxiaozhuan.com/
@@ -1853,7 +1852,7 @@
 - [jinlong17/V2VLC](https://github.com/jinlong17/V2VLC) - 
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [jiaweihe1996/BA-Det](https://github.com/jiaweihe1996/BA-Det) - (CVPR 2023) Official PyTorch implementation of the paper: 3D Video Object Detection with Learnable Object-Centric Global Optimization.
-- [amusi/ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
+- [amusi/ICCV2025-Papers-with-Code](https://github.com/amusi/ICCV2025-Papers-with-Code) - ICCV 2025 论文和开源项目合集
 - [Liz66666/GPA3D](https://github.com/Liz66666/GPA3D) - [ICCV 2023] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds
 - [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
 - [jianrenw/PanoNet3D](https://github.com/jianrenw/PanoNet3D) - 
@@ -2045,7 +2044,7 @@
 - [roboflow/trackers](https://github.com/roboflow/trackers) - A unified library for object tracking featuring clean room re-implementations of leading multi-object tracking algorithms
 - [TimSong412/OmniTrackFast](https://github.com/TimSong412/OmniTrackFast) - Official Code For Track Everything Everywhere Fast and Robustly
 - [Shiyan-cps/PointKAN-pytorch](https://github.com/Shiyan-cps/PointKAN-pytorch) - 
-- [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything) - Implementation for Describe Anything: Detailed Localized Image and Video Captioning
+- [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything) - [ICCV 2025] Implementation for Describe Anything: Detailed Localized Image and Video Captioning
 - [robertzhangwenjie/gitbook2pdf](https://github.com/robertzhangwenjie/gitbook2pdf) - gitbook2pdf
 - [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -2060,7 +2059,7 @@
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything [ICCV 2025]
-- [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
+- [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - [ICCV 2025] From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
 - [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - [CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 - [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - [CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -2779,6 +2778,7 @@
 - [PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet) - [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 - [JUGGHM/PENet_ICRA2021](https://github.com/JUGGHM/PENet_ICRA2021) - ICRA 2021 "Towards Precise and Efficient Image Guided Depth Completion"
 - [hailanyi/VirConv](https://github.com/hailanyi/VirConv) - Virtual Sparse Convolution for Multimodal 3D Object Detection
+- [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 - [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) - [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
 - [dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
@@ -2840,7 +2840,7 @@
 - [Loahit5101/PointPillars-Camera-LiDAR-Fusion](https://github.com/Loahit5101/PointPillars-Camera-LiDAR-Fusion) - Implementation of PointPillars Network with LiDAR-camera fusion for 3D Object Detection in Autonomous Driving.
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
-- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] Official PyTorch implementation of 'Gen-LaneNet: a generalized and scalable approach for 3D lane detection'
+- [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] Official PyTorch implementation of "Gen-LaneNet: a generalized and scalable approach for 3D lane detection"
 - [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
 - [guofei9987/github_star_counter](https://github.com/guofei9987/github_star_counter) - Count a GitHub user's total stars and forks
@@ -3516,7 +3516,7 @@
 - [blzq/tf_rodrigues](https://github.com/blzq/tf_rodrigues) - TensorFlow implementation of Rodrigues rotation conversion from axis-angle (rotation vector) to rotation matrix which supports batch inputs
 - [Banconxuan/RTS3D](https://github.com/Banconxuan/RTS3D) - RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving
 - [simon3dv/frustum_pointnets_pytorch](https://github.com/simon3dv/frustum_pointnets_pytorch) - A pytorch version of frustum-pointnets
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable SOTA multi-object tracking modules modules for segmentation, object detection and pose estimation models
 - [atyshka/Lasernet](https://github.com/atyshka/Lasernet) - Implementing Uber's Lasernet LIDAR detector in Tensorflow 2.0
 - [kareemalsawah/Modified_LaserNet_Pytorch](https://github.com/kareemalsawah/Modified_LaserNet_Pytorch) - This is an implementation of the LaserNet paper, a CNN for Lidar 3D object detection
 - [MartinHahner/SeeingThroughFog](https://github.com/MartinHahner/SeeingThroughFog) - 
@@ -4191,7 +4191,7 @@
 ## TypeScript 
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open All-in-One Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
