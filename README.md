@@ -1073,7 +1073,6 @@
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting MMX, SSE (1-4), AVX (1-2, 512), FPU, APX, and AVX10.2
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr
-- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [nxp-imx/mfgtools](https://github.com/nxp-imx/mfgtools) - Freescale/NXP I.MX Chip image deploy tools.
@@ -3195,6 +3194,7 @@
 - [alibaba/EasyCV](https://github.com/alibaba/EasyCV) - An all-in-one toolkit for computer vision
 - [htshinichi/caffe-onnx](https://github.com/htshinichi/caffe-onnx) - caffe model convert to onnx model
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [kamanphoebe/MotionDetection](https://github.com/kamanphoebe/MotionDetection) - Optical Flow Based Motion Detection for Autonomous Driving
 - [Algolzw/NCNet](https://github.com/Algolzw/NCNet) - [AIM & ECCVW 2022] Fast Nearest Convolution for Real-Time Image Super-Resolution
