@@ -1377,7 +1377,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-- [web3winjack/workspace](https://github.com/web3winjack/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
+- [Lwhyz/workspace](https://github.com/Lwhyz/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## frontend 
@@ -2105,6 +2105,12 @@
 
 ## others 
 
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen3, DeepSeek-R1, Llama 4 or any open source LLM / VLM!
+- [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
+- [KevinZ0217/fast_dinov2](https://github.com/KevinZ0217/fast_dinov2) - 
+- [Laka-3DV/TurboReg](https://github.com/Laka-3DV/TurboReg) - [ICCV-2025] TurboReg: TurboClique for Robust and Efficient Point Cloud Registration
+- [CN-ADLab/SAM4D](https://github.com/CN-ADLab/SAM4D) - [ICCV 2025] SAM4D: Segment Anything in Camera and LiDAR Streams
+- [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception".
 - [ZhengXinyue/bilibili_project](https://github.com/ZhengXinyue/bilibili_project) - 和bilibili教学视频相关的一些源代码
 - [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) - 
 - [Ching725/SmartLabeler](https://github.com/Ching725/SmartLabeler) - 
@@ -2253,7 +2259,7 @@
 - [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) - 
 - [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) - 
 - [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - [ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
-- [StiphyJay/LiDAR-PTQ](https://github.com/StiphyJay/LiDAR-PTQ) - ICLR2024:  LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection.
+- [StiphyJay/LiDAR-PTQ](https://github.com/StiphyJay/LiDAR-PTQ) - [ICLR2024]:  LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection.
 - [Z-Pengcheng/MGS-SLAM](https://github.com/Z-Pengcheng/MGS-SLAM) - 
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
 - [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
@@ -3404,7 +3410,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA/Tensor Cores Kernels, HGEMM, FA-2 MMA.🎉
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [simpleinvariance/UniversalNetwork](https://github.com/simpleinvariance/UniversalNetwork) - 
