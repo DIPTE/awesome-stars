@@ -160,7 +160,7 @@
 - [nxp-auto-linux/sja1105x](https://github.com/nxp-auto-linux/sja1105x) - sja1105x kernel module for Auto BSP
 - [muratdemirtas/MT7601u](https://github.com/muratdemirtas/MT7601u) - Ubuntu and Embedded Linux(Raspberry Pi, Banana Pi etc.) drivers for MediaTek MT7601u Wireless Chipset. Support Access Point(AP) and Station Mode(STA). Tested on 32-64 Bit Ubuntu and Raspberry Pi 2 wit
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsic functions
-- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
+- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
 - [eclipse-paho/paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 - [Nrusher/nr_micro_shell](https://github.com/Nrusher/nr_micro_shell) - shell for MCU. 单片机命令行交互。
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
