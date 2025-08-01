@@ -3421,7 +3421,7 @@
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
-- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
+- [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
 - [simpleinvariance/UniversalNetwork](https://github.com/simpleinvariance/UniversalNetwork) - 
 - [wentaoyuan/it-net](https://github.com/wentaoyuan/it-net) - Implementation of Iterative Transformer Network for 3D Point Cloud
 - [vanhalen42/SCARP](https://github.com/vanhalen42/SCARP) - SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping
