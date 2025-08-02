@@ -432,7 +432,7 @@
 - [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
 - [publicsite/COLMAP-OpenMVS-Pipeline](https://github.com/publicsite/COLMAP-OpenMVS-Pipeline) - A CPU 3D Reconstruction pipeline using COLMAP and OpenMVS
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
-- [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！
+- [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学！
 - [koide3/hdl_localization](https://github.com/koide3/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
 - [koide3/interactive_slam](https://github.com/koide3/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
 - [koide3/ndt_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
@@ -2035,6 +2035,7 @@
 
 ## Python 
 
+- [klightz/PSF](https://github.com/klightz/PSF) - Official Implementation for Fast Point Cloud Generation with Straight Flows
 - [2toinf/UniAct](https://github.com/2toinf/UniAct) - [CVPR 2025] The offical Implementation of "Universal Actions for Enhanced Embodied Foundation Models"
 - [unira-zwj/PhysVLM](https://github.com/unira-zwj/PhysVLM) - PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
 - [henry123-boy/SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2) - [ICCV 2025] SpatialTrackerV2: 3D Point Tracking Made Easy
