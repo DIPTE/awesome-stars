@@ -359,7 +359,7 @@
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
+- [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR 2024 & TPAMI 2025] UniRepLKNet
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving (and Robotic) papers.
 - [dragonpilot-community/dragonpilot](https://github.com/dragonpilot-community/dragonpilot) - dragonpilot - 基於 openpilot 的開源駕駛輔助系統
@@ -938,7 +938,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 - [PRBonn/MapMOS](https://github.com/PRBonn/MapMOS) - Building Volumetric Beliefs for Dynamic Environments Exploiting Map-Based Moving Object Segmentation (RAL 2023)
-- [invictus717/MiCo](https://github.com/invictus717/MiCo) - [ICCV'25] Explore the Limits of Omni-modal Pretraining at Scale
+- [invictus717/MiCo](https://github.com/invictus717/MiCo) - [ICCV 2025] Explore the Limits of Omni-modal Pretraining at Scale
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [CVMI-Lab/PLA](https://github.com/CVMI-Lab/PLA) - (CVPR 2023) PLA: Language-Driven Open-Vocabulary 3D Scene Understanding & (CVPR2024) RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
@@ -950,7 +950,7 @@
 - [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - [CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
 - [l1997i/LiM3D](https://github.com/l1997i/LiM3D) - 🔥(CVPR 2023) Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
-- [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
+- [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR 2024 & TPAMI 2025] UniRepLKNet
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving (and Robotic) papers.
@@ -1419,7 +1419,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1428,7 +1428,7 @@
 
 ## golang 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -1634,7 +1634,7 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
@@ -1699,6 +1699,7 @@
 
 ## machine-learning 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [knzo25/bevfusion_ros2](https://github.com/knzo25/bevfusion_ros2) - BEVFusion implementation in ROS2
@@ -2110,6 +2111,16 @@
 
 ## others 
 
+- [prs-eth/ForAINet](https://github.com/prs-eth/ForAINet) - official source code for paper entitled "Automated forest inventory: analysis of high-density airborne LiDAR point clouds with 3D deep learning"
+- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - WebSocket debugging tool with real-time monitoring, message simulation, and traffic interception for developers ｜ 专业的WebSocket调试工具，提供实时监控、消息模拟和流量拦截功能
+- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - X-SAM: From Segment Anything to Any Segmentation
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [linkangheng/PR1](https://github.com/linkangheng/PR1) - Official code implementation of Perception R1: Pioneering Perception Policy with Reinforcement Learning
+- [niki-amini-naieni/CountVid](https://github.com/niki-amini-naieni/CountVid) - Includes the VideoCount dataset and CountVid code for the paper Open-World Object Counting in Videos.
+- [deepreinforce-ai/CUDA-L1](https://github.com/deepreinforce-ai/CUDA-L1) - CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning
+- [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
+- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
+- [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [klightz/PSF](https://github.com/klightz/PSF) - Official Implementation for Fast Point Cloud Generation with Straight Flows
 - [chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)
 - [unira-zwj/PhysVLM](https://github.com/unira-zwj/PhysVLM) - PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
@@ -2118,7 +2129,7 @@
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - Code for Streaming 4D Visual Geometry Transformer
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen3, DeepSeek-R1, Llama 4 or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
 - [KevinZ0217/fast_dinov2](https://github.com/KevinZ0217/fast_dinov2) - 
 - [Laka-3DV/TurboReg](https://github.com/Laka-3DV/TurboReg) - [ICCV-2025] TurboReg: TurboClique for Robust and Efficient Point Cloud Registration
@@ -2290,7 +2301,7 @@
 - [SCNU-RISLAB/MotionBEVpp](https://github.com/SCNU-RISLAB/MotionBEVpp) - A Moving Object Semantic Segmentation Model Based on the Bird's eye view - jxLiang's Bachelor Thesis Code
 - [xieKKKi/MotionBEV](https://github.com/xieKKKi/MotionBEV) - A simple yet effective framework for LiDAR-based moving object segmentation.
 - [nubot-nudt/InsMOS](https://github.com/nubot-nudt/InsMOS) - [IROS 23] InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data
-- [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - [ICRA 2025] A MultiModal Mapping (M2Mapping) Framework for Neural Surface Reconstruction and Novel View Synthesis with LiDAR-Visual Systems
+- [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - [ICRA 2025] Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems
 - [hithqd/PointRWKV](https://github.com/hithqd/PointRWKV) - 
 - [ThomasVonWu/SparseEnd2End](https://github.com/ThomasVonWu/SparseEnd2End) - End2EndPerception deployment solution based on vision sparse transformer paradigm is open sourced.
 - [happinesslz/LION](https://github.com/happinesslz/LION) - [NeurIPS 2024] Official code of ”LION: Linear Group RNN for 3D Object Detection in Point Clouds“
@@ -2665,7 +2676,7 @@
 - [opendilab/LMDrive](https://github.com/opendilab/LMDrive) - [CVPR 2024] LMDrive: Closed-Loop End-to-End Driving with Large Language Models
 - [DiT-3D/FastDiT-3D](https://github.com/DiT-3D/FastDiT-3D) - 
 - [speedzjy/lidar_curb_detection](https://github.com/speedzjy/lidar_curb_detection) - 3D Lidar Curb Dectection implementation in ROS
-- [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
+- [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
 - [csuhan/OneLLM](https://github.com/csuhan/OneLLM) - [CVPR 2024] OneLLM: One Framework to Align All Modalities with Language
 - [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
@@ -2680,7 +2691,7 @@
 - [autowarefoundation/autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 - [yukkysaito/autoware_perception](https://github.com/yukkysaito/autoware_perception) - 
 - [ApolloAuto/apollo-model-centerpoint](https://github.com/ApolloAuto/apollo-model-centerpoint) - 
-- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
+- [meta-pytorch/segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [Green-bms/SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
 - [l-sf/Track-trt](https://github.com/l-sf/Track-trt) - 基于 TensorRT 的 C++ 高性能单目标跟踪推理，支持算法OSTrack、LightTrack。
 - [isongxw/Qt-VTK-Demo](https://github.com/isongxw/Qt-VTK-Demo) - 
@@ -4963,7 +4974,7 @@
 - [sbalnojan/graphcnn-examples](https://github.com/sbalnojan/graphcnn-examples) - Examples for graph based CNNs with keras
 - [HoganZhang/graph-cnn.pytorch](https://github.com/HoganZhang/graph-cnn.pytorch) - 
 - [tindr-project/graph-based_network](https://github.com/tindr-project/graph-based_network) - An embedding and CNN algorithm for subgraph classification.
-- [benjaminykim/correlation-cnn](https://github.com/benjaminykim/correlation-cnn) - Convolutional Neural Network to determine the correlation of a set of points in a graph
+- [benkimbuilds/correlation-cnn](https://github.com/benkimbuilds/correlation-cnn) - Convolutional Neural Network to determine the correlation of a set of points in a graph
 - [federicosanna/Polygons-classification-with-Deep-Graph-CNN](https://github.com/federicosanna/Polygons-classification-with-Deep-Graph-CNN) - Implementation of a Deep Graph Convolutional Neural Network to classify convex and concave polygons. Ultimate goal of this project is to be able to use Graph Nets as substitutes of Finite Element Meth
 - [packyan/DGCNN-Pytorch](https://github.com/packyan/DGCNN-Pytorch) - A Re-Implement of Dynamic Graph CNN for Point-Cloud Classification and Segmentation
 - [mtzelepi/GraphEmbeddedCNN](https://github.com/mtzelepi/GraphEmbeddedCNN) - Graph Embedded Convolutional Neural Networks in Human Crowd Detection for Drone Flight Safety
@@ -5556,7 +5567,7 @@
 ## reinforcement-learning 
 
 - [dvlab-research/Seg-Zero](https://github.com/dvlab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
-- [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - The official implement of "VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning"
+- [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - Tactics2D: A Reinforcement Learning Environment Library with Generative Scenarios for Driving Decision-making
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
