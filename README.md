@@ -252,6 +252,7 @@
 
 ## C++ 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)
 - [APRIL-ZJU/Gaussian-LIC](https://github.com/APRIL-ZJU/Gaussian-LIC) - [ICRA 2025] Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
@@ -315,7 +316,7 @@
 - [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
 - [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - Deep Learning Deployment Framework: Supports tf/torch/trt/trtllm/vllm and other NN frameworks. Support dynamic batching, and streaming modes. It is dual-language compatible with Python and C++, offeri
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
-- [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - [ICRA 2025] A MultiModal Mapping (M2Mapping) Framework for Neural Surface Reconstruction and Novel View Synthesis with LiDAR-Visual Systems
+- [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - [ICRA 2025] Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems
 - [jhescobar05/simple_ros_client_application](https://github.com/jhescobar05/simple_ros_client_application) - A desktop application using the Qt framework to publish messages over a websocket connection to utilize ROS service and pub/sub functionality. The published messages can control the movements a ROS to
 - [boyang9602/LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness) - Replication package for "Robustness of LiDAR-Based Pose Estimation: Evaluating and Improving Odometry and Localization Under Common Point Cloud Corruptions".
 - [RozDavid/LOL](https://github.com/RozDavid/LOL) - LOL: Lidar-only Odometry and Localization in 3D point cloud maps
@@ -1401,7 +1402,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1458,6 +1459,7 @@
 
 ## JavaScript 
 
+- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - WebSocket debugging tool with real-time monitoring, message simulation, and traffic interception for developers ｜ 专业的WebSocket调试工具，提供实时监控、消息模拟和流量拦截功能
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
 - [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
@@ -2035,12 +2037,21 @@
 
 ## Python 
 
+- [prs-eth/ForAINet](https://github.com/prs-eth/ForAINet) - official source code for paper entitled "Automated forest inventory: analysis of high-density airborne LiDAR point clouds with 3D deep learning"
+- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - X-SAM: From Segment Anything to Any Segmentation
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [linkangheng/PR1](https://github.com/linkangheng/PR1) - Official code implementation of Perception R1: Pioneering Perception Policy with Reinforcement Learning
+- [niki-amini-naieni/CountVid](https://github.com/niki-amini-naieni/CountVid) - Includes the VideoCount dataset and CountVid code for the paper Open-World Object Counting in Videos.
+- [deepreinforce-ai/CUDA-L1](https://github.com/deepreinforce-ai/CUDA-L1) - CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning
+- [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
+- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
+- [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [klightz/PSF](https://github.com/klightz/PSF) - Official Implementation for Fast Point Cloud Generation with Straight Flows
 - [2toinf/UniAct](https://github.com/2toinf/UniAct) - [CVPR 2025] The offical Implementation of "Universal Actions for Enhanced Embodied Foundation Models"
 - [unira-zwj/PhysVLM](https://github.com/unira-zwj/PhysVLM) - PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
 - [henry123-boy/SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2) - [ICCV 2025] SpatialTrackerV2: 3D Point Tracking Made Easy
 - [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - Code for Streaming 4D Visual Geometry Transformer
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen3, DeepSeek-R1, Llama 4 or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [KevinZ0217/fast_dinov2](https://github.com/KevinZ0217/fast_dinov2) - 
 - [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception".
 - [ZhengXinyue/bilibili_project](https://github.com/ZhengXinyue/bilibili_project) - 和bilibili教学视频相关的一些源代码
@@ -2048,7 +2059,7 @@
 - [dvlab-research/Seg-Zero](https://github.com/dvlab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) - 
-- [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - The official implement of "VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning"
+- [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
 - [Ching725/SmartLabeler](https://github.com/Ching725/SmartLabeler) - 
 - [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
 - [Yarroudh/Optim3D](https://github.com/Yarroudh/Optim3D) - Command-Line Interface (CLI) application for efficient and scalable generation of large-scale 3D building models.
@@ -2178,7 +2189,7 @@
 - [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - V2I-CALIB and V2I-CALIB++: Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
 - [StiphyJay/PillarTrack](https://github.com/StiphyJay/PillarTrack) - PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds
 - [adept-thu/GraphBEV](https://github.com/adept-thu/GraphBEV) - [ECCV2024] This is the official implementation of GraphBEV, a BEV multi-modal framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
-- [invictus717/MiCo](https://github.com/invictus717/MiCo) - [ICCV'25] Explore the Limits of Omni-modal Pretraining at Scale
+- [invictus717/MiCo](https://github.com/invictus717/MiCo) - [ICCV 2025] Explore the Limits of Omni-modal Pretraining at Scale
 - [uzh-rpg/dagr](https://github.com/uzh-rpg/dagr) - Code for the paper "Low Latency Automotive Vision with Event Cameras", published in Nature
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [aipixel/GaussianAvatar](https://github.com/aipixel/GaussianAvatar) - [CVPR 2024] The official repo for "GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians"
@@ -2263,7 +2274,7 @@
 - [LMD0311/DAPT](https://github.com/LMD0311/DAPT) - [CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
 - [OpenGVLab/DCNv4](https://github.com/OpenGVLab/DCNv4) - [CVPR 2024] Deformable Convolution v4
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR'24] UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition
+- [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR 2024 & TPAMI 2025] UniRepLKNet
 - [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
 - [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
@@ -2353,7 +2364,7 @@
 - [KuanchihHuang/PTT](https://github.com/KuanchihHuang/PTT) - [CVPR2024] PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection
 - [16lemoing/dot](https://github.com/16lemoing/dot) - Dense Optical Tracking: Connecting the Dots
 - [junshengzhou/VP2P-Match](https://github.com/junshengzhou/VP2P-Match) - [NeurIPS'2023 Spotlight]: Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching
-- [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
+- [meta-pytorch/gpt-fast](https://github.com/meta-pytorch/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [luluho1208/Diffusion-SS3D](https://github.com/luluho1208/Diffusion-SS3D) - 
 - [csuhan/OneLLM](https://github.com/csuhan/OneLLM) - [CVPR 2024] OneLLM: One Framework to Align All Modalities with Language
 - [GAP-LAB-CUHK-SZ/SAMPro3D](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D) - SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Instance Segmentation (3DV 2025)
@@ -2364,7 +2375,7 @@
 - [kaist-avelab/K-Radar](https://github.com/kaist-avelab/K-Radar) - 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions
 - [Evocargo/Lidar-Annotation-is-All-You-Need](https://github.com/Evocargo/Lidar-Annotation-is-All-You-Need) - 2D road segmentation using lidar data during training
 - [ApolloAuto/apollo-model-centerpoint](https://github.com/ApolloAuto/apollo-model-centerpoint) - 
-- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
+- [meta-pytorch/segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [huapohen/general_parking_slot_detection](https://github.com/huapohen/general_parking_slot_detection) - 
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
@@ -4015,7 +4026,7 @@
 - [sbalnojan/graphcnn-examples](https://github.com/sbalnojan/graphcnn-examples) - Examples for graph based CNNs with keras
 - [HoganZhang/graph-cnn.pytorch](https://github.com/HoganZhang/graph-cnn.pytorch) - 
 - [tindr-project/graph-based_network](https://github.com/tindr-project/graph-based_network) - An embedding and CNN algorithm for subgraph classification.
-- [benjaminykim/correlation-cnn](https://github.com/benjaminykim/correlation-cnn) - Convolutional Neural Network to determine the correlation of a set of points in a graph
+- [benkimbuilds/correlation-cnn](https://github.com/benkimbuilds/correlation-cnn) - Convolutional Neural Network to determine the correlation of a set of points in a graph
 - [federicosanna/Polygons-classification-with-Deep-Graph-CNN](https://github.com/federicosanna/Polygons-classification-with-Deep-Graph-CNN) - Implementation of a Deep Graph Convolutional Neural Network to classify convex and concave polygons. Ultimate goal of this project is to be able to use Graph Nets as substitutes of Finite Element Meth
 - [packyan/DGCNN-Pytorch](https://github.com/packyan/DGCNN-Pytorch) - A Re-Implement of Dynamic Graph CNN for Point-Cloud Classification and Segmentation
 - [mtzelepi/GraphEmbeddedCNN](https://github.com/mtzelepi/GraphEmbeddedCNN) - Graph Embedded Convolutional Neural Networks in Human Crowd Detection for Drone Flight Safety
