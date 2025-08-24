@@ -1532,7 +1532,7 @@
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
 - [eclipse-paho/paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/
 - [SiliconLabs/mltk](https://github.com/SiliconLabs/mltk) - A Python package with command-line utilities and scripts to aid the development  of machine learning models for Silicon Lab's embedded platforms
 
 ## java 
@@ -2432,7 +2432,7 @@
 - [liruihui/PU-GAN](https://github.com/liruihui/PU-GAN) - PU-GAN: a Point Cloud Upsampling Adversarial Network, ICCV, 2019
 - [ChaoqinRobotics/LINS---LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) - A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter
 - [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
-- [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search.
+- [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search. Run on Jetson Orin NX 8GB.
 - [NVIDIA-ISAAC-ROS/isaac_ros_nitros](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros) - NVIDIA Isaac Transport for ROS package for hardware-acceleration friendly movement of messages
 - [ntnu-arl/lidar_degeneracy_datasets](https://github.com/ntnu-arl/lidar_degeneracy_datasets) - LiDAR degeneracy dataset for LiDAR-radar-inertial fusion methods.
 - [GWxuan/ReID3D](https://github.com/GWxuan/ReID3D) - [CVPR 2024] LiDAR-based Person Re-identification
@@ -2866,7 +2866,7 @@
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - Radar Camera Fusion in Autonomous Driving
-- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - Local AI Workflow Tool for Programmers | 程序员本地的AI工作流工具
+- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - Your Local AI Workflow | 你本地的AI工作流
 - [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
 - [Mandylove1993/CUDA-FastBEV](https://github.com/Mandylove1993/CUDA-FastBEV) - TensorRT deploy and PTQ/QAT tools development for FastBEV, total time only need 6.9ms!!!
@@ -3859,7 +3859,6 @@
 - [Divadi/simple_plot3d](https://github.com/Divadi/simple_plot3d) - A simple 3D & BEV visualizer for point clouds and 3D boxes.
 - [hku-mars/r3live](https://github.com/hku-mars/r3live) - A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
 - [Divadi/SOLOFusion](https://github.com/Divadi/SOLOFusion) - Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection
-- [IvanSolis1989/OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY) - 多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900acs、Lin
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [zhukao/AI-EXPRESS](https://github.com/zhukao/AI-EXPRESS) - 
 - [Staok/Awesome-K210](https://github.com/Staok/Awesome-K210) - 收集关于K210的MaixPy开发和SDK IDE开发等的软硬件入门资料，帮助初学者快速了解、学习和使用K210
