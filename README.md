@@ -312,7 +312,7 @@
 - [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) - 
 - [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
 - [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - [ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
-- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
+- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
 - [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - Deep Learning Deployment Framework: Supports tf/torch/trt/trtllm/vllm and other NN frameworks. Support dynamic batching, and streaming modes. It is dual-language compatible with Python and C++, offeri
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
