@@ -86,6 +86,7 @@
 
 ## C 
 
+- [MaJerle/stm32-usart-uart-dma-rx-tx](https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx) - STM32 examples for USART using DMA for efficient RX and TX transmission
 - [NingZiXi/battery_monitor](https://github.com/NingZiXi/battery_monitor) - battery_monitor 是一个用于监测电池电量和电压的模块，基于 ESP-IDF 的 ADC（模数转换器）功能。该模块通过测量电池电压，计算出电池的剩余电量百分比，并提供了相应的 API 接口。
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents.
 - [airockchip/rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
@@ -226,7 +227,6 @@
 - [npat-efault/picocom](https://github.com/npat-efault/picocom) - Minimal dumb-terminal emulation program
 - [KhronosGroup/OpenVX-sample-impl](https://github.com/KhronosGroup/OpenVX-sample-impl) - OpenVX sample implementation
 - [shliang0603/Yolov4_DeepSocial](https://github.com/shliang0603/Yolov4_DeepSocial) - 基于Yolov4的行人检测、行人距离估计、多目标跟踪系统
-- [applefishsky009/pointpillars](https://github.com/applefishsky009/pointpillars) - pointpillars C implement
 - [ZJU-FAST-Lab/forces_resilient_planner](https://github.com/ZJU-FAST-Lab/forces_resilient_planner) - External Forces Resilient Safe Motion Planning for Quadrotor
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
 - [Forceflow/trimesh2](https://github.com/Forceflow/trimesh2) - C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes
@@ -1111,7 +1111,7 @@
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [IntelLabs/SLIDE_opt_ia](https://github.com/IntelLabs/SLIDE_opt_ia) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
-- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
+- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
 - [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
@@ -1460,6 +1460,7 @@
 
 ## JavaScript 
 
+- [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
@@ -1501,6 +1502,9 @@
 
 ## Jupyter Notebook 
 
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks
+- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
+- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [Perceive-Anything/PAM](https://github.com/Perceive-Anything/PAM) - Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos
 - [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
@@ -1770,6 +1774,7 @@
 
 ## Others 
 
+- [yxltya/PointDGRWKV](https://github.com/yxltya/PointDGRWKV) - 
 - [CN-ADLab/SAM4D](https://github.com/CN-ADLab/SAM4D) - [ICCV 2025] SAM4D: Segment Anything in Camera and LiDAR Streams
 - [TripleJoy/SAM2MOT](https://github.com/TripleJoy/SAM2MOT) - 
 - [suhaisheng/UniMamba](https://github.com/suhaisheng/UniMamba) - Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection
@@ -2039,6 +2044,11 @@
 
 ## Python 
 
+- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - Lightweight MCP Server for Computer Use in Windows
+- [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
+- [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - [ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
+- [zxcv616/GeoSAM2](https://github.com/zxcv616/GeoSAM2) - 
+- [cammarasana123/weightedConvolution2.0](https://github.com/cammarasana123/weightedConvolution2.0) - Weighted Convolution 2.0
 - [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！
 - [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
 - [prs-eth/ForAINet](https://github.com/prs-eth/ForAINet) - official source code for paper entitled "Automated forest inventory: analysis of high-density airborne LiDAR point clouds with 3D deep learning"
@@ -2811,7 +2821,7 @@
 - [dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
 - [GerardMaggiolino/Deep-OC-SORT](https://github.com/GerardMaggiolino/Deep-OC-SORT) - https://arxiv.org/abs/2302.11813
-- [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) - Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet
+- [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) - Real-time multi-object tracker using YOLOv7 and StrongSORT with OSNet
 - [fpthink/STNet](https://github.com/fpthink/STNet) - 3D Siamese Transformer Network for Single Object Tracking on Point Clouds
 - [tusen-ai/LiDAR_SOT](https://github.com/tusen-ai/LiDAR_SOT) - 
 - [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all) - [ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment
@@ -3229,7 +3239,7 @@
 - [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 - [hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU) - "Rethinking IoU-based Optimization for Single-stage 3D Object Detection", ECCV2022 accept!
 - [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2022] Official implementation of PeRFception: Perception using Radiance Fields.
-- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - This repo is an implementation of PyTorch version YOLOV Series
+- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - [AAAI'23 & IJCV'25] This repo is an implementation of PyTorch version YOLOV Series
 - [zhangyp15/SimMOD](https://github.com/zhangyp15/SimMOD) - Implementation of SimMOD: A Simple Baseline for Multi-Camera 3D Object Detection
 - [Sense-X/UniHead](https://github.com/Sense-X/UniHead) - Unifying Visual Perception by Dispersible Points Learning (ECCV 2022)
 - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含14个onnx模型，依然是包含C++和Python两个版本的程序
@@ -4218,7 +4228,7 @@
 ## TypeScript 
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
@@ -4256,6 +4266,7 @@
 
 ## Verilog 
 
+- [WangXuan95/FPGA-FOC](https://github.com/WangXuan95/FPGA-FOC) - An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。
 - [corundum/corundum](https://github.com/corundum/corundum) - Open source FPGA-based NIC and platform for in-network compute
 - [lvyufeng/step_into_mips](https://github.com/lvyufeng/step_into_mips) - 一步一步写MIPS CPU
 - [LeiWang1999/ZYNQ-NVDLA](https://github.com/LeiWang1999/ZYNQ-NVDLA) - NVDLA (An Opensource DL Accelerator Framework) implementation on FPGA.
