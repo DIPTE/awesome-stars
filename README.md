@@ -109,7 +109,6 @@
 - [compuphase/minIni](https://github.com/compuphase/minIni) - A small and portable INI file library with read/write support
 - [yukkysaito/autoware_perception](https://github.com/yukkysaito/autoware_perception) - 
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
-- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [GreyZhang/g_s32k144](https://github.com/GreyZhang/g_s32k144) - learning records about S32K144 MCU (FreeRTOS, UART, CAN, SPI, PIT, FreeMaster, RTC, GPS, DMA, WatchDog、J1939、UDS、XCP、CCP)
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
@@ -133,7 +132,6 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [jjm2473/ffmpeg-rk](https://github.com/jjm2473/ffmpeg-rk) - 支持rockchip mpp硬件加速编解码的ffmpeg版本。Forked ffmpeg that supports rkmpp decodeing, encoding and rga scaling
 - [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS) - 从ROS1到ROS2无人机编程实战指南
-- [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [NVIDIA-AI-IOT/deepstream-occupancy-analytics](https://github.com/NVIDIA-AI-IOT/deepstream-occupancy-analytics) - This is a sample application for counting people entering/leaving in a building using NVIDIA Deepstream SDK, Transfer Learning Toolkit (TLT), and pre-trained models. This application can be used to bu
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
 - [airockchip/librga](https://github.com/airockchip/librga) - 
@@ -252,6 +250,8 @@
 
 ## C++ 
 
+- [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - [IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction
+- [ethz-asl/versavis](https://github.com/ethz-asl/versavis) - An Open Versatile Multi-Camera Visual-Inertial Sensor Suite
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ADrownFish/RoboticUserInterface](https://github.com/ADrownFish/RoboticUserInterface) - Qt自定义机器人上位机软件，内置默认插件或自定义插件。多种通信方式（TCP/UDP/蓝牙/串口）和协议解析方案（插件/蓝牙/浮点数/Json/Csv）。具备大数据量并行可视化曲线、串口调试、原始数据流、Urdf模型加载及椭球拟合。Qt custom robot host software, built-in default plug-ins or custom plug-ins. TCP/UDP/
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
@@ -548,6 +548,7 @@
 - [YukangLiu/netco](https://github.com/YukangLiu/netco) - A lightweight c++11 symetric coroutine library which can be used for network programming.
 - [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
@@ -681,6 +682,7 @@
 - [m-schuetz/CudaLOD](https://github.com/m-schuetz/CudaLOD) - CUDA-accelerated LOD construction for point clouds
 - [autoexpect/rknn-ffmpeg-tutorial](https://github.com/autoexpect/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
+- [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
@@ -759,7 +761,7 @@
 - [poppin-mice/AAHLS_Final_PointPillars](https://github.com/poppin-mice/AAHLS_Final_PointPillars) - Repo for the AAHLS final of team 1 (PointPillars)
 - [mRobotit/mRobot_book](https://github.com/mRobotit/mRobot_book) - 
 - [TixiaoShan/imaging_lidar_place_recognition](https://github.com/TixiaoShan/imaging_lidar_place_recognition) - ICRA 2021 - Robust Place Recognition using an Imaging Lidar
-- [KangchengLiu/DLC_LiDAR_SLAM](https://github.com/KangchengLiu/DLC_LiDAR_SLAM) - :fire: :muscle: Official Project: A Robust and Effective LiDAR-SLAM System with Learning-based Denoising and Loop Closure (DLC-SLAM, TMECH-2023)
+- [KangchengLiu/DLC_LiDAR_SLAM](https://github.com/KangchengLiu/DLC_LiDAR_SLAM) - :fire: :muscle: Official Project: A Robust and Effective LiDAR-SLAM System with Learning-based Denoising and Loop Closure (DLC-SLAM)
 - [yuecideng/Misc3D](https://github.com/yuecideng/Misc3D) - A unified library for 3D data processing with both c++ and python API
 - [yuecideng/PrimitivesFittingLib](https://github.com/yuecideng/PrimitivesFittingLib) - A unified library for fitting primitives from 3D point cloud data with both C++&Python API.
 - [huolu1987/Qt-study](https://github.com/huolu1987/Qt-study) - Qt study  学习资料，官方示例深扒目前包含：地址薄管理，串口工具
@@ -1461,6 +1463,7 @@
 
 ## JavaScript 
 
+- [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
@@ -1504,6 +1507,7 @@
 
 ## Jupyter Notebook 
 
+- [pbonazzi/picosam2](https://github.com/pbonazzi/picosam2) - [IEEE SENSORS 2025] PicoSAM2 is a minimal, prompt-based segmentation model distilled from Meta’s SAM 2.1
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
@@ -1776,6 +1780,8 @@
 
 ## Others 
 
+- [ziv-lin/rxlive_handheld](https://github.com/ziv-lin/rxlive_handheld) - 
+- [hku-mars/Livox_handheld](https://github.com/hku-mars/Livox_handheld) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [yxltya/PointDGRWKV](https://github.com/yxltya/PointDGRWKV) - 
 - [CN-ADLab/SAM4D](https://github.com/CN-ADLab/SAM4D) - [ICCV 2025] SAM4D: Segment Anything in Camera and LiDAR Streams
