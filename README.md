@@ -668,7 +668,7 @@
 - [zhuyuliang/gst_rtsp_client](https://github.com/zhuyuliang/gst_rtsp_client) - gstreamer rtsp client support rockchip and jetson nx for C/C++ Python
 - [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
-- [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
+- [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software.
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
 - [liushuan/MNN-MTCNN-CPU-OPENCL](https://github.com/liushuan/MNN-MTCNN-CPU-OPENCL) - MNN MTCNN C++
 - [intel/fpga-runtime-for-opencl](https://github.com/intel/fpga-runtime-for-opencl) - Intel® FPGA Runtime for OpenCL™ Software Technology
@@ -1187,7 +1187,7 @@
 - [alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) - This repo contains source code of our paper presented in IROS2021 "Single-Shot is Enough: Panoramic Infrastructure Based Calibration of Multiple Cameras and 3D LiDARs"
 - [xjsxujingsong/FairMOT_TensorRT](https://github.com/xjsxujingsong/FairMOT_TensorRT) - 
 - [xjsxujingsong/FairMOT_TensorRT_C](https://github.com/xjsxujingsong/FairMOT_TensorRT_C) - 
-- [HaohaoNJU/CenterPoint](https://github.com/HaohaoNJU/CenterPoint) - TensorRT deployment for CenterPoint Lidar Detection Model.
+- [Hale423/CenterPoint](https://github.com/Hale423/CenterPoint) - TensorRT deployment for CenterPoint Lidar Detection Model.
 - [msraig/pfcnn](https://github.com/msraig/pfcnn) - Code for the paper "PFCNN: Convolutional Neural Networks on 3D Surfaces Using Parallel Frames" (CVPR 2020).
 - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) - 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序
 - [bmwcarit/pcl-people-tracker-timing-test](https://github.com/bmwcarit/pcl-people-tracker-timing-test) - This test suite measures the people tracker runtime from the open-source library Point Cloud Library (PCL). It captures and visualizes the runtime and the runtime's dependency on certain calibration v
@@ -1781,6 +1781,7 @@
 
 ## Others 
 
+- [fukexue/DFAT](https://github.com/fukexue/DFAT) - The official implementation of “Dual Focus-Attention Transformer for Robust Point Cloud Registration”(CVPR2025)
 - [ziv-lin/rxlive_handheld](https://github.com/ziv-lin/rxlive_handheld) - 
 - [hku-mars/Livox_handheld](https://github.com/hku-mars/Livox_handheld) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
@@ -2058,7 +2059,7 @@
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
-- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - Lightweight MCP Server for Computer Use in Windows
+- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
 - [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - [ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 - [zxcv616/GeoSAM2](https://github.com/zxcv616/GeoSAM2) - 
@@ -2119,7 +2120,7 @@
 - [Jingtong0527/RobuRCDet](https://github.com/Jingtong0527/RobuRCDet) - 
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [SkyCol/ODverse33](https://github.com/SkyCol/ODverse33) - ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11
-- [HPCL-EI/RoboWaiter](https://github.com/HPCL-EI/RoboWaiter) - 大模型具身智能比赛-机器人控制端
+- [HPCL-EI/RoboWaiter](https://github.com/HPCL-EI/RoboWaiter) - 本项目为参加达闼杯“机器人大模型与具身智能挑战赛”的参赛作品。我们的目标是结合前沿的大模型技术和具身智能技术，开发能在模拟的咖啡厅场景中承担服务员角色并自主完成各种具身任务的智能机器人。这里是我们的参赛作品《基于大模型和行为树和生成式具身智能体》的机器人控制端代码。
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm) - 
 - [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - [NeurIPS 2025] YOLOv12: Attention-Centric Real-Time Object Detectors
@@ -2211,7 +2212,7 @@
 - [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
 - [AssafSinger94/dino-tracker](https://github.com/AssafSinger94/dino-tracker) - Official Pytorch Implementation for “DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video” (ECCV 2024)
 - [HR-zju/LiCROcc](https://github.com/HR-zju/LiCROcc) - 
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [prs-eth/PanopticSegForLargeScalePointCloud](https://github.com/prs-eth/PanopticSegForLargeScalePointCloud) - Code and dataset of paper "TOWARDS ACCURATE INSTANCE SEGMENTATION IN LARGE-SCALE LIDAR POINT CLOUDS"
 - [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - V2I-CALIB and V2I-CALIB++: Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
@@ -2904,7 +2905,7 @@
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [valeoai/rangevit](https://github.com/valeoai/rangevit) - 
 - [Eaphan/UPIDet](https://github.com/Eaphan/UPIDet) - Unleash the Potential of Image Branch for Cross-modal 3D Object Detection [NeurIPS2023]
-- [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023).
+- [Luoyadan/CRB-active-3Ddet](https://github.com/Luoyadan/CRB-active-3Ddet) - The official PyTorch implementation of "Exploring Active 3D Object Detection from a Generalization Perspective" (ICLR Spotlight 2023 & TPAMI 2025).
 - [OpenDriveLab/PPGeo](https://github.com/OpenDriveLab/PPGeo) - [ICLR 2023] Pytorch implementation of PPGeo, a fully self-supervised driving policy pre-training framework to learn from unlabeled driving videos.
 - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv11,YOLOv10,YOLOv9,YOLOv8,YOLOv7,YOLOv6,YOLOX,YOLOv5), nms plugin support
 - [hnuzhy/SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) - [CVIU2023] Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection"
@@ -3172,7 +3173,7 @@
 - [msracver/Deformable-ConvNets](https://github.com/msracver/Deformable-ConvNets) - Deformable Convolutional Networks
 - [hylmak/Tracking-Objects-as-Points](https://github.com/hylmak/Tracking-Objects-as-Points) - 
 - [brandesjj/centerfusionpp](https://github.com/brandesjj/centerfusionpp) - CenterFusion++ is a frustum propsal-based camera and radar sensor fusion network.
-- [HaohaoNJU/CenterFusion](https://github.com/HaohaoNJU/CenterFusion) - NN-based radar-camera post sensor fusion implemented by TensorRT
+- [Hale423/CenterFusion](https://github.com/Hale423/CenterFusion) - NN-based radar-camera post sensor fusion implemented by TensorRT
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
 - [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) - 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, RT-DETR, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv10, YOLO11, YOLOX, YOLOv5u, YOLOv7u, YOLOv6Lite, RTMDet and so on. 🚀🚀🚀
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
