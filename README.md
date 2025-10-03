@@ -723,7 +723,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [lxd-cumt/ABM-SpConv](https://github.com/lxd-cumt/ABM-SpConv) - 
-- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
+- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 - [eric612/MobileNet-YOLO](https://github.com/eric612/MobileNet-YOLO) - A caffe implementation of MobileNet-YOLO detection network
 - [Wulingtian/yolov5_caffe](https://github.com/Wulingtian/yolov5_caffe) - yolov5 onnx caffe
 - [ChenYingpeng/caffe-yolov3](https://github.com/ChenYingpeng/caffe-yolov3) - A real-time object detection framework of Yolov3/v4 based on caffe
@@ -3311,7 +3311,7 @@
 - [nie-lang/DeepRectangling](https://github.com/nie-lang/DeepRectangling) - CVPR2022 (Oral) - Deep Rectangling for Image Stitching: A Learning Baseline
 - [zhangyp15/BEVerse](https://github.com/zhangyp15/BEVerse) - The official repository for BEVerse
 - [ADLab-AutoDrive/BEVFusion](https://github.com/ADLab-AutoDrive/BEVFusion) - Offical PyTorch implementation of "BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework"
-- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 ORAL] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
+- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 Oral] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
 - [RunpeiDong/PointDistiller](https://github.com/RunpeiDong/PointDistiller) - [CVPR 2023] PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection
 - [amazon-science/patchcore-inspection](https://github.com/amazon-science/patchcore-inspection) - 
 - [4DVLab/STCrowd](https://github.com/4DVLab/STCrowd) - 
