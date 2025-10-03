@@ -1467,7 +1467,6 @@
 ## hacktoberfest 
 
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [GenericMappingTools/pygmt](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
@@ -1475,7 +1474,6 @@
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
 - [nnstreamer/nnstreamer](https://github.com/nnstreamer/nnstreamer) - :twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) - Recipes for the ConanCenter repository
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -4185,7 +4183,7 @@
 - [wangx1996/Lidar-Segementation](https://github.com/wangx1996/Lidar-Segementation) - An implementation on "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance" from IROS 2019
 - [zhangyp15/BEVerse](https://github.com/zhangyp15/BEVerse) - The official repository for BEVerse
 - [ADLab-AutoDrive/BEVFusion](https://github.com/ADLab-AutoDrive/BEVFusion) - Offical PyTorch implementation of "BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework"
-- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 ORAL] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
+- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 Oral] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
 - [RunpeiDong/PointDistiller](https://github.com/RunpeiDong/PointDistiller) - [CVPR 2023] PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection
 - [amazon-science/patchcore-inspection](https://github.com/amazon-science/patchcore-inspection) - 
 - [4DVLab/STCrowd](https://github.com/4DVLab/STCrowd) - 
@@ -5355,7 +5353,7 @@
 - [foolwood/SiamMask](https://github.com/foolwood/SiamMask) - [CVPR19/TPAMI23] SiamMask: A Framework for Fast Online Object Tracking and Segmentation
 - [astra-vision/MonoScene](https://github.com/astra-vision/MonoScene) - [CVPR 2022] "MonoScene: Monocular 3D Semantic Scene Completion": 3D Semantic Occupancy Prediction from a single image
 - [PINTO0309/Open3D-build](https://github.com/PINTO0309/Open3D-build) - Provide Docker build sequences of Open3D for various environments.
-- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
+- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
 - [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
 - [JUGGHM/PENet_ICRA2021](https://github.com/JUGGHM/PENet_ICRA2021) - ICRA 2021 "Towards Precise and Efficient Image Guided Depth Completion"
