@@ -171,6 +171,7 @@
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -2664,7 +2665,6 @@
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds](https://github.com/SoldierChen/DPU-Accelerated-3D-Object-Detection-on-Point-Clouds) - With Pynq -DPU overlay on KV260, we made 3D Object Detection on Point Clouds generated from LiDAR Faster than ever!
 - [OpenPerceptionX/Openpilot-Deepdive](https://github.com/OpenPerceptionX/Openpilot-Deepdive) - Our insights of Openpilot, a deepdive project on it
-- [HuangCongQing/Point-Clouds-Visualization](https://github.com/HuangCongQing/Point-Clouds-Visualization) - visualization点云可视化(open3D, mayavi, rviz(ros), PCL等)
 - [metadriverse/metadrive](https://github.com/metadriverse/metadrive) - MetaDrive: Lightweight driving simulator for everyone
 - [flowdriveai/flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
@@ -3674,7 +3674,7 @@
 - [DeepLink-org/DLOP-Bench](https://github.com/DeepLink-org/DLOP-Bench) - A benchmark suited especially for deep learning operators
 - [DeepLink-org/CVFusion](https://github.com/DeepLink-org/CVFusion) - CVFusion is an open-source deep learning compiler to fuse the OpenCV operators.
 - [fzi-forschungszentrum-informatik/gpu-voxels](https://github.com/fzi-forschungszentrum-informatik/gpu-voxels) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
-- [AlfonsoLRz/PointCloudRendering](https://github.com/AlfonsoLRz/PointCloudRendering) - Fast rendering of large point clouds in OpenGL through compute shaders.
+- [AlfonsoLRz/PointCloudRendering](https://github.com/AlfonsoLRz/PointCloudRendering) - Fast rendering of large point clouds in OpenGL using compute shaders.
 - [luoru/PointCloud-segmentation](https://github.com/luoru/PointCloud-segmentation) - PointCloud Segmentaion
 - [halostorm/pointCloud_ground_detection](https://github.com/halostorm/pointCloud_ground_detection) - 
 - [artivis/pointcloud_to_rangeimage](https://github.com/artivis/pointcloud_to_rangeimage) - [ROS][C++] Convert a pointcloud to rangeimage and back to pointcloud
@@ -4092,7 +4092,6 @@
 - [littledeep/YOLOv5-RK3399Pro](https://github.com/littledeep/YOLOv5-RK3399Pro) - PyTorch--&gt;ONNX--&gt;RKNN
 - [hpc203/bytetrack-opencv-onnxruntime](https://github.com/hpc203/bytetrack-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOX+ByteTrack目标跟踪，包含C++和Python两个版本的程序
 - [ucb-bar/onnxruntime-riscv](https://github.com/ucb-bar/onnxruntime-riscv) - Fork of upstream onnxruntime focused on supporting risc-v accelerators
-- [ZhangGe6/onnx-modifier](https://github.com/ZhangGe6/onnx-modifier) - A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
 - [htshinichi/caffe-onnx](https://github.com/htshinichi/caffe-onnx) - caffe model convert to onnx model
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
@@ -4454,7 +4453,6 @@
 - [hlsheng1/CT3D](https://github.com/hlsheng1/CT3D) - "Improving 3D Object Detection with Channel-wise Transformer", ICCV2021 accept!
 - [happinesslz/TANet](https://github.com/happinesslz/TANet) - The  AAAI-2020 Paper(Oral):"TANet: Robust 3D Object Detection from Point Clouds with Triple Attention"
 - [jialeli1/From-Voxel-to-Point](https://github.com/jialeli1/From-Voxel-to-Point) - "From Voxel to Point: IoU-guided 3D Object Detection for Point Cloud with Voxel-to-Point Decoder" and "Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud" in ACM MM 2021.
-- [felixchenfy/ros_openpose_rgbd](https://github.com/felixchenfy/ros_openpose_rgbd) - Visualize 3d humans' skeletons(body+hands) in ros rviz. The 2d joints are detected by openpose; The depth is from depth image.
 - [felixchenfy/ros_3d_pointing_detection](https://github.com/felixchenfy/ros_3d_pointing_detection) - Which object a person is pointing at? Detect it by using YOLO, Openpose and depth image (under customized scene).
 - [cedricxie/second_ros](https://github.com/cedricxie/second_ros) - Run SECOND Detector as a ROS Node with KITTI Dataset
 - [liu-qingzhen/Pointpillars-ROS](https://github.com/liu-qingzhen/Pointpillars-ROS) - Pointpillars with ROS Rviz
@@ -4501,7 +4499,6 @@
 - [yanx27/PointCapsNet](https://github.com/yanx27/PointCapsNet) - 
 - [AmrElsersy/PointPainting](https://github.com/AmrElsersy/PointPainting) - Real Time Semantic Segmentation for both LIDAR & Camera using BiseNetv2 & PointPainting Fusion in Pytorch
 - [Song-Jingyu/PointPainting](https://github.com/Song-Jingyu/PointPainting) - This repository is an open-source PointPainting package which is easy to understand, deploy and run!
-- [hailanyi/3D-Detection-Tracking-Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer) - 3D detection and tracking viewer (visualization) for kitti & waymo dataset
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
 - [KeeganRen/FaceReconstruction](https://github.com/KeeganRen/FaceReconstruction) - Facial Landmark Detection and head pose compute use dlib, Real time Face Reconstruction use 3D Morphable Face Model fitting
 - [Banconxuan/RTS3D](https://github.com/Banconxuan/RTS3D) - RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving
@@ -4565,7 +4562,6 @@
 - [zeliu98/Group-Free-3D](https://github.com/zeliu98/Group-Free-3D) - Group-Free 3D Object Detection via Transformers
 - [AbangLZU/EasyPointPillars](https://github.com/AbangLZU/EasyPointPillars) - easy and simple way to train, export and deploy pointpillars for 3D detection
 - [AbangLZU/cnn_seg_lidar](https://github.com/AbangLZU/cnn_seg_lidar) - Real time 3D semantic segmentation for Lidar, Ros based project
-- [kuixu/kitti_object_vis](https://github.com/kuixu/kitti_object_vis) - KITTI Object Visualization (Birdview, Volumetric LiDar point cloud )
 - [mileyan/Pseudo_Lidar_V2](https://github.com/mileyan/Pseudo_Lidar_V2) - (ICLR) Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving
 - [mileyan/pseudo_lidar](https://github.com/mileyan/pseudo_lidar) - (CVPR 2019) Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
 - [guochengqian/KPConv-PyTorch-DeepGCN](https://github.com/guochengqian/KPConv-PyTorch-DeepGCN) - Kernel Point Convolution implemented in PyTorch
@@ -5954,6 +5950,28 @@
 ## virtual-reality 
 
 - [julrog/nn_vis](https://github.com/julrog/nn_vis) - A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.
+
+## visualization 
+
+- [koide3/iridescence](https://github.com/koide3/iridescence) - 3D visualization library for rapid prototyping of 3D algorithms
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [HuangCongQing/Point-Clouds-Visualization](https://github.com/HuangCongQing/Point-Clouds-Visualization) - visualization点云可视化(open3D, mayavi, rviz(ros), PCL等)
+- [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
+- [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
+- [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [cgtuebingen/pointcloud-viewer](https://github.com/cgtuebingen/pointcloud-viewer) - Efficient Large-Scale Point-Cloud Viewer based on OpenGL
+- [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
+- [ZhangGe6/onnx-modifier](https://github.com/ZhangGe6/onnx-modifier) - A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.
+- [julrog/nn_vis](https://github.com/julrog/nn_vis) - A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.
+- [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient library for processing and rendering 3D data (C++ & Python)
+- [felixchenfy/ros_openpose_rgbd](https://github.com/felixchenfy/ros_openpose_rgbd) - Visualize 3d humans' skeletons(body+hands) in ros rviz. The 2d joints are detected by openpose; The depth is from depth image.
+- [hailanyi/3D-Detection-Tracking-Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer) - 3D detection and tracking viewer (visualization) for kitti & waymo dataset
+- [kuixu/kitti_object_vis](https://github.com/kuixu/kitti_object_vis) - KITTI Object Visualization (Birdview, Volumetric LiDar point cloud )
+- [isl-org/Open3D-ML](https://github.com/isl-org/Open3D-ML) - An extension of Open3D to address 3D Machine Learning tasks
+- [mmatl/pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
+- [yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch) - PointNet and PointNet++ implemented by pytorch (pure python) and on ModelNet, ShapeNet and S3DIS.
+- [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 
 ## vpn 
 
