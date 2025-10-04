@@ -883,7 +883,7 @@
 - [roboskel/pointcloud2_cluster_tracking](https://github.com/roboskel/pointcloud2_cluster_tracking) - Cluster tracking using the Hungarian algorithm.
 - [DeepLink-org/CVFusion](https://github.com/DeepLink-org/CVFusion) - CVFusion is an open-source deep learning compiler to fuse the OpenCV operators.
 - [fzi-forschungszentrum-informatik/gpu-voxels](https://github.com/fzi-forschungszentrum-informatik/gpu-voxels) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
-- [AlfonsoLRz/PointCloudRendering](https://github.com/AlfonsoLRz/PointCloudRendering) - Fast rendering of large point clouds in OpenGL through compute shaders.
+- [AlfonsoLRz/PointCloudRendering](https://github.com/AlfonsoLRz/PointCloudRendering) - Fast rendering of large point clouds in OpenGL using compute shaders.
 - [luoru/PointCloud-segmentation](https://github.com/luoru/PointCloud-segmentation) - PointCloud Segmentaion
 - [leggedrobotics/open3d_slam](https://github.com/leggedrobotics/open3d_slam) - Pointcloud-based graph SLAM written in C++ using open3D library.
 - [halostorm/pointCloud_ground_detection](https://github.com/halostorm/pointCloud_ground_detection) - 
