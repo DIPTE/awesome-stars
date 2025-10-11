@@ -179,6 +179,7 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 
 ## 3d 
 
@@ -848,7 +849,7 @@
 - [DeepVAC/libdeepvac](https://github.com/DeepVAC/libdeepvac) - Use PyTorch model in C++ project
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [Nelarius/imnodes](https://github.com/Nelarius/imnodes) - A small, dependency-free node editor for dear imgui
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) - 用c++实现了yolov5使用openvino的部署
 - [openvino-dev-samples/YOLOv7_OpenVINO_cpp-python](https://github.com/openvino-dev-samples/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
@@ -1102,7 +1103,7 @@
 - [yanx27/2DPASS](https://github.com/yanx27/2DPASS) - 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds (ECCV 2022) :fire:
 - [TRI-ML/dd3d](https://github.com/TRI-ML/dd3d) - Official PyTorch implementation of DD3D: Is Pseudo-Lidar needed for Monocular 3D Object detection? (ICCV 2021), Dennis Park*, Rares Ambrus*, Vitor Guizilini, Jie Li, and Adrien Gaidon.
 - [brandesjj/centerfusionpp](https://github.com/brandesjj/centerfusionpp) - CenterFusion++ is a frustum propsal-based camera and radar sensor fusion network.
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) - :zap: A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is
 - [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) - A curated list of radar datasets, detection, tracking and fusion
 - [Toytiny/RaFlow](https://github.com/Toytiny/RaFlow) - [RA-L & IROS'22] Self-Supervised Scene Flow Estimation with 4-D Automotive Radar
@@ -1482,6 +1483,7 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 
 ## home-assistant 
@@ -2141,6 +2143,7 @@
 
 ## others 
 
+- [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
 - [fukexue/DFAT](https://github.com/fukexue/DFAT) - The official implementation of “Dual Focus-Attention Transformer for Robust Point Cloud Registration”(CVPR2025)
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 - [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
@@ -5072,7 +5075,7 @@
 - [LiveStockShapeAnalysis/Point-Cloud-Processing-example](https://github.com/LiveStockShapeAnalysis/Point-Cloud-Processing-example) - 点云库PCL从入门到精通 书中配套案例
 - [geliuhao/CVPR2016_HandPoseEstimation](https://github.com/geliuhao/CVPR2016_HandPoseEstimation) - Robust 3D Hand Pose Estimation in Single Depth Images: from Single-View CNN to Multi-View CNNs
 - [smarttofsdk/SDK](https://github.com/smarttofsdk/SDK) - SmartTof module software develop kit
-- [galihgilang/Map3D](https://github.com/galihgilang/Map3D) - 3D shapes matching implementation, based on "Functional Maps: A Flexible Representation of Maps Between Shapes" [Ovsjanikov et al 2012]
+- [galihwi/Map3D](https://github.com/galihwi/Map3D) - 3D shapes matching implementation, based on "Functional Maps: A Flexible Representation of Maps Between Shapes" [Ovsjanikov et al 2012]
 - [ctralie/G-RFLCT](https://github.com/ctralie/G-RFLCT) - Geometry Radio Frequency Library by Chris Tralie
 - [ctralie/pyhks](https://github.com/ctralie/pyhks) - Simple dependency free Python library for the Heat Kernel Signature on triangle meshes
 - [tkipf/gcn](https://github.com/tkipf/gcn) - Implementation of Graph Convolutional Networks in TensorFlow
@@ -5207,6 +5210,7 @@
 - [andreanobile/opencv_ffmpeg_streaming](https://github.com/andreanobile/opencv_ffmpeg_streaming) - rtmp streaming from opencv with ffmpeg / avcodec using C++ or Python
 - [KernelA/egl-offscreen-render](https://github.com/KernelA/egl-offscreen-render) - OpenGL offscreen rendering with EGL and antialiasing
 - [ibaiGorordo/ONNX-CREStereo-Depth-Estimation](https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation) - Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [openvino-dev-samples/YOLOv7_OpenVINO_cpp-python](https://github.com/openvino-dev-samples/YOLOv7_OpenVINO_cpp-python) - This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
@@ -5643,6 +5647,8 @@
 
 ## robotics 
 
+- [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
+- [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [2toinf/UniAct](https://github.com/2toinf/UniAct) - [CVPR 2025] The offical Implementation of "Universal Actions for Enhanced Embodied Foundation Models"
 - [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
@@ -6020,6 +6026,10 @@
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+
+## youtube 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 
 ## License
