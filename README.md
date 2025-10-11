@@ -250,6 +250,7 @@
 
 ## C++ 
 
+- [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 - [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
 - [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - [IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction
@@ -414,7 +415,6 @@
 - [chennuo0125-HIT/lidar_imu_calib](https://github.com/chennuo0125-HIT/lidar_imu_calib) - automatic calibration of 3D lidar and IMU extrinsics
 - [Livox-SDK/Livox_automatic_calibration](https://github.com/Livox-SDK/Livox_automatic_calibration) - An automatic calibration algorithm for livox LiDAR
 - [ISEE-Technology/CamVox](https://github.com/ISEE-Technology/CamVox) - [ICRA2021] A low-cost SLAM system based on camera and Livox lidar.
-- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap) - [RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry
 - [introlab/rtabmap_ros](https://github.com/introlab/rtabmap_ros) - RTAB-Map's ROS package.
 - [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
@@ -1023,7 +1023,7 @@
 - [CharlesShang/DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
 - [lucasjinreal/DCNv2_latest](https://github.com/lucasjinreal/DCNv2_latest) - DCNv2 supports decent pytorch such as torch 1.5+ (now 1.8+)
 - [Jittor/JNeRF](https://github.com/Jittor/JNeRF) - JNeRF is a NeRF benchmark based on Jittor. JNeRF re-implemented instant-ngp and achieved same performance with original paper.
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [GCaptainNemo/Camera-Calib-OpenCV](https://github.com/GCaptainNemo/Camera-Calib-OpenCV) - Opencv calibration program for different checkerboards.
 - [GCaptainNemo/Fusion-Lidar-Camera-ROS](https://github.com/GCaptainNemo/Fusion-Lidar-Camera-ROS) - This repository uses a ROS node to subscribe to camera (hikvision) and lidar (livox) data. After the node merges the data, it publishes the colored point cloud and displays it in rviz.
 - [liyang-whu/lidar_rtk_calibration](https://github.com/liyang-whu/lidar_rtk_calibration) - 使用手眼标定法计算Lidar和INS(RTK or IMU)的相对姿态
@@ -1530,6 +1530,7 @@
 - [TommyZihao/vlm_arm](https://github.com/TommyZihao/vlm_arm) - 机械臂+大模型+多模态=人机协作具身智能体
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
+- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [Eddie-Wang1120/HPC-Learning-Notes](https://github.com/Eddie-Wang1120/HPC-Learning-Notes) - 高性能计算相关知识学习笔记，包含学习笔记和相关知识的代码demo，在持续完善中。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
@@ -2055,6 +2056,8 @@
 
 ## Python 
 
+- [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
+- [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
 - [NVlabs/PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
@@ -4112,7 +4115,7 @@
 - [Thinklab-SJTU/ThinkMatch](https://github.com/Thinklab-SJTU/ThinkMatch) - A research protocol for deep graph matching.
 - [Prarthana1116/OBJ-PCD-File-Conversion-using-PCD](https://github.com/Prarthana1116/OBJ-PCD-File-Conversion-using-PCD) - Conversion of OBJ file to PCD file using Point Cloud Library.
 - [iMoonLab/HGNN](https://github.com/iMoonLab/HGNN) - Hypergraph Neural Networks (AAAI 2019)
-- [galihgilang/Map3D](https://github.com/galihgilang/Map3D) - 3D shapes matching implementation, based on "Functional Maps: A Flexible Representation of Maps Between Shapes" [Ovsjanikov et al 2012]
+- [galihwi/Map3D](https://github.com/galihwi/Map3D) - 3D shapes matching implementation, based on "Functional Maps: A Flexible Representation of Maps Between Shapes" [Ovsjanikov et al 2012]
 - [ctralie/G-RFLCT](https://github.com/ctralie/G-RFLCT) - Geometry Radio Frequency Library by Chris Tralie
 - [ctralie/pyhks](https://github.com/ctralie/pyhks) - Simple dependency free Python library for the Heat Kernel Signature on triangle meshes
 - [tkipf/gcn](https://github.com/tkipf/gcn) - Implementation of Graph Convolutional Networks in TensorFlow
