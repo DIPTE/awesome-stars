@@ -2143,6 +2143,7 @@
 
 ## others 
 
+- [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
 - [fukexue/DFAT](https://github.com/fukexue/DFAT) - The official implementation of “Dual Focus-Attention Transformer for Robust Point Cloud Registration”(CVPR2025)
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
