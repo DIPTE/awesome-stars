@@ -2056,6 +2056,7 @@
 
 ## Python 
 
+- [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
 - [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
 - [NVlabs/PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
