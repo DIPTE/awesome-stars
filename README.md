@@ -602,7 +602,7 @@
 - [hpc203/picodet-onnxruntime](https://github.com/hpc203/picodet-onnxruntime) - 使用ONNXRuntime部署PicoDet目标检测，包含C++和Python两个版本的程序
 - [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
-- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - A Workflow-based Multi-platform AI Inference and Deployment Framework | 一款基于工作流的多端AI推理部署框架
+- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - An Easy-to-Use and High-Performance AI Deployment Framework | 一款简单易用和高性能的AI部署框架
 - [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms
