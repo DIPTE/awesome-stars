@@ -355,11 +355,12 @@
 
 ## arduino 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 ## artificial-intelligence 
 
+- [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -700,7 +701,7 @@
 - [Avinash2468/RackLay](https://github.com/Avinash2468/RackLay) - RackLay: Monocular Multi-Layered Layout Estimation for Warehouses with Sim2Real Transfer
 - [skhadem/3D-BoundingBox](https://github.com/skhadem/3D-BoundingBox) - PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry
 - [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.
-- [LZBUAV/K210](https://github.com/LZBUAV/K210) - Kendryte K210人工智能芯片应用程序集合，包括人脸检测、颜色检测、目标检测和分类、二维码和Apriltag代码检测以及和ArduPilot飞控软件的通信。这些应用程序已部署到无人机终端。This repository is a collection of applications for the Kendryte K210 AI chip which include face detec
+- [LZBUAV/K210](https://github.com/LZBUAV/K210) - Kendryte K210人工智能芯片应用程序集合，包括人脸检测、颜色检测、目标检测和分类、二维码和Apriltag代码检测以及和ArduPilot飞控软件的通信。这些应用程序已部署到无人机终端。
 - [noahcao/OC_SORT](https://github.com/noahcao/OC_SORT) - [CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [ibaiGorordo/ONNX-CREStereo-Depth-Estimation](https://github.com/ibaiGorordo/ONNX-CREStereo-Depth-Estimation) - Python scripts performing stereo depth estimation using the CREStereo model in ONNX.
@@ -1368,7 +1369,7 @@
 
 ## embedded 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [CANopenNode/CANopenLinux](https://github.com/CANopenNode/CANopenLinux) - CANopenNode on Linux devices
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
@@ -1541,7 +1542,7 @@
 
 ## iot 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
@@ -1752,7 +1753,7 @@
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
-- [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
+- [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf® inference benchmarks
 - [ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR) - [CVPR'2022] SAM-DETR & SAM-DETR++: Official PyTorch Implementation
 - [Yarroudh/segment-lidar](https://github.com/Yarroudh/segment-lidar) - Python package for segmenting LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [nnstreamer/nntrainer](https://github.com/nnstreamer/nntrainer) - NNtrainer is Software Framework for Training Neural Network Models on Devices.
@@ -2349,7 +2350,7 @@
 - [huahuasousou/dair_v2x_i_dataset_vis](https://github.com/huahuasousou/dair_v2x_i_dataset_vis) - For visualizing the dair-v2x-i dataset
 - [ayesha-ishaq/Open3DTrack](https://github.com/ayesha-ishaq/Open3DTrack) - Code for Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking
 - [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - [ICCV 2025] Improving 3D Large Language Model via Robust Instruction Tuning
-- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, RTCM3, NTRIP & SPARTN Protocols
+- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, QGC, RTCM3, NTRIP & SPARTN Protocols
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [DaniloXiao/BEV-RoadSeg](https://github.com/DaniloXiao/BEV-RoadSeg) - BEV-RoadSeg for Freespace Detection in PyTorch, including Python onnx and tensorRT API versions.
 - [haomo-ai/ModaLink](https://github.com/haomo-ai/ModaLink) - [IROS 2024] This repository contains the implementation of our paper:  ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition
@@ -4188,7 +4189,7 @@
 - [wangx1996/Lidar-Segementation](https://github.com/wangx1996/Lidar-Segementation) - An implementation on "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance" from IROS 2019
 - [zhangyp15/BEVerse](https://github.com/zhangyp15/BEVerse) - The official repository for BEVerse
 - [ADLab-AutoDrive/BEVFusion](https://github.com/ADLab-AutoDrive/BEVFusion) - Offical PyTorch implementation of "BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework"
-- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 Oral] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
+- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 Best Paper Finalist] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
 - [RunpeiDong/PointDistiller](https://github.com/RunpeiDong/PointDistiller) - [CVPR 2023] PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection
 - [amazon-science/patchcore-inspection](https://github.com/amazon-science/patchcore-inspection) - 
 - [4DVLab/STCrowd](https://github.com/4DVLab/STCrowd) - 
@@ -5147,6 +5148,7 @@
 
 ## python 
 
+- [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
@@ -5327,7 +5329,7 @@
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch
-- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT L
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT 
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SurajDonthi/Multi-Camera-Person-Re-Identification](https://github.com/SurajDonthi/Multi-Camera-Person-Re-Identification) - State-of-the-art model for person re-identification in Multi-camera Multi-Target Tracking. Benchmarked on Market-1501 and DukeMTMTC-reID datasets.
@@ -5574,8 +5576,9 @@
 
 ## qt 
 
+- [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 - [facontidavide/rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
