@@ -95,7 +95,7 @@
 - [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - [RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - A realtime telemetry workbench for embedded systems.
 - [xiaohulugo/VanishingPointDetection](https://github.com/xiaohulugo/VanishingPointDetection) - 2-Line Exhaustive Searching for Real-Time Vanishing Point Estimation in Manhattan World
 - [YaoQ/yolov5-face-RK3588](https://github.com/YaoQ/yolov5-face-RK3588) - RK3588 Debian11环境下实现yolov5-face的推理实现，包括Python和C++实现。主要依赖RKNPU2 SDK和rknn_toolkit_lite2
 - [Embedfire/nmealib](https://github.com/Embedfire/nmealib) - 
@@ -562,7 +562,7 @@
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
 - [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
-- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT L
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT 
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
 - [Lwhyz/workspace](https://github.com/Lwhyz/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
@@ -2055,6 +2055,7 @@
 
 ## Python 
 
+- [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [worldbench/lidarcrafter](https://github.com/worldbench/lidarcrafter) - LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences
 - [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
@@ -2189,7 +2190,7 @@
 - [ayesha-ishaq/Open3DTrack](https://github.com/ayesha-ishaq/Open3DTrack) - Code for Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking
 - [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - [ICCV 2025] Improving 3D Large Language Model via Robust Instruction Tuning
 - [GenericMappingTools/pygmt](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
-- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, RTCM3, NTRIP & SPARTN Protocols
+- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, QGC, RTCM3, NTRIP & SPARTN Protocols
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [DaniloXiao/BEV-RoadSeg](https://github.com/DaniloXiao/BEV-RoadSeg) - BEV-RoadSeg for Freespace Detection in PyTorch, including Python onnx and tensorRT API versions.
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
@@ -2582,7 +2583,7 @@
 - [mystorm16/BSH-Det3D](https://github.com/mystorm16/BSH-Det3D) - BSH-Det3D: Improving 3D Object Detection with BEV Shape Heatmap
 - [cskkxjk/MonoNeRD](https://github.com/cskkxjk/MonoNeRD) - (ICCV2023) MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
 - [facebookresearch/NeRF-Det](https://github.com/facebookresearch/NeRF-Det) - [ICCV 2023] Code for NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection
-- [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
+- [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf® inference benchmarks
 - [XHwind/V2XP-ASG](https://github.com/XHwind/V2XP-ASG) - [ICRA 2023] V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception
 - [ucla-mobility/OpenCDA](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 - [xiaoaoran/SynLiDAR](https://github.com/xiaoaoran/SynLiDAR) - SynLiDAR: Synthetic LiDAR sequential point cloud dataset with point-wise annotations (AAAI2022)
@@ -3119,7 +3120,7 @@
 - [Staok/Awesome-K210](https://github.com/Staok/Awesome-K210) - 收集关于K210的MaixPy开发和SDK IDE开发等的软硬件入门资料，帮助初学者快速了解、学习和使用K210
 - [sipeed/MaixPy-v1](https://github.com/sipeed/MaixPy-v1) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) - Yolo-for-k210
-- [LZBUAV/K210](https://github.com/LZBUAV/K210) - Kendryte K210人工智能芯片应用程序集合，包括人脸检测、颜色检测、目标检测和分类、二维码和Apriltag代码检测以及和ArduPilot飞控软件的通信。这些应用程序已部署到无人机终端。This repository is a collection of applications for the Kendryte K210 AI chip which include face detec
+- [LZBUAV/K210](https://github.com/LZBUAV/K210) - Kendryte K210人工智能芯片应用程序集合，包括人脸检测、颜色检测、目标检测和分类、二维码和Apriltag代码检测以及和ArduPilot飞控软件的通信。这些应用程序已部署到无人机终端。
 - [Pointcept/PointTransformerV2](https://github.com/Pointcept/PointTransformerV2) - [NeurIPS'22] An official PyTorch implementation of PTv2.
 - [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex) - detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks.
 - [Livox-SDK/livox_detection](https://github.com/Livox-SDK/livox_detection) - Livox open source detection algorithm
@@ -3316,7 +3317,7 @@
 - [nie-lang/DeepRectangling](https://github.com/nie-lang/DeepRectangling) - CVPR2022 (Oral) - Deep Rectangling for Image Stitching: A Learning Baseline
 - [zhangyp15/BEVerse](https://github.com/zhangyp15/BEVerse) - The official repository for BEVerse
 - [ADLab-AutoDrive/BEVFusion](https://github.com/ADLab-AutoDrive/BEVFusion) - Offical PyTorch implementation of "BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework"
-- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 Oral] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
+- [CityU-AIM-Group/SIGMA](https://github.com/CityU-AIM-Group/SIGMA) - [CVPR' 22 Best Paper Finalist] SIGMA: Semantic-complete Graph Matching for Domain Adaptative Object Detection
 - [RunpeiDong/PointDistiller](https://github.com/RunpeiDong/PointDistiller) - [CVPR 2023] PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection
 - [amazon-science/patchcore-inspection](https://github.com/amazon-science/patchcore-inspection) - 
 - [4DVLab/STCrowd](https://github.com/4DVLab/STCrowd) - 
