@@ -1393,7 +1393,7 @@
 ## flask 
 
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## flutter 
 
@@ -1438,7 +1438,7 @@
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## github-api 
 
@@ -1905,7 +1905,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## monitoring 
 
@@ -2051,7 +2051,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects) - New distributional and shape attacks on neural networks that process 3D point cloud data.
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## open-source 
 
@@ -2405,7 +2405,7 @@
 - [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 - [xiihoo/Books_Robot_SLAM_Navigation](https://github.com/xiihoo/Books_Robot_SLAM_Navigation) - This project is supporting code for the book of Robot SLAM Navigation Core Technology and the Actual Combat.
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
-- [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - V2I-CALIB and V2I-CALIB++: Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
+- [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - [IROS24&TITS25] V2I-CALIB / V2X-REG++: Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
 - [raaslab/3D_bridge_meshes](https://github.com/raaslab/3D_bridge_meshes) - Creating 3D meshes with UAVs. This project aims to combine 3D mesh construction using fundamantle practices with infrastructure inspection using novel navigation methods.
 - [raaslab/GATSBI](https://github.com/raaslab/GATSBI) - 
 - [SHU3DVision/SmartEye](https://github.com/SHU3DVision/SmartEye) - 深度、点云图像的实时显示
@@ -2913,7 +2913,7 @@
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) - Radar Camera Fusion in Autonomous Driving
-- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - An Easy-to-Use and High-Performance AI Deployment Framework | 一款简单易用且高性能的AI部署框架
+- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的端侧AI部署框架 | An Easy-to-Use and High-Performance Edge AI Deployment Framework
 - [ldtho/PiFeNet](https://github.com/ldtho/PiFeNet) - Official implementation of PiFeNet
 - [weipingxiao/BSAODet](https://github.com/weipingxiao/BSAODet) - Balanced Sample Assignment and Objective for Single-model Multi-class 3D Object Detection
 - [Mandylove1993/CUDA-FastBEV](https://github.com/Mandylove1993/CUDA-FastBEV) - TensorRT deploy and PTQ/QAT tools development for FastBEV, total time only need 6.9ms!!!
@@ -3814,7 +3814,7 @@
 - [autoas/as](https://github.com/autoas/as) - Simple AUTOSAR Basic Software
 - [armink/FreeModbus_Slave-Master-RTT-STM32](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32) - Add master mode to FreeModbus. | 在 FreeModbus 中添加主机模式
 - [alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard) - 《软硬结合——从零打造物联网》 基于JS的物联网教程。
-- [avem-labs/Avem](https://github.com/avem-labs/Avem) - 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]
+- [but0n/Avem](https://github.com/but0n/Avem) - 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]
 - [hustvl/MapTR](https://github.com/hustvl/MapTR) - [ICLR'23 Spotlight & ECCV'24 & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
 - [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021)
 - [HFAiLab/hdmapnet](https://github.com/HFAiLab/hdmapnet) - 
@@ -5274,7 +5274,7 @@
 - [weiaicunzai/blender_shapenet_render](https://github.com/weiaicunzai/blender_shapenet_render) - Blender render script for ShapeNet models
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [DeepLearnPhysics/dynamic-gcnn](https://github.com/DeepLearnPhysics/dynamic-gcnn) - Dynamic Graph Convolutional Neural Network for 3D point cloud semantic segmentation
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [filipradenovic/cnnimageretrieval-pytorch](https://github.com/filipradenovic/cnnimageretrieval-pytorch) - CNN Image Retrieval in PyTorch: Training and evaluating CNNs for Image Retrieval in PyTorch
 - [heucoder/dimensionality_reduction_alo_codes](https://github.com/heucoder/dimensionality_reduction_alo_codes) - 特征提取/数据降维:PCA、LDA、MDS、LLE、TSNE等降维算法的python实现
 - [Diego999/pyGAT](https://github.com/Diego999/pyGAT) - Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)
@@ -5298,7 +5298,7 @@
 - [HuangCongQing/3D-Point-Clouds](https://github.com/HuangCongQing/3D-Point-Clouds) - 🔥3D点云目标检测&语义分割(深度学习)-SOTA方法,代码,论文,数据集等
 - [justachetan/DiffGeoOps](https://github.com/justachetan/DiffGeoOps) - Python implementation of the paper "Discrete Differential-Geometry Operators for Triangulated 2-Manifolds" by Meyer et. al. VisMath 2002
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
 
 ## pytorch 
