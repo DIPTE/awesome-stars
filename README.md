@@ -250,6 +250,7 @@
 
 ## C++ 
 
+- [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
 - [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 - [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
@@ -307,6 +308,7 @@
 - [XiaoBaiiiiii/colmap-pcd](https://github.com/XiaoBaiiiiii/colmap-pcd) - Image-to-point cloud Registration Tool
 - [YJZLuckyBoy/liorf](https://github.com/YJZLuckyBoy/liorf) - This repo is modified based on LIO_SAM, which remove the feature extraction module and makes it easier to adapt your sensor.
 - [GREAT-WHU/RoadLib](https://github.com/GREAT-WHU/RoadLib) - A lightweight library for instance-level visual road marking extraction, parameterization, mapping, etc.
+- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [Nothand0212/LightGlue-OnnxRunner-cpp](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp) - a light glue onnx runner example
 - [AIDajiangtang/Superpoint-LightGlue-Image-Stiching](https://github.com/AIDajiangtang/Superpoint-LightGlue-Image-Stiching) - OpenCV图像拼接算法集成 SuperPoint 、LightGlue 特征点检测和匹配深度学习模型
 - [OroChippw/LightGlue-OnnxRunner](https://github.com/OroChippw/LightGlue-OnnxRunner) - LightGlue-OnnxRunner is a repository hosts the C++ inference code of LightGlue in ONNX format，supporting end-to-end/decouple model inference of SuperPoint/DISK + LightGlue
@@ -603,7 +605,7 @@
 - [hpc203/picodet-onnxruntime](https://github.com/hpc203/picodet-onnxruntime) - 使用ONNXRuntime部署PicoDet目标检测，包含C++和Python两个版本的程序
 - [Qengineering/PP-PicoDet-ncnn-Jeston-Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano) - PP-PicoDet for Jetson Nano
 - [miemie2013/miemienet](https://github.com/miemie2013/miemienet) - miemienet is a C++ AI deep learning inference framework.Supports PPYOLOE、PICODET.
-- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的端侧AI部署框架 | An Easy-to-Use and High-Performance Edge AI Deployment Framework
+- [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 - [LeatherWang/slam_car](https://github.com/LeatherWang/slam_car) - ros upper computer for vslam diff driver car
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [ceccocats/tkDNN](https://github.com/ceccocats/tkDNN) - Deep neural network library and toolkit to do high performace inference on NVIDIA jetson platforms
@@ -1341,7 +1343,6 @@
 ## Cuda 
 
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search. Run on Jetson Orin NX 8GB.
@@ -2169,7 +2170,7 @@
 - [OpenTeleVision/TeleVision](https://github.com/OpenTeleVision/TeleVision) - [CoRL 2024] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [dxyang/DQN_pytorch](https://github.com/dxyang/DQN_pytorch) - Vanilla DQN, Double DQN, and Dueling DQN implemented in PyTorch
-- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction
+- [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨[NeurIPS 2025] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction
 - [emidan19/deep-tempest](https://github.com/emidan19/deep-tempest) - Restoration for TEMPEST images using deep-learning
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [AXERA-TECH/RT-DETR](https://github.com/AXERA-TECH/RT-DETR) - Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
@@ -2684,7 +2685,7 @@
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - [ICLR 2024] Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/INT4/FP4/NF4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
