@@ -1788,7 +1788,7 @@
 - [hku-mars/Livox_handheld](https://github.com/hku-mars/Livox_handheld) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [yxltya/PointDGRWKV](https://github.com/yxltya/PointDGRWKV) - 
-- [TripleJoy/SAM2MOT](https://github.com/TripleJoy/SAM2MOT) - 
+- [TripleJoy/SAM2MOT](https://github.com/TripleJoy/SAM2MOT) - [AAAI 2026] Code for "SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation".
 - [suhaisheng/UniMamba](https://github.com/suhaisheng/UniMamba) - Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection
 - [hanlin-cheng/slam-study-note](https://github.com/hanlin-cheng/slam-study-note) - 生活不易，靓仔叹气（做好笔记）
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -2032,7 +2032,7 @@
 
 ## PHP 
 
-- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+- [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 
 ## Perl 
