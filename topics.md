@@ -2184,7 +2184,6 @@
 - [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
 - [WangXuan95/FPGA-FOC](https://github.com/WangXuan95/FPGA-FOC) - An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
-- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
 - [ADrownFish/RoboticUserInterface](https://github.com/ADrownFish/RoboticUserInterface) - Qt自定义机器人上位机软件，内置默认插件或自定义插件。多种通信方式（TCP/UDP/蓝牙/串口）和协议解析方案（插件/蓝牙/浮点数/Json/Csv）。具备大数据量并行可视化曲线、串口调试、原始数据流、Urdf模型加载及椭球拟合。Qt custom robot host software, built-in default plug-ins or custom plug-ins. TCP/UDP/
 - [prs-eth/ForAINet](https://github.com/prs-eth/ForAINet) - official source code for paper entitled "Automated forest inventory: analysis of high-density airborne LiDAR point clouds with 3D deep learning"
@@ -2224,7 +2223,7 @@
 - [TimSong412/OmniTrackFast](https://github.com/TimSong412/OmniTrackFast) - Official Code For Track Everything Everywhere Fast and Robustly
 - [alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection](https://github.com/alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection) - Efficient RANSAC for Point-Cloud Shape Detection
 - [deepglint/FAST_LIO_LOCALIZATION_HUMANOID](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID) - Localization by LiDAR for Humanoid(like Unitree G1)
-- [TripleJoy/SAM2MOT](https://github.com/TripleJoy/SAM2MOT) - 
+- [TripleJoy/SAM2MOT](https://github.com/TripleJoy/SAM2MOT) - [AAAI 2026] Code for "SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation".
 - [Shiyan-cps/PointKAN-pytorch](https://github.com/Shiyan-cps/PointKAN-pytorch) - 
 - [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything) - [ICCV 2025] Implementation for Describe Anything: Detailed Localized Image and Video Captioning
 - [robertzhangwenjie/gitbook2pdf](https://github.com/robertzhangwenjie/gitbook2pdf) - gitbook2pdf
@@ -5140,7 +5139,7 @@
 
 ## php 
 
-- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+- [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 
 ## physics 
@@ -5166,6 +5165,7 @@
 
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
