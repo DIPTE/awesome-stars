@@ -152,7 +152,7 @@
 - [rockchip-linux/mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
 - [littlebearsama/xxCu3Dlibrary](https://github.com/littlebearsama/xxCu3Dlibrary) - cuda 加速3D点云算法库，持续更新（含cudaicp，glfw点云可视化等）
 - [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
-- [energystoryhhl/LinuxCanbusTool](https://github.com/energystoryhhl/LinuxCanbusTool) - Linux下can总线的接收发送功能，实现读取dbc后对报文进行解析与打包，进而发送和接收；实现实时记录can信息功能，保存格式为.csv；实现数据库功能，可以将can数据保存至数据库
+- [energystoryhhl/LinuxCanbusTool](https://github.com/energystoryhhl/LinuxCanbusTool) - A comprehensive Linux CAN bus tool with DBC file parsing, CAN message transceiver, data recording and database storage capabilities.
 - [terence-deng/mt7601u](https://github.com/terence-deng/mt7601u) - Ralink Wireless Adapter Driver
 - [Anthony96922/mt7601u-ap](https://github.com/Anthony96922/mt7601u-ap) - AP driver for MT7601U dongles
 - [RushOnline/mt7601u](https://github.com/RushOnline/mt7601u) - Fixed mt7601u driver 2022 tested with kernel 5.15
@@ -563,7 +563,6 @@
 - [APRIL-ZJU/lidar_IMU_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - [IROS 2020] Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
-- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT 
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
@@ -1991,7 +1990,6 @@
 - [extreme-assistant/ICCV2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/ICCV2023-Paper-Code-Interpretation) - ICCV2021/2019/2017 论文/代码/解读/直播合集，极市团队整理
 - [xzlscut/PartialPointClouds](https://github.com/xzlscut/PartialPointClouds) - 
 - [ZitongYu/DeepFAS](https://github.com/ZitongYu/DeepFAS) - 🔥Deep Learning for Face Anti-Spoofing
-- [zwb0/PointLIE](https://github.com/zwb0/PointLIE) - PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery (IJCAI 2021)
 - [francisengelmann/DPC](https://github.com/francisengelmann/DPC) - [ICRA 2020] Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds
 - [HuangCongQing/postgraduate](https://github.com/HuangCongQing/postgraduate) - 研究生培养 发展等 科研
 - [HuangCongQing/college-resource](https://github.com/HuangCongQing/college-resource) - 各大高校大学生课程学习资源
@@ -2436,6 +2434,7 @@
 - [waymo-research/waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
+- [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - [CVPR 2024] 4K4D: Real-Time 4D View Synthesis at 4K Resolution
