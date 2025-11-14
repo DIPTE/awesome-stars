@@ -3490,7 +3490,7 @@
 - [JCube001/socketcan-demo](https://github.com/JCube001/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
 - [CANToolz/CANToolz](https://github.com/CANToolz/CANToolz) - CANToolz - Black-box CAN network analysis framework
 - [obrien28/CANtools](https://github.com/obrien28/CANtools) - A set of python scripts for use with the CANtact CAN bus logger
-- [energystoryhhl/LinuxCanbusTool](https://github.com/energystoryhhl/LinuxCanbusTool) - Linux下can总线的接收发送功能，实现读取dbc后对报文进行解析与打包，进而发送和接收；实现实时记录can信息功能，保存格式为.csv；实现数据库功能，可以将can数据保存至数据库
+- [energystoryhhl/LinuxCanbusTool](https://github.com/energystoryhhl/LinuxCanbusTool) - A comprehensive Linux CAN bus tool with DBC file parsing, CAN message transceiver, data recording and database storage capabilities.
 - [zhuyanliang/GlobelCanTools](https://github.com/zhuyanliang/GlobelCanTools) - CAN通信的监视测试软件
 - [terence-deng/mt7601u](https://github.com/terence-deng/mt7601u) - Ralink Wireless Adapter Driver
 - [kuba-moo/mt7601u](https://github.com/kuba-moo/mt7601u) - Linux mac80211-based driver for Mediatek MT7601U USB bgn WiFi dongle
@@ -4635,7 +4635,6 @@
 - [xieenze/PolarMask](https://github.com/xieenze/PolarMask) - Code for 'PolarMask: Single Shot Instance Segmentation with Polar Representation'
 - [MenghaoGuo/EANet](https://github.com/MenghaoGuo/EANet) - External Attention Network
 - [hjjpku/multi_view_sort](https://github.com/hjjpku/multi_view_sort) - multi-view cnn, Neural-EM, multi view alignment
-- [zwb0/PointLIE](https://github.com/zwb0/PointLIE) - PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery (IJCAI 2021)
 - [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 - [Spark001/AsymmNet](https://github.com/Spark001/AsymmNet) - [MAI@CVPR 2021] AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks.
 - [Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation](https://github.com/Arthur151/SOTA-on-monocular-3D-pose-and-shape-estimation) - State-of-the-art methods on monocular 3D pose estimation / 3D mesh recovery
