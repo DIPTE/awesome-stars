@@ -3254,7 +3254,7 @@
 - [littledeep/YOLOv5-RK3399Pro](https://github.com/littledeep/YOLOv5-RK3399Pro) - PyTorch--&gt;ONNX--&gt;RKNN
 - [alibaba/EasyCV](https://github.com/alibaba/EasyCV) - An all-in-one toolkit for computer vision
 - [htshinichi/caffe-onnx](https://github.com/htshinichi/caffe-onnx) - caffe model convert to onnx model
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [kamanphoebe/MotionDetection](https://github.com/kamanphoebe/MotionDetection) - Optical Flow Based Motion Detection for Autonomous Driving
