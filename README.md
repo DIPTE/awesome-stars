@@ -638,7 +638,7 @@
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
 - [SJSU-AD/FusionAD](https://github.com/SJSU-AD/FusionAD) - An open source autonomous driving stack by San Jose State University Autonomous Driving Team
-- [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
+- [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - RealSense™ SDK
 - [BedRockJie/rockchip-rga-sample](https://github.com/BedRockJie/rockchip-rga-sample) - 使用Rockchip-RGA硬件加速实现图像处理的小例子
 - [jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System](https://github.com/jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System) - 一种基于ROS系统的无人机全地形视觉定位着陆系统
 - [jjw-DL/Model_Deployment](https://github.com/jjw-DL/Model_Deployment) - 深度学习模型部署基础
@@ -2552,7 +2552,7 @@
 - [InternRobotics/PointLLM](https://github.com/InternRobotics/PointLLM) - [ECCV 2024 Best Paper Candidate & TPAMI 2025] PointLLM: Empowering Large Language Models to Understand Point Clouds
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
-- [CASIA-IVA-Lab/AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
+- [CASIA-LMC-Lab/AnomalyGPT](https://github.com/CASIA-LMC-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
 - [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
@@ -2678,7 +2678,7 @@
 - [haochengxi/Train_Transformers_with_INT4](https://github.com/haochengxi/Train_Transformers_with_INT4) - 
 - [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
 - [ChuRuaNh0/FastSam_Awsome_TensorRT](https://github.com/ChuRuaNh0/FastSam_Awsome_TensorRT) - 
-- [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+- [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 - [BooHwang/segment_anything_tensorrt](https://github.com/BooHwang/segment_anything_tensorrt) - Accelerate segment anything model inference using Tensorrt 8.6.1.6
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - [ICLR 2024] Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
@@ -2901,7 +2901,7 @@
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
 - [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] Official PyTorch implementation of "Gen-LaneNet: a generalized and scalable approach for 3D lane detection"
-- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for Intel(R) RealSense(TM) Cameras
+- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for RealSense™ Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
 - [guofei9987/github_star_counter](https://github.com/guofei9987/github_star_counter) - Count a GitHub user's total stars and forks
 - [ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch) - official repo for the paper "SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images"
