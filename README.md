@@ -2053,6 +2053,9 @@
 
 ## Python 
 
+- [ChenYichen9527/EV-UAV](https://github.com/ChenYichen9527/EV-UAV) - [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
+- [XinyiYing/RGBT-Tiny](https://github.com/XinyiYing/RGBT-Tiny) - Repository for "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines"
+- [hoiliu-0801/DQ-DETR](https://github.com/hoiliu-0801/DQ-DETR) - DQ-DETR: DETR with Dynamic Query for Tiny Object Detection
 - [suprobe/AT-Conv-LSTM](https://github.com/suprobe/AT-Conv-LSTM) - A Hybrid Deep Learning Model with Attention based ConvLSTM Networks for Short-Term Traffic Flow Prediction
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 - [nvidia-isaac/pyCuSFM](https://github.com/nvidia-isaac/pyCuSFM) - Python wrapper for the NVIDIA cuSFM library
@@ -2683,7 +2686,7 @@
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - [ICLR 2024] Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
