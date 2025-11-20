@@ -2157,6 +2157,10 @@
 
 ## others 
 
+- [nttcom/WASB-SBDT](https://github.com/nttcom/WASB-SBDT) - [BMVC2023] Widely Applicable Strong Baseline for Sports Ball Detection and Tracking
+- [ChenYichen9527/EV-UAV](https://github.com/ChenYichen9527/EV-UAV) - [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
+- [XinyiYing/RGBT-Tiny](https://github.com/XinyiYing/RGBT-Tiny) - Repository for "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines"
+- [hoiliu-0801/DQ-DETR](https://github.com/hoiliu-0801/DQ-DETR) - DQ-DETR: DETR with Dynamic Query for Tiny Object Detection
 - [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
 - [suprobe/AT-Conv-LSTM](https://github.com/suprobe/AT-Conv-LSTM) - A Hybrid Deep Learning Model with Attention based ConvLSTM Networks for Short-Term Traffic Flow Prediction
 - [nvidia-isaac/pyCuSFM](https://github.com/nvidia-isaac/pyCuSFM) - Python wrapper for the NVIDIA cuSFM library
@@ -3130,7 +3134,7 @@
 - [deep-practice/FastBEV-TensorRT](https://github.com/deep-practice/FastBEV-TensorRT) - 
 - [linxuewu/Sparse4D](https://github.com/linxuewu/Sparse4D) - Sparse4D v1 & v2
 - [xiaoaoran/3D_label_efficient_learning](https://github.com/xiaoaoran/3D_label_efficient_learning) - Official repository for TPAMI2024 "A Survey of Label-Efficient Deep Learning for 3D Point Clouds"
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime
 - [OpenDriveLab/OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) - [NeurIPS 2023 Track Datasets and Benchmarks] OpenLane-V2: The First Perception and Reasoning Benchmark for Road Driving
 - [aharley/simple_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
 - [JessieW0806/Bi-LRFusion](https://github.com/JessieW0806/Bi-LRFusion) - 
