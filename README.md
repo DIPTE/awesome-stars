@@ -2053,6 +2053,7 @@
 
 ## Python 
 
+- [nttcom/WASB-SBDT](https://github.com/nttcom/WASB-SBDT) - [BMVC2023] Widely Applicable Strong Baseline for Sports Ball Detection and Tracking
 - [ChenYichen9527/EV-UAV](https://github.com/ChenYichen9527/EV-UAV) - [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
 - [XinyiYing/RGBT-Tiny](https://github.com/XinyiYing/RGBT-Tiny) - Repository for "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines"
 - [hoiliu-0801/DQ-DETR](https://github.com/hoiliu-0801/DQ-DETR) - DQ-DETR: DETR with Dynamic Query for Tiny Object Detection
