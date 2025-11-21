@@ -152,7 +152,7 @@
 - [rockchip-linux/mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
 - [littlebearsama/xxCu3Dlibrary](https://github.com/littlebearsama/xxCu3Dlibrary) - cuda 加速3D点云算法库，持续更新（含cudaicp，glfw点云可视化等）
 - [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
-- [energystoryhhl/LinuxCanbusTool](https://github.com/energystoryhhl/LinuxCanbusTool) - A comprehensive Linux CAN bus tool with DBC file parsing, CAN message transceiver, data recording and database storage capabilities.
+- [HongleiHuang-amd/LinuxCanbusTool](https://github.com/HongleiHuang-amd/LinuxCanbusTool) - A comprehensive Linux CAN bus tool with DBC file parsing, CAN message transceiver, data recording and database storage capabilities.
 - [terence-deng/mt7601u](https://github.com/terence-deng/mt7601u) - Ralink Wireless Adapter Driver
 - [Anthony96922/mt7601u-ap](https://github.com/Anthony96922/mt7601u-ap) - AP driver for MT7601U dongles
 - [RushOnline/mt7601u](https://github.com/RushOnline/mt7601u) - Fixed mt7601u driver 2022 tested with kernel 5.15
