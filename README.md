@@ -638,7 +638,7 @@
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
 - [SJSU-AD/FusionAD](https://github.com/SJSU-AD/FusionAD) - An open source autonomous driving stack by San Jose State University Autonomous Driving Team
-- [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - RealSense™ SDK
+- [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense™ SDK
 - [BedRockJie/rockchip-rga-sample](https://github.com/BedRockJie/rockchip-rga-sample) - 使用Rockchip-RGA硬件加速实现图像处理的小例子
 - [jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System](https://github.com/jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System) - 一种基于ROS系统的无人机全地形视觉定位着陆系统
 - [jjw-DL/Model_Deployment](https://github.com/jjw-DL/Model_Deployment) - 深度学习模型部署基础
@@ -2905,7 +2905,7 @@
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
 - [yuliangguo/Pytorch_Generalized_3D_Lane_Detection](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) - [ECCV 2020] Official PyTorch implementation of "Gen-LaneNet: a generalized and scalable approach for 3D lane detection"
-- [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for RealSense™ Cameras
+- [realsenseai/realsense-ros](https://github.com/realsenseai/realsense-ros) - ROS Wrapper for RealSense™ Cameras
 - [Uvacoder/export-stars](https://github.com/Uvacoder/export-stars) - 
 - [guofei9987/github_star_counter](https://github.com/guofei9987/github_star_counter) - Count a GitHub user's total stars and forks
 - [ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch) - official repo for the paper "SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images"
