@@ -806,7 +806,7 @@
 - [gbosiger/cansocket-qt-lib](https://github.com/gbosiger/cansocket-qt-lib) - SocketCAN for Qt
 - [siposcsaba89/socketcan-cpp](https://github.com/siposcsaba89/socketcan-cpp) - Simple c++ interface to read/write can sockets
 - [autowarefoundation/ros2_socketcan](https://github.com/autowarefoundation/ros2_socketcan) - A ROS2 wrapper around Linux SocketCAN
-- [JCube001/socketcan-demo](https://github.com/JCube001/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
+- [jmcglad/socketcan-demo](https://github.com/jmcglad/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
 - [mwkpe/cantools](https://github.com/mwkpe/cantools) - A collection of CLI tools for the CAN bus network
 - [zhuyanliang/GlobelCanTools](https://github.com/zhuyanliang/GlobelCanTools) - CAN通信的监视测试软件
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
@@ -2504,7 +2504,7 @@
 - [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow
 - [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
 - [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
-- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - [CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving
+- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - A Collection of Foundation Driving Models by OpenDriveLab
 - [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Graph-based Topology Reasoning for Driving Scenes
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
 - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
