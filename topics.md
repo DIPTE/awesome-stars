@@ -2890,7 +2890,7 @@
 - [MediaBrain-SJTU/CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow) - [NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow
 - [mrnabati/RRPN](https://github.com/mrnabati/RRPN) - Code for 'RRPN: Radar Region Proposal Network for Object Detection in Autonomous Vehicles' (ICIP 2019)
 - [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
-- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - [CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving
+- [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) - A Collection of Foundation Driving Models by OpenDriveLab
 - [OpenDriveLab/TopoNet](https://github.com/OpenDriveLab/TopoNet) - Graph-based Topology Reasoning for Driving Scenes
 - [OpenDriveLab/ThinkTwice](https://github.com/OpenDriveLab/ThinkTwice) - [CVPR 2023] Pytorch implementation of ThinkTwice, a SOTA Decoder for End-to-end Autonomous Driving under BEV.
 - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) - 
@@ -3491,7 +3491,7 @@
 - [siposcsaba89/socketcan-cpp](https://github.com/siposcsaba89/socketcan-cpp) - Simple c++ interface to read/write can sockets
 - [autowarefoundation/ros2_socketcan](https://github.com/autowarefoundation/ros2_socketcan) - A ROS2 wrapper around Linux SocketCAN
 - [abencz/python_socketcan](https://github.com/abencz/python_socketcan) - 
-- [JCube001/socketcan-demo](https://github.com/JCube001/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
+- [jmcglad/socketcan-demo](https://github.com/jmcglad/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
 - [CANToolz/CANToolz](https://github.com/CANToolz/CANToolz) - CANToolz - Black-box CAN network analysis framework
 - [obrien28/CANtools](https://github.com/obrien28/CANtools) - A set of python scripts for use with the CANtact CAN bus logger
 - [HongleiHuang-amd/LinuxCanbusTool](https://github.com/HongleiHuang-amd/LinuxCanbusTool) - A comprehensive Linux CAN bus tool with DBC file parsing, CAN message transceiver, data recording and database storage capabilities.
