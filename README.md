@@ -1473,7 +1473,6 @@
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
 - [aurora-opensource/streetscape.gl](https://github.com/aurora-opensource/streetscape.gl) - Visualization framework for autonomy and robotics data encoded in XVIZ
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 - [AIR-DISCOVER/Hint-AD](https://github.com/AIR-DISCOVER/Hint-AD) - CoRL2024 | Hint-AD: Holistically Aligned Interpretability for End-to-End Autonomous Driving
@@ -2053,6 +2052,7 @@
 
 ## Python 
 
+- [chreisinger/ViLGOD](https://github.com/chreisinger/ViLGOD) - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
 - [nttcom/WASB-SBDT](https://github.com/nttcom/WASB-SBDT) - [BMVC2023] Widely Applicable Strong Baseline for Sports Ball Detection and Tracking
 - [ChenYichen9527/EV-UAV](https://github.com/ChenYichen9527/EV-UAV) - [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
 - [XinyiYing/RGBT-Tiny](https://github.com/XinyiYing/RGBT-Tiny) - Repository for "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines"
@@ -4229,6 +4229,7 @@
 ## Svelte 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - This repo is no longer maintained, please use our main Open WebUI repo.
 
 ## Swift 
