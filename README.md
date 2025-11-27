@@ -684,7 +684,7 @@
 - [JiweiMaster/MobileDetBenchmark](https://github.com/JiweiMaster/MobileDetBenchmark) - Mobile Detection Benchmark
 - [zeal-up/Simple-LIO-SAM](https://github.com/zeal-up/Simple-LIO-SAM) - Code for simplified LIO-SAM
 - [m-schuetz/CudaLOD](https://github.com/m-schuetz/CudaLOD) - CUDA-accelerated LOD construction for point clouds
-- [autoexpect/rknn-ffmpeg-tutorial](https://github.com/autoexpect/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
+- [reevoid/rknn-ffmpeg-tutorial](https://github.com/reevoid/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
@@ -2052,6 +2052,7 @@
 
 ## Python 
 
+- [shiyi-mu/StereoDETR-OPEN](https://github.com/shiyi-mu/StereoDETR-OPEN) - StereoDETR Open Source Version
 - [chreisinger/ViLGOD](https://github.com/chreisinger/ViLGOD) - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
 - [nttcom/WASB-SBDT](https://github.com/nttcom/WASB-SBDT) - [BMVC2023] Widely Applicable Strong Baseline for Sports Ball Detection and Tracking
 - [ChenYichen9527/EV-UAV](https://github.com/ChenYichen9527/EV-UAV) - [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
@@ -3643,7 +3644,6 @@
 - [zeliu98/Group-Free-3D](https://github.com/zeliu98/Group-Free-3D) - Group-Free 3D Object Detection via Transformers
 - [AbangLZU/EasyPointPillars](https://github.com/AbangLZU/EasyPointPillars) - easy and simple way to train, export and deploy pointpillars for 3D detection
 - [mileyan/Pseudo_Lidar_V2](https://github.com/mileyan/Pseudo_Lidar_V2) - (ICLR) Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving
-- [guochengqian/KPConv-PyTorch-DeepGCN](https://github.com/guochengqian/KPConv-PyTorch-DeepGCN) - Kernel Point Convolution implemented in PyTorch
 - [guochengqian/PU-GCN](https://github.com/guochengqian/PU-GCN) - [CVPR'21] PU-GCN: Point Cloud Upsampling using Graph Convolutional Networks
 - [djiajunustc/Voxel-R-CNN](https://github.com/djiajunustc/Voxel-R-CNN) - 
 - [Vegeta2020/CIA-SSD](https://github.com/Vegeta2020/CIA-SSD) - CIA-SSD: Confident IoU-Aware Single Stage Object Detector From Point Cloud, AAAI 2021.
