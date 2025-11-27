@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -30,6 +31,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [code](#code)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -326,6 +328,21 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
 
+## algorithms 
+
+- [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source "reproduction" of Waymo’s EMMA model.
+- [315386775/DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
+- [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+- [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
+- [NVIDIA/cub](https://github.com/NVIDIA/cub) - [ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl
+- [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
+- [Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects) - New distributional and shape attacks on neural networks that process 3D point cloud data.
+- [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
+
 ## analytics 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -587,6 +604,10 @@
 
 - [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
+
+## command-line 
+
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 ## compiler 
 
@@ -2170,6 +2191,7 @@
 
 ## others 
 
+- [shiyi-mu/StereoDETR-OPEN](https://github.com/shiyi-mu/StereoDETR-OPEN) - StereoDETR Open Source Version
 - [chreisinger/ViLGOD](https://github.com/chreisinger/ViLGOD) - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
 - [nttcom/WASB-SBDT](https://github.com/nttcom/WASB-SBDT) - [BMVC2023] Widely Applicable Strong Baseline for Sports Ball Detection and Tracking
 - [ChenYichen9527/EV-UAV](https://github.com/ChenYichen9527/EV-UAV) - [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
@@ -3205,7 +3227,7 @@
 - [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for k
 - [yoxu515/aot-benchmark](https://github.com/yoxu515/aot-benchmark) - An efficient modular implementation of Associating Objects with Transformers for Video Object Segmentation in PyTorch
 - [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS) - 从ROS1到ROS2无人机编程实战指南
-- [autoexpect/rknn-ffmpeg-tutorial](https://github.com/autoexpect/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
+- [reevoid/rknn-ffmpeg-tutorial](https://github.com/reevoid/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
 - [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [NVIDIA-AI-IOT/deepstream-occupancy-analytics](https://github.com/NVIDIA-AI-IOT/deepstream-occupancy-analytics) - This is a sample application for counting people entering/leaving in a building using NVIDIA Deepstream SDK, Transfer Learning Toolkit (TLT), and pre-trained models. This application can be used to bu
 - [OuyangJunyuan/pcvt](https://github.com/OuyangJunyuan/pcvt) - point cloud type conversion all(partial actually) in one!  [ bin(kitti) ⇋ pcd(pcl) ⇋ msg(ros) ⇋ ... ]
@@ -4602,7 +4624,6 @@
 - [AbangLZU/cnn_seg_lidar](https://github.com/AbangLZU/cnn_seg_lidar) - Real time 3D semantic segmentation for Lidar, Ros based project
 - [mileyan/Pseudo_Lidar_V2](https://github.com/mileyan/Pseudo_Lidar_V2) - (ICLR) Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving
 - [mileyan/pseudo_lidar](https://github.com/mileyan/pseudo_lidar) - (CVPR 2019) Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
-- [guochengqian/KPConv-PyTorch-DeepGCN](https://github.com/guochengqian/KPConv-PyTorch-DeepGCN) - Kernel Point Convolution implemented in PyTorch
 - [guochengqian/PU-GCN](https://github.com/guochengqian/PU-GCN) - [CVPR'21] PU-GCN: Point Cloud Upsampling using Graph Convolutional Networks
 - [djiajunustc/Voxel-R-CNN](https://github.com/djiajunustc/Voxel-R-CNN) - 
 - [Vegeta2020/CIA-SSD](https://github.com/Vegeta2020/CIA-SSD) - CIA-SSD: Confident IoU-Aware Single Stage Object Detector From Point Cloud, AAAI 2021.
