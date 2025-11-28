@@ -638,7 +638,7 @@
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
 - [SJSU-AD/FusionAD](https://github.com/SJSU-AD/FusionAD) - An open source autonomous driving stack by San Jose State University Autonomous Driving Team
-- [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense™ SDK
+- [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 - [BedRockJie/rockchip-rga-sample](https://github.com/BedRockJie/rockchip-rga-sample) - 使用Rockchip-RGA硬件加速实现图像处理的小例子
 - [jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System](https://github.com/jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System) - 一种基于ROS系统的无人机全地形视觉定位着陆系统
 - [jjw-DL/Model_Deployment](https://github.com/jjw-DL/Model_Deployment) - 深度学习模型部署基础
@@ -655,7 +655,7 @@
 - [JDAI-CV/dabnn](https://github.com/JDAI-CV/dabnn) - dabnn is an accelerated binary neural networks inference framework for mobile platform
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [LCH1238/bevdet-tensorrt-cpp](https://github.com/LCH1238/bevdet-tensorrt-cpp) - BEVDet implemented by TensorRT, C++； Achieving real-time performance on Orin
-- [HMX2013/FCC-ROS](https://github.com/HMX2013/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
+- [morte2025/FCC-ROS](https://github.com/morte2025/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
 - [KIT-MRT/pointcloud_surface](https://github.com/KIT-MRT/pointcloud_surface) - Ground surface estimation algorithms based on point clouds.
 - [deep-practice/FastBEV-TensorRT](https://github.com/deep-practice/FastBEV-TensorRT) - 
 - [koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration [ROS1/ROS2]
@@ -700,12 +700,12 @@
 - [deepaktalwardt/point-cloud-clustering](https://github.com/deepaktalwardt/point-cloud-clustering) - This repository contains code for Point Cloud Clustering project for CMPE 255
 - [url-kaist/Ground-Segmentation-Benchmark](https://github.com/url-kaist/Ground-Segmentation-Benchmark) - Ground segmentation benchmark in SemanticKITTI dataset
 - [cavayangtao/lidar_clustering_bench](https://github.com/cavayangtao/lidar_clustering_bench) - LiPC: LiDAR Point Cloud Clustering Benchmark Suite
-- [HMX2013/CVC-ROS](https://github.com/HMX2013/CVC-ROS) - An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance"
-- [HMX2013/FSPC-ROS](https://github.com/HMX2013/FSPC-ROS) - A ROS implementation of range image base dbscan clustering for 3D LiDAR point clouds
-- [HMX2013/CH-MOA-ROS](https://github.com/HMX2013/CH-MOA-ROS) - A ROS implementation of "An Efficient Convex Hull-Based Vehicle Pose Estimation Method for 3D LiDAR"
+- [morte2025/CVC-ROS](https://github.com/morte2025/CVC-ROS) - An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance"
+- [morte2025/FSPC-ROS](https://github.com/morte2025/FSPC-ROS) - A ROS implementation of range image base dbscan clustering for 3D LiDAR point clouds
+- [morte2025/CH-MOA-ROS](https://github.com/morte2025/CH-MOA-ROS) - A ROS implementation of "An Efficient Convex Hull-Based Vehicle Pose Estimation Method for 3D LiDAR"
 - [sunjingnjupt/PE-CHL-v2](https://github.com/sunjingnjupt/PE-CHL-v2) - A Fast and Precise Contour-Based Heuristic Vehicle Pose Estimation with LIDAR
 - [sunjingnjupt/PE-HL-PF](https://github.com/sunjingnjupt/PE-HL-PF) - Dynamic Vehicular Pose Estimation with Heuristic L-Shape Fitting and Grid-based Particle Filter
-- [HMX2013/RANSAC-L-Shape-Fitting](https://github.com/HMX2013/RANSAC-L-Shape-Fitting) - An ROS implementation of "L-Shape Fitting-Based Vehicle Pose Estimation and Tracking Using 3D-LiDAR"
+- [morte2025/RANSAC-L-Shape-Fitting](https://github.com/morte2025/RANSAC-L-Shape-Fitting) - An ROS implementation of "L-Shape Fitting-Based Vehicle Pose Estimation and Tracking Using 3D-LiDAR"
 - [liu115/mesh2color_voxel](https://github.com/liu115/mesh2color_voxel) - This is a tool for voxelizing ply mesh with color informations.
 - [zjuluolun/BVMatch](https://github.com/zjuluolun/BVMatch) - Lidar-based Place Recognition Using Bird's-eye View Images
 - [zjuluolun/KITTI_LiDAR_Process](https://github.com/zjuluolun/KITTI_LiDAR_Process) - Divide the LiDAR data of KITTI into 64 beams
@@ -1120,7 +1120,7 @@
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
-- [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
+- [morte2025/L-shape-fitting-3D-LiDAR-ROS](https://github.com/morte2025/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
 - [linyliny/curb_detection](https://github.com/linyliny/curb_detection) - based on the paper A real-time curb detection and tracking method for UGVs by using a 3D-LIDAR sensor
 - [FloatingObjectSegmentation/CppRBNN](https://github.com/FloatingObjectSegmentation/CppRBNN) - 
@@ -2052,6 +2052,7 @@
 
 ## Python 
 
+- [vukasin-stanojevic/BoostTrack](https://github.com/vukasin-stanojevic/BoostTrack) - 
 - [shiyi-mu/StereoDETR-OPEN](https://github.com/shiyi-mu/StereoDETR-OPEN) - StereoDETR Open Source Version
 - [chreisinger/ViLGOD](https://github.com/chreisinger/ViLGOD) - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
 - [nttcom/WASB-SBDT](https://github.com/nttcom/WASB-SBDT) - [BMVC2023] Widely Applicable Strong Baseline for Sports Ball Detection and Tracking
