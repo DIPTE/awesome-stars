@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -266,6 +267,20 @@
 - [lijx10/SO-Net](https://github.com/lijx10/SO-Net) - SO-Net: Self-Organizing Network for Point Cloud Analysis, CVPR2018
 - [PyMesh/PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
+
+## agent 
+
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 
 ## ai 
 
@@ -686,7 +701,7 @@
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [Haiyang-W/UniTR](https://github.com/Haiyang-W/UniTR) - [ICCV2023] Official Implementation of "UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation"
 - [mkang315/RCS-YOLO](https://github.com/mkang315/RCS-YOLO) - [MICCAI'23] Official implementation of "RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection".
-- [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense™ SDK
+- [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 - [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
@@ -1662,7 +1677,7 @@
 - [csiro-robotics/raycloudtools](https://github.com/csiro-robotics/raycloudtools) - Command line tools for processing ray clouds, together with an associated C++ library. Ray clouds are point clouds with sensor location included per point.
 - [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
 - [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
-- [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense™ SDK
+- [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
@@ -2191,6 +2206,7 @@
 
 ## others 
 
+- [vukasin-stanojevic/BoostTrack](https://github.com/vukasin-stanojevic/BoostTrack) - 
 - [shiyi-mu/StereoDETR-OPEN](https://github.com/shiyi-mu/StereoDETR-OPEN) - StereoDETR Open Source Version
 - [chreisinger/ViLGOD](https://github.com/chreisinger/ViLGOD) - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
 - [nttcom/WASB-SBDT](https://github.com/nttcom/WASB-SBDT) - [BMVC2023] Widely Applicable Strong Baseline for Sports Ball Detection and Tracking
@@ -2269,7 +2285,6 @@
 - [robertzhangwenjie/gitbook2pdf](https://github.com/robertzhangwenjie/gitbook2pdf) - gitbook2pdf
 - [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 - [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer) - Recover damaged/unfinished mp4 files with h264 video
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
 - [silencht/SG-SLAM](https://github.com/silencht/SG-SLAM) - SG-SLAM: A Real-Time RGB-D Visual SLAM toward Dynamic Scenes with Semantic and Geometric Information
 - [chengwei0427/Adaptive-LIO](https://github.com/chengwei0427/Adaptive-LIO) - [JIOT 2024] Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry
@@ -3159,7 +3174,7 @@
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
 - [CGuangyan-BIT/PointGPT](https://github.com/CGuangyan-BIT/PointGPT) - [NeurIPS 2023] PointGPT: Auto-regressively Generative Pre-training from Point Clouds
 - [haochengxi/Train_Transformers_with_INT4](https://github.com/haochengxi/Train_Transformers_with_INT4) - 
-- [HMX2013/FCC-ROS](https://github.com/HMX2013/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
+- [morte2025/FCC-ROS](https://github.com/morte2025/FCC-ROS) - A ROS implementation of "Real-Time Fast Channel Clustering for LiDAR Point Cloud"
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [ChuRuaNh0/FastSam_Awsome_TensorRT](https://github.com/ChuRuaNh0/FastSam_Awsome_TensorRT) - 
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
@@ -3307,12 +3322,12 @@
 - [dvlab-research/VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
 - [url-kaist/Ground-Segmentation-Benchmark](https://github.com/url-kaist/Ground-Segmentation-Benchmark) - Ground segmentation benchmark in SemanticKITTI dataset
 - [cavayangtao/lidar_clustering_bench](https://github.com/cavayangtao/lidar_clustering_bench) - LiPC: LiDAR Point Cloud Clustering Benchmark Suite
-- [HMX2013/CVC-ROS](https://github.com/HMX2013/CVC-ROS) - An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance"
-- [HMX2013/FSPC-ROS](https://github.com/HMX2013/FSPC-ROS) - A ROS implementation of range image base dbscan clustering for 3D LiDAR point clouds
-- [HMX2013/CH-MOA-ROS](https://github.com/HMX2013/CH-MOA-ROS) - A ROS implementation of "An Efficient Convex Hull-Based Vehicle Pose Estimation Method for 3D LiDAR"
+- [morte2025/CVC-ROS](https://github.com/morte2025/CVC-ROS) - An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance"
+- [morte2025/FSPC-ROS](https://github.com/morte2025/FSPC-ROS) - A ROS implementation of range image base dbscan clustering for 3D LiDAR point clouds
+- [morte2025/CH-MOA-ROS](https://github.com/morte2025/CH-MOA-ROS) - A ROS implementation of "An Efficient Convex Hull-Based Vehicle Pose Estimation Method for 3D LiDAR"
 - [sunjingnjupt/PE-CHL-v2](https://github.com/sunjingnjupt/PE-CHL-v2) - A Fast and Precise Contour-Based Heuristic Vehicle Pose Estimation with LIDAR
 - [sunjingnjupt/PE-HL-PF](https://github.com/sunjingnjupt/PE-HL-PF) - Dynamic Vehicular Pose Estimation with Heuristic L-Shape Fitting and Grid-based Particle Filter
-- [HMX2013/RANSAC-L-Shape-Fitting](https://github.com/HMX2013/RANSAC-L-Shape-Fitting) - An ROS implementation of "L-Shape Fitting-Based Vehicle Pose Estimation and Tracking Using 3D-LiDAR"
+- [morte2025/RANSAC-L-Shape-Fitting](https://github.com/morte2025/RANSAC-L-Shape-Fitting) - An ROS implementation of "L-Shape Fitting-Based Vehicle Pose Estimation and Tracking Using 3D-LiDAR"
 - [exiawsh/StreamPETR](https://github.com/exiawsh/StreamPETR) - [ICCV 2023] StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection
 - [gaopengcuhk/Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) - 
 - [jediofgever/PointNet_Custom_Object_Detection](https://github.com/jediofgever/PointNet_Custom_Object_Detection) - A project that show cases, train and testing of PointNet with custom objects/datasets
@@ -4218,7 +4233,7 @@
 - [RUSH-LAB/SLIDE](https://github.com/RUSH-LAB/SLIDE) - 
 - [k0suke-murakami/kitti_pretrained_point_pillars](https://github.com/k0suke-murakami/kitti_pretrained_point_pillars) - 
 - [MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook) - 《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版
-- [HMX2013/L-shape-fitting-3D-LiDAR-ROS](https://github.com/HMX2013/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
+- [morte2025/L-shape-fitting-3D-LiDAR-ROS](https://github.com/morte2025/L-shape-fitting-3D-LiDAR-ROS) - An ROS implementation of "Efficient L-Shape Fitting for Vehicle Detection Using Laser Scanners"
 - [SohaibAl-emara/3D_Lidar_Curb_Detection](https://github.com/SohaibAl-emara/3D_Lidar_Curb_Detection) - 
 - [linyliny/curb_detection](https://github.com/linyliny/curb_detection) - based on the paper A real-time curb detection and tracking method for UGVs by using a 3D-LIDAR sensor
 - [FloatingObjectSegmentation/CppRBNN](https://github.com/FloatingObjectSegmentation/CppRBNN) - 
