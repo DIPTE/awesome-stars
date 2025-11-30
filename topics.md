@@ -3133,7 +3133,7 @@
 - [LiWentomng/Point2Mask](https://github.com/LiWentomng/Point2Mask) - The code for "Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport", ICCV2023
 - [V-DETR/V-DETR](https://github.com/V-DETR/V-DETR) - [ICLR 2024] This is the official code of the paper "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection"
 - [Mr-Neko/JM3D](https://github.com/Mr-Neko/JM3D) - The offical implemention of JM3D.
-- [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) - Official PyTorch implementation of FocalFormer3D [ICCV 2023]
+- [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) - [ICCV 2023] Official PyTorch implementation of FocalFormer3D
 - [tiangexiang/OccNeRF](https://github.com/tiangexiang/OccNeRF) - [ICCV 2023] Rendering Humans from Object-Occluded Monocular Videos
 - [BedRockJie/rockchip-rga-sample](https://github.com/BedRockJie/rockchip-rga-sample) - 使用Rockchip-RGA硬件加速实现图像处理的小例子
 - [jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System](https://github.com/jjw-DL/An-All-Terrain-Visual-Positioning-and-Landing-System-for-UAV-Based-on-ROS-System) - 一种基于ROS系统的无人机全地形视觉定位着陆系统
