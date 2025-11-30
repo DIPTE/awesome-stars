@@ -2655,7 +2655,7 @@
 - [mkang315/RCS-YOLO](https://github.com/mkang315/RCS-YOLO) - [MICCAI'23] Official implementation of "RCS-YOLO: A Fast and High-Accuracy Object Detector for Brain Tumor Detection".
 - [V-DETR/V-DETR](https://github.com/V-DETR/V-DETR) - [ICLR 2024] This is the official code of the paper "V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection"
 - [Mr-Neko/JM3D](https://github.com/Mr-Neko/JM3D) - The offical implemention of JM3D.
-- [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) - Official PyTorch implementation of FocalFormer3D [ICCV 2023]
+- [NVlabs/FocalFormer3D](https://github.com/NVlabs/FocalFormer3D) - [ICCV 2023] Official PyTorch implementation of FocalFormer3D
 - [tiangexiang/OccNeRF](https://github.com/tiangexiang/OccNeRF) - [ICCV 2023] Rendering Humans from Object-Occluded Monocular Videos
 - [tusen-ai/MV2D](https://github.com/tusen-ai/MV2D) - Code for "Object as Query: Lifting any 2D Object Detector to 3D Detection"
 - [Xiao-Hu-Z/pointpillars_int8](https://github.com/Xiao-Hu-Z/pointpillars_int8) - 
