@@ -1892,7 +1892,6 @@
 - [colorfulfuture/GC-VRNN](https://github.com/colorfulfuture/GC-VRNN) - 
 - [MediaBrain-SJTU/TBP-Former](https://github.com/MediaBrain-SJTU/TBP-Former) - 
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
-- [yokinglou/CRIN](https://github.com/yokinglou/CRIN) - The repo of AAAI-23 paper: "CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame".
 - [weakmono3d/weakmono3d](https://github.com/weakmono3d/weakmono3d) - 
 - [teddyluo/motion-planning-chs](https://github.com/teddyluo/motion-planning-chs) - 运动规划综述中文翻译
 - [jialeli1/lidarperception3d](https://github.com/jialeli1/lidarperception3d) - A generic repository for LiDAR 3D perception in autonomous driving scenarios such as segmentation, detection, etc. Also the official implementation of ECCV2022 paper (Self-Distillation for Robust LiDA
