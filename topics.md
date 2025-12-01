@@ -3354,7 +3354,6 @@
 - [zjuluolun/KITTI_LiDAR_Process](https://github.com/zjuluolun/KITTI_LiDAR_Process) - Divide the LiDAR data of KITTI into 64 beams
 - [zjuluolun/pointCloudLibrviz](https://github.com/zjuluolun/pointCloudLibrviz) - 使用Qt+librviz+ros设计点云显示界面
 - [ehaleva/RIQ](https://github.com/ehaleva/RIQ) - Rotation-Invariant Quantization
-- [yokinglou/CRIN](https://github.com/yokinglou/CRIN) - The repo of AAAI-23 paper: "CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame".
 - [zjuluolun/BEVPlace2](https://github.com/zjuluolun/BEVPlace2) - [TRO2025] A LiDAR-based complete global localization method.
 - [dingxin-zhang/PaRot](https://github.com/dingxin-zhang/PaRot) - [AAAI 2023] PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration
 - [richardrl/bandu_v1_full_clean](https://github.com/richardrl/bandu_v1_full_clean) - Codebase for ICRA 2022 paper "Stable Object Reorientation using Contact Plane Registration"
