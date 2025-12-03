@@ -564,7 +564,6 @@
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
 - [jfu222/h264_video_decoder_demo](https://github.com/jfu222/h264_video_decoder_demo) - H264裸码流视频解码器
-- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT 
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
 - [Lwhyz/workspace](https://github.com/Lwhyz/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
@@ -2445,6 +2444,7 @@
 - [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - [CVPR 2024] 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - [ECCV 2024] Officially implement of the paper "DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model".
 - [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT 
 - [tangtaogo/lidar-nerf](https://github.com/tangtaogo/lidar-nerf) - LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
 - [MissiaL/hikvision-client](https://github.com/MissiaL/hikvision-client) - Client for Hikvision devices
 - [wayveai/Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs) - PyTorch implementation for the paper "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving"
