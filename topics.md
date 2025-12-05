@@ -139,6 +139,7 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -3866,7 +3867,7 @@
 - [lijx10/PCLKeypoints](https://github.com/lijx10/PCLKeypoints) - Python wrapper for some point cloud keypoint detectors of PCL, including ISS, Harris3D, SIFT3D
 - [libuvc/libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices
 - [pupil-labs/libuvc](https://github.com/pupil-labs/libuvc) - a cross-platform library for USB video devices
-- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Python-based Visual SLAM pipeline that supports monocular, stereo, and RGB-D cameras. It offers a wide range of modern local and global features, multiple loop-closing strategies, a volume
+- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strateg
 - [naibaf7/libdnn](https://github.com/naibaf7/libdnn) - Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL
 - [d4rkc0d3r/CompactSparseTextureDemo](https://github.com/d4rkc0d3r/CompactSparseTextureDemo) - Small demo project showing how to compact sparse textures on GPUs efficiently in unity.
 - [Kin-Zhang/mmfn](https://github.com/Kin-Zhang/mmfn) - [IROS'22] MMFN: Multi-Modal Fusion Net for End-to-End Autonomous Driving
@@ -5662,6 +5663,12 @@
 ## r 
 
 - [r-lidar/lidR](https://github.com/r-lidar/lidR) - Airborne LiDAR data manipulation and visualisation for forestry application
+
+## rag 
+
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 
 ## raspberry-pi 
 
