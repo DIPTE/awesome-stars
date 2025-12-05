@@ -88,7 +88,6 @@
 
 - [MaJerle/stm32-usart-uart-dma-rx-tx](https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx) - STM32 examples for USART using DMA for efficient RX and TX transmission
 - [NingZiXi/battery_monitor](https://github.com/NingZiXi/battery_monitor) - battery_monitor 是一个用于监测电池电量和电压的模块，基于 ESP-IDF 的 ADC（模数转换器）功能。该模块通过测量电池电压，计算出电池的剩余电量百分比，并提供了相应的 API 接口。
-- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
 - [airockchip/rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
 - [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -152,6 +151,7 @@
 - [rockchip-linux/mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
 - [littlebearsama/xxCu3Dlibrary](https://github.com/littlebearsama/xxCu3Dlibrary) - cuda 加速3D点云算法库，持续更新（含cudaicp，glfw点云可视化等）
 - [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
+- [jmcglad/socketcan-demo](https://github.com/jmcglad/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
 - [HongleiHuang-amd/LinuxCanbusTool](https://github.com/HongleiHuang-amd/LinuxCanbusTool) - A comprehensive Linux CAN bus tool with DBC file parsing, CAN message transceiver, data recording and database storage capabilities.
 - [terence-deng/mt7601u](https://github.com/terence-deng/mt7601u) - Ralink Wireless Adapter Driver
 - [Anthony96922/mt7601u-ap](https://github.com/Anthony96922/mt7601u-ap) - AP driver for MT7601U dongles
@@ -805,7 +805,6 @@
 - [gbosiger/cansocket-qt-lib](https://github.com/gbosiger/cansocket-qt-lib) - SocketCAN for Qt
 - [siposcsaba89/socketcan-cpp](https://github.com/siposcsaba89/socketcan-cpp) - Simple c++ interface to read/write can sockets
 - [autowarefoundation/ros2_socketcan](https://github.com/autowarefoundation/ros2_socketcan) - A ROS2 wrapper around Linux SocketCAN
-- [jmcglad/socketcan-demo](https://github.com/jmcglad/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
 - [mwkpe/cantools](https://github.com/mwkpe/cantools) - A collection of CLI tools for the CAN bus network
 - [zhuyanliang/GlobelCanTools](https://github.com/zhuyanliang/GlobelCanTools) - CAN通信的监视测试软件
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
@@ -1581,7 +1580,7 @@
 - [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
 - [atonderski/lidarclip](https://github.com/atonderski/lidarclip) - Bridging lidar and text through image intermediaries
 - [qq456cvb/CPPF](https://github.com/qq456cvb/CPPF) - CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild (CVPR2022)
-- [mindspore-courses/d2l-mindspore](https://github.com/mindspore-courses/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
+- [mindspore-lab/d2l-mindspore](https://github.com/mindspore-lab/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [xmba15/obstacle_detection_stixelnet](https://github.com/xmba15/obstacle_detection_stixelnet) - stixelnet for obstacle region detection of road scenes
 - [AlbinZhu/yolov7-polygon-detection](https://github.com/AlbinZhu/yolov7-polygon-detection) - yolov7-polygon-detection
 - [NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes) - 
@@ -2124,6 +2123,7 @@
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything [ICCV 2025]
 - [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - [ICCV 2025] From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
 - [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - [CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 - [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - [CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -3081,7 +3081,7 @@
 - [VNOpenAI/pushup-counter-app](https://github.com/VNOpenAI/pushup-counter-app) - Count pushups from video/webcam. Tech stack: Keypoint detection, BlazePose, action recognition.
 - [sbis04/blazepose-oak](https://github.com/sbis04/blazepose-oak) - OAK Blazepose
 - [vincentfung13/MINE](https://github.com/vincentfung13/MINE) - Code and models for our ICCV 2021 paper "MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis"
-- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Python-based Visual SLAM pipeline that supports monocular, stereo, and RGB-D cameras. It offers a wide range of modern local and global features, multiple loop-closing strategies, a volume
+- [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strateg
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
 - [Kin-Zhang/mmfn](https://github.com/Kin-Zhang/mmfn) - [IROS'22] MMFN: Multi-Modal Fusion Net for End-to-End Autonomous Driving
 - [Bosszhe/PITF](https://github.com/Bosszhe/PITF) - TransFuser with PointPillar
@@ -3989,7 +3989,7 @@
 - [corochann/chainer-pointnet](https://github.com/corochann/chainer-pointnet) - Chainer implementation of PointNet, PointNet++, KD-Network and 3DContextNework
 - [umyta/A-SCN](https://github.com/umyta/A-SCN) - Attentional ShapeContextNet for Point Cloud Recognition
 - [leondelee/PointGCN](https://github.com/leondelee/PointGCN) - 
-- [KuangenZhang/ldgcnn](https://github.com/KuangenZhang/ldgcnn) - Linked Dynamic Graph CNN: Learning through Point Cloud by Linking Hierarchical Features
+- [kevinke-zhang/ldgcnn](https://github.com/kevinke-zhang/ldgcnn) - Linked Dynamic Graph CNN: Learning through Point Cloud by Linking Hierarchical Features
 - [tegusi/RGCNN](https://github.com/tegusi/RGCNN) - Regularized Graph CNN for Point Cloud Segmentation
 - [YiruS/KCNet](https://github.com/YiruS/KCNet) - Code for "Mining Point Cloud Local Structures by Kernel Correlation and Graph Max Pooling", CVPR, 2018.
 - [yassersouri/pytorch-deep-sets](https://github.com/yassersouri/pytorch-deep-sets) - PyTorch re-implementation of parts of "Deep Sets" (NIPS 2017)
