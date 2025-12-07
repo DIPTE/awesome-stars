@@ -2061,7 +2061,7 @@
 - [nvidia-isaac/pyCuSFM](https://github.com/nvidia-isaac/pyCuSFM) - Python wrapper for the NVIDIA cuSFM library
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
-- [worldbench/lidarcrafter](https://github.com/worldbench/lidarcrafter) - [AAAI 2026 Oral] LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences
+- [worldbench/LiDARCrafter](https://github.com/worldbench/LiDARCrafter) - [AAAI 2026 Oral] LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences
 - [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
 - [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
@@ -2265,7 +2265,7 @@
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - CIFAR-10 speedruns: 94% in 2.6 seconds and 96% in 27 seconds
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - [TIP 2025] FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
 - [AIR-THU/DAIR-RCooper](https://github.com/AIR-THU/DAIR-RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [explosion5/Dolphins](https://github.com/explosion5/Dolphins) - Main code of Dolphins dataset
@@ -2752,7 +2752,7 @@
 - [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
 - [MingyeXu/cp3](https://github.com/MingyeXu/cp3) - CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm
 - [fishros/install](https://github.com/fishros/install) - 一键安装程序，欢迎大家提交代码和小鱼一起一键安装停止浪费生命
-- [worldbench/robo3d](https://github.com/worldbench/robo3d) - [ICCV 2023] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions
+- [worldbench/Robo3D](https://github.com/worldbench/Robo3D) - [ICCV 2023] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions
 - [xyjbaal/FPCC](https://github.com/xyjbaal/FPCC) - 
 - [BIT-MJY/SeqOT](https://github.com/BIT-MJY/SeqOT) - [TIE 2022] SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data.
 - [PRBonn/OverlapNet](https://github.com/PRBonn/OverlapNet) - OverlapNet - Loop Closing for 3D LiDAR-based SLAM (chen2020rss)
@@ -3140,7 +3140,7 @@
 - [nachiket92/P2T](https://github.com/nachiket92/P2T) - Code for "Trajectory Forecasts in Unknown Environments Conditioned on Grid-Based Plans" https://arxiv.org/abs/2001.00735
 - [Khrylx/AgentFormer](https://github.com/Khrylx/AgentFormer) - [ICCV 2021] Official PyTorch Implementation of "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting".
 - [ldkong1205/PointCloud-C](https://github.com/ldkong1205/PointCloud-C) - Benchmarking and Analyzing Point Cloud Perception Robustness under Corruptions
-- [ldkong1205/LaserMix](https://github.com/ldkong1205/LaserMix) - [CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
+- [worldbench/LaserMix](https://github.com/worldbench/LaserMix) - [CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
 - [cardwing/Codes-for-PVKD](https://github.com/cardwing/Codes-for-PVKD) - Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation (CVPR 2022)
 - [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - [ECCV 2022] Learning Ego 3D Representation as Ray Tracing
 - [fudan-zvg/DeepInteraction](https://github.com/fudan-zvg/DeepInteraction) - [NeurIPS 2022 & TPAMI 2025] DeepInteraction: 3D Object Detection via Modality Interaction
@@ -4102,7 +4102,7 @@
 - [calmiLovesAI/Basic_CNNs_TensorFlow2](https://github.com/calmiLovesAI/Basic_CNNs_TensorFlow2) - A tensorflow2 implementation of some basic CNNs(MobileNetV1/V2/V3, EfficientNet, ResNeXt, InceptionV4, InceptionResNetV1/V2, SENet, SqueezeNet, DenseNet, ShuffleNetV2, ResNet).
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [HuguesTHOMAS/KPConv](https://github.com/HuguesTHOMAS/KPConv) - Kernel Point Convolutions
-- [Diego999/pyGAT](https://github.com/Diego999/pyGAT) - Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)
+- [diegoantognini/pyGAT](https://github.com/diegoantognini/pyGAT) - Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)
 - [PetarV-/GAT](https://github.com/PetarV-/GAT) - Graph Attention Networks (https://arxiv.org/abs/1710.10903)
 - [yulequan/PU-Net](https://github.com/yulequan/PU-Net) - PU-Net: Point Cloud Upsampling Network, CVPR, 2018 (https://arxiv.org/abs/1801.06761)
 - [yanx27/GACNet](https://github.com/yanx27/GACNet) - Pytorch implementation of 'Graph Attention Convolution for Point Cloud Segmentation'
