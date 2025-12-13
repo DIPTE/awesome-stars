@@ -86,6 +86,7 @@
 
 ## C 
 
+- [NVlabs/DeepIM-PyTorch](https://github.com/NVlabs/DeepIM-PyTorch) - PyTorch implementation of the DeepIM framework
 - [MaJerle/stm32-usart-uart-dma-rx-tx](https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx) - STM32 examples for USART using DMA for efficient RX and TX transmission
 - [NingZiXi/battery_monitor](https://github.com/NingZiXi/battery_monitor) - battery_monitor 是一个用于监测电池电量和电压的模块，基于 ESP-IDF 的 ADC（模数转换器）功能。该模块通过测量电池电压，计算出电池的剩余电量百分比，并提供了相应的 API 接口。
 - [airockchip/rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
@@ -250,6 +251,7 @@
 
 ## C++ 
 
+- [aelmiger/LINE-MOD-Pipeline](https://github.com/aelmiger/LINE-MOD-Pipeline) - Pipeline to detect the 3D pose of known objects. It builds upon the opencv implementation of the LINE-MOD algorithm.
 - [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
 - [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
@@ -1114,7 +1116,6 @@
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
-- [IntelLabs/SLIDE_opt_ia](https://github.com/IntelLabs/SLIDE_opt_ia) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
 - [hpc203/yolov6-opencv-onnxruntime](https://github.com/hpc203/yolov6-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOV6目标检测，包含C++和Python两个版本的程序
@@ -1593,7 +1594,6 @@
 - [Chinmayrane16/ReconNet-PyTorch](https://github.com/Chinmayrane16/ReconNet-PyTorch) - A non-iterative algorithm to reconstruct images from compressively sensed measurements.
 - [open-mmlab/OpenMMLabCourse](https://github.com/open-mmlab/OpenMMLabCourse) - OpenMMLab course index and stuff
 - [Xilinx/BNN-PYNQ](https://github.com/Xilinx/BNN-PYNQ) - Quantized Neural Networks (QNNs) on PYNQ
-- [IntelLabs/distiller](https://github.com/IntelLabs/distiller) - Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://intellabs.github.io/distiller
 - [miracleyoo/pytorch-lightning-template](https://github.com/miracleyoo/pytorch-lightning-template) - An easy/swift-to-adapt PyTorch-Lighting template. 套壳模板，简单易用，稍改原来Pytorch代码，即可适配Lightning。You can translate your previous Pytorch code much easier using this template, and keep your freedom to edit all 
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
@@ -2050,6 +2050,13 @@
 
 ## Python 
 
+- [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch) - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)
+- [ylabbe/cosypose](https://github.com/ylabbe/cosypose) - Code for "CosyPose: Consistent multi-view multi-object 6D pose estimation", ECCV 2020.
+- [ethnhe/FFB6D](https://github.com/ethnhe/FFB6D) - [CVPR2021 Oral] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation.
+- [chensong1995/HybridPose](https://github.com/chensong1995/HybridPose) - HybridPose: 6D Object Pose Estimation under Hybrid Representation (CVPR 2020)
+- [shahyash10/DPOD](https://github.com/shahyash10/DPOD) - DPOD: 6D Pose Estimator
+- [NVlabs/FoundationPose](https://github.com/NVlabs/FoundationPose) - [CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects
+- [liuyuan-pal/Gen6D](https://github.com/liuyuan-pal/Gen6D) - [ECCV2022] Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images
 - [vukasin-stanojevic/BoostTrack](https://github.com/vukasin-stanojevic/BoostTrack) - 
 - [shiyi-mu/StereoDETR-OPEN](https://github.com/shiyi-mu/StereoDETR-OPEN) - StereoDETR Open Source Version
 - [chreisinger/ViLGOD](https://github.com/chreisinger/ViLGOD) - Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection
