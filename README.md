@@ -2085,7 +2085,7 @@
 - [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
 - [prs-eth/ForAINet](https://github.com/prs-eth/ForAINet) - official source code for paper entitled "Automated forest inventory: analysis of high-density airborne LiDAR point clouds with 3D deep learning"
-- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - X-SAM: From Segment Anything to Any Segmentation (AAAI2026)
+- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - [AAAI2026] X-SAM: From Segment Anything to Any Segmentation
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [linkangheng/PR1](https://github.com/linkangheng/PR1) - [NeurIPS 2025] Official code implementation of Perception R1: Pioneering Perception Policy with Reinforcement Learning
 - [niki-amini-naieni/CountVid](https://github.com/niki-amini-naieni/CountVid) - Includes the VideoCount dataset and CountVid code for the paper Open-World Object Counting in Videos.
