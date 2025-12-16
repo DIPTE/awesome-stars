@@ -2269,7 +2269,7 @@
 - [ADrownFish/RoboticUserInterface](https://github.com/ADrownFish/RoboticUserInterface) - Qt自定义机器人上位机软件，内置默认插件或自定义插件。多种通信方式（TCP/UDP/蓝牙/串口）和协议解析方案（插件/蓝牙/浮点数/Json/Csv）。具备大数据量并行可视化曲线、串口调试、原始数据流、Urdf模型加载及椭球拟合。Qt custom robot host software, built-in default plug-ins or custom plug-ins. TCP/UDP/
 - [prs-eth/ForAINet](https://github.com/prs-eth/ForAINet) - official source code for paper entitled "Automated forest inventory: analysis of high-density airborne LiDAR point clouds with 3D deep learning"
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
-- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - X-SAM: From Segment Anything to Any Segmentation (AAAI2026)
+- [wanghao9610/X-SAM](https://github.com/wanghao9610/X-SAM) - [AAAI2026] X-SAM: From Segment Anything to Any Segmentation
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [linkangheng/PR1](https://github.com/linkangheng/PR1) - [NeurIPS 2025] Official code implementation of Perception R1: Pioneering Perception Policy with Reinforcement Learning
 - [niki-amini-naieni/CountVid](https://github.com/niki-amini-naieni/CountVid) - Includes the VideoCount dataset and CountVid code for the paper Open-World Object Counting in Videos.
