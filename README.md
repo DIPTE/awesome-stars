@@ -2364,7 +2364,6 @@
 - [ApolloAuto/apollo-model-radar4d](https://github.com/ApolloAuto/apollo-model-radar4d) - 
 - [tusen-ai/RangeDet](https://github.com/tusen-ai/RangeDet) - Paper and Codes for “RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection” (ICCV2021)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [MarkFzp/act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN
