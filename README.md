@@ -4108,7 +4108,7 @@
 - [bmsookim/graph-cnn.pytorch](https://github.com/bmsookim/graph-cnn.pytorch) - Pytorch Implementation for Graph Convolutional Neural Networks
 - [BichenWuUCB/SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg) - Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation
 - [xucao-42/pointnet_re](https://github.com/xucao-42/pointnet_re) - A tensorflow  re-implementation of pointnet.
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [dwkegu/pyCharmProject](https://github.com/dwkegu/pyCharmProject) - 
 - [sunluchang/ImageFace](https://github.com/sunluchang/ImageFace) - 图像处理大作业小作业
 - [filipradenovic/cnnimageretrieval-pytorch](https://github.com/filipradenovic/cnnimageretrieval-pytorch) - CNN Image Retrieval in PyTorch: Training and evaluating CNNs for Image Retrieval in PyTorch
