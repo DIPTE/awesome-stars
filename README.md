@@ -2055,6 +2055,7 @@
 
 ## Python 
 
+- [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
 - [mihajlov39547/RT-DETR-Seg](https://github.com/mihajlov39547/RT-DETR-Seg) - Real-Time Detection Transformer with Segmentation
 - [AutoLab-SAI-SJTU/AutoSeg3D](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D) - [NeurIPS 2025] AutoSeg3D, online real-time 3D segmentation as instance tracking with long-short term query memory for embodied perception
 - [Zency-Sun/YOLO-Deploy-QT_Interface](https://github.com/Zency-Sun/YOLO-Deploy-QT_Interface) - Visual QT interface for deploying YOLOv5 and YOLOv8
