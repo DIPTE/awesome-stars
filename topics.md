@@ -2239,6 +2239,7 @@
 
 ## others 
 
+- [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
 - [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
