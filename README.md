@@ -251,6 +251,7 @@
 
 ## C++ 
 
+- [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
 - [aelmiger/LINE-MOD-Pipeline](https://github.com/aelmiger/LINE-MOD-Pipeline) - Pipeline to detect the 3D pose of known objects. It builds upon the opencv implementation of the LINE-MOD algorithm.
 - [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
 - [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
@@ -1782,6 +1783,7 @@
 
 ## Others 
 
+- [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
 - [Active-SLAM/Active-SLAM-Paper-List](https://github.com/Active-SLAM/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash) - MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
@@ -2055,6 +2057,7 @@
 
 ## Python 
 
+- [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
 - [mihajlov39547/RT-DETR-Seg](https://github.com/mihajlov39547/RT-DETR-Seg) - Real-Time Detection Transformer with Segmentation
 - [AutoLab-SAI-SJTU/AutoSeg3D](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D) - [NeurIPS 2025] AutoSeg3D, online real-time 3D segmentation as instance tracking with long-short term query memory for embodied perception
