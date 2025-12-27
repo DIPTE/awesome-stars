@@ -2304,7 +2304,7 @@
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [klightz/PSF](https://github.com/klightz/PSF) - Official Implementation for Fast Point Cloud Generation with Straight Flows
-- [chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)
+- [chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交软件)
 - [jetteezhou/PhysVLM](https://github.com/jetteezhou/PhysVLM) - PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
 - [APRIL-ZJU/Gaussian-LIC](https://github.com/APRIL-ZJU/Gaussian-LIC) - [ICRA 2025] Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion
 - [henry123-boy/SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2) - [ICCV 2025] SpatialTrackerV2: 3D Point Tracking Made Easy
@@ -3531,7 +3531,6 @@
 - [MUZLATAN/ffmpeg_rtsp_mpp](https://github.com/MUZLATAN/ffmpeg_rtsp_mpp) - ffmpeg 拉取rtsp h264流， 使用mpp解码， 目前在firefly 板子上跑通了
 - [WainDing/mpp_linux_cpp](https://github.com/WainDing/mpp_linux_cpp) - a demo shows that how to use rockchip mpp framework in linux
 - [NVlabs/SegFormer](https://github.com/NVlabs/SegFormer) - Official PyTorch implementation of SegFormer
-- [rockchip-linux/mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
 - [hufman/rockchip-linux-rga](https://github.com/hufman/rockchip-linux-rga) - Firefly/Rockchip RGA library mirror
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [poppin-mice/AAHLS_Final_PointPillars](https://github.com/poppin-mice/AAHLS_Final_PointPillars) - Repo for the AAHLS final of team 1 (PointPillars)
@@ -3877,7 +3876,7 @@
 - [amazon-science/tracking-dataset](https://github.com/amazon-science/tracking-dataset) - 
 - [BorealisAI/DT-Fixup](https://github.com/BorealisAI/DT-Fixup) - Optimizing Deeper Transformers on Small Datasets https://arxiv.org/abs/2012.15355
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
-- [renesas-rz/rzv_drp-ai_tvm](https://github.com/renesas-rz/rzv_drp-ai_tvm) - Extension package of Apache TVM (Machine Learning Compiler) for Renesas DRP-AI accelerators powered by Edgecortix MERA(TM) Based Apache TVM version: v0.11.1
+- [renesas-rz/rzv_drp-ai_tvm](https://github.com/renesas-rz/rzv_drp-ai_tvm) - RUHMI (Robust Unified Heterogeneous Model Integration) for RZ/V series is a framework for AI model optimization and deployment, powered by EdgeCortix® MERA.
 - [renesas-rz/meta-renesas-ai-demos](https://github.com/renesas-rz/meta-renesas-ai-demos) - This repository is EOL. Please use https://github.com/renesas-rz/meta-rz-edge-ai-demo instead.
 - [vLAR-group/UnsupObjSeg](https://github.com/vLAR-group/UnsupObjSeg) - 🔥Benchmarking Unsupervised Obj Seg (NeurIPS 2022 & IJCV 2024)
 - [dheera/rosboard](https://github.com/dheera/rosboard) - ROS node that turns your robot into a web server to visualize ROS topics
