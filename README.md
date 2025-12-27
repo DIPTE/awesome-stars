@@ -148,7 +148,6 @@
 - [zombieCraig/ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator
 - [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256K
 - [MUZLATAN/ffmpeg_rtsp_mpp](https://github.com/MUZLATAN/ffmpeg_rtsp_mpp) - ffmpeg 拉取rtsp h264流， 使用mpp解码， 目前在firefly 板子上跑通了
-- [rockchip-linux/mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
 - [littlebearsama/xxCu3Dlibrary](https://github.com/littlebearsama/xxCu3Dlibrary) - cuda 加速3D点云算法库，持续更新（含cudaicp，glfw点云可视化等）
 - [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
 - [jmcglad/socketcan-demo](https://github.com/jmcglad/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
@@ -261,7 +260,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ADrownFish/RoboticUserInterface](https://github.com/ADrownFish/RoboticUserInterface) - Qt自定义机器人上位机软件，内置默认插件或自定义插件。多种通信方式（TCP/UDP/蓝牙/串口）和协议解析方案（插件/蓝牙/浮点数/Json/Csv）。具备大数据量并行可视化曲线、串口调试、原始数据流、Urdf模型加载及椭球拟合。Qt custom robot host software, built-in default plug-ins or custom plug-ins. TCP/UDP/
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-- [chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)
+- [chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交软件)
 - [APRIL-ZJU/Gaussian-LIC](https://github.com/APRIL-ZJU/Gaussian-LIC) - [ICRA 2025] Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [Laka-3DV/TurboReg](https://github.com/Laka-3DV/TurboReg) - [ICCV-2025] TurboReg: TurboClique for Robust and Efficient Point Cloud Registration
@@ -727,7 +726,6 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
 - [lxd-cumt/ABM-SpConv](https://github.com/lxd-cumt/ABM-SpConv) - 
-- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 - [eric612/MobileNet-YOLO](https://github.com/eric612/MobileNet-YOLO) - A caffe implementation of MobileNet-YOLO detection network
 - [Wulingtian/yolov5_caffe](https://github.com/Wulingtian/yolov5_caffe) - yolov5 onnx caffe
 - [ChenYingpeng/caffe-yolov3](https://github.com/ChenYingpeng/caffe-yolov3) - A real-time object detection framework of Yolov3/v4 based on caffe
@@ -916,7 +914,7 @@
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [hirakuni45/RX](https://github.com/hirakuni45/RX) - Renesas RX Microcontroller, C++ framework, Library, Sample
 - [Ascend/ascend-opencv](https://github.com/Ascend/ascend-opencv) - 
-- [renesas-rz/rzv_drp-ai_tvm](https://github.com/renesas-rz/rzv_drp-ai_tvm) - Extension package of Apache TVM (Machine Learning Compiler) for Renesas DRP-AI accelerators powered by Edgecortix MERA(TM) Based Apache TVM version: v0.11.1
+- [renesas-rz/rzv_drp-ai_tvm](https://github.com/renesas-rz/rzv_drp-ai_tvm) - RUHMI (Robust Unified Heterogeneous Model Integration) for RZ/V series is a framework for AI model optimization and deployment, powered by EdgeCortix® MERA.
 - [PRBonn/semantic_suma](https://github.com/PRBonn/semantic_suma) - SuMa++: Efficient LiDAR-based Semantic SLAM (Chen et al IROS 2019)
 - [jbehley/SuMa](https://github.com/jbehley/SuMa) - Surfel-based Mapping for 3d Laser Range Data (SuMa)
 - [ethz-asl/segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments
@@ -2846,6 +2844,7 @@
 - [rstrudel/segmenter](https://github.com/rstrudel/segmenter) - [ICCV2021] Official PyTorch implementation of Segmenter: Transformer for Semantic Segmentation
 - [placeforyiming/IROS21-FIDNet-SemanticKITTI](https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI) - An extremely simple, intuitive, hardware-friendly, and well-performing network structure for LiDAR semantic segmentation on 2D range image. IROS21
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+- [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 - [cqu20160901/yolov7_caffe_onnx_tensorRT_rknn_horizon](https://github.com/cqu20160901/yolov7_caffe_onnx_tensorRT_rknn_horizon) - yolov7 部署版本，后处理用python语言和C++语言形式进行改写，便于移植不同平台（caffe、onnx、tensorRT、RKNN、Horzion）。
 - [federicopozzi33/MobileOne-PyTorch](https://github.com/federicopozzi33/MobileOne-PyTorch) - A PyTorch implementation of MobileOne
 - [JierunChen/FasterNet](https://github.com/JierunChen/FasterNet) - [CVPR 2023] Code for PConv and FasterNet
