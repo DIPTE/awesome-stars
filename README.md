@@ -476,7 +476,7 @@
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
 - [spacewalk01/tensorrt-yolov9](https://github.com/spacewalk01/tensorrt-yolov9) - Cpp and python implementation of YOLOv9 using TensorRT API
 - [LinhanDai/yolov9-tensorrt](https://github.com/LinhanDai/yolov9-tensorrt) - YOLOv9 Tensorrt deployment acceleration，provide two implementation methods: C++and Python🔥🔥🔥
-- [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
+- [triple-mu/YOLOv8-TensorRT](https://github.com/triple-mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
 - [hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun](https://github.com/hpc203/Ultra-Fast-Lane-Detection-v2-opencv-onnxrun) - 分别使用OpenCV、ONNXRuntime部署Ultra-Fast-Lane-Detection-v2车道线检测，包含C++和Python两种版本的程序
 - [hpc203/nighttime_dehaze-onnxrun](https://github.com/hpc203/nighttime_dehaze-onnxrun) - 使用onnxruntime部署夜间雾霾图像的可见度增强，包含C++和Python两个版本的程序
 - [hpc203/Real-Time-Frame-Interpolation-onnxrun](https://github.com/hpc203/Real-Time-Frame-Interpolation-onnxrun) - 使用onnxruntime部署实时视频帧插值，包含C++和Python两个版本的程序
@@ -2382,7 +2382,7 @@
 - [charent/ChatLM-mini-Chinese](https://github.com/charent/ChatLM-mini-Chinese) - 中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。
 - [tech-shrimp/GithubActionSample](https://github.com/tech-shrimp/GithubActionSample) - GithubAction的使用样例，天气推送，薅羊毛，打卡签到
 - [tech-shrimp/FreeWechatPush](https://github.com/tech-shrimp/FreeWechatPush) - 使用免费的微信测试公众号，做微信推送，给女朋友推送天气，课程提醒。
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [krrish94/nerf-pytorch](https://github.com/krrish94/nerf-pytorch) - A PyTorch re-implementation of Neural Radiance Fields
 - [IrohXu/lanenet-lane-detection-pytorch](https://github.com/IrohXu/lanenet-lane-detection-pytorch) - Unofficial implemention of lanenet model for real time lane detection Pytorch Version
 - [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - State-of-the-art bilingual open-sourced Math reasoning LLMs.
@@ -3122,7 +3122,7 @@
 - [dingmyu/D4LCN](https://github.com/dingmyu/D4LCN) - A pytorch implementation of "D4LCN: Learning Depth-Guided Convolutions for Monocular 3D Object Detection" CVPR 2020
 - [Nicholasli1995/EgoNet](https://github.com/Nicholasli1995/EgoNet) - Official project website for the CVPR 2021 paper "Exploring intermediate representation for monocular vehicle pose estimation"
 - [sovrasov/3d-object-detection.pytorch](https://github.com/sovrasov/3d-object-detection.pytorch) - 
-- [axinc-ai/ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
+- [ailia-ai/ailia-models](https://github.com/ailia-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
 - [open-mmlab/mmeval](https://github.com/open-mmlab/mmeval) - A unified evaluation library for multiple machine learning libraries
 - [Xilinx/XilinxBoardStore](https://github.com/Xilinx/XilinxBoardStore) - 
 - [ming71/yolov3-polygon](https://github.com/ming71/yolov3-polygon) - Arbitrary-oriented object detection based on yolov3.
