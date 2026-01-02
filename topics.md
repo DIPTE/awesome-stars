@@ -2742,7 +2742,7 @@
 - [lhaof/nnMamba](https://github.com/lhaof/nnMamba) - 
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [AnythingInAnyScene/anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
-- [fudan-zvg/PARTNER](https://github.com/fudan-zvg/PARTNER) - [ICCV 2023] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
+- [fudan-zvg/PARTNER](https://github.com/fudan-zvg/PARTNER) - [ICCV 2023 & IJCV 2026] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
 - [biter0088/pc-nerf](https://github.com/biter0088/pc-nerf) - 
 - [HaydenYu/MM-Point](https://github.com/HaydenYu/MM-Point) - MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding (AAAI 2024)
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - [ECCV 2024] Tokenize Anything via Prompting
