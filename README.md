@@ -2119,7 +2119,6 @@
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) - 
 - [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
-- [Ching725/SmartLabeler](https://github.com/Ching725/SmartLabeler) - 
 - [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
 - [Yarroudh/Optim3D](https://github.com/Yarroudh/Optim3D) - Command-Line Interface (CLI) application for efficient and scalable generation of large-scale 3D building models.
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
