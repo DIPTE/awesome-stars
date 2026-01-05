@@ -207,7 +207,7 @@
 - [chrischoy/DeepGlobalRegistration](https://github.com/chrischoy/DeepGlobalRegistration) - [CVPR 2020 Oral] A differentiable framework for 3D registration
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [orbbec/OrbbecSDK_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
-- [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
+- [JIA-Lab-research/3D-Box-Segment-Anything](https://github.com/JIA-Lab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [Jumpat/SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs (NeurIPS 2023 & IJCV 2025)
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
 - [InternRobotics/PointLLM](https://github.com/InternRobotics/PointLLM) - [ECCV 2024 Best Paper Candidate & TPAMI 2025] PointLLM: Empowering Large Language Models to Understand Point Clouds
@@ -223,7 +223,7 @@
 - [threedle/text2mesh](https://github.com/threedle/text2mesh) - 3D mesh stylization driven by a text input in PyTorch
 - [ajhamdi/mvtorch](https://github.com/ajhamdi/mvtorch) - a Pytorch library for multi-view 3D understanding and generation
 - [Sense-GVT/Fast-BEV](https://github.com/Sense-GVT/Fast-BEV) - Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline
-- [dvlab-research/LargeKernel3D](https://github.com/dvlab-research/LargeKernel3D) - LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs (CVPR 2023)
+- [JIA-Lab-research/LargeKernel3D](https://github.com/JIA-Lab-research/LargeKernel3D) - LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs (CVPR 2023)
 - [Gorilla-Lab-SCUT/SSTNet](https://github.com/Gorilla-Lab-SCUT/SSTNet) - Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
@@ -1475,7 +1475,6 @@
 - [Water-Melon/Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP)
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [Lwhyz/workspace](https://github.com/Lwhyz/workspace) - workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。
-- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## frontend 
@@ -2988,6 +2987,7 @@
 - [VisualComputingInstitute/mots_tools](https://github.com/VisualComputingInstitute/mots_tools) - Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
 - [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - [ICLR2024] TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning
 - [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
+- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 - [onnx/optimizer](https://github.com/onnx/optimizer) - ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
@@ -3375,11 +3375,11 @@
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
 - [wzzheng/OpenOcc](https://github.com/wzzheng/OpenOcc) - Open Source 3D Occupancy Prediction Library.
 - [tianzhuotao/CAC](https://github.com/tianzhuotao/CAC) - 
-- [dvlab-research/Imbalanced-Learning](https://github.com/dvlab-research/Imbalanced-Learning) - Imbalanced learning tool for imbalanced recognition and segmentation
-- [dvlab-research/SparseTransformer](https://github.com/dvlab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
-- [dvlab-research/Stratified-Transformer](https://github.com/dvlab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
-- [dvlab-research/SphereFormer](https://github.com/dvlab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
-- [dvlab-research/VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
+- [JIA-Lab-research/Imbalanced-Learning](https://github.com/JIA-Lab-research/Imbalanced-Learning) - Imbalanced learning tool for imbalanced recognition and segmentation
+- [JIA-Lab-research/SparseTransformer](https://github.com/JIA-Lab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
+- [JIA-Lab-research/Stratified-Transformer](https://github.com/JIA-Lab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
+- [JIA-Lab-research/SphereFormer](https://github.com/JIA-Lab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
+- [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
 - [url-kaist/Ground-Segmentation-Benchmark](https://github.com/url-kaist/Ground-Segmentation-Benchmark) - Ground segmentation benchmark in SemanticKITTI dataset
 - [cavayangtao/lidar_clustering_bench](https://github.com/cavayangtao/lidar_clustering_bench) - LiPC: LiDAR Point Cloud Clustering Benchmark Suite
 - [morte2025/CVC-ROS](https://github.com/morte2025/CVC-ROS) - An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance"
@@ -3508,7 +3508,7 @@
 - [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
 - [martinruenz/co-fusion](https://github.com/martinruenz/co-fusion) - Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects
 - [StephLin/LIO-SEGMOT](https://github.com/StephLin/LIO-SEGMOT) - LiDAR-Inertial Odometry via Simultaneous Ego-motion Estimation and Multiple Object Tracking (ICRA 2023)
-- [dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
+- [JIA-Lab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/JIA-Lab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
 - [luanshiyinyang/awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) - Resources for Multiple Object Tracking (MOT)
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
 - [JudasDie/Comparison](https://github.com/JudasDie/Comparison) - Compare performances of algorithms on Objcet Tracking Benchmarks (SOT/MOT...)
@@ -3686,7 +3686,7 @@
 - [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) - 
 - [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Ouster, Inc. sample code
 - [salesforce/ULIP](https://github.com/salesforce/ULIP) - 
-- [dvlab-research/spconv-plus](https://github.com/dvlab-research/spconv-plus) - 
+- [JIA-Lab-research/spconv-plus](https://github.com/JIA-Lab-research/spconv-plus) - 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
@@ -4262,8 +4262,8 @@
 - [aleksandrkim61/PolarMOT](https://github.com/aleksandrkim61/PolarMOT) - Official code for "PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?" [ECCV 2022]
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - ONNX2Pytorch
 - [PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) - 3D Object Detection for Autonomous Driving: A Comprehensive Survey (IJCV 2023)
-- [dvlab-research/FocalsConv](https://github.com/dvlab-research/FocalsConv) - Focal Sparse Convolutional Networks for 3D Object Detection (CVPR 2022, Oral)
-- [dvlab-research/DeepVision3D](https://github.com/dvlab-research/DeepVision3D) - DeepVision3D is an open source toolbox for point-cloud understanding.
+- [JIA-Lab-research/FocalsConv](https://github.com/JIA-Lab-research/FocalsConv) - Focal Sparse Convolutional Networks for 3D Object Detection (CVPR 2022, Oral)
+- [JIA-Lab-research/DeepVision3D](https://github.com/JIA-Lab-research/DeepVision3D) - DeepVision3D is an open source toolbox for point-cloud understanding.
 - [open-mmlab/mim](https://github.com/open-mmlab/mim) - MIM Installs OpenMMLab Packages
 - [extreme-assistant/ECCV2022-Paper-Code-Interpretation](https://github.com/extreme-assistant/ECCV2022-Paper-Code-Interpretation) - ECCV2022 论文/代码/解读合集，极市团队整理
 - [zehuichen123/AutoAlignV2](https://github.com/zehuichen123/AutoAlignV2) - [ECCV2022, IJCAI2022] AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection
@@ -4946,7 +4946,7 @@
 - [mrezanejad/AOFSkeletons](https://github.com/mrezanejad/AOFSkeletons) - 2-D Medial Axis (Matlab Code Implementation of 2D Skeletons)
 - [simon3dv/PointNet1_2_pytorch_reproduced](https://github.com/simon3dv/PointNet1_2_pytorch_reproduced) - Not finished yet, please wait.
 - [DeepSceneSeg/EfficientPS](https://github.com/DeepSceneSeg/EfficientPS) - PyTorch code for training EfficientPS for Panoptic Segmentation
-- [dvlab-research/PointGroup](https://github.com/dvlab-research/PointGroup) - PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
+- [JIA-Lab-research/PointGroup](https://github.com/JIA-Lab-research/PointGroup) - PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - [ShiQiu0419/DRNet](https://github.com/ShiQiu0419/DRNet) - Dense-Resolution Network for Point Cloud Classification and Segmentation (WACV 2021)
 - [chenfengxu714/SqueezeSegV3](https://github.com/chenfengxu714/SqueezeSegV3) - 
 - [HaozheQi/P2B](https://github.com/HaozheQi/P2B) - P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds
@@ -4962,7 +4962,7 @@
 - [lijx10/USIP](https://github.com/lijx10/USIP) - USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. ICCV 2019
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [sshaoshuai/PV-RCNN](https://github.com/sshaoshuai/PV-RCNN) - PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection, CVPR 2020.
-- [dvlab-research/3DSSD](https://github.com/dvlab-research/3DSSD) - 3DSSD: Point-based 3D Single Stage Object Detector (CVPR 2020)
+- [JIA-Lab-research/3DSSD](https://github.com/JIA-Lab-research/3DSSD) - 3DSSD: Point-based 3D Single Stage Object Detector (CVPR 2020)
 - [nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch) - PointPillars for KITTI object detection
 - [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) - SECOND for KITTI/NuScenes object detection
 - [djzgroup/PointwiseNet](https://github.com/djzgroup/PointwiseNet) - Pointwise Geometric and Semantic Learning Network on 3D Point Clouds
@@ -5304,7 +5304,6 @@
 - [nolanzzz/mtmct](https://github.com/nolanzzz/mtmct) - Design and Implementation of a Multi-Target Multi-Camera Tracking Solution
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [nndeploy/nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 - [marcomusy/vedo](https://github.com/marcomusy/vedo) - A python module for scientific analysis of 3D data based on VTK and Numpy
@@ -5586,7 +5585,7 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications.
 - [Jasonkks/PTTR](https://github.com/Jasonkks/PTTR) - Pytorch Implementation of PTTR: Relational 3D Point Cloud Object Tracking with Transformer
-- [dvlab-research/UVTR](https://github.com/dvlab-research/UVTR) - Unifying Voxel-based Representation with Transformer for 3D Object Detection (NeurIPS 2022)
+- [JIA-Lab-research/UVTR](https://github.com/JIA-Lab-research/UVTR) - Unifying Voxel-based Representation with Transformer for 3D Object Detection (NeurIPS 2022)
 - [guochengqian/PointNeXt](https://github.com/guochengqian/PointNeXt) - [NeurIPS'22] PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies
 - [hancyran/RepSurf](https://github.com/hancyran/RepSurf) - [CVPR 2022 Oral] Official implementation for "Surface Representation for Point Clouds"
 - [HaochengWan/PVT](https://github.com/HaochengWan/PVT) - PVT: Point-Voxel Transformer for 3D Deep Learning
@@ -5763,8 +5762,8 @@
 
 ## reinforcement-learning 
 
-- [dvlab-research/Seg-Zero](https://github.com/dvlab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
-- [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
+- [JIA-Lab-research/Seg-Zero](https://github.com/JIA-Lab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
+- [JIA-Lab-research/VisionReasoner](https://github.com/JIA-Lab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - Tactics2D: A Reinforcement Learning Environment Library with Generative Scenarios for Driving Decision-making
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
