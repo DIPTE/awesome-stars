@@ -18,6 +18,7 @@
 - [Cuda](#cuda)
 - [Cython](#cython)
 - [D](#d)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Fortran](#fortran)
@@ -198,7 +199,7 @@
 - [vedderb/bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
 - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) - :zap: Based on yolo's ultra-lightweight universal target detection algorithm, the calculation amount is only 250mflops, the ncnn model size is only 666kb, the Raspberry Pi 3b can run up to 15fps+, and
 - [google/XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
-- [nxp-mcuxpresso/mcux-sdk-examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples) - MCUXpresso SDK Examples
+- [nxp-mcuxpresso/legacy-mcux-sdk-examples](https://github.com/nxp-mcuxpresso/legacy-mcux-sdk-examples) - MCUXpresso SDK Examples
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [GStreamer/gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework
 - [pytorch/QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
@@ -368,7 +369,7 @@
 - [ethz-asl/COIN-LIO](https://github.com/ethz-asl/COIN-LIO) - 🪙 COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (ICRA 2024)
 - [rvp-group/mad-icp](https://github.com/rvp-group/mad-icp) - Minimal, robust, accurate and real-time LiDAR odometry
 - [Unsigned-Long/slam-tricks](https://github.com/Unsigned-Long/slam-tricks) - small, powerful and beautiful slam tricks with theory and practice
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Serial Studio is a universal real-time data visualization platform for embedded systems. One tool instead of many proprietary serial monitors and protocol-specific analyzers.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [HRex39/Newton-M2-Ros-Driver](https://github.com/HRex39/Newton-M2-Ros-Driver) - 星网宇达Newton M2 Ros Package解析GPFPD与GTIMU程序
 - [OSGeo/PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
 - [RoboMaster/RoboRTS](https://github.com/RoboMaster/RoboRTS) - An open source software stack for Real-Time Strategy research on mobile robots
@@ -1382,6 +1383,10 @@
 
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 
+## Dart 
+
+- [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، ا
+
 ## Dockerfile 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -1416,7 +1421,6 @@
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، ا
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## HTML 
@@ -1506,6 +1510,7 @@
 
 ## Jupyter Notebook 
 
+- [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2) - [DEIMv2] Real Time Object Detection Meets DINOv3
 - [983632847/Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) - A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.
 - [pbonazzi/picosam2](https://github.com/pbonazzi/picosam2) - [IEEE SENSORS 2025] PicoSAM2 is a minimal, prompt-based segmentation model distilled from Meta’s SAM 2.1
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks
@@ -1555,7 +1560,7 @@
 - [hady1011/OrthoNets](https://github.com/hady1011/OrthoNets) - Orthogonal Channel Attentions Networks
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
 - [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
-- [dvlab-research/3D-Box-Segment-Anything](https://github.com/dvlab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
+- [JIA-Lab-research/3D-Box-Segment-Anything](https://github.com/JIA-Lab-research/3D-Box-Segment-Anything) - We extend Segment Anything to 3D perception by combining it with VoxelNeXt.
 - [xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet](https://github.com/xiaobin1231/Fall-Detection-By-YOLOV3-and-LiteFlowNet) - 
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 - [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
@@ -1780,7 +1785,7 @@
 
 ## Others 
 
-- [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
+- [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Active-SLAM/Active-SLAM-Paper-List](https://github.com/Active-SLAM/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash) - MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
@@ -2054,6 +2059,11 @@
 
 ## Python 
 
+- [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
+- [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
+- [isLinXu/YOLO-Master](https://github.com/isLinXu/YOLO-Master) - 🚀🚀🚀Official code for the paper "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."🔥🔥🔥
+- [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
 - [mihajlov39547/RT-DETR-Seg](https://github.com/mihajlov39547/RT-DETR-Seg) - Real-Time Detection Transformer with Segmentation
@@ -2115,10 +2125,10 @@
 - [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception".
 - [ZhengXinyue/bilibili_project](https://github.com/ZhengXinyue/bilibili_project) - 和bilibili教学视频相关的一些源代码
 - [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - :bouncing_ball_person: Pytorch ReID: A tiny, friendly, strong pytorch implement of person re-id / vehicle re-id baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/t
-- [dvlab-research/Seg-Zero](https://github.com/dvlab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
+- [JIA-Lab-research/Seg-Zero](https://github.com/JIA-Lab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) - 
-- [dvlab-research/VisionReasoner](https://github.com/dvlab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
+- [JIA-Lab-research/VisionReasoner](https://github.com/JIA-Lab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
 - [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
 - [Yarroudh/Optim3D](https://github.com/Yarroudh/Optim3D) - Command-Line Interface (CLI) application for efficient and scalable generation of large-scale 3D building models.
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
@@ -2154,6 +2164,7 @@
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm) - 
 - [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - [NeurIPS 2025] YOLOv12: Attention-Centric Real-Time Object Detectors
+- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 - [VisionXLab/point2rbox-v2](https://github.com/VisionXLab/point2rbox-v2) - [CVPR'25] Official repo of "Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances"
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [qizekun/VPP](https://github.com/qizekun/VPP) - [NeurIPS 2023] VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation
@@ -2782,12 +2793,12 @@
 - [hustvl/VAD](https://github.com/hustvl/VAD) - [ICCV 2023] VAD: Vectorized Scene Representation for Efficient Autonomous Driving
 - [wzzheng/OpenOcc](https://github.com/wzzheng/OpenOcc) - Open Source 3D Occupancy Prediction Library.
 - [tianzhuotao/CAC](https://github.com/tianzhuotao/CAC) - 
-- [dvlab-research/Imbalanced-Learning](https://github.com/dvlab-research/Imbalanced-Learning) - Imbalanced learning tool for imbalanced recognition and segmentation
-- [dvlab-research/SparseTransformer](https://github.com/dvlab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
-- [dvlab-research/Stratified-Transformer](https://github.com/dvlab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
+- [JIA-Lab-research/Imbalanced-Learning](https://github.com/JIA-Lab-research/Imbalanced-Learning) - Imbalanced learning tool for imbalanced recognition and segmentation
+- [JIA-Lab-research/SparseTransformer](https://github.com/JIA-Lab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
+- [JIA-Lab-research/Stratified-Transformer](https://github.com/JIA-Lab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
 - [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
-- [dvlab-research/SphereFormer](https://github.com/dvlab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
-- [dvlab-research/VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
+- [JIA-Lab-research/SphereFormer](https://github.com/JIA-Lab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
+- [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
 - [exiawsh/StreamPETR](https://github.com/exiawsh/StreamPETR) - [ICCV 2023] StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection
 - [gaopengcuhk/Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) - 
 - [lanlan96/3DRM](https://github.com/lanlan96/3DRM) - [Computers & Graphics 2021] Pair-wise Relation Module for 3D Object Detection
@@ -2864,7 +2875,7 @@
 - [openvinotoolkit/docker_ci](https://github.com/openvinotoolkit/docker_ci) - The framework to generate a Dockerfile, build, test, and deploy a docker image with OpenVINO™ toolkit.
 - [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 - [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) - [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
-- [dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/dvlab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
+- [JIA-Lab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions](https://github.com/JIA-Lab-research/ECCV22-P3AFormer-Tracking-Objects-as-Pixel-wise-Distributions) - The official code for our ECCV22 oral paper: tracking objects as pixel-wise distributions.
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
 - [GerardMaggiolino/Deep-OC-SORT](https://github.com/GerardMaggiolino/Deep-OC-SORT) - https://arxiv.org/abs/2302.11813
 - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) - Real-time multi-object tracker using YOLOv7 and StrongSORT with OSNet
@@ -2949,7 +2960,7 @@
 - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3D Object Detection for Autonomous Driving Vehicle
 - [GStreamer/gst-build](https://github.com/GStreamer/gst-build) - Build GStreamer and plugin modules using the Meson build system. This module has been merged into the main GStreamer repo for further development.
 - [dearsq/Note-xiaoshujiang](https://github.com/dearsq/Note-xiaoshujiang) - Note-xiaoshujiang
-- [dvlab-research/LargeKernel3D](https://github.com/dvlab-research/LargeKernel3D) - LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs (CVPR 2023)
+- [JIA-Lab-research/LargeKernel3D](https://github.com/JIA-Lab-research/LargeKernel3D) - LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs (CVPR 2023)
 - [liang3588/MeshMAE](https://github.com/liang3588/MeshMAE) - MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis
 - [zhangzhao2022/pointscatter](https://github.com/zhangzhao2022/pointscatter) - [ECCV'22 Oral] PointScatter: Point Set Representation for Tubular Structure Extraction
 - [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks" "RevColv2"
@@ -2957,7 +2968,7 @@
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - A tool to build ROS and ROS2 workspaces for various targets
 - [swords123/IDA-3D](https://github.com/swords123/IDA-3D) - IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for Autonomous Driving, in CVPR2020
 - [salesforce/ULIP](https://github.com/salesforce/ULIP) - 
-- [dvlab-research/spconv-plus](https://github.com/dvlab-research/spconv-plus) - 
+- [JIA-Lab-research/spconv-plus](https://github.com/JIA-Lab-research/spconv-plus) - 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
@@ -3304,8 +3315,8 @@
 - [aleksandrkim61/PolarMOT](https://github.com/aleksandrkim61/PolarMOT) - Official code for "PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?" [ECCV 2022]
 - [BBuf/onnx2X](https://github.com/BBuf/onnx2X) - ONNX2Pytorch
 - [david-knigge/ccnn](https://github.com/david-knigge/ccnn) - Code repository of the paper "Modelling Long Range Dependencies in ND: From Task-Specific to a General Purpose CNN" https://arxiv.org/abs/2301.10540.
-- [dvlab-research/FocalsConv](https://github.com/dvlab-research/FocalsConv) - Focal Sparse Convolutional Networks for 3D Object Detection (CVPR 2022, Oral)
-- [dvlab-research/DeepVision3D](https://github.com/dvlab-research/DeepVision3D) - DeepVision3D is an open source toolbox for point-cloud understanding.
+- [JIA-Lab-research/FocalsConv](https://github.com/JIA-Lab-research/FocalsConv) - Focal Sparse Convolutional Networks for 3D Object Detection (CVPR 2022, Oral)
+- [JIA-Lab-research/DeepVision3D](https://github.com/JIA-Lab-research/DeepVision3D) - DeepVision3D is an open source toolbox for point-cloud understanding.
 - [open-mmlab/mim](https://github.com/open-mmlab/mim) - MIM Installs OpenMMLab Packages
 - [zehuichen123/AutoAlignV2](https://github.com/zehuichen123/AutoAlignV2) - [ECCV2022, IJCAI2022] AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection
 - [ShenZheng2000/PointNorm-for-Point-Cloud-Analysis](https://github.com/ShenZheng2000/PointNorm-for-Point-Cloud-Analysis) - This is the official Pytorch implementation of our paper "PointNorm: Normalization is All You Need for Point Cloud Analysis""
@@ -3335,7 +3346,7 @@
 - [LimHyungTae/ERASOR](https://github.com/LimHyungTae/ERASOR) - Official page of ERASOR (Egocentric Ratio of pSeudo Occupancy-based Dynamic Object Removal), which is accepted @ RA-L'21 with ICRA'21
 - [NaiyuGao/PanopticDepth](https://github.com/NaiyuGao/PanopticDepth) - PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation （CVPR2022）
 - [Jasonkks/PTTR](https://github.com/Jasonkks/PTTR) - Pytorch Implementation of PTTR: Relational 3D Point Cloud Object Tracking with Transformer
-- [dvlab-research/UVTR](https://github.com/dvlab-research/UVTR) - Unifying Voxel-based Representation with Transformer for 3D Object Detection (NeurIPS 2022)
+- [JIA-Lab-research/UVTR](https://github.com/JIA-Lab-research/UVTR) - Unifying Voxel-based Representation with Transformer for 3D Object Detection (NeurIPS 2022)
 - [hustvl/Featurized-QueryRCNN](https://github.com/hustvl/Featurized-QueryRCNN) - Featurized Query R-CNN
 - [megvii-research/PETR](https://github.com/megvii-research/PETR) - [ECCV2022] PETR: Position Embedding Transformation for Multi-View 3D Object Detection & [ICCV2023] PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images
 - [kaist-avelab/K-Lane](https://github.com/kaist-avelab/K-Lane) - The World's First Large Scale Lidar Lane Detection Dataset and Benchmark
@@ -3904,7 +3915,7 @@
 - [iboing/CliqueNet](https://github.com/iboing/CliqueNet) - Convolutional Neural Networks with Alternately Updated Clique (to appear in CVPR 2018)
 - [wangchu1/LocalSpecGCN](https://github.com/wangchu1/LocalSpecGCN) - 
 - [DeepSceneSeg/EfficientPS](https://github.com/DeepSceneSeg/EfficientPS) - PyTorch code for training EfficientPS for Panoptic Segmentation
-- [dvlab-research/PointGroup](https://github.com/dvlab-research/PointGroup) - PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
+- [JIA-Lab-research/PointGroup](https://github.com/JIA-Lab-research/PointGroup) - PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - [ShiQiu0419/DRNet](https://github.com/ShiQiu0419/DRNet) - Dense-Resolution Network for Point Cloud Classification and Segmentation (WACV 2021)
 - [chenfengxu714/SqueezeSegV3](https://github.com/chenfengxu714/SqueezeSegV3) - 
 - [HaozheQi/P2B](https://github.com/HaozheQi/P2B) - P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds
@@ -3916,7 +3927,7 @@
 - [lijx10/USIP](https://github.com/lijx10/USIP) - USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. ICCV 2019
 - [V2AI/Det3D](https://github.com/V2AI/Det3D) - World's first general purpose 3D object detection codebse.
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
-- [dvlab-research/3DSSD](https://github.com/dvlab-research/3DSSD) - 3DSSD: Point-based 3D Single Stage Object Detector (CVPR 2020)
+- [JIA-Lab-research/3DSSD](https://github.com/JIA-Lab-research/3DSSD) - 3DSSD: Point-based 3D Single Stage Object Detector (CVPR 2020)
 - [nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch) - PointPillars for KITTI object detection
 - [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) - SECOND for KITTI/NuScenes object detection
 - [djzgroup/PointwiseNet](https://github.com/djzgroup/PointwiseNet) - Pointwise Geometric and Semantic Learning Network on 3D Point Clouds
@@ -4320,7 +4331,6 @@
 
 ## Vue 
 
-- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 
 
