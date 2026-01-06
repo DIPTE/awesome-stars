@@ -404,7 +404,7 @@
 
 ## arduino 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Serial Studio is a universal real-time data visualization platform for embedded systems. One tool instead of many proprietary serial monitors and protocol-specific analyzers.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 ## artificial-intelligence 
@@ -1435,7 +1435,7 @@
 
 ## embedded 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Serial Studio is a universal real-time data visualization platform for embedded systems. One tool instead of many proprietary serial monitors and protocol-specific analyzers.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [CANopenNode/CANopenLinux](https://github.com/CANopenNode/CANopenLinux) - CANopenNode on Linux devices
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
@@ -1628,7 +1628,7 @@
 
 ## iot 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Serial Studio is a universal real-time data visualization platform for embedded systems. One tool instead of many proprietary serial monitors and protocol-specific analyzers.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
@@ -2250,6 +2250,12 @@
 
 ## others 
 
+- [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
+- [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
+- [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
+- [isLinXu/YOLO-Master](https://github.com/isLinXu/YOLO-Master) - 🚀🚀🚀Official code for the paper "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."🔥🔥🔥
+- [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2) - [DEIMv2] Real Time Object Detection Meets DINOv3
 - [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
 - [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
@@ -4148,7 +4154,7 @@
 - [DoanNguyenTrong/object-detection-tflite-cpp](https://github.com/DoanNguyenTrong/object-detection-tflite-cpp) - #object detection #rb5 #qualcomm #hexagon #gpu #inference
 - [Hozzu/TFLite-aarch64-linux-with-delegate](https://github.com/Hozzu/TFLite-aarch64-linux-with-delegate) - Deep learning inference SW framework based on TensorFlow Lite for Aarch64 Linux with GPU and Hexagon delegate
 - [Masmiseim36/nxpSDK](https://github.com/Masmiseim36/nxpSDK) - Collection of SDKs for NXP Controllers
-- [nxp-mcuxpresso/mcux-sdk-examples](https://github.com/nxp-mcuxpresso/mcux-sdk-examples) - MCUXpresso SDK Examples
+- [nxp-mcuxpresso/legacy-mcux-sdk-examples](https://github.com/nxp-mcuxpresso/legacy-mcux-sdk-examples) - MCUXpresso SDK Examples
 - [NobuoTsukamoto/tflite-cv-example](https://github.com/NobuoTsukamoto/tflite-cv-example) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [nlbutts/tflite_zynq](https://github.com/nlbutts/tflite_zynq) - Example code and instructions on getting Tensorflow Lite running on a Xilinx Zynq
 - [espressif/esp-tflite-micro](https://github.com/espressif/esp-tflite-micro) - TensorFlow Lite Micro for Espressif Chipsets
@@ -5706,7 +5712,7 @@
 
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Serial Studio is a universal real-time data visualization platform for embedded systems. One tool instead of many proprietary serial monitors and protocol-specific analyzers.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
 - [facontidavide/rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
