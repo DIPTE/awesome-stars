@@ -139,6 +139,7 @@
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [programming-language](#programming-language)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -281,7 +282,6 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
@@ -575,7 +575,6 @@
 
 ## chatbot 
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [MM 2024] [Need only a 3090] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -1746,7 +1745,6 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2171,7 +2169,6 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -2392,6 +2389,7 @@
 - [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
 - [CodingRookie98/FaceFusionCpp](https://github.com/CodingRookie98/FaceFusionCpp) - This project is a C++ implementation of the open-source project facefusion.
 - [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [VisionXLab/point2rbox-v2](https://github.com/VisionXLab/point2rbox-v2) - [CVPR'25] Official repo of "Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances"
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry) - 
@@ -5277,6 +5275,10 @@
 ## programming-language 
 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+
+## prompt-engineering 
+
+- [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering
 
 ## python 
 
