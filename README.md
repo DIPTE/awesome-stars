@@ -1451,6 +1451,7 @@
 - [hellotrik/hellotrik.github.io](https://github.com/hellotrik/hellotrik.github.io) - 
 - [JsBlueCat/JsBlueCat.github.io](https://github.com/JsBlueCat/JsBlueCat.github.io) - 
 - [geoml/geoml.github.io](https://github.com/geoml/geoml.github.io) - 
+- [SamPutnam/Index-2025](https://github.com/SamPutnam/Index-2025) - 
 
 ## Java 
 
@@ -2031,7 +2032,6 @@
 - [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
 - [kevin-kaixu/partnet-symh](https://github.com/kevin-kaixu/partnet-symh) - The Enhanced PartNet Dataset with Symmetry Hierarchy (PartNet-Symh)
 - [inessus/pytorch_awesome](https://github.com/inessus/pytorch_awesome) - about the resources of pytorch
-- [SamPutnam/Index-2025](https://github.com/SamPutnam/Index-2025) - 
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 
 ## PHP 
@@ -2062,7 +2062,7 @@
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
-- [isLinXu/YOLO-Master](https://github.com/isLinXu/YOLO-Master) - 🚀🚀🚀Official code for the paper "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."🔥🔥🔥
+- [isLinXu/YOLO-Master](https://github.com/isLinXu/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
 - [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
