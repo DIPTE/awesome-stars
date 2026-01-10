@@ -2199,6 +2199,7 @@
 - [GindaChen/FlexFlashAttention3](https://github.com/GindaChen/FlexFlashAttention3) - FlexAttention w/ FlashAttention3 Support
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 - [OpenTeleVision/TeleVision](https://github.com/OpenTeleVision/TeleVision) - [CoRL 2024] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [dxyang/DQN_pytorch](https://github.com/dxyang/DQN_pytorch) - Vanilla DQN, Double DQN, and Dueling DQN implemented in PyTorch
 - [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨[NeurIPS 2025] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction
@@ -2798,7 +2799,7 @@
 - [JIA-Lab-research/Stratified-Transformer](https://github.com/JIA-Lab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
 - [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 - [JIA-Lab-research/SphereFormer](https://github.com/JIA-Lab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
-- [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
+- [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - Long Range 3D Perception - VoxelNeXt (CVPR 2023)
 - [exiawsh/StreamPETR](https://github.com/exiawsh/StreamPETR) - [ICCV 2023] StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection
 - [gaopengcuhk/Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) - 
 - [lanlan96/3DRM](https://github.com/lanlan96/3DRM) - [Computers & Graphics 2021] Pair-wise Relation Module for 3D Object Detection
@@ -4258,7 +4259,6 @@
 ## Svelte 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ollama-webui/ollama-webui-lite](https://github.com/ollama-webui/ollama-webui-lite) - This repo is no longer maintained, please use our main Open WebUI repo.
 
 ## Swift 
