@@ -3382,7 +3382,7 @@
 - [JIA-Lab-research/SparseTransformer](https://github.com/JIA-Lab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
 - [JIA-Lab-research/Stratified-Transformer](https://github.com/JIA-Lab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
 - [JIA-Lab-research/SphereFormer](https://github.com/JIA-Lab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
-- [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking (CVPR 2023)
+- [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - Long Range 3D Perception - VoxelNeXt (CVPR 2023)
 - [url-kaist/Ground-Segmentation-Benchmark](https://github.com/url-kaist/Ground-Segmentation-Benchmark) - Ground segmentation benchmark in SemanticKITTI dataset
 - [cavayangtao/lidar_clustering_bench](https://github.com/cavayangtao/lidar_clustering_bench) - LiPC: LiDAR Point Cloud Clustering Benchmark Suite
 - [morte2025/CVC-ROS](https://github.com/morte2025/CVC-ROS) - An ROS implementation for paper "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance"
