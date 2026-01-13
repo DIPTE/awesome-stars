@@ -181,6 +181,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visualization](#visualization)
@@ -2346,8 +2347,6 @@
 - [NVlabs/describe-anything](https://github.com/NVlabs/describe-anything) - [ICCV 2025] Implementation for Describe Anything: Detailed Localized Image and Video Captioning
 - [robertzhangwenjie/gitbook2pdf](https://github.com/robertzhangwenjie/gitbook2pdf) - gitbook2pdf
 - [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
-- [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer) - Recover damaged/unfinished mp4 files with h264 video
-- [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
 - [silencht/SG-SLAM](https://github.com/silencht/SG-SLAM) - SG-SLAM: A Real-Time RGB-D Visual SLAM toward Dynamic Scenes with Semantic and Geometric Information
 - [chengwei0427/Adaptive-LIO](https://github.com/chengwei0427/Adaptive-LIO) - [JIOT 2024] Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry
 - [zhu-xlab/Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) - Towards a Unified Copernicus Foundation Model for Earth Vision
@@ -3292,7 +3291,6 @@
 - [tiev-tongji/VoxelGridOMP](https://github.com/tiev-tongji/VoxelGridOMP) - voxel grid in parallel, using the OpenMP standard, based on PCL.
 - [Livox-SDK/livox_apollo_driver](https://github.com/Livox-SDK/livox_apollo_driver) - Livox driver for apollo
 - [Livox-SDK/horizon_highway_slam](https://github.com/Livox-SDK/horizon_highway_slam) - Horizon_Highway_Slam Demo in Docker
-- [IENT/YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
 - [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [rigaya/rkmppenc](https://github.com/rigaya/rkmppenc) - Rockchip系SoCのHWエンコーダ(rkmpp)の性能実験
 - [JiweiMaster/MobileDetBenchmark](https://github.com/JiweiMaster/MobileDetBenchmark) - Mobile Detection Benchmark
@@ -6096,6 +6094,22 @@
 
 - [brifsttar/OpenDRIVE](https://github.com/brifsttar/OpenDRIVE) - Unreal Engine OpenDRIVE plugin
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+
+## video 
+
+- [bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer) - Recover damaged/unfinished mp4 files with h264 video
+- [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- [IENT/YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset
+- [codebydant/video2image-opencv](https://github.com/codebydant/video2image-opencv) - This is a c++ program to convert a video to frames
+- [codebydant/video2opencv-video](https://github.com/codebydant/video2opencv-video) - This is a C++ program to convert a video to opencv format video
+- [wang-bin/QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk
+- [jishnujayakumar/MV-Tractus](https://github.com/jishnujayakumar/MV-Tractus) - A simple tool to extract motion vectors from h264 encoded videos.
+- [datamllab/autovideo](https://github.com/datamllab/autovideo) - AutoVideo: An Automated Video Action Recognition System
+- [wolfbolin/BiliUtil](https://github.com/wolfbolin/BiliUtil) - Bilibili.com视频批量下载工具包
 
 ## vim 
 
