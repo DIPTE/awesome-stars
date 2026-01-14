@@ -1471,7 +1471,7 @@
 
 ## JavaScript 
 
-- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning and RAG
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
@@ -1787,7 +1787,6 @@
 
 ## Others 
 
-- [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Active-SLAM/Active-SLAM-Paper-List](https://github.com/Active-SLAM/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash) - MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
@@ -2062,6 +2061,7 @@
 
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
+- [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 - [isLinXu/YOLO-Master](https://github.com/isLinXu/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
 - [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
