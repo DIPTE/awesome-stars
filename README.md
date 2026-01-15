@@ -1471,7 +1471,7 @@
 
 ## JavaScript 
 
-- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning and RAG
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
