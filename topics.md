@@ -883,7 +883,7 @@
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm with Re-ID and Camera Motion Compensation
-- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2024] OC-SORT implemented in C++ with Eigen Library, Plus a Android Demo Apk
+- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2023] OC-SORT implemented in C++ with Eigen Library, Plus a Android Demo Apk
 - [xieincz/Multithreaded-YOLOv5-ByteTrack](https://github.com/xieincz/Multithreaded-YOLOv5-ByteTrack) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
 - [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 - [hpc203/FreeYOLO-opencv-onnxrun-cpp-py](https://github.com/hpc203/FreeYOLO-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署FreeYOLO目标检测，总共包含143个onnx模型，有COCO目标检测，人脸检测，密集行人检测的三种检测功能，依然是包含C++和Python两个版本的程序
@@ -2251,7 +2251,7 @@
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
-- [isLinXu/YOLO-Master](https://github.com/isLinXu/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
+- [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
 - [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2) - [DEIMv2] Real Time Object Detection Meets DINOv3
 - [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
 - [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
