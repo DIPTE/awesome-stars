@@ -618,7 +618,7 @@
 - [shaoshengsong/DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
 - [i-v-s/strong-sort-cpp](https://github.com/i-v-s/strong-sort-cpp) - C++ implementation of the paper "StrongSORT: Make DeepSORT Great Again"
 - [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm with Re-ID and Camera Motion Compensation
-- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2024] OC-SORT implemented in C++ with Eigen Library, Plus a Android Demo Apk
+- [Postroggy/OC_SORT_CPP](https://github.com/Postroggy/OC_SORT_CPP) - [CVPR 2023] OC-SORT implemented in C++ with Eigen Library, Plus a Android Demo Apk
 - [Toxiang/centertrack-tensorrt](https://github.com/Toxiang/centertrack-tensorrt) - 将centertrack部署到tensorrt上
 - [jingyue202205/DSVT-AI-TRT](https://github.com/jingyue202205/DSVT-AI-TRT) - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023),vaymo vehicle 3D Object Detection(top2), waymo cyclist 3D Object Detection(top1),waymo pedestrian 3D Object Detection(top1)
 - [xieincz/Multithreaded-YOLOv5-ByteTrack](https://github.com/xieincz/Multithreaded-YOLOv5-ByteTrack) - Multi-thread tracking of YOLOv5 and ByteTrack implemented by C++, accelerated by TensorRT. YOLOv5 和 ByteTrack 的多线程追踪 C++ 实现, 使用 TensorRT 进行推理加速
@@ -2063,7 +2063,7 @@
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
-- [isLinXu/YOLO-Master](https://github.com/isLinXu/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
+- [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
 - [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
