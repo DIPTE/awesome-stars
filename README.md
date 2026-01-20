@@ -2059,6 +2059,8 @@
 
 ## Python 
 
+- [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
+- [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
@@ -2611,7 +2613,7 @@
 - [Jamie-Stirling/RetNet](https://github.com/Jamie-Stirling/RetNet) - An implementation of "Retentive Network: A Successor to Transformer for Large Language Models"
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [vinits5/pcrnet_pytorch](https://github.com/vinits5/pcrnet_pytorch) - This is a pytorch implementation of PCRNet
-- [SMPLCap/SMPLer-X](https://github.com/SMPLCap/SMPLer-X) - [NeurIPS 2023] Official Code for "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
+- [MotrixLab/SMPLer-X](https://github.com/MotrixLab/SMPLer-X) - [NeurIPS 2023] Official Code for "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation"
 - [Yzichen/mmLaneDet](https://github.com/Yzichen/mmLaneDet) - 
 - [Turoad/lanedet](https://github.com/Turoad/lanedet) - An open source lane detection toolbox based on PyTorch, including SCNN, RESA, UFLD, LaneATT, CondLane, etc.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
