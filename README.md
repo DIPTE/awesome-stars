@@ -48,7 +48,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
-- [Roff](#roff)
 - [Rust](#rust)
 - [Scala](#scala)
 - [ShaderLab](#shaderlab)
@@ -250,6 +249,7 @@
 
 ## C++ 
 
+- [DataXujing/YOLO26-TensorRT](https://github.com/DataXujing/YOLO26-TensorRT) - YOLO26模型介绍和TensorRT模型加速
 - [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
 - [aelmiger/LINE-MOD-Pipeline](https://github.com/aelmiger/LINE-MOD-Pipeline) - Pipeline to detect the 3D pose of known objects. It builds upon the opencv implementation of the LINE-MOD algorithm.
 - [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
@@ -1340,6 +1340,7 @@
 
 ## Cuda 
 
+- [cvdong/trtinfer_yolo26](https://github.com/cvdong/trtinfer_yolo26) - yolo26 TensorRT 推理 🤡
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 - [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
@@ -4193,10 +4194,6 @@
 - [mlverse/torchsparse](https://github.com/mlverse/torchsparse) - R interface for torchsparse
 - [r-lidar/lidR](https://github.com/r-lidar/lidR) - Airborne LiDAR data manipulation and visualisation for forestry application
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Rust 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -4247,6 +4244,7 @@
 - [Amanda-Barbara/opencv_build](https://github.com/Amanda-Barbara/opencv_build) - build for x86 or arm on linux
 - [guochengqian/PointNeXt](https://github.com/guochengqian/PointNeXt) - [NeurIPS'22] PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies
 - [KamitaniLab/docker-images](https://github.com/KamitaniLab/docker-images) - 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
 
 ## Smarty 
