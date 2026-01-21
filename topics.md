@@ -2249,6 +2249,8 @@
 
 ## others 
 
+- [DataXujing/YOLO26-TensorRT](https://github.com/DataXujing/YOLO26-TensorRT) - YOLO26模型介绍和TensorRT模型加速
+- [cvdong/trtinfer_yolo26](https://github.com/cvdong/trtinfer_yolo26) - yolo26 TensorRT 推理 🤡
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
