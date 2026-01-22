@@ -2773,7 +2773,7 @@
 - [hujiecpp/YOSO](https://github.com/hujiecpp/YOSO) - Code release for paper "You Only Segment Once: Towards Real-Time Panoptic Segmentation" [CVPR 2023]
 - [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR 2023] DepGraph: Towards Any Structural Pruning; LLMs, Vision Foundation Models, etc.
 - [ViTAE-Transformer/SimDistill](https://github.com/ViTAE-Transformer/SimDistill) - The official repo for [AAAI 2024] "SimDistill: Simulated Multi-modal Distillation for BEV 3D Object Detection""
-- [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
+- [karimknaebel/point2vec](https://github.com/karimknaebel/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
 - [sail-sg/inceptionnext](https://github.com/sail-sg/inceptionnext) - InceptionNeXt: When Inception Meets ConvNeXt (CVPR 2024)
 - [TRI-ML/VEDet](https://github.com/TRI-ML/VEDet) - 
 - [ucla-mobility/V2V4Real](https://github.com/ucla-mobility/V2V4Real) - [CVPR2023 Highlight] The official codebase for paper "V2V4Real: A large-scale real-world dataset for Vehicle-to-Vehicle Cooperative Perception"
@@ -4286,7 +4286,7 @@
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
