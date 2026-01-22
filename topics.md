@@ -296,7 +296,7 @@
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -666,7 +666,7 @@
 ## computer-vision 
 
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - [CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
 - [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
@@ -1744,7 +1744,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
@@ -1821,7 +1821,7 @@
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [knzo25/bevfusion_ros2](https://github.com/knzo25/bevfusion_ros2) - BEVFusion implementation in ROS2
 - [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA) - OpenEMMA, a permissively licensed open source "reproduction" of Waymo’s EMMA model.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -1855,7 +1855,7 @@
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software.
 - [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - ♟️ Vectorized RL game environments in JAX
-- [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
+- [karimknaebel/point2vec](https://github.com/karimknaebel/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
@@ -5487,7 +5487,7 @@
 - [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
-- [kabouzeid/point2vec](https://github.com/kabouzeid/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
+- [karimknaebel/point2vec](https://github.com/karimknaebel/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
 - [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 - [yahuiliu99/PointConT](https://github.com/yahuiliu99/PointConT) - Official implementation of the paper "Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space"
