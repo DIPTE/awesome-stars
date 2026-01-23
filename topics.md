@@ -2893,7 +2893,7 @@
 - [huapohen/general_parking_slot_detection](https://github.com/huapohen/general_parking_slot_detection) - 
 - [cggos/mekd](https://github.com/cggos/mekd) - Maths, Estimation, Kinematics and Dynamics
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
-- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM/VLM/VLA for Autonomous Driving(LLM4AD) resources (continually updated)
+- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) - A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [zhangpanyi/a-star-algorithm](https://github.com/zhangpanyi/a-star-algorithm) - C++实现的高效A*算法
 - [YuYuCong/Astar](https://github.com/YuYuCong/Astar) - 机器人路径规划A*算法
