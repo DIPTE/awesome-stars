@@ -817,7 +817,7 @@
 - [Tartisan/MMDet3d-PointPillars](https://github.com/Tartisan/MMDet3d-PointPillars) - PointPillars TensorRT version pretrained on MMDetection3d with WaymoOpenDataset
 - [fateshelled/rknpu2_ros](https://github.com/fateshelled/rknpu2_ros) - ROS 2 Inference sample for using Rockchip NPU.
 - [olibartfast/yolov4-triton-cpp-client](https://github.com/olibartfast/yolov4-triton-cpp-client) - 
-- [olibartfast/vision-inference](https://github.com/olibartfast/vision-inference) - C++ computer vision inference from video or image input source
+- [olibartfast/vision-inference](https://github.com/olibartfast/vision-inference) - C++ framework for computer vision inference, supporting multiple vision tasks and deep learning backends.
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
@@ -2096,7 +2096,7 @@
 - [worldbench/LiDARCrafter](https://github.com/worldbench/LiDARCrafter) - [AAAI 2026 Oral] LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences
 - [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
-- [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
+- [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - [ICLR 2026] Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
 - [NVlabs/PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
