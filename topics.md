@@ -292,6 +292,7 @@
 
 ## ai 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -2330,7 +2331,7 @@
 - [henry123-boy/SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2) - [ICCV 2025] SpatialTrackerV2: 3D Point Tracking Made Easy
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
-- [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - Code for Streaming 4D Visual Geometry Transformer
+- [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - [ICLR 2026] Streaming 4D Visual Geometry Transformer
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
 - [KevinZ0217/fast_dinov2](https://github.com/KevinZ0217/fast_dinov2) - [NeurIPS '25] FastDINOv2: Frequency Based Curriculum Learning Improves Robustness and Training Speed
@@ -2371,7 +2372,7 @@
 - [Yixin-F/better_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast_lio_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025) + real-world application (MD-LVIO)
 - [THU-MIG/yoloe](https://github.com/THU-MIG/yoloe) - YOLOE: Real-Time Seeing Anything [ICCV 2025]
 - [truebelief/cc-treeiso-plugin](https://github.com/truebelief/cc-treeiso-plugin) - Individual-tree isolation (treeiso) from terrestrial laser scanning
-- [intelligent-vehicles/BEVDriver](https://github.com/intelligent-vehicles/BEVDriver) - Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving
+- [Intelligent-Vehicles-Lab-HM/BEVDriver](https://github.com/Intelligent-Vehicles-Lab-HM/BEVDriver) - Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving
 - [facebookresearch/fast3r](https://github.com/facebookresearch/fast3r) - [CVPR 2025] Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass
 - [EI-Nav/light-map-navigation](https://github.com/EI-Nav/light-map-navigation) - 
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
