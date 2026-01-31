@@ -1523,7 +1523,7 @@
 - [Perceive-Anything/PAM](https://github.com/Perceive-Anything/PAM) - Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos
 - [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
 - [zhu-xlab/Copernicus-FM](https://github.com/zhu-xlab/Copernicus-FM) - Towards a Unified Copernicus Foundation Model for Earth Vision
-- [intelligent-vehicles/BEVDriver](https://github.com/intelligent-vehicles/BEVDriver) - Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving
+- [Intelligent-Vehicles-Lab-HM/BEVDriver](https://github.com/Intelligent-Vehicles-Lab-HM/BEVDriver) - Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving
 - [TommyZihao/Train_Custom_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset) - 标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
@@ -2122,7 +2122,7 @@
 - [2toinf/UniAct](https://github.com/2toinf/UniAct) - [CVPR 2025] The offical Implementation of "Universal Actions for Enhanced Embodied Foundation Models"
 - [jetteezhou/PhysVLM](https://github.com/jetteezhou/PhysVLM) - PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
 - [henry123-boy/SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2) - [ICCV 2025] SpatialTrackerV2: 3D Point Tracking Made Easy
-- [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - Code for Streaming 4D Visual Geometry Transformer
+- [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - [ICLR 2026] Streaming 4D Visual Geometry Transformer
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [KevinZ0217/fast_dinov2](https://github.com/KevinZ0217/fast_dinov2) - [NeurIPS '25] FastDINOv2: Frequency Based Curriculum Learning Improves Robustness and Training Speed
 - [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception".
@@ -2347,7 +2347,6 @@
 - [PacktPublishing/3D-Deep-Learning-with-Python](https://github.com/PacktPublishing/3D-Deep-Learning-with-Python) - 3D Deep Learning with Python, Published by Packt
 - [LMD0311/DAPT](https://github.com/LMD0311/DAPT) - [CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
 - [OpenGVLab/DCNv4](https://github.com/OpenGVLab/DCNv4) - [CVPR 2024] Deformable Convolution v4
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR 2024 & TPAMI 2025] UniRepLKNet
 - [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
@@ -4284,6 +4283,7 @@
 
 ## TypeScript 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
@@ -4295,6 +4295,7 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
 - [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
