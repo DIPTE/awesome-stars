@@ -3692,7 +3692,7 @@
 - [lemenkov/libyuv](https://github.com/lemenkov/libyuv) - Unofficial libyuv mirror. Please submit any issues or PRs upstream.
 - [swords123/IDA-3D](https://github.com/swords123/IDA-3D) - IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for Autonomous Driving, in CVPR2020
 - [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) - 
-- [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Ouster, Inc. sample code
+- [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Cross-platform C++ and Python SDK for Ouster LiDAR sensors. Includes tools for visualization, data recording/replay, and sensor configuration
 - [salesforce/ULIP](https://github.com/salesforce/ULIP) - 
 - [JIA-Lab-research/spconv-plus](https://github.com/JIA-Lab-research/spconv-plus) - 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
