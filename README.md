@@ -833,7 +833,7 @@
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [lemenkov/libyuv](https://github.com/lemenkov/libyuv) - Unofficial libyuv mirror. Please submit any issues or PRs upstream.
 - [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) - 
-- [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Ouster, Inc. sample code
+- [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Cross-platform C++ and Python SDK for Ouster LiDAR sensors. Includes tools for visualization, data recording/replay, and sensor configuration
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [hpi-xnor/BMXNet-v2](https://github.com/hpi-xnor/BMXNet-v2) - BMXNet 2: An Open-Source Binary Neural Network Implementation Based on MXNet
 - [12-10-8/HRNet_TensorRT](https://github.com/12-10-8/HRNet_TensorRT) - 
