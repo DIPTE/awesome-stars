@@ -1274,7 +1274,7 @@
 - [OmidPoursaeed/Self_supervised_Learning_Point_Clouds](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds) - Self-supervised Learning of Point Clouds via Orientation Estimation (3DV 2020)
 - [ajhamdi/MVTN](https://github.com/ajhamdi/MVTN) - pytorch implementation of the ICCV'21 paper "MVTN: Multi-View Transformation Network for 3D Shape Recognition"
 - [dkoguciuk/mesh2pointcloud](https://github.com/dkoguciuk/mesh2pointcloud) - A mini scripts to sample ModelNet40 or ShapeNetCore55v2 meshes into 3D point clouds
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable SOTA multi-object tracking modules modules for segmentation, object detection and pose estimation models
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable SOTA multi-object tracking modules for segmentation, object detection and pose estimation models
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [shanjiayao/PTT](https://github.com/shanjiayao/PTT) - Official PyTorch Implementation for "PTT: Point-Track-Transformer Module for 3D Single Object Trackingin Point Clouds"
 - [datamllab/autovideo](https://github.com/datamllab/autovideo) - AutoVideo: An Automated Video Action Recognition System
@@ -1928,7 +1928,7 @@
 - [BlackHC/tfpyth](https://github.com/BlackHC/tfpyth) - Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [dkoguciuk/mesh2pointcloud](https://github.com/dkoguciuk/mesh2pointcloud) - A mini scripts to sample ModelNet40 or ShapeNetCore55v2 meshes into 3D point clouds
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable SOTA multi-object tracking modules modules for segmentation, object detection and pose estimation models
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable SOTA multi-object tracking modules for segmentation, object detection and pose estimation models
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [xinshuoweng/AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - (IROS 2020, ECCVW 2020) Official Python Implementation for "3D Multi-Object Tracking: A Baseline and New Evaluation Metrics"
 - [extreme-assistant/Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team) - 国内外优秀的计算机视觉团队汇总，极市团队整理
@@ -3778,7 +3778,7 @@
 - [zju3dv/Vox-Fusion](https://github.com/zju3dv/Vox-Fusion) - Code for "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", ISMAR 2022
 - [zju3dv/Vox-Surf](https://github.com/zju3dv/Vox-Surf) - Code for "Vox-Surf: Voxel-based Implicit Surface Representation", TVCG 2022
 - [zju3dv/ENeRF](https://github.com/zju3dv/ENeRF) - SIGGRAPH Asia 2022: Code for "Efficient Neural Radiance Fields for Interactive Free-viewpoint Video"
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, MNN, PaddlePaddle and PyTorch.
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder
 - [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [DanceTrack/DanceTrack](https://github.com/DanceTrack/DanceTrack) - [CVPR2022] DanceTrack: Multiple Object Tracking in Uniform Appearance and Diverse Motion
