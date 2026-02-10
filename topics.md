@@ -3000,7 +3000,7 @@
 - [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
 - [onnx/optimizer](https://github.com/onnx/optimizer) - ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
-- [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
+- [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Interface-Driven OS Kernel for AI-Assisted Learning | 面向 AI 的操作系统学习项目
 - [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - [ECCV 2024] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 - [tyhuang0428/CLIP2Point](https://github.com/tyhuang0428/CLIP2Point) - [ICCV 2023] CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training
 - [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
@@ -5064,7 +5064,7 @@
 - [umyta/A-SCN](https://github.com/umyta/A-SCN) - Attentional ShapeContextNet for Point Cloud Recognition
 - [3DTINet/3DTINet](https://github.com/3DTINet/3DTINet) - 
 - [leondelee/PointGCN](https://github.com/leondelee/PointGCN) - 
-- [kevinke-zhang/ldgcnn](https://github.com/kevinke-zhang/ldgcnn) - Linked Dynamic Graph CNN: Learning through Point Cloud by Linking Hierarchical Features
+- [KuangenZhang/ldgcnn](https://github.com/KuangenZhang/ldgcnn) - Linked Dynamic Graph CNN: Learning through Point Cloud by Linking Hierarchical Features
 - [YiruS/KCNet](https://github.com/YiruS/KCNet) - Code for "Mining Point Cloud Local Structures by Kernel Correlation and Graph Max Pooling", CVPR, 2018.
 - [EnyaHermite/psicnn](https://github.com/EnyaHermite/psicnn) - Octree guided cnn with spherical kernels for 3D point clouds
 - [duanyueqi/SRN](https://github.com/duanyueqi/SRN) - Structural Relational Reasoning of Point Clouds
