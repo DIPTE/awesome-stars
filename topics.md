@@ -2267,7 +2267,7 @@
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
 - [mihajlov39547/RT-DETR-Seg](https://github.com/mihajlov39547/RT-DETR-Seg) - Real-Time Detection Transformer with Segmentation
-- [Active-SLAM/Active-SLAM-Paper-List](https://github.com/Active-SLAM/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
+- [CASIA-LONG/Active-SLAM-Paper-List](https://github.com/CASIA-LONG/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [983632847/Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) - A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.
 - [AutoLab-SAI-SJTU/AutoSeg3D](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D) - [NeurIPS 2025] AutoSeg3D, online real-time 3D segmentation as instance tracking with long-short term query memory for embodied perception
 - [Zency-Sun/YOLO-Deploy-QT_Interface](https://github.com/Zency-Sun/YOLO-Deploy-QT_Interface) - Visual QT interface for deploying YOLOv5 and YOLOv8
@@ -5777,7 +5777,7 @@
 ## reinforcement-learning 
 
 - [JIA-Lab-research/Seg-Zero](https://github.com/JIA-Lab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
-- [JIA-Lab-research/VisionReasoner](https://github.com/JIA-Lab-research/VisionReasoner) - Vision Manus: Your versatile Visual AI assistant
+- [JIA-Lab-research/VisionReasoner](https://github.com/JIA-Lab-research/VisionReasoner) - VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning
 - [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 - [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) - Tactics2D: A Reinforcement Learning Environment Library with Generative Scenarios for Driving Decision-making
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
