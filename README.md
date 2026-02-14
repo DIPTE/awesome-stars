@@ -2228,7 +2228,7 @@
 - [ayesha-ishaq/Open3DTrack](https://github.com/ayesha-ishaq/Open3DTrack) - Code for Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking
 - [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - [ICCV 2025] Improving 3D Large Language Model via Robust Instruction Tuning
 - [GenericMappingTools/pygmt](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
-- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, QGC, RTCM3, NTRIP & SPARTN Protocols
+- [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, UNIU, QGC, RTCM3, NTRIP & SPARTN Protocols
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [DaniloXiao/BEV-RoadSeg](https://github.com/DaniloXiao/BEV-RoadSeg) - BEV-RoadSeg for Freespace Detection in PyTorch, including Python onnx and tensorRT API versions.
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
@@ -2349,7 +2349,6 @@
 - [OpenGVLab/DCNv4](https://github.com/OpenGVLab/DCNv4) - [CVPR 2024] Deformable Convolution v4
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR 2024 & TPAMI 2025] UniRepLKNet
 - [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
-- [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
 - [shenlan2017/TensorRT-StableDiffusion](https://github.com/shenlan2017/TensorRT-StableDiffusion) - The Project of the Model Deployment course on ShenLan College
 - [MaxLeo-LMZ/BEVFusion_Learningnote](https://github.com/MaxLeo-LMZ/BEVFusion_Learningnote) - 本Fork代码仓库作为本人记录学习BEVFusion的学习笔记使用，会逐步理解代码并添加大量中文注释。 本仓库代码已参照《bevfusion单显卡训练/测试》做了单GPU训练和测试的修改。 并在本人主机上做过了测试。
 - [lxtGH/OMG-Seg](https://github.com/lxtGH/OMG-Seg) - Official Repo For OMG-LLaVA and OMG-Seg codebase [CVPR-24 and NeurIPS-24]
@@ -2462,8 +2461,6 @@
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models).
 - [qcraftai/distill-bev](https://github.com/qcraftai/distill-bev) - DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation (ICCV 2023)
 - [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
-- [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch
-- [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
@@ -2856,7 +2853,6 @@
 - [VISION-SJTU/PillarNet](https://github.com/VISION-SJTU/PillarNet) - [ECCV 2022] PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection
 - [rstrudel/segmenter](https://github.com/rstrudel/segmenter) - [ICCV2021] Official PyTorch implementation of Segmenter: Transformer for Semantic Segmentation
 - [placeforyiming/IROS21-FIDNet-SemanticKITTI](https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI) - An extremely simple, intuitive, hardware-friendly, and well-performing network structure for LiDAR semantic segmentation on 2D range image. IROS21
-- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 8.0 / 7.1 / 7.0 / 6.4 / 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 - [cqu20160901/yolov7_caffe_onnx_tensorRT_rknn_horizon](https://github.com/cqu20160901/yolov7_caffe_onnx_tensorRT_rknn_horizon) - yolov7 部署版本，后处理用python语言和C++语言形式进行改写，便于移植不同平台（caffe、onnx、tensorRT、RKNN、Horzion）。
 - [federicopozzi33/MobileOne-PyTorch](https://github.com/federicopozzi33/MobileOne-PyTorch) - A PyTorch implementation of MobileOne
@@ -3731,7 +3727,6 @@
 - [isaaccorley/simpleview-pytorch](https://github.com/isaaccorley/simpleview-pytorch) - PyTorch implementation of SimpleView from "Revisiting Point Cloud Classification with a Simple and Effective Baseline", Goyal et al. (2020)
 - [layumi/person-reid-3d](https://github.com/layumi/person-reid-3d) - TNNLS'22 :statue_of_liberty: Parameter-Efficient Person Re-identification in the 3D Space :statue_of_liberty:
 - [moeinp70/Point-Planenet](https://github.com/moeinp70/Point-Planenet) - Point-PlaneNet: Plane kernel based convolutional neural network for point clouds analysis
-- [lucidrains/perceiver-pytorch](https://github.com/lucidrains/perceiver-pytorch) - Implementation of Perceiver, General Perception with Iterative Attention, in Pytorch
 - [dogyoonlee/RSMix](https://github.com/dogyoonlee/RSMix) - [CVPR 2021 - Official] Rigid Subset Mix (RSMix): Regularization Strategy for Point Cloud via Rigidly Mixed Samples
 - [pyni/PointNet2_Grasping_Data_Part](https://github.com/pyni/PointNet2_Grasping_Data_Part) - The dataset of our paper for ICRA 2020
 - [feihuzhang/LiDARSeg](https://github.com/feihuzhang/LiDARSeg) - 
@@ -3800,7 +3795,6 @@
 - [Jittor/PointCloudLib](https://github.com/Jittor/PointCloudLib) - Jittor Library for Point Cloud Processing
 - [AutoVision-cloud/SA-Det3D](https://github.com/AutoVision-cloud/SA-Det3D) - [ICCVW-2021] SA-Det3D: Self-attention based Context-Aware 3D Object Detection
 - [cuge1995/PointCutMix](https://github.com/cuge1995/PointCutMix) - our code for paper 'PointCutMix: Regularization Strategy for Point Cloud Classification', Neurocomputing, 2022
-- [lucidrains/point-transformer-pytorch](https://github.com/lucidrains/point-transformer-pytorch) - Implementation of the Point Transformer layer, in Pytorch
 - [chih-hao-lin/3dgcn](https://github.com/chih-hao-lin/3dgcn) - Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis
 - [yucornetto/CAKES](https://github.com/yucornetto/CAKES) - This repository contains the code for our AAAI2021 paper CAKES: Channel-wise Automatic KErnel Shrinking for Efficient 3D Networks.
 - [nightsnack/YOLObile](https://github.com/nightsnack/YOLObile) - This is the implementation of YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design
