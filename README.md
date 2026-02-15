@@ -1874,7 +1874,6 @@
 - [laisimiao/3D-VL-SOT](https://github.com/laisimiao/3D-VL-SOT) - 
 - [memberRE/Collaborative-Perception](https://github.com/memberRE/Collaborative-Perception) - 
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
-- [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [tdzdog/SEFormer](https://github.com/tdzdog/SEFormer) - AAAI2023: SEFormer: Structure Embedding Transformer for 3D Object Detection
 - [OpenPerceptionX/PersFormer_3DLane](https://github.com/OpenPerceptionX/PersFormer_3DLane) - [ECCV2022 oral] Perspective Transformer on 3D Lane Detection
@@ -4215,6 +4214,7 @@
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [Fruit-Pi/rockchip-test](https://github.com/Fruit-Pi/rockchip-test) - 
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+- [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
 - [ChisBread/rk3588-gaming-step-by-step](https://github.com/ChisBread/rk3588-gaming-step-by-step) - 只有中文! 一步步教你在RK3588(Debian-based OS)上运行各种游戏
 - [hmxf/can_xavier](https://github.com/hmxf/can_xavier) - CAN Bus Drive Script
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
