@@ -342,7 +342,7 @@
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
 - [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - [IROS 2025] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU.
-- [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM [TRO]🚀
+- [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - [TRO 2025] AirVO upgrades to AirSLAM
 - [gisbi-kim/SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM) - Robust LiDAR SLAM with a versatile plug-and-play loop closing and pose-graph optimization.
 - [ZikangYuan/sr_lio](https://github.com/ZikangYuan/sr_lio) - [IROS 2024] A  LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency
 - [ZikangYuan/dynamic_lio](https://github.com/ZikangYuan/dynamic_lio) - [IROS 2025] A LiDAR-inertial odometry for dynamic environments
@@ -2101,7 +2101,7 @@
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code–like agent, built from 0 to 1.
 - [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
 - [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - [ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 - [zxcv616/GeoSAM2](https://github.com/zxcv616/GeoSAM2) - 
