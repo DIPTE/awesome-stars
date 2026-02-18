@@ -2292,7 +2292,7 @@
 - [TangYuan96/MiniGPT-3D](https://github.com/TangYuan96/MiniGPT-3D) - [MM 2024] [Need only a 3090] MiniGPT-3D: Efficiently Aligning 3D Point Clouds with  Large Language Models using 2D Priors
 - [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) - [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving
 - [I2-Multimedia-Lab/Pointsoup](https://github.com/I2-Multimedia-Lab/Pointsoup) - [IJCAI 2024] Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes
-- [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection"
+- [uulm-mrm/mmood3d](https://github.com/uulm-mrm/mmood3d) - [IV 2024] Official code for "Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection". [ITSC 2025] ALOOD coming soon!
 - [jaiwei98/MobileNetV4-pytorch](https://github.com/jaiwei98/MobileNetV4-pytorch) - An unofficial implementation of MobileNetV4 in Pytorch
 - [RUC-GSAI/YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat) - YuLan: An Open-Source Large Language Model
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
