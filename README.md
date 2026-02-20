@@ -165,7 +165,7 @@
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [xiph/opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
 - [Francklin2/RTKLIB_Touchscreen_GUI](https://github.com/Francklin2/RTKLIB_Touchscreen_GUI) - RTKLIB GUI for Raspberry Pi with  touchscreen made with Qt by the ENSG students
 - [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
@@ -818,7 +818,7 @@
 - [Tartisan/MMDet3d-PointPillars](https://github.com/Tartisan/MMDet3d-PointPillars) - PointPillars TensorRT version pretrained on MMDetection3d with WaymoOpenDataset
 - [fateshelled/rknpu2_ros](https://github.com/fateshelled/rknpu2_ros) - ROS 2 Inference sample for using Rockchip NPU.
 - [olibartfast/yolov4-triton-cpp-client](https://github.com/olibartfast/yolov4-triton-cpp-client) - 
-- [olibartfast/vision-inference](https://github.com/olibartfast/vision-inference) - C++ framework for computer vision inference, supporting multiple vision tasks and deep learning backends.
+- [olibartfast/vision-inference](https://github.com/olibartfast/vision-inference) - C++ app for computer vision inference, supporting multiple tasks and backends.
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
@@ -2101,6 +2101,7 @@
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
 - [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
 - [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - [ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 - [zxcv616/GeoSAM2](https://github.com/zxcv616/GeoSAM2) - 
@@ -4279,7 +4280,6 @@
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
