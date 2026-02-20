@@ -3629,7 +3629,7 @@
 - [Tiryoh/ros2_setup_scripts_ubuntu](https://github.com/Tiryoh/ros2_setup_scripts_ubuntu) - 🔧 unofficial ROS 2 install/setup scripts for Ubuntu
 - [Loahit5101/PointPillars-Camera-LiDAR-Fusion](https://github.com/Loahit5101/PointPillars-Camera-LiDAR-Fusion) - Implementation of PointPillars Network with LiDAR-camera fusion for 3D Object Detection in Autonomous Driving.
 - [olibartfast/yolov4-triton-cpp-client](https://github.com/olibartfast/yolov4-triton-cpp-client) - 
-- [olibartfast/vision-inference](https://github.com/olibartfast/vision-inference) - C++ framework for computer vision inference, supporting multiple vision tasks and deep learning backends.
+- [olibartfast/vision-inference](https://github.com/olibartfast/vision-inference) - C++ app for computer vision inference, supporting multiple tasks and backends.
 - [gigo-team/bev_lane_det](https://github.com/gigo-team/bev_lane_det) - 
 - [once-3dlanes/once_3dlanes_benchmark](https://github.com/once-3dlanes/once_3dlanes_benchmark) - 
 - [yuliangguo/3D_Lane_Synthetic_Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) - This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.
@@ -3702,7 +3702,7 @@
 - [ethz-asl/maplab](https://github.com/ethz-asl/maplab) - A Modular and Multi-Modal Mapping Framework
 - [alibaba/x-deeplearning](https://github.com/alibaba/x-deeplearning) - An industrial deep learning framework for high-dimension sparse data
 - [google-coral/test_data](https://github.com/google-coral/test_data) - Trained and compiled TF Lite models, and other testing data for Coral devices
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [Oneflow-Inc/oneflow-yolo-doc](https://github.com/Oneflow-Inc/oneflow-yolo-doc) - https://start.oneflow.org/oneflow-yolo-doc
 - [pytorch/torchdynamo](https://github.com/pytorch/torchdynamo) - A Python-level JIT compiler designed to make unmodified PyTorch programs faster.
 - [ENOT-AutoDL/ONNX-Runtime-with-TensorRT-and-OpenVINO](https://github.com/ENOT-AutoDL/ONNX-Runtime-with-TensorRT-and-OpenVINO) - Docker scripts for building ONNX Runtime with TensorRT and OpenVINO in manylinux environment
