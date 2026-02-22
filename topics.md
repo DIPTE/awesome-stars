@@ -278,7 +278,7 @@
 
 ## agent 
 
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -716,7 +716,7 @@
 - [realsenseai/librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 - [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
-- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
+- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!!
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [nearthlab/SiamMaskCpp](https://github.com/nearthlab/SiamMaskCpp) - C++ Implementation of SiamMask
@@ -822,7 +822,7 @@
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [lightaime/sgas](https://github.com/lightaime/sgas) - SGAS: Sequential Greedy Architecture Search (CVPR'2020) https://www.deepgcns.org/auto/sgas
 - [iboing/CliqueNet](https://github.com/iboing/CliqueNet) - Convolutional Neural Networks with Alternately Updated Clique (to appear in CVPR 2018)
-- [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+- [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [extreme-assistant/CVPR2024-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation) - cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
 - [raoyongming/PointGLR](https://github.com/raoyongming/PointGLR) - [CVPR 2020] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds
 - [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv) - Gluon CV Toolkit
@@ -1307,7 +1307,7 @@
 - [iboing/CliqueNet](https://github.com/iboing/CliqueNet) - Convolutional Neural Networks with Alternately Updated Clique (to appear in CVPR 2018)
 - [orendv/learning_to_sample](https://github.com/orendv/learning_to_sample) - A learned sampling approach for point clouds (CVPR 2019)
 - [V2AI/Det3D](https://github.com/V2AI/Det3D) - World's first general purpose 3D object detection codebse.
-- [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+- [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [extreme-assistant/CVPR2024-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation) - cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
 - [PyRetri/PyRetri](https://github.com/PyRetri/PyRetri) - Open source deep learning based unsupervised image retrieval toolbox built on PyTorch🔥
 - [torch-points3d/torch-points3d](https://github.com/torch-points3d/torch-points3d) - Pytorch framework for doing deep learning on point clouds.
@@ -1600,7 +1600,7 @@
 - [lijx10/DeepI2P](https://github.com/lijx10/DeepI2P) - DeepI2P: Image-to-Point Cloud Registration via Deep Classification. CVPR 2021
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
-- [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+- [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 
 ## instagram 
 
@@ -1733,7 +1733,7 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -1934,7 +1934,7 @@
 - [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [ranahanocka/MeshCNN](https://github.com/ranahanocka/MeshCNN) - Convolutional Neural Network for 3D meshes in PyTorch
-- [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+- [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [extreme-assistant/CVPR2024-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation) - cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
 - [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv) - Gluon CV Toolkit
 - [yassersouri/pytorch-deep-sets](https://github.com/yassersouri/pytorch-deep-sets) - PyTorch re-implementation of parts of "Deep Sets" (NIPS 2017)
@@ -2245,7 +2245,7 @@
 - [cvdong/trtinfer_yolo26](https://github.com/cvdong/trtinfer_yolo26) - yolo26 TensorRT 推理 🤡
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
-- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
+- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 - [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
@@ -3075,7 +3075,7 @@
 - [uestc-icsp/VoxelMapPlus_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
 - [MISTLab/Intensity_based_LiDAR_SLAM](https://github.com/MISTLab/Intensity_based_LiDAR_SLAM) - Real-Time Simultaneous Localization and Mapping with LiDAR intensity
 - [CASIA-LMC-Lab/AnomalyGPT](https://github.com/CASIA-LMC-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
-- [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
+- [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - [ICCV 2023] Official repository of FLatten Transformer
 - [LeapLabTHU/LAUDNet](https://github.com/LeapLabTHU/LAUDNet) - [IEEE TPAMI] Latency-aware Unified Dynamic Networks for Efficient Image Recognition
 - [dongzhenwhu/Research-Groups-of-Point-Cloud-Processing](https://github.com/dongzhenwhu/Research-Groups-of-Point-Cloud-Processing) - 国内外点云处理著名的研究小组和学者
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
@@ -5276,7 +5276,7 @@
 
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 - [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
@@ -5389,7 +5389,7 @@
 - [meta-pytorch/tnt](https://github.com/meta-pytorch/tnt) - A lightweight library for PyTorch training tools and utilities
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [teadocs/matplotlib-cn](https://github.com/teadocs/matplotlib-cn) - matplotlib中文文档
-- [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+- [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [wolfbolin/BiliUtil](https://github.com/wolfbolin/BiliUtil) - Bilibili.com视频批量下载工具包
 - [mmatl/pyrender](https://github.com/mmatl/pyrender) - Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.
 - [griegler/octnet](https://github.com/griegler/octnet) - OctNet: Learning Deep 3D Representations at High Resolutions
