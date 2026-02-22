@@ -2015,7 +2015,7 @@
 - [daniilidis-group/swscnn](https://github.com/daniilidis-group/swscnn) - Demo source code for the paper "Spin-Weighted Spherical CNNs".
 - [lartpang/PyTorchTricks](https://github.com/lartpang/PyTorchTricks) - Some tricks of pytorch... :star:
 - [sshaoshuai/PV-RCNN](https://github.com/sshaoshuai/PV-RCNN) - PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection, CVPR 2020.
-- [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+- [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [haozhangcn/paper-computer-vision](https://github.com/haozhangcn/paper-computer-vision) - Computer vision papers
 - [extreme-assistant/awesomeCV](https://github.com/extreme-assistant/awesomeCV) - 记录state-of-art计算机视觉相关论文。
 - [extreme-assistant/CVPR2024-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation) - cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
@@ -2061,7 +2061,7 @@
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
 - [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
-- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - LitePT: Lighter Yet Stronger Point Transformer
+- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 - [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
@@ -2585,7 +2585,7 @@
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [CASIA-LMC-Lab/AnomalyGPT](https://github.com/CASIA-LMC-Lab/AnomalyGPT) - [AAAI 2024 Oral] AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models
-- [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - Official repository of FLatten Transformer (ICCV2023)
+- [LeapLabTHU/FLatten-Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) - [ICCV 2023] Official repository of FLatten Transformer
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
 - [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2708,7 +2708,7 @@
 - [VVRPanda/ExpPoint-MAE](https://github.com/VVRPanda/ExpPoint-MAE) - 
 - [CGuangyan-BIT/PointGPT](https://github.com/CGuangyan-BIT/PointGPT) - [NeurIPS 2023] PointGPT: Auto-regressively Generative Pre-training from Point Clouds
 - [haochengxi/Train_Transformers_with_INT4](https://github.com/haochengxi/Train_Transformers_with_INT4) - 
-- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
+- [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!!
 - [ChuRuaNh0/FastSam_Awsome_TensorRT](https://github.com/ChuRuaNh0/FastSam_Awsome_TensorRT) - 
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 - [BooHwang/segment_anything_tensorrt](https://github.com/BooHwang/segment_anything_tensorrt) - Accelerate segment anything model inference using Tensorrt 8.6.1.6
@@ -4279,7 +4279,7 @@
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
