@@ -181,6 +181,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -2299,7 +2300,6 @@
 - [cammarasana123/weightedConvolution2.0](https://github.com/cammarasana123/weightedConvolution2.0) - Weighted Convolution 2.0
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
-- [WangXuan95/FPGA-FOC](https://github.com/WangXuan95/FPGA-FOC) - An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [zhaofuq/LOD-3DGS](https://github.com/zhaofuq/LOD-3DGS) - LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian(Published in SIGGRAPH Asia 2024)
 - [ADrownFish/RoboticUserInterface](https://github.com/ADrownFish/RoboticUserInterface) - Qt自定义机器人上位机软件，内置默认插件或自定义插件。多种通信方式（TCP/UDP/蓝牙/串口）和协议解析方案（插件/蓝牙/浮点数/Json/Csv）。具备大数据量并行可视化曲线、串口调试、原始数据流、Urdf模型加载及椭球拟合。Qt custom robot host software, built-in default plug-ins or custom plug-ins. TCP/UDP/
@@ -2983,7 +2983,7 @@
 - [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
 - [darkpgmr/DarkLabel](https://github.com/darkpgmr/DarkLabel) - Video/Image Labeling and Annotation Tool
 - [VisualComputingInstitute/mots_tools](https://github.com/VisualComputingInstitute/mots_tools) - Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
-- [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - [ICLR2024] TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning
+- [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - [ICLR 2024] TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning
 - [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
 - [onnx/optimizer](https://github.com/onnx/optimizer) - ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
@@ -3861,7 +3861,6 @@
 - [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [YizhenLAO/FEC](https://github.com/YizhenLAO/FEC) - 
 - [LittlePey/SFD-TWISE](https://github.com/LittlePey/SFD-TWISE) - 
-- [lvyufeng/step_into_mips](https://github.com/lvyufeng/step_into_mips) - 一步一步写MIPS CPU
 - [grispeut/TSD_mindspore](https://github.com/grispeut/TSD_mindspore) - 第三届华为云无人车挑战杯复赛Top1方案分享, Traffic sign detection, yolov4, mindspore
 - [pprp/GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) - 基于MindSpore AI框架实现零售商品识别 top1方案
 - [mindspore-lab/mindface](https://github.com/mindspore-lab/mindface) - MindFace is an open source toolkit based on MindSpore, containing the most advanced face recognition and detection models, such as ArcFace, RetinaFace and other models
@@ -4204,7 +4203,6 @@
 - [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook) - 
 - [raulmur/ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 - [karthickai/tflite](https://github.com/karthickai/tflite) - TensorFlow Lite (tflite) C++ Series
-- [LeiWang1999/ZYNQ-NVDLA](https://github.com/LeiWang1999/ZYNQ-NVDLA) - NVDLA (An Opensource DL Accelerator Framework) implementation on FPGA.
 - [zherlock030/YOLOv5_Torchscript](https://github.com/zherlock030/YOLOv5_Torchscript) - C++ code for running a yolov5s model.
 - [louis-she/torchscript-demos](https://github.com/louis-she/torchscript-demos) - A brief of TorchScript by MNIST
 - [Derekduke/facemask_detect](https://github.com/Derekduke/facemask_detect) - 基于C++使用华为MindSpore Lite实现口罩检测算法的端侧部署，使用Tensorflow Lite的Python接口在上位机做了模型验证
@@ -6091,6 +6089,12 @@
 
 - [brifsttar/OpenDRIVE](https://github.com/brifsttar/OpenDRIVE) - Unreal Engine OpenDRIVE plugin
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+
+## verilog 
+
+- [WangXuan95/FPGA-FOC](https://github.com/WangXuan95/FPGA-FOC) - An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。
+- [lvyufeng/step_into_mips](https://github.com/lvyufeng/step_into_mips) - 一步一步写MIPS CPU
+- [LeiWang1999/ZYNQ-NVDLA](https://github.com/LeiWang1999/ZYNQ-NVDLA) - NVDLA (An Opensource DL Accelerator Framework) implementation on FPGA.
 
 ## video 
 
