@@ -466,7 +466,7 @@
 ## awesome 
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method
 - [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 - [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) - Collect some World Models for Autonomous Driving (and Robotic, etc.) papers.
@@ -4271,7 +4271,7 @@
 - [AgentMaker/PAPC](https://github.com/AgentMaker/PAPC) - PAPC is a deep learning for point clouds platform based on pure PaddlePaddle
 - [tyagi-iiitv/PointPillars](https://github.com/tyagi-iiitv/PointPillars) - 
 - [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
-- [guochengqian/openpoints](https://github.com/guochengqian/openpoints) - OpenPoints: a library for easily reproducing point-based methods for point cloud understanding. The engine for [PointNeXt](https://arxiv.org/abs/2206.04670)
+- [guochengqian/openpoints](https://github.com/guochengqian/openpoints) - OpenPoints: a library for easily reproducing point-based methods for point cloud understanding. The engine for [ASSANet](https://arxiv.org/abs/2110.10538), [PointNeXt](https://arxiv.org/abs/2206.04670
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 - [Lam1360/YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) - 在 oxford hand 数据集上对 YOLOv3 做模型剪枝（network slimming）
 - [miseon119/onnx-graphsurgeon-notes](https://github.com/miseon119/onnx-graphsurgeon-notes) - 
