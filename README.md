@@ -1802,7 +1802,7 @@
 - [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi) - LeKiwi - Low-Cost Mobile Manipulator
 - [SIGRobotics-UIUC/LeKiwi-sim](https://github.com/SIGRobotics-UIUC/LeKiwi-sim) - 
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [xuqingyuan2000/LP-ICP](https://github.com/xuqingyuan2000/LP-ICP) - 
 - [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -3329,7 +3329,7 @@
 - [AgentMaker/PAPC](https://github.com/AgentMaker/PAPC) - PAPC is a deep learning for point clouds platform based on pure PaddlePaddle
 - [tyagi-iiitv/PointPillars](https://github.com/tyagi-iiitv/PointPillars) - 
 - [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
-- [guochengqian/openpoints](https://github.com/guochengqian/openpoints) - OpenPoints: a library for easily reproducing point-based methods for point cloud understanding. The engine for [PointNeXt](https://arxiv.org/abs/2206.04670)
+- [guochengqian/openpoints](https://github.com/guochengqian/openpoints) - OpenPoints: a library for easily reproducing point-based methods for point cloud understanding. The engine for [ASSANet](https://arxiv.org/abs/2110.10538), [PointNeXt](https://arxiv.org/abs/2206.04670
 - [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) - [ICRA'23] BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation
 - [Lam1360/YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) - 在 oxford hand 数据集上对 YOLOv3 做模型剪枝（network slimming）
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
