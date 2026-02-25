@@ -409,7 +409,7 @@
 
 ## arduino 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
 ## artificial-intelligence 
@@ -1427,7 +1427,7 @@
 
 ## embedded 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [CANopenNode/CANopenLinux](https://github.com/CANopenNode/CANopenLinux) - CANopenNode on Linux devices
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
@@ -1620,7 +1620,7 @@
 
 ## iot 
 
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
@@ -5704,7 +5704,7 @@
 
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Cross-platform telemetry visualization application for real-time data monitoring and analysis from multiple sources.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [facontidavide/rosbag_editor](https://github.com/facontidavide/rosbag_editor) - Create a rosbag from a given one, using a simple GUI
 - [alex-hjm/cloudtool](https://github.com/alex-hjm/cloudtool) - A 3D point cloud processing software base on PCL and QT.
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
