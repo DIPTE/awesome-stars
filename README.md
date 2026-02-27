@@ -2145,7 +2145,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 - [Yaepiii/M2UD](https://github.com/Yaepiii/M2UD) - 
-- [dk-liang/UniFuture](https://github.com/dk-liang/UniFuture) - [ICRA 2026] A Unified Driving World Model for Future Generation and Perception
+- [dk-liang/UniFuture](https://github.com/dk-liang/UniFuture) - [ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception
 - [truebelief/artemis_treeiso](https://github.com/truebelief/artemis_treeiso) - TLS tree isolation/segmentation code
 - [a-zhui/nsfw_detection](https://github.com/a-zhui/nsfw_detection) - 
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
