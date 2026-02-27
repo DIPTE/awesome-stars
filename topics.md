@@ -473,7 +473,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
-- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
@@ -493,7 +493,7 @@
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
-- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
@@ -724,7 +724,7 @@
 - [foolwood/SiamMask](https://github.com/foolwood/SiamMask) - [CVPR19/TPAMI23] SiamMask: A Framework for Fast Online Object Tracking and Segmentation
 - [astra-vision/MonoScene](https://github.com/astra-vision/MonoScene) - [CVPR 2022] "MonoScene: Monocular 3D Semantic Scene Completion": 3D Semantic Occupancy Prediction from a single image
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
-- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 - [tusen-ai/LiDAR_SOT](https://github.com/tusen-ai/LiDAR_SOT) - 
 - [GeekAlexis/FastMOT](https://github.com/GeekAlexis/FastMOT) - High-performance multiple object tracking based on YOLO, Deep SORT, and KLT 🚀
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
@@ -1098,7 +1098,7 @@
 - [astra-vision/MonoScene](https://github.com/astra-vision/MonoScene) - [CVPR 2022] "MonoScene: Monocular 3D Semantic Scene Completion": 3D Semantic Occupancy Prediction from a single image
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
-- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 - [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256K
 - [GeekAlexis/FastMOT](https://github.com/GeekAlexis/FastMOT) - High-performance multiple object tracking based on YOLO, Deep SORT, and KLT 🚀
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
@@ -1449,7 +1449,6 @@
 
 ## flask 
 
-- [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 
 ## flutter 
@@ -2249,7 +2248,7 @@
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
-- [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - 🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
+- [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - [CVPR2026]🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
 - [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2) - [DEIMv2] Real Time Object Detection Meets DINOv3
 - [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
 - [shawnliang420/AerialMind](https://github.com/shawnliang420/AerialMind) - 
@@ -2352,7 +2351,7 @@
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 - [suhaisheng/UniMamba](https://github.com/suhaisheng/UniMamba) - Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection
 - [Yaepiii/M2UD](https://github.com/Yaepiii/M2UD) - 
-- [dk-liang/UniFuture](https://github.com/dk-liang/UniFuture) - [ICRA 2026] A Unified Driving World Model for Future Generation and Perception
+- [dk-liang/UniFuture](https://github.com/dk-liang/UniFuture) - [ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception
 - [truebelief/artemis_treeiso](https://github.com/truebelief/artemis_treeiso) - TLS tree isolation/segmentation code
 - [hanlin-cheng/slam-study-note](https://github.com/hanlin-cheng/slam-study-note) - 生活不易，靓仔叹气（做好笔记）
 - [a-zhui/nsfw_detection](https://github.com/a-zhui/nsfw_detection) - 
@@ -5837,7 +5836,7 @@
 - [UMich-BipedLab/LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - This is a package for LiDARTag, described in paper: LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
 - [karlkurzer/path_planner](https://github.com/karlkurzer/path_planner) - Hybrid A* Path Planner for the KTH Research Concept Vehicle
 - [monsiw/object-detection-yolo](https://github.com/monsiw/object-detection-yolo) - The project aims to use a trained model in the YOLO network to detect objects that will be detected by the robot structure with a computer on which ROS has been installed. ROS manages the individual p
-- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 - [MaverickPeter/DiSCO-pytorch](https://github.com/MaverickPeter/DiSCO-pytorch) - Differentiable Scan Context with Orientation
 - [neka-nat/cupoch](https://github.com/neka-nat/cupoch) - Robotics with GPU computing
 - [mithi/fusion-ukf](https://github.com/mithi/fusion-ukf) - An unscented Kalman Filter implementation for fusing lidar and radar sensor measurements.
