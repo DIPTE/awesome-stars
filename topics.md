@@ -1498,7 +1498,7 @@
 
 ## gis 
 
-- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - 3D Maps & Terrain SDK / C++17
+- [pelicanmapping/osgearth](https://github.com/pelicanmapping/osgearth) - 3D Maps & Terrain SDK (C++)
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 - [Amsterdam-AI-Team/Urban_PointCloud_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
@@ -2228,7 +2228,7 @@
 
 ## opengl 
 
-- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - 3D Maps & Terrain SDK / C++17
+- [pelicanmapping/osgearth](https://github.com/pelicanmapping/osgearth) - 3D Maps & Terrain SDK (C++)
 - [koide3/iridescence](https://github.com/koide3/iridescence) - Visualization library for rapid prototyping of 3D algorithms [C++, Python]
 - [cgtuebingen/pointcloud-viewer](https://github.com/cgtuebingen/pointcloud-viewer) - Efficient Large-Scale Point-Cloud Viewer based on OpenGL
 - [jbehley/SuMa](https://github.com/jbehley/SuMa) - Surfel-based Mapping for 3d Laser Range Data (SuMa)
@@ -5483,7 +5483,7 @@
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [karimknaebel/point2vec](https://github.com/karimknaebel/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
-- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia, Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 - [yahuiliu99/PointConT](https://github.com/yahuiliu99/PointConT) - Official implementation of the paper "Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space"
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
