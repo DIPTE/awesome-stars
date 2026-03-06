@@ -89,7 +89,7 @@
 - [NVlabs/DeepIM-PyTorch](https://github.com/NVlabs/DeepIM-PyTorch) - PyTorch implementation of the DeepIM framework
 - [MaJerle/stm32-usart-uart-dma-rx-tx](https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx) - STM32 examples for USART using DMA for efficient RX and TX transmission
 - [NingZiXi/battery_monitor](https://github.com/NingZiXi/battery_monitor) - battery_monitor 是一个用于监测电池电量和电压的模块，基于 ESP-IDF 的 ADC（模数转换器）功能。该模块通过测量电池电压，计算出电池的剩余电量百分比，并提供了相应的 API 接口。
-- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - 3D Maps & Terrain SDK / C++17
+- [pelicanmapping/osgearth](https://github.com/pelicanmapping/osgearth) - 3D Maps & Terrain SDK (C++)
 - [airockchip/rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
 - [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -1182,7 +1182,7 @@
 - [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) - Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems
 - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - 🍅🍅🍅YOLOv5-Lite: Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.7M (fp16). Reach 15 FPS on the Raspberry Pi 4B~
 - [hpc203/yolov5-lite-onnxruntime](https://github.com/hpc203/yolov5-lite-onnxruntime) - 使用ONNXRuntime部署yolov5-lite目标检测，包含C++和Python两个版本的程序
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 - [techshoww/mnn-yolov5](https://github.com/techshoww/mnn-yolov5) - Imported from https://gitee.com/techshoww/mnn-yolov5.
 - [fangchuan/serialPortHelper](https://github.com/fangchuan/serialPortHelper) - 串口小助手程序，刻画出四通道曲线波形、接收视频、加载谷歌地图
 - [DLR-RM/3DObjectTracking](https://github.com/DLR-RM/3DObjectTracking) - Algorithms and Publications on 3D Object Tracking
@@ -2467,7 +2467,7 @@
 - [megvii-research/CVPR2023-UniDistill](https://github.com/megvii-research/CVPR2023-UniDistill) - CVPR2023 (highlight) - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View
 - [torchpipe/torchpipe](https://github.com/torchpipe/torchpipe) - Serving Inside Pytorch
 - [wayveai/fiery](https://github.com/wayveai/fiery) - PyTorch code for the paper "FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras"
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [zju3dv/4K4D](https://github.com/zju3dv/4K4D) - [CVPR 2024] 4K4D: Real-Time 4D View Synthesis at 4K Resolution
 - [shalfun/DrivingDiffusion](https://github.com/shalfun/DrivingDiffusion) - [ECCV 2024] Officially implement of the paper "DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model".
 - [umautobots/LONER](https://github.com/umautobots/LONER) - [RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
@@ -2794,7 +2794,7 @@
 - [JIA-Lab-research/Imbalanced-Learning](https://github.com/JIA-Lab-research/Imbalanced-Learning) - Imbalanced learning tool for imbalanced recognition and segmentation
 - [JIA-Lab-research/SparseTransformer](https://github.com/JIA-Lab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
 - [JIA-Lab-research/Stratified-Transformer](https://github.com/JIA-Lab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
-- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia, Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 - [JIA-Lab-research/SphereFormer](https://github.com/JIA-Lab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
 - [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - Long Range 3D Perception - VoxelNeXt (CVPR 2023)
 - [exiawsh/StreamPETR](https://github.com/exiawsh/StreamPETR) - [ICCV 2023] StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection
