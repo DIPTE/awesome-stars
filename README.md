@@ -1488,7 +1488,7 @@
 - [HGao-cv/VADv2](https://github.com/HGao-cv/VADv2) - project page of "VAD v2: LLM-Like Probabilistic Modeling in End-to-End Autonomous Driving"
 - [DiT-3D/FastDiT-3D](https://github.com/DiT-3D/FastDiT-3D) - 
 - [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, MiniMax. LLM-powered agentic security camera agent — watches, understan
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [OpenMask3D/openmask3d.github.io](https://github.com/OpenMask3D/openmask3d.github.io) - 
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
@@ -2096,7 +2096,7 @@
 - [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
 - [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - [ICLR 2026] Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
-- [NVlabs/PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
+- [nvidia-isaac/PyCuVSLAM](https://github.com/nvidia-isaac/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
