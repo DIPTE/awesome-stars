@@ -512,7 +512,6 @@
 - [ChenZjut/ROS_LaneATT](https://github.com/ChenZjut/ROS_LaneATT) - 
 - [wep21/CUDA-TransFusion](https://github.com/wep21/CUDA-TransFusion) - 
 - [CYYAI/AiInfer](https://github.com/CYYAI/AiInfer) - 
-- [yhwang-hub/dl_model_infer](https://github.com/yhwang-hub/dl_model_infer) - 🚀🚀🚀This is an AI high-performance reasoning C++ library, Currently supports the deployment of yolov5, yolov7, yolov7-pose, yolov8, yolov8-seg, yolov8-pose, yolov8-obb, yolox, RTDETR, DETR, depth-anyth
 - [fpeanut/Pointpillar_tensorrt](https://github.com/fpeanut/Pointpillar_tensorrt) - pointpillar mmdeteion3d model Tensorrt deployment, improved and faster
 - [rand0md00r/centerpoint_detector_ros](https://github.com/rand0md00r/centerpoint_detector_ros) - 
 - [wayyeah/PointPillarTensorRT-ROS](https://github.com/wayyeah/PointPillarTensorRT-ROS) - PointPillar with TensorRT and ROS 1 for Visualization
