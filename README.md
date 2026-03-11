@@ -149,6 +149,7 @@
 - [zombieCraig/ICSim](https://github.com/zombieCraig/ICSim) - Instrument Cluster Simulator
 - [mit-han-lab/tinyengine](https://github.com/mit-han-lab/tinyengine) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256K
 - [MUZLATAN/ffmpeg_rtsp_mpp](https://github.com/MUZLATAN/ffmpeg_rtsp_mpp) - ffmpeg 拉取rtsp h264流， 使用mpp解码， 目前在firefly 板子上跑通了
+- [rockchip-linux/mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
 - [littlebearsama/xxCu3Dlibrary](https://github.com/littlebearsama/xxCu3Dlibrary) - cuda 加速3D点云算法库，持续更新（含cudaicp，glfw点云可视化等）
 - [linux-can/can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
 - [jmcglad/socketcan-demo](https://github.com/jmcglad/socketcan-demo) - Contains a set of example programs which highlight how to make use of SocketCAN on Linux
@@ -257,6 +258,7 @@
 - [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 - [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
+- [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 - [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - [IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction
 - [ethz-asl/versavis](https://github.com/ethz-asl/versavis) - An Open Versatile Multi-Camera Visual-Inertial Sensor Suite
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -2057,6 +2059,7 @@
 
 ## Python 
 
+- [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
 - [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
@@ -2095,7 +2098,6 @@
 - [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
 - [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - [ICLR 2026] Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
-- [nvidia-isaac/PyCuVSLAM](https://github.com/nvidia-isaac/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
