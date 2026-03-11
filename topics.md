@@ -1015,6 +1015,7 @@
 
 ## deep-learning 
 
+- [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 - [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch) - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)
 - [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -2292,7 +2293,7 @@
 - [fukexue/DFAT](https://github.com/fukexue/DFAT) - The official implementation of “Dual Focus-Attention Transformer for Robust Point Cloud Registration”(CVPR2025)
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 - [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
-- [nvidia-isaac/PyCuVSLAM](https://github.com/nvidia-isaac/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
+- [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 - [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - [IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction
 - [ziv-lin/rxlive_handheld](https://github.com/ziv-lin/rxlive_handheld) - 
 - [hku-mars/Livox_handheld](https://github.com/hku-mars/Livox_handheld) - 
@@ -3541,6 +3542,7 @@
 - [MUZLATAN/ffmpeg_rtsp_mpp](https://github.com/MUZLATAN/ffmpeg_rtsp_mpp) - ffmpeg 拉取rtsp h264流， 使用mpp解码， 目前在firefly 板子上跑通了
 - [WainDing/mpp_linux_cpp](https://github.com/WainDing/mpp_linux_cpp) - a demo shows that how to use rockchip mpp framework in linux
 - [NVlabs/SegFormer](https://github.com/NVlabs/SegFormer) - Official PyTorch implementation of SegFormer
+- [rockchip-linux/mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
 - [hufman/rockchip-linux-rga](https://github.com/hufman/rockchip-linux-rga) - Firefly/Rockchip RGA library mirror
 - [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
 - [poppin-mice/AAHLS_Final_PointPillars](https://github.com/poppin-mice/AAHLS_Final_PointPillars) - Repo for the AAHLS final of team 1 (PointPillars)
