@@ -275,7 +275,6 @@
 - [vb44/HMM-MOS](https://github.com/vb44/HMM-MOS) - A simple and easy-to-use learning-free MOS approach for point cloud data.
 - [alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection](https://github.com/alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection) - Efficient RANSAC for Point-Cloud Shape Detection
 - [deepglint/FAST_LIO_LOCALIZATION_HUMANOID](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID) - Localization by LiDAR for Humanoid(like Unitree G1)
-- [MIT-SPARK/BUFFER-X](https://github.com/MIT-SPARK/BUFFER-X) - [ICCV 2025, Highlight] BUFFER-X: Zero-Shot Point Cloud Registration
 - [silencht/SG-SLAM](https://github.com/silencht/SG-SLAM) - SG-SLAM: A Real-Time RGB-D Visual SLAM toward Dynamic Scenes with Semantic and Geometric Information
 - [chengwei0427/Adaptive-LIO](https://github.com/chengwei0427/Adaptive-LIO) - [JIOT 2024] Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry
 - [abner-math/PlaneDetection](https://github.com/abner-math/PlaneDetection) - Implementation of my article "A Robust Statistics Approach for Plane Detection in Unorganized Point Clouds"
@@ -2097,7 +2096,7 @@
 - [worldbench/LiDARCrafter](https://github.com/worldbench/LiDARCrafter) - [AAAI 2026 Oral] LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences
 - [lartpang/SAMs-CDConcepts-Eval](https://github.com/lartpang/SAMs-CDConcepts-Eval) - Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
-- [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - [ICLR 2026] Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
+- [VisionXLab/Point2RBox-v3](https://github.com/VisionXLab/Point2RBox-v3) - [ICLR'26] Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
@@ -2141,6 +2140,7 @@
 - [robertzhangwenjie/gitbook2pdf](https://github.com/robertzhangwenjie/gitbook2pdf) - gitbook2pdf
 - [fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf) - Grab the contents of the gitbook document and convert it to pdf
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [MIT-SPARK/BUFFER-X](https://github.com/MIT-SPARK/BUFFER-X) - [ICCV 2025, Highlight] BUFFER-X: Zero-Shot Point Cloud Registration
 - [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - [NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -3609,7 +3609,7 @@
 - [blzq/tf_rodrigues](https://github.com/blzq/tf_rodrigues) - TensorFlow implementation of Rodrigues rotation conversion from axis-angle (rotation vector) to rotation matrix which supports batch inputs
 - [Banconxuan/RTS3D](https://github.com/Banconxuan/RTS3D) - RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving
 - [simon3dv/frustum_pointnets_pytorch](https://github.com/simon3dv/frustum_pointnets_pytorch) - A pytorch version of frustum-pointnets
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable SOTA multi-object tracking modules for segmentation, object detection and pose estimation models
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
 - [atyshka/Lasernet](https://github.com/atyshka/Lasernet) - Implementing Uber's Lasernet LIDAR detector in Tensorflow 2.0
 - [kareemalsawah/Modified_LaserNet_Pytorch](https://github.com/kareemalsawah/Modified_LaserNet_Pytorch) - This is an implementation of the LaserNet paper, a CNN for Lidar 3D object detection
 - [MartinHahner/SeeingThroughFog](https://github.com/MartinHahner/SeeingThroughFog) - 
