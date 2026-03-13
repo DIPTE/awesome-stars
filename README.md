@@ -1515,7 +1515,7 @@
 
 - [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2) - [DEIMv2] Real Time Object Detection Meets DINOv3
 - [983632847/Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) - A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.
-- [pbonazzi/picosam2](https://github.com/pbonazzi/picosam2) - [IEEE SENSORS 2025] PicoSAM2 is a minimal, prompt-based segmentation model distilled from Meta’s SAM 2.1
+- [pbonazzi/picosam3](https://github.com/pbonazzi/picosam3) - [IEEE SENSORS 2025/26] PicoSAM2 and PicoSAM3 are in-sensor segmentation models compatible with the Sony IMX500
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
