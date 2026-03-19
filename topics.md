@@ -280,7 +280,7 @@
 
 ## agent 
 
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -1740,7 +1740,7 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -3303,7 +3303,7 @@
 - [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for k
 - [yoxu515/aot-benchmark](https://github.com/yoxu515/aot-benchmark) - An efficient modular implementation of Associating Objects with Transformers for Video Object Segmentation in PyTorch
 - [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS) - 从ROS1到ROS2无人机编程实战指南
-- [reevoid/rknn-ffmpeg-tutorial](https://github.com/reevoid/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
+- [neotty/rknn-ffmpeg-tutorial](https://github.com/neotty/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
 - [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [NVIDIA-AI-IOT/deepstream-occupancy-analytics](https://github.com/NVIDIA-AI-IOT/deepstream-occupancy-analytics) - This is a sample application for counting people entering/leaving in a building using NVIDIA Deepstream SDK, Transfer Learning Toolkit (TLT), and pre-trained models. This application can be used to bu
 - [OuyangJunyuan/pcvt](https://github.com/OuyangJunyuan/pcvt) - point cloud type conversion all(partial actually) in one!  [ bin(kitti) ⇋ pcd(pcl) ⇋ msg(ros) ⇋ ... ]
@@ -5281,7 +5281,7 @@
 
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
