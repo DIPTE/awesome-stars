@@ -499,7 +499,6 @@
 - [xieqi1/VINS-Fusion-noted](https://github.com/xieqi1/VINS-Fusion-noted) - 
 - [xieqi1/VINS-Mono-noted](https://github.com/xieqi1/VINS-Mono-noted) - detailed chinese notes for vins-mono
 - [Oreoluwa-Se/Lidar-Imu-Slam](https://github.com/Oreoluwa-Se/Lidar-Imu-Slam) - Slam Algorithm to combine Lidar and Imu sensors to localize and generate a map of the environment. A combination of ICP and Kalman Filtering process is used in the odometry phase and Non-Linear optimi
-- [hku-mars/joint-lidar-camera-calib](https://github.com/hku-mars/joint-lidar-camera-calib) - Joint intrinsic and extrinsic LiDAR-camera calibration.
 - [hku-mars/LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - [IROS2022] Robust Real-time LiDAR-inertial Initialization Method.
 - [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio) - Faster-LIO: Lightweight Tightly Coupled Lidar-inertial Odometry using Parallel Sparse Incremental Voxels
 - [gisbi-kim/SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM) - LiDAR-inertial SLAM: Scan Context + LIO-SAM
@@ -1473,6 +1472,7 @@
 
 ## JavaScript 
 
+- [SarthakM320/CLIPoint3D](https://github.com/SarthakM320/CLIPoint3D) - 
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
@@ -1788,7 +1788,6 @@
 
 ## Others 
 
-- [SarthakM320/CLIPoint3D](https://github.com/SarthakM320/CLIPoint3D) - 
 - [CASIA-LONG/Active-SLAM-Paper-List](https://github.com/CASIA-LONG/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash) - MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
@@ -2558,7 +2557,7 @@
 - [yule-BUAA/DyGLib](https://github.com/yule-BUAA/DyGLib) - A Library for Dynamic Graph Learning (NeurIPS 2023)
 - [RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution](https://github.com/RayXie29/Kaggle-Peking-University-Baidu-Autonomous-Driving-32-place-solution) - 3D car detection competition on Kaggle : https://www.kaggle.com/c/pku-autonomous-driving/overview
 - [JunshengFu/vehicle-detection](https://github.com/JunshengFu/vehicle-detection) - Created vehicle detection pipeline with two approaches: (1) deep neural networks (YOLO framework) and (2) support vector machines ( OpenCV + HOG).
-- [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) - YOLOV5 semi-automatic annotation tool (Based on labelImg)
+- [cnyvfang/labelGo](https://github.com/cnyvfang/labelGo) - Semi-automatic annotation tool for object detection.
 - [thnak/yolov7-rknn](https://github.com/thnak/yolov7-rknn) - Run your yolov7 object detection with Rockchip NPU platforms (RK3566, RK3568, RK3588, RK3588S, RV1103, RV1106, RK3562).
 - [Toytiny/CMFlow](https://github.com/Toytiny/CMFlow) - [CVPR 2023 Highlight 💡] Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision
 - [yxuhan/ReflectanceMM](https://github.com/yxuhan/ReflectanceMM) - [CVPR 2023] Learning a 3D Morphable Face Reflectance Model from Low-cost Data
