@@ -1559,7 +1559,6 @@
 - [opendilab/LMDrive](https://github.com/opendilab/LMDrive) - [CVPR 2024] LMDrive: Closed-Loop End-to-End Driving with Large Language Models
 - [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception](https://github.com/VanjeeBeiyanDeepModelDevelopingGroup/Innovusion_Lidar_Camera_Radar_Last_Stage_Fusion_Perception) - 
-- [cggos/mekd](https://github.com/cggos/mekd) - Maths, Estimation, Kinematics and Dynamics
 - [Rickyyy-zh/yolov7_3d](https://github.com/Rickyyy-zh/yolov7_3d) - Baidu Rope3d detector based on yolov7
 - [hady1011/OrthoNets](https://github.com/hady1011/OrthoNets) - Orthogonal Channel Attentions Networks
 - [Fudan-ProjectTitan/OpenAnnotate3D](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D) - OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal Data
