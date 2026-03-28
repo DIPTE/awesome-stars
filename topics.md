@@ -1793,6 +1793,7 @@
 - [MegEngine/InferLLM](https://github.com/MegEngine/InferLLM) - a lightweight LLM model inference framework
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning) - [CVPR 2023] DepGraph: Towards Any Structural Pruning; LLMs, Vision Foundation Models, etc.
 - [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
 - [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
@@ -4657,7 +4658,7 @@
 - [AmrElsersy/PointPainting](https://github.com/AmrElsersy/PointPainting) - Real Time Semantic Segmentation for both LIDAR & Camera using BiseNetv2 & PointPainting Fusion in Pytorch
 - [Song-Jingyu/PointPainting](https://github.com/Song-Jingyu/PointPainting) - This repository is an open-source PointPainting package which is easy to understand, deploy and run!
 - [anucvml/ddn](https://github.com/anucvml/ddn) - Deep Declarative Networks
-- [KeeganRen/FaceReconstruction](https://github.com/KeeganRen/FaceReconstruction) - Facial Landmark Detection and head pose compute use dlib, Real time Face Reconstruction use 3D Morphable Face Model fitting
+- [punkhooren/FaceReconstruction](https://github.com/punkhooren/FaceReconstruction) - Facial Landmark Detection and head pose compute use dlib, Real time Face Reconstruction use 3D Morphable Face Model fitting
 - [Banconxuan/RTS3D](https://github.com/Banconxuan/RTS3D) - RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving
 - [simon3dv/frustum_pointnets_pytorch](https://github.com/simon3dv/frustum_pointnets_pytorch) - A pytorch version of frustum-pointnets
 - [atyshka/Lasernet](https://github.com/atyshka/Lasernet) - Implementing Uber's Lasernet LIDAR detector in Tensorflow 2.0
