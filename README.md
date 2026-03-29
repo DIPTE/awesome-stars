@@ -693,7 +693,7 @@
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
 - [wilicc/gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
-- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - The official implementation of SLAMesh.
+- [lab-sun/SLAMesh](https://github.com/lab-sun/SLAMesh) - [ICRA 2023] SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing
 - [UMich-BipedLab/LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - This is a package for LiDARTag, described in paper: LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
 - [RemoteSensingFrank/LidarProc](https://github.com/RemoteSensingFrank/LidarProc) - 激光点云处理工具，集成Cesium与Potree实现在线点云查看和处理
 - [mguentner/cannelloni](https://github.com/mguentner/cannelloni) - a SocketCAN over Ethernet tunnel
@@ -2082,7 +2082,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show h
 - [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch) - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)
-- [ylabbe/cosypose](https://github.com/ylabbe/cosypose) - Code for "CosyPose: Consistent multi-view multi-object 6D pose estimation", ECCV 2020.
+- [yannlabb/cosypose](https://github.com/yannlabb/cosypose) - Code for "CosyPose: Consistent multi-view multi-object 6D pose estimation", ECCV 2020.
 - [ethnhe/FFB6D](https://github.com/ethnhe/FFB6D) - [CVPR2021 Oral] FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation.
 - [chensong1995/HybridPose](https://github.com/chensong1995/HybridPose) - HybridPose: 6D Object Pose Estimation under Hybrid Representation (CVPR 2020)
 - [shahyash10/DPOD](https://github.com/shahyash10/DPOD) - DPOD: 6D Pose Estimator
@@ -2377,7 +2377,7 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
-- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
+- [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 - [AILab-CVC/YOLO-World](https://github.com/AILab-CVC/YOLO-World) - [CVPR 2024] Real-Time Open-Vocabulary Object Detection
 - [baaivision/Uni3D](https://github.com/baaivision/Uni3D) - [ICLR'24 Spotlight] Uni3D: 3D Visual Representation from BAAI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
