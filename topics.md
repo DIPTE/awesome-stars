@@ -63,6 +63,7 @@
 - [electron](#electron)
 - [embedded](#embedded)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [facebook](#facebook)
 - [fastapi](#fastapi)
 - [flask](#flask)
@@ -281,6 +282,7 @@
 
 ## agent 
 
+- [GPT-AGI/claude-code-python](https://github.com/GPT-AGI/claude-code-python) - Clawd Code: Reconstructing Claude Code in Python - 基于Claude Code源码的Python重构实现
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -1465,6 +1467,13 @@
 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 
+## esp32 
+
+- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
+- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
+
 ## facebook 
 
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -2419,7 +2428,6 @@
 - [sunsmarterjie/yolov12](https://github.com/sunsmarterjie/yolov12) - [NeurIPS 2025] YOLOv12: Attention-Centric Real-Time Object Detectors
 - [xuankuzcr/LIV_handhold](https://github.com/xuankuzcr/LIV_handhold) - Hardware-synchronized device for FAST-LIVO (Handheld & UAV).
 - [CodingRookie98/FaceFusionCpp](https://github.com/CodingRookie98/FaceFusionCpp) - This project is a C++ implementation of the open-source project facefusion.
-- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [VisionXLab/point2rbox-v2](https://github.com/VisionXLab/point2rbox-v2) - [CVPR'25] Official repo of "Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances"
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
@@ -3756,7 +3764,7 @@
 - [OpenCalib/JointCalib](https://github.com/OpenCalib/JointCalib) - 
 - [OpenCalib/LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS) - 
 - [Francklin2/RTKLIB_Touchscreen_GUI](https://github.com/Francklin2/RTKLIB_Touchscreen_GUI) - RTKLIB GUI for Raspberry Pi with  touchscreen made with Qt by the ENSG students
-- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3
+- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3 b34
 - [libing64/learning_rtklib](https://github.com/libing64/learning_rtklib) - 
 - [tomojitakasu/RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
 - [maudzung/YOLO3D-YOLOv4-PyTorch](https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch) - YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud (ECCV 2018)
@@ -5306,6 +5314,7 @@
 
 ## python 
 
+- [GPT-AGI/claude-code-python](https://github.com/GPT-AGI/claude-code-python) - Clawd Code: Reconstructing Claude Code in Python - 基于Claude Code源码的Python重构实现
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
