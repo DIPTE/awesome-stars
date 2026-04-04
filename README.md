@@ -849,7 +849,7 @@
 - [PolySync/oscc](https://github.com/PolySync/oscc) - Open Source Car Control 💻🚗🙌
 - [OpenCalib/JointCalib](https://github.com/OpenCalib/JointCalib) - 
 - [OpenCalib/LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS) - 
-- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3
+- [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3 b34
 - [victorbadenas/SimpleOnnxInference](https://github.com/victorbadenas/SimpleOnnxInference) - A simple c++ onnx application for inferencing images
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
 - [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime
@@ -2058,6 +2058,7 @@
 
 ## Python 
 
+- [GPT-AGI/claude-code-python](https://github.com/GPT-AGI/claude-code-python) - Clawd Code: Reconstructing Claude Code in Python - 基于Claude Code源码的Python重构实现
 - [apple/ml-kpconvx](https://github.com/apple/ml-kpconvx) - 
 - [jykim2958/CSEConv](https://github.com/jykim2958/CSEConv) - The official implementation of "Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis" [ECCV 24]
 - [wistful-8029/BTP-3DAD](https://github.com/wistful-8029/BTP-3DAD) - 
