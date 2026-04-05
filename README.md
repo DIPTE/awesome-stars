@@ -2058,7 +2058,7 @@
 
 ## Python 
 
-- [GPT-AGI/claude-code-python](https://github.com/GPT-AGI/claude-code-python) - Clawd Code: Reconstructing Claude Code in Python - 基于Claude Code源码的Python重构实现
+- [GPT-AGI/Clawd-Code](https://github.com/GPT-AGI/Clawd-Code) - Claude-Code-Python: Reconstructing Claude Code in Python
 - [apple/ml-kpconvx](https://github.com/apple/ml-kpconvx) - 
 - [jykim2958/CSEConv](https://github.com/jykim2958/CSEConv) - The official implementation of "Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis" [ECCV 24]
 - [wistful-8029/BTP-3DAD](https://github.com/wistful-8029/BTP-3DAD) - 
@@ -4202,8 +4202,8 @@
 
 ## Rust 
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [ViliamVadocz/nvidia-video-codec-sdk](https://github.com/ViliamVadocz/nvidia-video-codec-sdk) - Rust bindings for NVIDIA Video Codec SDK
