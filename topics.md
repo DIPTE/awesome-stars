@@ -3920,7 +3920,7 @@
 - [cgtuebingen/SpatialDETR](https://github.com/cgtuebingen/SpatialDETR) - Official implementation of SpatialDETR. The paper will be presented at ECCV 2022
 - [renesas-rz/meta-rz-edge-ai-demo](https://github.com/renesas-rz/meta-rz-edge-ai-demo) - RZ Edge AI Demo Yocto Layer
 - [hirakuni45/RX](https://github.com/hirakuni45/RX) - Renesas RX Microcontroller, C++ framework, Library, Sample
-- [eclipse-threadx/samples](https://github.com/eclipse-threadx/samples) - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, STM32CubeID
+- [eclipse-threadx/samples](https://github.com/eclipse-threadx/samples) - ARCHIVED - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, 
 - [Ascend/ModelZoo-PyTorch](https://github.com/Ascend/ModelZoo-PyTorch) - 
 - [Ascend/ModelZoo-TensorFlow](https://github.com/Ascend/ModelZoo-TensorFlow) - 
 - [Ascend/ascend-opencv](https://github.com/Ascend/ascend-opencv) - 
