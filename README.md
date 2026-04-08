@@ -1939,7 +1939,7 @@
 - [LeoQLi/Lidar_For_AD_references](https://github.com/LeoQLi/Lidar_For_AD_references) - A list of references on lidar point cloud processing for autonomous driving
 - [fpthink/GraphCut](https://github.com/fpthink/GraphCut) - Learning Superpoint Graph Cut for 3D Instance Segmentation
 - [LittlePey/Semi-Sampling](https://github.com/LittlePey/Semi-Sampling) - Boosting Semi-Supervised 3D Object Detection with Semi-Sampling
-- [eclipse-threadx/samples](https://github.com/eclipse-threadx/samples) - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, STM32CubeID
+- [eclipse-threadx/samples](https://github.com/eclipse-threadx/samples) - ARCHIVED - A collection of complete sample workspaces and projects for popular development boards from ST, NXP, Renesas, Microchip and Microsoft using popular IDEs and toolchains, including IAR, ARM, 
 - [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet) - CVPR 2020, "MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird's Eye View Maps"
 - [ZVISION-lidar/zvision_ugv_data](https://github.com/ZVISION-lidar/zvision_ugv_data) - 
