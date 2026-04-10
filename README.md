@@ -322,7 +322,6 @@
 - [yutongwangBIT/GOReloc](https://github.com/yutongwangBIT/GOReloc) - 
 - [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
 - [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - [ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
-- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
 - [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - Deep Learning Deployment Framework: Supports tf/torch/trt/trtllm/vllm and other NN frameworks. Support dynamic batching, and streaming modes. It is dual-language compatible with Python and C++, offeri
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
@@ -1343,6 +1342,7 @@
 
 - [cvdong/trtinfer_yolo26](https://github.com/cvdong/trtinfer_yolo26) - yolo26 TensorRT 推理 🤡
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+- [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search. Run on Jetson Orin NX 8GB.
 - [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
@@ -2071,7 +2071,7 @@
 - [apple/ml-kpconvx](https://github.com/apple/ml-kpconvx) - 
 - [jykim2958/CSEConv](https://github.com/jykim2958/CSEConv) - The official implementation of "Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis" [ECCV 24]
 - [wistful-8029/BTP-3DAD](https://github.com/wistful-8029/BTP-3DAD) - 
-- [fastgs/FastGS](https://github.com/fastgs/FastGS) - [CVPR 2026] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
+- [fastgs/FastGS](https://github.com/fastgs/FastGS) - [CVPR 2026 Highlight] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
 - [XC-CN/RL_AirDrone_hover_IsaacLab](https://github.com/XC-CN/RL_AirDrone_hover_IsaacLab) - ME5406Project 使用IsaacLab通过深度学习训练无人机在不同环境风中保持悬停
 - [VladimirYugay/MAGiC-SLAM](https://github.com/VladimirYugay/MAGiC-SLAM) - [CVPR 2025]MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent  SLAM
 - [ika-rwth-aachen/ros2_calib](https://github.com/ika-rwth-aachen/ros2_calib) - Make your calibration dreams come true. ros2_calib is a Multi-Sensor Calibration Tool using ROS2 mcap recordings with direct URDF export.
@@ -2079,7 +2079,7 @@
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
 - [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
-- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026] LitePT: Lighter Yet Stronger Point Transformer
+- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026 Highlight] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 - [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - [CVPR2026]🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
