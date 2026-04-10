@@ -158,6 +158,7 @@
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
+- [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
 - [scala](#scala)
@@ -2299,7 +2300,7 @@
 - [jykim2958/CSEConv](https://github.com/jykim2958/CSEConv) - The official implementation of "Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis" [ECCV 24]
 - [wistful-8029/BTP-3DAD](https://github.com/wistful-8029/BTP-3DAD) - 
 - [SarthakM320/CLIPoint3D](https://github.com/SarthakM320/CLIPoint3D) - 
-- [fastgs/FastGS](https://github.com/fastgs/FastGS) - [CVPR 2026] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
+- [fastgs/FastGS](https://github.com/fastgs/FastGS) - [CVPR 2026 Highlight] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
 - [XC-CN/RL_AirDrone_hover_IsaacLab](https://github.com/XC-CN/RL_AirDrone_hover_IsaacLab) - ME5406Project 使用IsaacLab通过深度学习训练无人机在不同环境风中保持悬停
 - [ika-rwth-aachen/ros2_calib](https://github.com/ika-rwth-aachen/ros2_calib) - Make your calibration dreams come true. ros2_calib is a Multi-Sensor Calibration Tool using ROS2 mcap recordings with direct URDF export.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -2307,7 +2308,7 @@
 - [cvdong/trtinfer_yolo26](https://github.com/cvdong/trtinfer_yolo26) - yolo26 TensorRT 推理 🤡
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
 - [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
-- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026] LitePT: Lighter Yet Stronger Point Transformer
+- [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026 Highlight] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 - [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) - [CVPR2026]🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection."   *(YOLO = You Only Look Once)* 🔥🔥🔥
@@ -5389,6 +5390,7 @@
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation](https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation) - Python scripts for performing 6D pose estimation and shape reconstruction using the CenterSnap model in ONNX
 - [virtual-vehicle/pointcloudset](https://github.com/virtual-vehicle/pointcloudset) - Efficient analysis of large datasets of point clouds recorded over time
+- [oculix-org/SikuliX1](https://github.com/oculix-org/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [koide3/fast_gicp](https://github.com/koide3/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
@@ -5926,6 +5928,10 @@
 - [charlesq34/frustum-pointnets](https://github.com/charlesq34/frustum-pointnets) - Frustum PointNets for 3D Object Detection from RGB-D Data
 - [roboticslab-uc3m/textiles](https://github.com/roboticslab-uc3m/textiles) - Research on algorithms for garment perception, manipulation...
 - [yangyanli/PointCNN](https://github.com/yangyanli/PointCNN) - PointCNN: Convolution On X-Transformed Points (NeurIPS 2018)
+
+## ruby 
+
+- [oculix-org/SikuliX1](https://github.com/oculix-org/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 
 ## rust 
 
