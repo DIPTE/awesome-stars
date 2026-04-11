@@ -2290,7 +2290,7 @@
 - [xifen523/OmniTrack](https://github.com/xifen523/OmniTrack) - The official implementation of OmniTrack: Omnidirectional Multi-Object Tracking (CVPR 2025)
 - [Hamidreza-Hashempoor/FastTracker](https://github.com/Hamidreza-Hashempoor/FastTracker) - FastTracker: Real-Time and Accurate Visual Tracking
 - [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
-- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness"
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - OpenHarness: Open Agent Harness with a built-in personal agent, Ohmo!
 - [Intellindust-AI-Lab/FT-FSOD](https://github.com/Intellindust-AI-Lab/FT-FSOD) - [CVPR 2026] A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps
 - [IdolLab/RAGTrack](https://github.com/IdolLab/RAGTrack) - [CVPR2026]RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation
 - [altair199797/CPUBone](https://github.com/altair199797/CPUBone) - CPU-efficient Vision Backbone Architecture, from the CPUBone paper, accepted at CVPR Findings 2026
@@ -2353,7 +2353,7 @@
 - [ziv-lin/rxlive_handheld](https://github.com/ziv-lin/rxlive_handheld) - 
 - [hku-mars/Livox_handheld](https://github.com/hku-mars/Livox_handheld) - 
 - [ethz-asl/versavis](https://github.com/ethz-asl/versavis) - An Open Versatile Multi-Camera Visual-Inertial Sensor Suite
-- [pbonazzi/picosam3](https://github.com/pbonazzi/picosam3) - [SENSORS 2025] PicoSAM2 and PicoSAM3 are segmentation models running in-sensor on the Sony IMX500
+- [pbonazzi/picosam3](https://github.com/pbonazzi/picosam3) - [SENSORS 2025] PicoSAM2 and PicoSAM3 are segmentation models running in-sensor on the Sony IMX500.
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks
 - [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - [ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
