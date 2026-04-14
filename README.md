@@ -4004,7 +4004,7 @@
 - [sw-gong/FeaStNet](https://github.com/sw-gong/FeaStNet) - Pytorch reproduction of the paper "FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis" (CVPR 18)
 - [gyshgx868/graph-ter](https://github.com/gyshgx868/graph-ter) - The official PyTorch implementation of the CVPR2020 paper "GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations".
 - [Xharlie/Grid-GCN](https://github.com/Xharlie/Grid-GCN) - Grid-GCN for Fast and Scalable Point Cloud Learning
-- [lyqun/FPConv](https://github.com/lyqun/FPConv) - CVPR 2020, "FPConv: Learning Local Flattening for Point Convolution"
+- [lyqun/FPConv](https://github.com/lyqun/FPConv) - [CVPR 2020] FPConv: Learning Local Flattening for Point Convolution
 - [Dileep1111/DeepICP2](https://github.com/Dileep1111/DeepICP2) - ICP2
 - [Dileep1111/DeepICP1](https://github.com/Dileep1111/DeepICP1) - ICP1
 - [vinits5/PointNetLK](https://github.com/vinits5/PointNetLK) - This is the clean implementation of PointNetLK with pretrained models. (A 3D point cloud registration network)
