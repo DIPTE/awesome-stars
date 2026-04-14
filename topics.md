@@ -5730,7 +5730,7 @@
 - [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
 - [MonteYang/VoxNet.pytorch](https://github.com/MonteYang/VoxNet.pytorch) - A pytorch implement of voxnet. "VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition"
-- [lyqun/FPConv](https://github.com/lyqun/FPConv) - CVPR 2020, "FPConv: Learning Local Flattening for Point Convolution"
+- [lyqun/FPConv](https://github.com/lyqun/FPConv) - [CVPR 2020] FPConv: Learning Local Flattening for Point Convolution
 - [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [pqhieu/jsis3d](https://github.com/pqhieu/jsis3d) - [CVPR'19] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds
 - [XuyangBai/KPConv.pytorch](https://github.com/XuyangBai/KPConv.pytorch) - PyTorch reimplementation for "KPConv: Flexible and Deformable Convolution for Point Clouds" https://arxiv.org/abs/1904.08889
