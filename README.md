@@ -212,6 +212,7 @@
 - [BBuf/Darknet](https://github.com/BBuf/Darknet) - AlexeyAB-DarkNet源码解析
 - [ChenCVer/darknet](https://github.com/ChenCVer/darknet) - Darknet(AB版)框架源码解析：详尽的中文注释(逐句)和原理分析！
 - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) - Open Neural Network Exchange to C compiler.
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
 - [SiliconLabs/mltk](https://github.com/SiliconLabs/mltk) - A Python package with command-line utilities and scripts to aid the development  of machine learning models for Silicon Lab's embedded platforms
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [dut-media-lab/Image-Stitching](https://github.com/dut-media-lab/Image-Stitching) - Leveraging Line-point Consistence to Preserve Structures for Wide Parallax Image Stitching
@@ -1083,7 +1084,6 @@
 - [hpc203/bytetrack-opencv-onnxruntime](https://github.com/hpc203/bytetrack-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOX+ByteTrack目标跟踪，包含C++和Python两个版本的程序
 - [ucb-bar/onnxruntime-riscv](https://github.com/ucb-bar/onnxruntime-riscv) - Fork of upstream onnxruntime focused on supporting risc-v accelerators
 - [OpenPPL/ppl.nn](https://github.com/OpenPPL/ppl.nn) - A primitive library for neural network
-- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [Tencent/TNN](https://github.com/Tencent/TNN) - TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
