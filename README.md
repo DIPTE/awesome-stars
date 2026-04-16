@@ -312,7 +312,6 @@
 - [XiaoBaiiiiii/colmap-pcd](https://github.com/XiaoBaiiiiii/colmap-pcd) - Image-to-point cloud Registration Tool
 - [YJZLuckyBoy/liorf](https://github.com/YJZLuckyBoy/liorf) - This repo is modified based on LIO_SAM, which remove the feature extraction module and makes it easier to adapt your sensor.
 - [GREAT-WHU/RoadLib](https://github.com/GREAT-WHU/RoadLib) - A lightweight library for instance-level visual road marking extraction, parameterization, mapping, etc.
-- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [Nothand0212/LightGlue-OnnxRunner-cpp](https://github.com/Nothand0212/LightGlue-OnnxRunner-cpp) - a light glue onnx runner example
 - [AIDajiangtang/Superpoint-LightGlue-Image-Stiching](https://github.com/AIDajiangtang/Superpoint-LightGlue-Image-Stiching) - OpenCV图像拼接算法集成 SuperPoint 、LightGlue 特征点检测和匹配深度学习模型
 - [OroChippw/LightGlue-OnnxRunner](https://github.com/OroChippw/LightGlue-OnnxRunner) - LightGlue-OnnxRunner is a repository hosts the C++ inference code of LightGlue in ONNX format，supporting end-to-end/decouple model inference of SuperPoint/DISK + LightGlue
@@ -1342,6 +1341,7 @@
 
 - [cvdong/trtinfer_yolo26](https://github.com/cvdong/trtinfer_yolo26) - yolo26 TensorRT 推理 🤡
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search. Run on Jetson Orin NX 8GB.
