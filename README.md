@@ -86,6 +86,7 @@
 
 ## C 
 
+- [SENSING-Technology/CoaxCapture-CCG3](https://github.com/SENSING-Technology/CoaxCapture-CCG3) - Driver and sources for using SENSING GMSL Video Capture Card
 - [NVlabs/DeepIM-PyTorch](https://github.com/NVlabs/DeepIM-PyTorch) - PyTorch implementation of the DeepIM framework
 - [MaJerle/stm32-usart-uart-dma-rx-tx](https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx) - STM32 examples for USART using DMA for efficient RX and TX transmission
 - [NingZiXi/battery_monitor](https://github.com/NingZiXi/battery_monitor) - battery_monitor 是一个用于监测电池电量和电压的模块，基于 ESP-IDF 的 ADC（模数转换器）功能。该模块通过测量电池电压，计算出电池的剩余电量百分比，并提供了相应的 API 接口。
@@ -1788,6 +1789,8 @@
 
 ## Others 
 
+- [SENSING-Technology/SensingCaptureV3](https://github.com/SENSING-Technology/SensingCaptureV3) - Host Software Tools for Use with the Panda Device
+- [SENSING-Technology/nvidia-drive-camera-drivers](https://github.com/SENSING-Technology/nvidia-drive-camera-drivers) - Camera Drivers For NVIDIA Drive Devices.
 - [IdolLab/RAGTrack](https://github.com/IdolLab/RAGTrack) - [CVPR2026]RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation
 - [altair199797/CPUBone](https://github.com/altair199797/CPUBone) - CPU-efficient Vision Backbone Architecture, from the CPUBone paper, accepted at CVPR Findings 2026
 - [chensi-cs/LLM-Interview-Guidebook](https://github.com/chensi-cs/LLM-Interview-Guidebook) - 本仓库是一份面向大模型算法工程师的面试宝典，系统梳理了大模型的核心知识点，帮助读者快速掌握大模型面试中的重点和难点
@@ -2273,7 +2276,7 @@
 - [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
 - [AssafSinger94/dino-tracker](https://github.com/AssafSinger94/dino-tracker) - Official Pytorch Implementation for “DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video” (ECCV 2024)
 - [HR-zju/LiCROcc](https://github.com/HR-zju/LiCROcc) - 
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [prs-eth/PanopticSegForLargeScalePointCloud](https://github.com/prs-eth/PanopticSegForLargeScalePointCloud) - Code and dataset of paper "TOWARDS ACCURATE INSTANCE SEGMENTATION IN LARGE-SCALE LIDAR POINT CLOUDS"
 - [lorenzovaquero/BUSCA](https://github.com/lorenzovaquero/BUSCA) - [ECCV 2024] BUSCA: "Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking"
 - [MassimoQu/v2i-calib](https://github.com/MassimoQu/v2i-calib) - [IROS24&TITS25] V2I-CALIB / V2X-REG++: Object-Level, Real-Time Point Cloud Global Registration Framework for V2I/V2X Applications
@@ -3315,7 +3318,7 @@
 - [CAIC-AD/YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 - [hlsheng1/RDIoU](https://github.com/hlsheng1/RDIoU) - "Rethinking IoU-based Optimization for Single-stage 3D Object Detection", ECCV2022 accept!
 - [POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - [NeurIPS2022] Official implementation of PeRFception: Perception using Radiance Fields.
-- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - [AAAI'23 & IJCV'25] This repo is an implementation of PyTorch version YOLOV Series
+- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - [AAAI'23 & IJCV'26] This repo is an implementation of PyTorch version YOLOV Series
 - [zhangyp15/SimMOD](https://github.com/zhangyp15/SimMOD) - Implementation of SimMOD: A Simple Baseline for Multi-Camera 3D Object Detection
 - [Sense-X/UniHead](https://github.com/Sense-X/UniHead) - Unifying Visual Perception by Dispersible Points Learning (ECCV 2022)
 - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含14个onnx模型，依然是包含C++和Python两个版本的程序
@@ -4312,7 +4315,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [teleporthq/teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
