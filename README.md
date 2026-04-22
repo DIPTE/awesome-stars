@@ -666,7 +666,7 @@
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 - [w111liang222/LSD-Nvidia-Libs](https://github.com/w111liang222/LSD-Nvidia-Libs) - 
 - [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
-- [rgaufman/live555](https://github.com/rgaufman/live555) - A mirror of the live555 source code.
+- [rgaufman/live555](https://github.com/rgaufman/live555) - An unofficial fork of the live555 source code.
 - [Z-Xiong/LightTrack-ncnn](https://github.com/Z-Xiong/LightTrack-ncnn) - Ncnn version demo of [CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search
 - [nvpro-samples/vk_video_samples](https://github.com/nvpro-samples/vk_video_samples) - Vulkan video samples
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
