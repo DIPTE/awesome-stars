@@ -3331,7 +3331,7 @@
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 - [Kurento/libnice](https://github.com/Kurento/libnice) - GLib based Interactive Connectivity Establishment (ICE) implementation (RFC 5245)
 - [w111liang222/LSD-Nvidia-Libs](https://github.com/w111liang222/LSD-Nvidia-Libs) - 
-- [rgaufman/live555](https://github.com/rgaufman/live555) - A mirror of the live555 source code.
+- [rgaufman/live555](https://github.com/rgaufman/live555) - An unofficial fork of the live555 source code.
 - [Z-Xiong/LightTrack-ncnn](https://github.com/Z-Xiong/LightTrack-ncnn) - Ncnn version demo of [CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search
 - [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, Y
 - [Tirklee/GitHub-Chinese-Top-Charts](https://github.com/Tirklee/GitHub-Chinese-Top-Charts) - 
