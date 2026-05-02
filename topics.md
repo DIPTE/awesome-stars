@@ -2502,7 +2502,7 @@
 - [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) - Code for "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT"
 - [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) - 
 - [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
-- [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - Gaga: Group Any Gaussians via 3D-aware Memory Bank
+- [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - [TMLR 2026] Gaga: Group Any Gaussians via 3D-aware Memory Bank
 - [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -2944,7 +2944,7 @@
 - [EZreal-zhangxing/rk_ffmpeg](https://github.com/EZreal-zhangxing/rk_ffmpeg) - 在rockchip3588上实现用ffmpeg进行推拉流，其中推拉流使用硬件加速编解码
 - [MingZhuLiu/ZLMediaServerManagent](https://github.com/MingZhuLiu/ZLMediaServerManagent) - ZLMediaKitServer后台管理系统
 - [Fruit-Pi/rockchip-test](https://github.com/Fruit-Pi/rockchip-test) - 
-- [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - AI自瞄项目，支持yolov5,yolov7,yolov8,yolox ，使用tensorrt和DML
+- [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - 高性能目标检测项目，支持yolov5,yolov7,yolov8,yolox ，后端使用tensorrt和DML
 - [pcb9382/FaceAlgorithm](https://github.com/pcb9382/FaceAlgorithm) - face detection   face recognition包含人脸检测(retinaface,yolov5face,yolov7face,yolov8face),人脸检测跟踪(ByteTracker)，人脸角度计算（Face_Angle）人脸矫正(Face_Aligner)，人脸识别(Arcface)，口罩检测(MaskRecognitiion)，年龄性别检测(Gender_age)，静默
 - [leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading) - A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。
 - [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
