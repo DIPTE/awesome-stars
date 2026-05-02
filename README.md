@@ -525,7 +525,7 @@
 - [hku-mars/M-detector](https://github.com/hku-mars/M-detector) - 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [EZreal-zhangxing/rk_ffmpeg](https://github.com/EZreal-zhangxing/rk_ffmpeg) - 在rockchip3588上实现用ffmpeg进行推拉流，其中推拉流使用硬件加速编解码
-- [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - AI自瞄项目，支持yolov5,yolov7,yolov8,yolox ，使用tensorrt和DML
+- [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - 高性能目标检测项目，支持yolov5,yolov7,yolov8,yolox ，后端使用tensorrt和DML
 - [pcb9382/FaceAlgorithm](https://github.com/pcb9382/FaceAlgorithm) - face detection   face recognition包含人脸检测(retinaface,yolov5face,yolov7face,yolov8face),人脸检测跟踪(ByteTracker)，人脸角度计算（Face_Angle）人脸矫正(Face_Aligner)，人脸识别(Arcface)，口罩检测(MaskRecognitiion)，年龄性别检测(Gender_age)，静默
 - [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
 - [suyunzzz/Ground-Plane-Fitting](https://github.com/suyunzzz/Ground-Plane-Fitting) - 
@@ -2200,7 +2200,7 @@
 - [skyshoumeng/PC-BEV](https://github.com/skyshoumeng/PC-BEV) - Offical code for: PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation
 - [Tsinghua-MARS-Lab/CVT-Occ](https://github.com/Tsinghua-MARS-Lab/CVT-Occ) - CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction
 - [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) - Code for "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT"
-- [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - Gaga: Group Any Gaussians via 3D-aware Memory Bank
+- [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - [TMLR 2026] Gaga: Group Any Gaussians via 3D-aware Memory Bank
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [snldmt/SPARS3R](https://github.com/snldmt/SPARS3R) - [CVPR2025] SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
 - [siyuanliii/masa](https://github.com/siyuanliii/masa) - Official Implementation of CVPR24 highlight paper: Matching Anything by Segmenting Anything
