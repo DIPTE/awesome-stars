@@ -2067,7 +2067,7 @@
 
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [Hamidreza-Hashempoor/FastTracker](https://github.com/Hamidreza-Hashempoor/FastTracker) - FastTracker: Real-Time and Accurate Visual Tracking
@@ -2824,7 +2824,7 @@
 - [JIA-Lab-research/Imbalanced-Learning](https://github.com/JIA-Lab-research/Imbalanced-Learning) - Imbalanced learning tool for imbalanced recognition and segmentation
 - [JIA-Lab-research/SparseTransformer](https://github.com/JIA-Lab-research/SparseTransformer) - A fast and memory-efficient libarary for sparse transformer with varying token numbers (e.g., 3D point cloud).
 - [JIA-Lab-research/Stratified-Transformer](https://github.com/JIA-Lab-research/Stratified-Transformer) - Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)
-- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia, Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia (ICML'26), Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 - [JIA-Lab-research/SphereFormer](https://github.com/JIA-Lab-research/SphereFormer) - The official implementation for "Spherical Transformer for LiDAR-based 3D Recognition" (CVPR 2023).
 - [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) - Long Range 3D Perception - VoxelNeXt (CVPR 2023)
 - [exiawsh/StreamPETR](https://github.com/exiawsh/StreamPETR) - [ICCV 2023] StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection
