@@ -714,7 +714,7 @@
 
 ## computer-vision 
 
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [VladimirYugay/MAGiC-SLAM](https://github.com/VladimirYugay/MAGiC-SLAM) - [CVPR 2025]MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent  SLAM
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
@@ -1070,7 +1070,7 @@
 
 ## deep-learning 
 
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 - [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch) - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)
 - [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
@@ -5548,7 +5548,7 @@
 ## pytorch 
 
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch) - A PyTorch port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)
 - [Laka-3DV/TurboReg](https://github.com/Laka-3DV/TurboReg) - [ICCV-2025] TurboReg: TurboClique for Robust and Efficient Point Cloud Registration
 - [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - :bouncing_ball_person: Pytorch ReID: A tiny, friendly, strong pytorch implement of person re-id / vehicle re-id baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/t
@@ -5603,7 +5603,7 @@
 - [megvii-research/FQ-ViT](https://github.com/megvii-research/FQ-ViT) - [IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer
 - [karimknaebel/point2vec](https://github.com/karimknaebel/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
-- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia, Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+- [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia (ICML'26), Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 - [yahuiliu99/PointConT](https://github.com/yahuiliu99/PointConT) - Official implementation of the paper "Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space"
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
@@ -6087,7 +6087,7 @@
 
 ## tensorflow 
 
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [NetEase-Media/grps](https://github.com/NetEase-Media/grps) - Deep Learning Deployment Framework: Supports tf/torch/trt/trtllm/vllm and other NN frameworks. Support dynamic batching, and streaming modes. It is dual-language compatible with Python and C++, offeri
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
