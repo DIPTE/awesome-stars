@@ -768,8 +768,6 @@
 - [mRobotit/mRobot_book](https://github.com/mRobotit/mRobot_book) - 
 - [TixiaoShan/imaging_lidar_place_recognition](https://github.com/TixiaoShan/imaging_lidar_place_recognition) - ICRA 2021 - Robust Place Recognition using an Imaging Lidar
 - [KangchengLiu/DLC_LiDAR_SLAM](https://github.com/KangchengLiu/DLC_LiDAR_SLAM) - :fire: :muscle: Official Project: A Robust and Effective LiDAR-SLAM System with Learning-based Denoising and Loop Closure (DLC-SLAM)
-- [yuecideng/Misc3D](https://github.com/yuecideng/Misc3D) - A unified library for 3D data processing with both c++ and python API
-- [yuecideng/PrimitivesFittingLib](https://github.com/yuecideng/PrimitivesFittingLib) - A unified library for fitting primitives from 3D point cloud data with both C++&Python API.
 - [huolu1987/Qt-study](https://github.com/huolu1987/Qt-study) - Qt study  学习资料，官方示例深扒目前包含：地址薄管理，串口工具
 - [Eagleflag88/MultiModalEvnPercption](https://github.com/Eagleflag88/MultiModalEvnPercption) - Experimental platform to achieve fused environment perception using different modalities of sensors
 - [yonasteodros/eigen-cuda-pcl](https://github.com/yonasteodros/eigen-cuda-pcl) - 
@@ -2932,7 +2930,6 @@
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
 - [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (IJCV 2024)
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
-- [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
 - [wzzheng/TPVFormer](https://github.com/wzzheng/TPVFormer) - [CVPR 2023] An academic alternative to Tesla's occupancy network for autonomous driving.
 - [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - [TII 2023] A Cross-View Transformer Network for LiDAR-Based Place Recognition in Autonomous Driving Environments.
