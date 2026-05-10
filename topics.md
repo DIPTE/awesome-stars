@@ -786,7 +786,6 @@
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) - CVNets: A library for training computer vision networks
 - [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) - Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight]
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
-- [yuecideng/Misc3D](https://github.com/yuecideng/Misc3D) - A unified library for 3D data processing with both c++ and python API
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
 - [Eagleflag88/MultiModalEvnPercption](https://github.com/Eagleflag88/MultiModalEvnPercption) - Experimental platform to achieve fused environment perception using different modalities of sensors
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
@@ -3660,8 +3659,6 @@
 - [TixiaoShan/imaging_lidar_place_recognition](https://github.com/TixiaoShan/imaging_lidar_place_recognition) - ICRA 2021 - Robust Place Recognition using an Imaging Lidar
 - [fanyang3/fanyang3.github.io](https://github.com/fanyang3/fanyang3.github.io) - 
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
-- [yuecideng/PrimitivesFittingLib](https://github.com/yuecideng/PrimitivesFittingLib) - A unified library for fitting primitives from 3D point cloud data with both C++&Python API.
-- [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [zlwq/-pdf](https://github.com/zlwq/-pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [yonasteodros/eigen-cuda-pcl](https://github.com/yonasteodros/eigen-cuda-pcl) - 
 - [IRONKAGE/Source-Code_ShaderX_GPU-Pro_GPU-Zen](https://github.com/IRONKAGE/Source-Code_ShaderX_GPU-Pro_GPU-Zen) - Source Code of Book: ShaderX, GPU Pro, GPU Zen - wrote Wolfgang Engel, collected Oleh Hatsenko (IRONKAGE)
