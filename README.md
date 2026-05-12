@@ -723,7 +723,7 @@
 - [mcximing/sort-cpp](https://github.com/mcximing/sort-cpp) - C++ port of Simple online and realtime tracking(SORT)
 - [xurui/SiamRPNTracker](https://github.com/xurui/SiamRPNTracker) - 
 - [nearthlab/SiamMaskCpp](https://github.com/nearthlab/SiamMaskCpp) - C++ Implementation of SiamMask
-- [wcyjerry/siam-trackers](https://github.com/wcyjerry/siam-trackers) - Fast SiamRPN++ & SiamMask in C++
+- [KeanuWongves/siam-trackers](https://github.com/KeanuWongves/siam-trackers) - Fast SiamRPN++ & SiamMask in C++
 - [phbender/liblanelet](https://github.com/phbender/liblanelet) - Lanelet maps have been introduced in the context of the autonomous completion of the Bertha-Benz-Memorial-Route in 2013
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
@@ -768,6 +768,8 @@
 - [mRobotit/mRobot_book](https://github.com/mRobotit/mRobot_book) - 
 - [TixiaoShan/imaging_lidar_place_recognition](https://github.com/TixiaoShan/imaging_lidar_place_recognition) - ICRA 2021 - Robust Place Recognition using an Imaging Lidar
 - [KangchengLiu/DLC_LiDAR_SLAM](https://github.com/KangchengLiu/DLC_LiDAR_SLAM) - :fire: :muscle: Official Project: A Robust and Effective LiDAR-SLAM System with Learning-based Denoising and Loop Closure (DLC-SLAM)
+- [yuecideng/Misc3D](https://github.com/yuecideng/Misc3D) - A unified library for 3D data processing with both c++ and python API
+- [yuecideng/PrimitivesFittingLib](https://github.com/yuecideng/PrimitivesFittingLib) - A unified library for fitting primitives from 3D point cloud data with both C++&Python API.
 - [huolu1987/Qt-study](https://github.com/huolu1987/Qt-study) - Qt study  学习资料，官方示例深扒目前包含：地址薄管理，串口工具
 - [Eagleflag88/MultiModalEvnPercption](https://github.com/Eagleflag88/MultiModalEvnPercption) - Experimental platform to achieve fused environment perception using different modalities of sensors
 - [yonasteodros/eigen-cuda-pcl](https://github.com/yonasteodros/eigen-cuda-pcl) - 
@@ -2153,7 +2155,7 @@
 - [JIA-Lab-research/Seg-Zero](https://github.com/JIA-Lab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [aCodeDog/OmniPerception](https://github.com/aCodeDog/OmniPerception) - 
-- [JIA-Lab-research/VisionReasoner](https://github.com/JIA-Lab-research/VisionReasoner) - VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning
+- [JIA-Lab-research/VisionReasoner](https://github.com/JIA-Lab-research/VisionReasoner) - [ICLR 2026] VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning
 - [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
 - [Yarroudh/Optim3D](https://github.com/Yarroudh/Optim3D) - Command-Line Interface (CLI) application for efficient and scalable generation of large-scale 3D building models.
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
@@ -2658,7 +2660,7 @@
 - [yifanlu0227/CoAlign](https://github.com/yifanlu0227/CoAlign) - [ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors
 - [AllenXiangX/Retro-FPN](https://github.com/AllenXiangX/Retro-FPN) - Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation (ICCV 2023)
 - [lisj575/NeAF](https://github.com/lisj575/NeAF) - Code Release for AAAI 2023, "NeAF: Learning Neural Angle Fields for Point Normal Estimation"
-- [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023/TPAMI 2026] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
+- [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - [ICCV 2023 & TPAMI 2026] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
 - [Sense-X/HoP](https://github.com/Sense-X/HoP) - [ICCV 2023] Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction
 - [subake/DAPS3D](https://github.com/subake/DAPS3D) - DAPS3D: Domain Adaptive Projective Segmentation of 3D LiDAR Point Clouds
 - [OpenDriveLab/DriveAdapter](https://github.com/OpenDriveLab/DriveAdapter) - [ICCV 2023 Oral] A New Paradigm for End-to-end Autonomous Driving to Alleviate Causal Confusion
@@ -2930,6 +2932,7 @@
 - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
 - [shengyuhao/DIVOTrack](https://github.com/shengyuhao/DIVOTrack) - A Novel Dataset and Baseline Method for Cross-View Multi-Object Tracking in DIVerse Open Scenes (IJCV 2024)
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) - Super-Efficient Super Resolution
+- [yuecideng/Multiple_Planes_Detection](https://github.com/yuecideng/Multiple_Planes_Detection) - A fast and simple method for multi-planes detection from point cloud
 - [CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction) - CVPR2023-Occupancy-Prediction-Challenge
 - [wzzheng/TPVFormer](https://github.com/wzzheng/TPVFormer) - [CVPR 2023] An academic alternative to Tesla's occupancy network for autonomous driving.
 - [BIT-MJY/CVTNet](https://github.com/BIT-MJY/CVTNet) - [TII 2023] A Cross-View Transformer Network for LiDAR-Based Place Recognition in Autonomous Driving Environments.
@@ -4217,7 +4220,7 @@
 
 ## Rust 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
