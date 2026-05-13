@@ -688,7 +688,7 @@
 - [zeal-up/Simple-LIO-SAM](https://github.com/zeal-up/Simple-LIO-SAM) - Code for simplified LIO-SAM
 - [m-schuetz/CudaLOD](https://github.com/m-schuetz/CudaLOD) - CUDA-accelerated LOD construction for point clouds
 - [neotty/rknn-ffmpeg-tutorial](https://github.com/neotty/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
-- [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
+- [hailo-ai/hailo-apps-core](https://github.com/hailo-ai/hailo-apps-core) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
@@ -2479,7 +2479,7 @@
 - [chiyukunpeng/nuscenes_viz](https://github.com/chiyukunpeng/nuscenes_viz) - visualize datasets like nuscenes
 - [MCG-NJU/MeMOTR](https://github.com/MCG-NJU/MeMOTR) - [ICCV 2023] MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking
 - [HariPrasanth-SM/Vision-Fusion-Early-Fusion](https://github.com/HariPrasanth-SM/Vision-Fusion-Early-Fusion) - In this project, the camera and LiDAR data are fused by early sensor fusion technique
-- [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a first Data-Centric 3D AI service production system.
+- [TinyDataML/Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is the first Data-Centric 3D AI service production system.
 - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo X, v3 ~ v12 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in you
 - [autodistill/autodistill-gpt-4v](https://github.com/autodistill/autodistill-gpt-4v) - GPT-4V(ision) module for use with Autodistill.
 - [autodistill/autodistill-segment-anything](https://github.com/autodistill/autodistill-segment-anything) - Use Segment Anything to identify objects in an image.
