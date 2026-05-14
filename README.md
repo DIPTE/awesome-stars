@@ -123,7 +123,6 @@
 - [BedRockJie/Rockchip_camera_encoder_Networkput](https://github.com/BedRockJie/Rockchip_camera_encoder_Networkput) - 
 - [kirushyk/gst-instruments](https://github.com/kirushyk/gst-instruments) - Easy-to-use profiler for GStreamer
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [danginsburg/opengles3-book](https://github.com/danginsburg/opengles3-book) - OpenGL ES 3.0 Programming Guide Sample Code
 - [Kurento/libnice](https://github.com/Kurento/libnice) - GLib based Interactive Connectivity Establishment (ICE) implementation (RFC 5245)
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
@@ -648,6 +647,7 @@
 - [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples) - Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
 - [Doctor-James/Mask_Detector](https://github.com/Doctor-James/Mask_Detector) - 本项目可以检测人是否佩戴口罩，若佩戴则输出绿框，未佩戴则输出红框; 本项目基于yolov5，部署通过TensorRT加速，帧率可达200FPS
 - [openvino-dev-samples/decode-infer-on-GPU](https://github.com/openvino-dev-samples/decode-infer-on-GPU) - This sample shows how to use the oneAPI Video Processing Library (oneVPL) to perform a single and multi-source video decode and preprocess and inference using OpenVINO to show the device surface shari
+- [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [AutoLidarPerception/segmenters_lib](https://github.com/AutoLidarPerception/segmenters_lib) - The LiDAR segmenters library, for segmentation-based detection.
 - [OuyangJunyuan/PCAT-Ground-Optimized](https://github.com/OuyangJunyuan/PCAT-Ground-Optimized) - 
 - [Qjizhi/TensorRT-CenterNet-3D](https://github.com/Qjizhi/TensorRT-CenterNet-3D) - tensorrt5, centernet, 3d detection, kitti, centerface, deform conv, int8,
