@@ -1702,6 +1702,7 @@
 
 ## iot 
 
+- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
 - [CANopenNode/CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
@@ -2958,7 +2959,7 @@
 - [AMXZzzz/SF_TRT_62](https://github.com/AMXZzzz/SF_TRT_62) - 高性能目标检测项目，支持yolov5,yolov7,yolov8,yolox ，后端使用tensorrt和DML
 - [pcb9382/FaceAlgorithm](https://github.com/pcb9382/FaceAlgorithm) - face detection   face recognition包含人脸检测(retinaface,yolov5face,yolov7face,yolov8face),人脸检测跟踪(ByteTracker)，人脸角度计算（Face_Angle）人脸矫正(Face_Aligner)，人脸识别(Arcface)，口罩检测(MaskRecognitiion)，年龄性别检测(Gender_age)，静默
 - [leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading) - A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。
-- [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
+- [url-kaist/TRAVEL](https://github.com/url-kaist/TRAVEL) - [RA-L] Traversable ground and above-ground object segmentation using graph representation of 3D LiDAR scans
 - [suyunzzz/Ground-Plane-Fitting](https://github.com/suyunzzz/Ground-Plane-Fitting) - 
 - [suyunzzz/ray_filter_ground](https://github.com/suyunzzz/ray_filter_ground) - 
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - [AAAI 2025] Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
@@ -5862,6 +5863,7 @@
 ## raspberry-pi 
 
 - [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
+- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understand
 - [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
@@ -5920,6 +5922,7 @@
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO' 24]
 - [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction
+- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - A Python-based Xiaozhi AI for users who want the full Xiaozhi experience without owning specialized hardware.
 - [2toinf/UniAct](https://github.com/2toinf/UniAct) - [CVPR 2025] The offical Implementation of "Universal Actions for Enhanced Embodied Foundation Models"
 - [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 - [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM) - [CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors
