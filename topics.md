@@ -4326,7 +4326,7 @@
 - [rockchip-linux/rknn-toolkit](https://github.com/rockchip-linux/rknn-toolkit) - 
 - [hgpvision/darknet](https://github.com/hgpvision/darknet) - darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-- [BBuf/Darknet](https://github.com/BBuf/Darknet) - AlexeyAB-DarkNet源码解析
+- [BBuf/Darknet](https://github.com/BBuf/Darknet) - Source-code notes for AlexeyAB Darknet (legacy)
 - [ChenCVer/darknet](https://github.com/ChenCVer/darknet) - Darknet(AB版)框架源码解析：详尽的中文注释(逐句)和原理分析！
 - [AI-liu/Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
 - [prabindh/qt5-opencv3-darknet](https://github.com/prabindh/qt5-opencv3-darknet) - Qt5 + Darknet/Yolo + OpenCV3
