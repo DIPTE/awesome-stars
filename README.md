@@ -46,7 +46,6 @@
 - [Prolog](#prolog)
 - [PureBasic](#purebasic)
 - [Python](#python)
-- [QML](#qml)
 - [R](#r)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -209,7 +208,7 @@
 - [Derekduke/facemask_detect](https://github.com/Derekduke/facemask_detect) - 基于C++使用华为MindSpore Lite实现口罩检测算法的端侧部署，使用Tensorflow Lite的Python接口在上位机做了模型验证
 - [hgpvision/darknet](https://github.com/hgpvision/darknet) - darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-- [BBuf/Darknet](https://github.com/BBuf/Darknet) - AlexeyAB-DarkNet源码解析
+- [BBuf/Darknet](https://github.com/BBuf/Darknet) - Source-code notes for AlexeyAB Darknet (legacy)
 - [ChenCVer/darknet](https://github.com/ChenCVer/darknet) - Darknet(AB版)框架源码解析：详尽的中文注释(逐句)和原理分析！
 - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) - Open Neural Network Exchange to C compiler.
 - [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
@@ -2127,6 +2126,7 @@
 - [OschAI/VisioFirm](https://github.com/OschAI/VisioFirm) - VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control) - Laser for control mosquito, weed, and pest
 - [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - [ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 - [zxcv616/GeoSAM2](https://github.com/zxcv616/GeoSAM2) - 
@@ -2252,6 +2252,7 @@
 - [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
 - [ayesha-ishaq/Open3DTrack](https://github.com/ayesha-ishaq/Open3DTrack) - Code for Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking
 - [WeitaiKang/Robin3D](https://github.com/WeitaiKang/Robin3D) - [ICCV 2025] Improving 3D Large Language Model via Robust Instruction Tuning
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [GenericMappingTools/pygmt](https://github.com/GenericMappingTools/pygmt) - A Python interface for the Generic Mapping Tools.
 - [semuconsulting/PyGPSClient](https://github.com/semuconsulting/PyGPSClient) - Python Graphical GPS Client Application supporting NMEA, UBX, SBF, UNI, QGC, RTCM3, NTRIP & SPARTN Protocols
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
@@ -4209,10 +4210,6 @@
 - [pclausen/obj2png](https://github.com/pclausen/obj2png) - Python script for converting 3D triangular mesh (obj) to image file (png) with MatPlotLib
 - [ace19-dev/gvcnn-tf](https://github.com/ace19-dev/gvcnn-tf) - Group-View Convolutional Neural Networks for 3D Shape Recognition
 
-## QML 
-
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
-
 ## R 
 
 - [mlverse/torchsparse](https://github.com/mlverse/torchsparse) - R interface for torchsparse
@@ -4316,7 +4313,6 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
