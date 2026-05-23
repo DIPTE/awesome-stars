@@ -2377,7 +2377,7 @@
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
 - [NamanMakkar/VayuAI](https://github.com/NamanMakkar/VayuAI) - Vayuvahana Technologies Private Limited presents to you VajraV1, a state-of-the-art (SOTA) real time object detection model
 - [mihajlov39547/RT-DETR-Seg](https://github.com/mihajlov39547/RT-DETR-Seg) - Real-Time Detection Transformer with Segmentation
-- [CASIA-LONG/Active-SLAM-Paper-List](https://github.com/CASIA-LONG/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
+- [DoongLi/Active-SLAM-Paper-List](https://github.com/DoongLi/Active-SLAM-Paper-List) - This repository primarily organizes papers, code, and other relevant materials related to Active SLAM and Robotic Exploration.
 - [983632847/Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) - A continuously updated project to track the latest progress in the field of multi-modal object tracking. This project focuses solely on single-object tracking.
 - [AutoLab-SAI-SJTU/AutoSeg3D](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D) - [NeurIPS 2025] AutoSeg3D, online real-time 3D segmentation as instance tracking with long-short term query memory for embodied perception
 - [Zency-Sun/YOLO-Deploy-QT_Interface](https://github.com/Zency-Sun/YOLO-Deploy-QT_Interface) - Visual QT interface for deploying YOLOv5 and YOLOv8
