@@ -3588,7 +3588,7 @@
 - [happinesslz/TANet](https://github.com/happinesslz/TANet) - The  AAAI-2020 Paper(Oral):"TANet: Robust 3D Object Detection from Point Clouds with Triple Attention"
 - [jialeli1/From-Voxel-to-Point](https://github.com/jialeli1/From-Voxel-to-Point) - "From Voxel to Point: IoU-guided 3D Object Detection for Point Cloud with Voxel-to-Point Decoder" and "Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud" in ACM MM 2021.
 - [felixchenfy/ros_openpose_rgbd](https://github.com/felixchenfy/ros_openpose_rgbd) - Visualize 3d humans' skeletons(body+hands) in ros rviz. The 2d joints are detected by openpose; The depth is from depth image.
-- [felixchenfy/ros_3d_pointing_detection](https://github.com/felixchenfy/ros_3d_pointing_detection) - Which object a person is pointing at? Detect it by using YOLO, Openpose and depth image (under customized scene).
+- [felixchenfy/ros_3d_pointing_detection](https://github.com/felixchenfy/ros_3d_pointing_detection) - ROS perception pipeline for detecting pointed-at objects using human pose estimation, YOLO object detection, and RGB-D geometry.
 - [cedricxie/second_ros](https://github.com/cedricxie/second_ros) - Run SECOND Detector as a ROS Node with KITTI Dataset
 - [liu-qingzhen/Pointpillars-ROS](https://github.com/liu-qingzhen/Pointpillars-ROS) - Pointpillars with ROS Rviz
 - [ros/catkin](https://github.com/ros/catkin) - A CMake-based build system that is used to build all packages in ROS.
@@ -3863,7 +3863,7 @@
 - [IGLICT/RisaNET](https://github.com/IGLICT/RisaNET) - Code for "RISA-Net: Rotation-Invariant and Structure-Aware Network for Fine-grained 3D Shape Retrieval"
 - [sausagecy/RSCNN_Pytorch1.0](https://github.com/sausagecy/RSCNN_Pytorch1.0) - Relation-Shape-CNN for Pytorch 1.0
 - [MIT-SPARK/PD-MeshNet](https://github.com/MIT-SPARK/PD-MeshNet) - Primal-Dual Mesh Convolutional Neural Networks
-- [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
+- [FudanNLP/fitlog](https://github.com/FudanNLP/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
 - [goodbye61/RI_l2g](https://github.com/goodbye61/RI_l2g) - 
 - [huawei-noah/Efficient-AI-Backbones](https://github.com/huawei-noah/Efficient-AI-Backbones) - Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.
 - [NVIDIA/flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
@@ -4220,7 +4220,7 @@
 
 ## Rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
