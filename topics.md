@@ -666,7 +666,7 @@
 ## cli 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -1827,7 +1827,7 @@
 ## llm 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
 - [chensi-cs/LLM-Interview-Guidebook](https://github.com/chensi-cs/LLM-Interview-Guidebook) - 本仓库是一份面向大模型算法工程师的面试宝典，系统梳理了大模型的核心知识点，帮助读者快速掌握大模型面试中的重点和难点
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -4708,7 +4708,7 @@
 - [hlsheng1/CT3D](https://github.com/hlsheng1/CT3D) - "Improving 3D Object Detection with Channel-wise Transformer", ICCV2021 accept!
 - [happinesslz/TANet](https://github.com/happinesslz/TANet) - The  AAAI-2020 Paper(Oral):"TANet: Robust 3D Object Detection from Point Clouds with Triple Attention"
 - [jialeli1/From-Voxel-to-Point](https://github.com/jialeli1/From-Voxel-to-Point) - "From Voxel to Point: IoU-guided 3D Object Detection for Point Cloud with Voxel-to-Point Decoder" and "Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud" in ACM MM 2021.
-- [felixchenfy/ros_3d_pointing_detection](https://github.com/felixchenfy/ros_3d_pointing_detection) - Which object a person is pointing at? Detect it by using YOLO, Openpose and depth image (under customized scene).
+- [felixchenfy/ros_3d_pointing_detection](https://github.com/felixchenfy/ros_3d_pointing_detection) - ROS perception pipeline for detecting pointed-at objects using human pose estimation, YOLO object detection, and RGB-D geometry.
 - [cedricxie/second_ros](https://github.com/cedricxie/second_ros) - Run SECOND Detector as a ROS Node with KITTI Dataset
 - [liu-qingzhen/Pointpillars-ROS](https://github.com/liu-qingzhen/Pointpillars-ROS) - Pointpillars with ROS Rviz
 - [ros/catkin](https://github.com/ros/catkin) - A CMake-based build system that is used to build all packages in ROS.
@@ -4980,7 +4980,7 @@
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
 - [JialeCao001/PedSurvey](https://github.com/JialeCao001/PedSurvey) - From Handcrafted to Deep Features for Pedestrian Detection: A Survey (TPAMI 2021)
 - [tyjiang1997/awesome-Automanous-3D-detection-methods](https://github.com/tyjiang1997/awesome-Automanous-3D-detection-methods) - 
-- [fastnlp/fitlog](https://github.com/fastnlp/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
+- [FudanNLP/fitlog](https://github.com/FudanNLP/fitlog) - fitlog是一款在深度学习训练中用于辅助用户记录日志和管理代码的工具
 - [pdollar/toolbox](https://github.com/pdollar/toolbox) - Piotr's Image & Video Matlab Toolbox
 - [goodbye61/RI_l2g](https://github.com/goodbye61/RI_l2g) - 
 - [zhangliliang/RPN_BF](https://github.com/zhangliliang/RPN_BF) - RPN+BF
@@ -6022,7 +6022,7 @@
 
 ## rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ViliamVadocz/nvidia-video-codec-sdk](https://github.com/ViliamVadocz/nvidia-video-codec-sdk) - Rust bindings for NVIDIA Video Codec SDK
@@ -6189,7 +6189,7 @@
 ## terminal 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
@@ -6209,7 +6209,7 @@
 ## tui 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 
 ## twitter 
 
