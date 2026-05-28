@@ -498,7 +498,7 @@
 
 ## automation 
 
-- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 
 ## awesome 
@@ -666,7 +666,7 @@
 ## cli 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -1827,7 +1827,7 @@
 ## llm 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
 - [chensi-cs/LLM-Interview-Guidebook](https://github.com/chensi-cs/LLM-Interview-Guidebook) - 本仓库是一份面向大模型算法工程师的面试宝典，系统梳理了大模型的核心知识点，帮助读者快速掌握大模型面试中的重点和难点
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -2278,7 +2278,7 @@
 - [NetEase-Media/grps_trtllm](https://github.com/NetEase-Media/grps_trtllm) - Higher performance OpenAI LLM service than vLLM serve: A pure C++ high-performance OpenAI LLM service implemented with GPRS+TensorRT-LLM+Tokenizers.cpp, supporting chat and function call, AI agents, d
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
-- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -6022,7 +6022,7 @@
 
 ## rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ViliamVadocz/nvidia-video-codec-sdk](https://github.com/ViliamVadocz/nvidia-video-codec-sdk) - Rust bindings for NVIDIA Video Codec SDK
@@ -6189,7 +6189,7 @@
 ## terminal 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [szieke/ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
@@ -6209,7 +6209,7 @@
 ## tui 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 
 ## twitter 
 
