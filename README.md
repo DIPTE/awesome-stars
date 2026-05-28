@@ -2315,7 +2315,7 @@
 - [CVMI-Lab/PLA](https://github.com/CVMI-Lab/PLA) - (CVPR 2023) PLA: Language-Driven Open-Vocabulary 3D Scene Understanding & (CVPR2024) RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding
 - [zhanggang001/HEDNet](https://github.com/zhanggang001/HEDNet) - HEDNet (NeurIPS 2023) & SAFDNet (CVPR 2024 Oral)
 - [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
-- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [NEU-REAL/SeqTrack3d](https://github.com/NEU-REAL/SeqTrack3d) - [ICRA'24] SeqTrack3d: Exploring Sequence Information for Robust 3D Point Cloud Tracking
 - [Terminal-K/MambaMOS](https://github.com/Terminal-K/MambaMOS) - Official code implementation of MambaMOS
 - [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive) - 
@@ -4220,7 +4220,7 @@
 
 ## Rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
