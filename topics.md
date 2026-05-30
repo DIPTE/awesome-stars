@@ -2351,6 +2351,8 @@
 
 ## others 
 
+- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - One-Click Install All
+- [greluoqixi/cc-switch-web](https://github.com/greluoqixi/cc-switch-web) - 
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [huashu996/DJFlightRecordParsing2TXT](https://github.com/huashu996/DJFlightRecordParsing2TXT) - get txt document
 - [dji-sdk/FlightRecordParsingLib](https://github.com/dji-sdk/FlightRecordParsingLib) - DJI Flight Record Parsing Lib
