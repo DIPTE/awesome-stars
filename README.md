@@ -1050,7 +1050,6 @@
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [iwatake2222/InferenceHelper](https://github.com/iwatake2222/InferenceHelper) - C++ Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, OpenVINO, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
 - [iwatake2222/InferenceHelper_Sample](https://github.com/iwatake2222/InferenceHelper_Sample) - Sample projects for InferenceHelper, a Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
-- [jiangxinyang227/nlp_tflite](https://github.com/jiangxinyang227/nlp_tflite) - nlp模型转tensorflow lite，并使用c++调用
 - [FeiGeChuanShu/YOLOPv2-ncnn](https://github.com/FeiGeChuanShu/YOLOPv2-ncnn) - 
 - [FeiGeChuanShu/yolov5-seg-ncnn](https://github.com/FeiGeChuanShu/yolov5-seg-ncnn) - c++ version of yolov5 segmentation with ncnn
 - [hpc203/yolopv2-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolopv2-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOPV2目标检测+可驾驶区域分割+车道线分割，一共包含54个onnx模型，依然是包含C++和Python两个版本的程序。仅仅只依赖OpenCV就能运行，彻底摆脱对任何深度学习框架的依赖。
@@ -1421,7 +1420,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio 
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
