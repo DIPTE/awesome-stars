@@ -1605,14 +1605,14 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio 
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## golang 
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio 
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## good-first-issue 
@@ -4292,7 +4292,6 @@
 - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson
 - [engcang/ros-yolo-sort](https://github.com/engcang/ros-yolo-sort) - YOLO v3, v4, v5, v6, v7 + SORT tracking + ROS platform. Supporting: YOLO with Darknet, OpenCV(DNN), OpenVINO, TensorRT(tkDNN). SORT supports python(original) and C++. (Not Deep SORT)
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [jiangxinyang227/nlp_tflite](https://github.com/jiangxinyang227/nlp_tflite) - nlp模型转tensorflow lite，并使用c++调用
 - [FeiGeChuanShu/YOLOPv2-ncnn](https://github.com/FeiGeChuanShu/YOLOPv2-ncnn) - 
 - [FeiGeChuanShu/yolov5-seg-ncnn](https://github.com/FeiGeChuanShu/yolov5-seg-ncnn) - c++ version of yolov5 segmentation with ncnn
 - [Ghostish/MM-Track](https://github.com/Ghostish/MM-Track) - The project page of MMTrack (CVPR2022 ORAL)
@@ -5417,7 +5416,6 @@
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [GPT-AGI/Clawd-Code](https://github.com/GPT-AGI/Clawd-Code) - Claude-Code-Python: Reconstructing Claude Code in Python
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
