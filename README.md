@@ -818,6 +818,7 @@
 - [Tartisan/MMDet3d-PointPillars](https://github.com/Tartisan/MMDet3d-PointPillars) - PointPillars TensorRT version pretrained on MMDetection3d with WaymoOpenDataset
 - [fateshelled/rknpu2_ros](https://github.com/fateshelled/rknpu2_ros) - ROS 2 Inference sample for using Rockchip NPU.
 - [olibartfast/yolov4-triton-cpp-client](https://github.com/olibartfast/yolov4-triton-cpp-client) - 
+- [olibartfast/neuriplo-infer](https://github.com/olibartfast/neuriplo-infer) - C++ app for computer vision inference, supporting multiple tasks and backends.
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
@@ -1473,7 +1474,7 @@
 
 ## JavaScript 
 
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course beginners to master step by step.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
@@ -1993,7 +1994,6 @@
 - [tolgabirdal/qenetworks](https://github.com/tolgabirdal/qenetworks) - Official implementation of Quaternion Equivariant Capsule Networks for 3D Point Clouds
 - [yinjunbo/CenterPoint-Fusion](https://github.com/yinjunbo/CenterPoint-Fusion) - The proposed approach enhances the CenterPoint baseline with a multimodal fusion mechanism. First, inspired by PointPainting, an off-the-shelf Mask-RCNN model trained from nuImages is employed to gene
 - [foolwood/benchmark_results](https://github.com/foolwood/benchmark_results) - Visual Tracking Paper List
-- [hancyran/RPNet-Point-Clouds](https://github.com/hancyran/RPNet-Point-Clouds) - (ICCV 2021) Learning Inner-group Relations on Point Clouds
 - [DWCTOD/ICCV2021-Papers-with-Code-Demo](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo) - ICCV 2021 paper with code
 - [MNewBie/PCL-Notes](https://github.com/MNewBie/PCL-Notes) - pcl learning notes
 - [ali-chr/ZSL_3D_point_cloud](https://github.com/ali-chr/ZSL_3D_point_cloud) - 
@@ -4258,7 +4258,6 @@
 - [industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588](https://github.com/industrialtablet/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588) - This is the documentation for RK3566 RK3568 RK3588 Tablet and miniPC products
 - [Tiryoh/docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - 🐳 Dockerfiles to provide HTML5 VNC interface to access Ubuntu Desktop + ROS 2
 - [Tiryoh/ros2_setup_scripts_ubuntu](https://github.com/Tiryoh/ros2_setup_scripts_ubuntu) - 🔧 unofficial ROS 2 install/setup scripts for Ubuntu
-- [olibartfast/vision-inference](https://github.com/olibartfast/vision-inference) - C++ app for computer vision inference, supporting multiple tasks and backends.
 - [RapidAI/OpenCVBuilder](https://github.com/RapidAI/OpenCVBuilder) - OpenCV Custom Builder
 - [crigroup/openrave-installation](https://github.com/crigroup/openrave-installation) - Bash scripts to install OpenRAVE from source
 - [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
