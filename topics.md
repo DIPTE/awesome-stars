@@ -2374,7 +2374,7 @@
 - [jykim2958/CSEConv](https://github.com/jykim2958/CSEConv) - The official implementation of "Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis" [ECCV 24]
 - [wistful-8029/BTP-3DAD](https://github.com/wistful-8029/BTP-3DAD) - 
 - [SarthakM320/CLIPoint3D](https://github.com/SarthakM320/CLIPoint3D) - 
-- [fastgs/FastGS](https://github.com/fastgs/FastGS) - [CVPR 2026 Highlight] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
+- [fastgs/FastGS](https://github.com/fastgs/FastGS) - [CVPR 2026 Highlight, the CVPR Compute Gold Star] Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
 - [XC-CN/RL_AirDrone_hover_IsaacLab](https://github.com/XC-CN/RL_AirDrone_hover_IsaacLab) - ME5406Project 使用IsaacLab通过深度学习训练无人机在不同环境风中保持悬停
 - [ika-rwth-aachen/ros2_calib](https://github.com/ika-rwth-aachen/ros2_calib) - Make your calibration dreams come true. ros2_calib is a Multi-Sensor Calibration Tool using ROS2 mcap recordings with direct URDF export.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
