@@ -653,7 +653,7 @@
 
 ## claude-code 
 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [romgX/openrelay](https://github.com/romgX/openrelay) - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
@@ -2369,7 +2369,7 @@
 - [IdolLab/RAGTrack](https://github.com/IdolLab/RAGTrack) - [CVPR2026] RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation
 - [altair199797/CPUBone](https://github.com/altair199797/CPUBone) - CPU-efficient Vision Backbone Architecture, from the CPUBone paper, accepted at CVPR Findings 2026
 - [IDEA-Research/Rex-Omni](https://github.com/IDEA-Research/Rex-Omni) - [CVPR2026] Detect Anything via Next Point Prediction
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [apple/ml-kpconvx](https://github.com/apple/ml-kpconvx) - 
 - [jykim2958/CSEConv](https://github.com/jykim2958/CSEConv) - The official implementation of "Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis" [ECCV 24]
 - [wistful-8029/BTP-3DAD](https://github.com/wistful-8029/BTP-3DAD) - 
