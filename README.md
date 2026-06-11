@@ -2606,7 +2606,7 @@
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - PaddlePaddle Code Convert Toolkit. 『飞桨』深度学习代码转换工具
 - [EnVision-Research/Adv3D](https://github.com/EnVision-Research/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for [IEEE Transactions on Vehicular Technology] "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
