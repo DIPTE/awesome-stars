@@ -113,7 +113,6 @@
 - [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TsingWei/stm32_iot_light_sensor](https://github.com/TsingWei/stm32_iot_light_sensor) - 使用CubeMX(HAL)，STM32+ESP8266+BH1750 通过MQTT协议实现的智能街灯（模拟）
-- [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
 - [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) - An MLIR-based toolchain for AMD AI Engine-enabled devices.
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - Super fast RISC-V ISA emulator for XiangShan processor
@@ -2456,7 +2455,6 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - [CVPR 2024 Highlight] Visual Point Cloud Forecasting
-- [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
 - [xinghaochen/TinySAM](https://github.com/xinghaochen/TinySAM) - [AAAI 2025] Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
 - [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE-1 (ICML'24), EAGLE-2 (EMNLP'24), and EAGLE-3 (NeurIPS'25).
