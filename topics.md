@@ -939,7 +939,6 @@
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn. This project has merged into MNN.
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
-- [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [engcang/tkdnn-ros](https://github.com/engcang/tkdnn-ros) - (ROS) YOLOv3, v4, v7 detection + Shelfnet semantic segmentation with TensorRT, utilizing tkDNN
 - [hpc203/M-LSD-onnxrun-cpp-py](https://github.com/hpc203/M-LSD-onnxrun-cpp-py) - 使用ONNXRuntime部署面向轻量实时的M-LSD直线检测，包含C++和Python两个版本的程序
 - [viplix3/BoTSORT-cpp](https://github.com/viplix3/BoTSORT-cpp) - C++ implementation of BoT-SORT MOT algorithm with Re-ID and Camera Motion Compensation
@@ -5587,7 +5586,6 @@
 - [lucastabelini/PolyLaneNet](https://github.com/lucastabelini/PolyLaneNet) - Code for the paper entitled "PolyLaneNet: Lane Estimation via Deep Polynomial Regression" (ICPR 2020)
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [TalkUHulk/HulkFakeFace-pytorch](https://github.com/TalkUHulk/HulkFakeFace-pytorch) - 人脸全家桶--RetinaFace（MobileNetV2  and ResNet50 with Gender）、ArcFace、FaceBeautyRank and FaceRetrieval
 - [spfrommer/torchexplorer](https://github.com/spfrommer/torchexplorer) - Interactively inspect module inputs, outputs, parameters, and gradients.
 - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - Yolo X, v3 ~ v12 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in MOT17 and VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in you
 - [autodistill/autodistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling (use foundation models to train supervised models).
