@@ -819,7 +819,7 @@
 - [olibartfast/neuriplo-infer](https://github.com/olibartfast/neuriplo-infer) - C++ app for computer vision inference, supporting multiple tasks and backends.
 - [OpenCalib/SensorX2car](https://github.com/OpenCalib/SensorX2car) - 
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
-- [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - 
+- [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - High-Bandwidth LiDAR Inertial Odometry
 - [hku-mars/ImMesh](https://github.com/hku-mars/ImMesh) - ImMesh: An Immediate LiDAR Localization and Meshing Framework
 - [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 - [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping package
