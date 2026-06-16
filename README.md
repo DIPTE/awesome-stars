@@ -1593,7 +1593,7 @@
 - [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
 - [atonderski/lidarclip](https://github.com/atonderski/lidarclip) - Bridging lidar and text through image intermediaries
 - [qq456cvb/CPPF](https://github.com/qq456cvb/CPPF) - CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild (CVPR2022)
-- [mindspore-lab/d2l-mindspore](https://github.com/mindspore-lab/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
+- [candle-org/d2l-mindspore](https://github.com/candle-org/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [xmba15/obstacle_detection_stixelnet](https://github.com/xmba15/obstacle_detection_stixelnet) - stixelnet for obstacle region detection of road scenes
 - [AlbinZhu/yolov7-polygon-detection](https://github.com/AlbinZhu/yolov7-polygon-detection) - yolov7-polygon-detection
 - [NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes) - 
@@ -2374,6 +2374,7 @@
 - [PacktPublishing/3D-Deep-Learning-with-Python](https://github.com/PacktPublishing/3D-Deep-Learning-with-Python) - 3D Deep Learning with Python, Published by Packt
 - [LMD0311/DAPT](https://github.com/LMD0311/DAPT) - [CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
 - [OpenGVLab/DCNv4](https://github.com/OpenGVLab/DCNv4) - [CVPR 2024] Deformable Convolution v4
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [AILab-CVC/UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) - [CVPR 2024 & TPAMI 2025] UniRepLKNet
 - [Meituan-AutoML/MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - Strong and Open Vision Language Assistant for Mobile Devices
 - [lucidrains/meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
@@ -2604,7 +2605,6 @@
 - [Matrix-ASC/DeLA](https://github.com/Matrix-ASC/DeLA) - Official PyTorch implementation of DeLA
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022 Oral)
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) - Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [PaddlePaddle/PaConvert](https://github.com/PaddlePaddle/PaConvert) - PaddlePaddle Code Convert Toolkit. 『飞桨』深度学习代码转换工具
 - [EnVision-Research/Adv3D](https://github.com/EnVision-Research/Adv3D) - 
 - [haooozi/TTSNet](https://github.com/haooozi/TTSNet) - Official Implementation for [IEEE Transactions on Vehicular Technology] "TTSNet: Temporal transformer-based sequence network for state-of-charge estimation of Li-ion battery"
@@ -4226,6 +4226,7 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [ViliamVadocz/nvidia-video-codec-sdk](https://github.com/ViliamVadocz/nvidia-video-codec-sdk) - Rust bindings for NVIDIA Video Codec SDK
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [raffber/async-can](https://github.com/raffber/async-can) - 
@@ -4328,7 +4329,6 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
 - [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
