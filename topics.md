@@ -809,7 +809,7 @@
 - [QingyongHu/SQN](https://github.com/QingyongHu/SQN) - SQN in Tensorflow (ECCV'2022)
 - [ThibaultGROUEIX/AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) - This repository contains the source codes for the paper "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation ". The network is able to synthesize a mesh (point cloud + connectivity) fr
 - [matlab-deep-learning/Lidar-object-detection-using-complex-yolov4](https://github.com/matlab-deep-learning/Lidar-object-detection-using-complex-yolov4) - Object detection and transfer learning on point clouds using pretrained Complex-YOLOv4 models in MATLAB
-- [mindspore-lab/d2l-mindspore](https://github.com/mindspore-lab/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
+- [candle-org/d2l-mindspore](https://github.com/candle-org/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [mindspore-lab/mindcv](https://github.com/mindspore-lab/mindcv) - A toolbox of vision models and algorithms based on MindSpore
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [andyzeng/3dmatch-toolbox](https://github.com/andyzeng/3dmatch-toolbox) - 3DMatch - a 3D ConvNet-based local geometric descriptor for aligning 3D meshes and point clouds.
@@ -1204,7 +1204,7 @@
 - [matlab-deep-learning/Lidar-object-detection-using-complex-yolov4](https://github.com/matlab-deep-learning/Lidar-object-detection-using-complex-yolov4) - Object detection and transfer learning on point clouds using pretrained Complex-YOLOv4 models in MATLAB
 - [qq456cvb/CPPF](https://github.com/qq456cvb/CPPF) - CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild (CVPR2022)
 - [lvyufeng/easy_mindspore_bk](https://github.com/lvyufeng/easy_mindspore_bk) - 
-- [mindspore-lab/d2l-mindspore](https://github.com/mindspore-lab/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
+- [candle-org/d2l-mindspore](https://github.com/candle-org/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [mindspore-lab/mindcv](https://github.com/mindspore-lab/mindcv) - A toolbox of vision models and algorithms based on MindSpore
 - [qq456cvb/CanonicalVoting](https://github.com/qq456cvb/CanonicalVoting) - Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes (CVPR2022)
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
@@ -1964,7 +1964,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
-- [mindspore-lab/d2l-mindspore](https://github.com/mindspore-lab/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
+- [candle-org/d2l-mindspore](https://github.com/candle-org/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
 - [renesas-rz/meta-renesas-ai](https://github.com/renesas-rz/meta-renesas-ai) - Renesas RZ/G AI BSP
@@ -2127,7 +2127,7 @@
 - [kaylode/theseus](https://github.com/kaylode/theseus) - General template for most Pytorch projects
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [mindspore-lab/d2l-mindspore](https://github.com/mindspore-lab/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
+- [candle-org/d2l-mindspore](https://github.com/candle-org/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on.
