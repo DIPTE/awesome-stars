@@ -1472,7 +1472,7 @@
 
 ## JavaScript 
 
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course beginners to master step by step.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
@@ -3109,8 +3109,6 @@
 - [lvyufeng/easy_mindspore_bk](https://github.com/lvyufeng/easy_mindspore_bk) - 
 - [grispeut/TSD_mindspore](https://github.com/grispeut/TSD_mindspore) - 第三届华为云无人车挑战杯复赛Top1方案分享, Traffic sign detection, yolov4, mindspore
 - [pprp/GoodsRecognition.MindSpore](https://github.com/pprp/GoodsRecognition.MindSpore) - 基于MindSpore AI框架实现零售商品识别 top1方案
-- [mindspore-lab/mindface](https://github.com/mindspore-lab/mindface) - MindFace is an open source toolkit based on MindSpore, containing the most advanced face recognition and detection models, such as ArcFace, RetinaFace and other models
-- [mindspore-lab/mindcv](https://github.com/mindspore-lab/mindcv) - A toolbox of vision models and algorithms based on MindSpore
 - [qq456cvb/CanonicalVoting](https://github.com/qq456cvb/CanonicalVoting) - Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes (CVPR2022)
 - [skyhehe123/VoxSeT](https://github.com/skyhehe123/VoxSeT) - Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds (CVPR 2022)
 - [Cliu2/MTrans](https://github.com/Cliu2/MTrans) - The PyTorch implementation of 'Multimodal Transformer for Automatic 3D Annotation and Object Detection'.
@@ -3379,6 +3377,7 @@
 - [JIA-Lab-research/UVTR](https://github.com/JIA-Lab-research/UVTR) - Unifying Voxel-based Representation with Transformer for 3D Object Detection (NeurIPS 2022)
 - [hustvl/Featurized-QueryRCNN](https://github.com/hustvl/Featurized-QueryRCNN) - Featurized Query R-CNN
 - [megvii-research/PETR](https://github.com/megvii-research/PETR) - [ECCV2022] PETR: Position Embedding Transformation for Multi-View 3D Object Detection & [ICCV2023] PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images
+- [guochengqian/PointNeXt](https://github.com/guochengqian/PointNeXt) - [NeurIPS'22] PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies
 - [kaist-avelab/K-Lane](https://github.com/kaist-avelab/K-Lane) - The World's First Large Scale Lidar Lane Detection Dataset and Benchmark
 - [nie-lang/DeepRectangling](https://github.com/nie-lang/DeepRectangling) - CVPR2022 (Oral) - Deep Rectangling for Image Stitching: A Learning Baseline
 - [zhangyp15/BEVerse](https://github.com/zhangyp15/BEVerse) - The official repository for BEVerse
@@ -4223,7 +4222,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
@@ -4273,7 +4272,6 @@
 - [akhilharihar/Qt-cross-compile-for-RPI](https://github.com/akhilharihar/Qt-cross-compile-for-RPI) - Automated script to setup QT cross compilation for RPI SBC
 - [polesapart/Qt5-arm-cross-build](https://github.com/polesapart/Qt5-arm-cross-build) - Docker scripts for building a qt5 opensource image via cross-compilation
 - [Amanda-Barbara/opencv_build](https://github.com/Amanda-Barbara/opencv_build) - build for x86 or arm on linux
-- [guochengqian/PointNeXt](https://github.com/guochengqian/PointNeXt) - [NeurIPS'22] PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies
 - [KamitaniLab/docker-images](https://github.com/KamitaniLab/docker-images) - 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
