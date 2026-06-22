@@ -979,7 +979,7 @@
 - [iwatake2222/InferenceHelper](https://github.com/iwatake2222/InferenceHelper) - C++ Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, OpenVINO, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
 - [iwatake2222/InferenceHelper_Sample](https://github.com/iwatake2222/InferenceHelper_Sample) - Sample projects for InferenceHelper, a Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
 - [hpc203/yolopv2-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolopv2-opencv-onnxrun-cpp-py) - 分别使用OpenCV、ONNXRuntime部署YOLOPV2目标检测+可驾驶区域分割+车道线分割，一共包含54个onnx模型，依然是包含C++和Python两个版本的程序。仅仅只依赖OpenCV就能运行，彻底摆脱对任何深度学习框架的依赖。
-- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11 to C++26 On the Fly | https://changkun.de/modern-cpp/
 - [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [godweiyang/NN-CUDA-Example](https://github.com/godweiyang/NN-CUDA-Example) - Several simple examples for popular neural network toolkits calling custom CUDA operators.
 - [iwatake2222/play_with_tflite](https://github.com/iwatake2222/play_with_tflite) - Sample projects for TensorFlow Lite in C++ with delegates such as GPU, EdgeTPU, XNNPACK, NNAPI
