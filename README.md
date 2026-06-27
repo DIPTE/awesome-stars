@@ -298,7 +298,7 @@
 - [TJU-Aerial-Robotics/YOPO](https://github.com/TJU-Aerial-Robotics/YOPO) - You Only Plan Once: A Learning Based Quadrotor Planner
 - [ShiPC-AI/TCF](https://github.com/ShiPC-AI/TCF) - [RAL 2024] RANSAC Back to SOTA: A Two-Stage Consensus Filtering for Real-Time 3D Registration
 - [aleksi-kangas/ets2-lane-detection](https://github.com/aleksi-kangas/ets2-lane-detection) - Lane detection in Euro Truck Simulator 2 using Ultra-Fast-Lane-Detection V1 & V2
-- [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) - This repository is based on shouxieai/tensorRT_Pro, with adjustments to support YOLOv8.
+- [Melody-Zhou/tensorRT_Pro-Vision](https://github.com/Melody-Zhou/tensorRT_Pro-Vision) - This repository is forked from shouxieai/tensorRT_Pro, extending it to support a wide range of vision models with high-performance TensorRT C++ inference.
 - [microsoft/T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU/NPU with lookup table
 - [uzh-rpg/rl_vo](https://github.com/uzh-rpg/rl_vo) - Repository relating to "Reinforcement Learning Meets Visual Odometry" (ECCV, 2024).
 - [ctu-mrs/pacnav](https://github.com/ctu-mrs/pacnav) - This repository contains the TMUX scripts to run the Gazebo simulations and real-world experiments for the paper entitled "PACNav: A Communication and External Localization Free Collective Swarm of UA
