@@ -2545,7 +2545,7 @@
 - [megvii-research/MCTrack](https://github.com/megvii-research/MCTrack) - [IROS2025]This is the offical implementation of the paper "MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving"
 - [auniquesun/Point-PRC](https://github.com/auniquesun/Point-PRC) - [NeurIPS 2024] Official implementation of the paper "Point-PRC: A Prompt Learning Based Regulation Framework for Generalizable Point Cloud Analysis"
 - [aleksi-kangas/ets2-lane-detection](https://github.com/aleksi-kangas/ets2-lane-detection) - Lane detection in Euro Truck Simulator 2 using Ultra-Fast-Lane-Detection V1 & V2
-- [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) - This repository is based on shouxieai/tensorRT_Pro, with adjustments to support YOLOv8.
+- [Melody-Zhou/tensorRT_Pro-Vision](https://github.com/Melody-Zhou/tensorRT_Pro-Vision) - This repository is forked from shouxieai/tensorRT_Pro, extending it to support a wide range of vision models with high-performance TensorRT C++ inference.
 - [CalciferZh/SMPL](https://github.com/CalciferZh/SMPL) - NumPy, TensorFlow and PyTorch implementation of human body SMPL model and infant body SMIL model.
 - [Event-AHU/EventVOT_Benchmark](https://github.com/Event-AHU/EventVOT_Benchmark) - [CVPR-2024] The First High Definition (HD) Event based Visual Object Tracking Benchmark Dataset
 - [CG80499/KAN-GPT-2](https://github.com/CG80499/KAN-GPT-2) - Training small GPT-2 style models using Kolmogorov-Arnold networks.
