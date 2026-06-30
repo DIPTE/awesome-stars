@@ -313,7 +313,7 @@
 
 ## agents 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -452,7 +452,7 @@
 ## artificial-intelligence 
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -677,7 +677,6 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny tool to export all your starred repositories.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
 ## clojure 
@@ -697,7 +696,7 @@
 
 ## code-quality 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## coding 
 
@@ -810,7 +809,7 @@
 - [neka-nat/cuimage](https://github.com/neka-nat/cuimage) - Rust implementation of image processing library with CUDA
 - [joffman/ros_object_recognition](https://github.com/joffman/ros_object_recognition) - A framework for ROS-based 2D and 3D object recognition.
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks" "RevColv2"
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
@@ -1027,7 +1026,7 @@
 
 ## cybersecurity 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## dart 
 
@@ -1186,7 +1185,7 @@
 - [ajhamdi/vointcloud](https://github.com/ajhamdi/vointcloud) - Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding (ICLR 2023)
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [VITA-Group/SLaK](https://github.com/VITA-Group/SLaK) - [ICLR 2023] "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity"; [ICML 2023] "Are Large Kernels  Better Teachers than Transformers for ConvNets?"
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3D Object Detection for Autonomous Driving Vehicle
 - [hpi-xnor/bitorch](https://github.com/hpi-xnor/bitorch) - BITorch: Open-Source Implementation of Binary Neural Networks with PyTorch
@@ -1637,7 +1636,7 @@
 
 ## hacking 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
 
 ## hacktoberfest 
@@ -1956,7 +1955,7 @@
 - [KangchengLiu/DLC_LiDAR_SLAM](https://github.com/KangchengLiu/DLC_LiDAR_SLAM) - :fire: :muscle: Official Project: A Robust and Effective LiDAR-SLAM System with Learning-based Denoising and Loop Closure (DLC-SLAM)
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
 - [Eaphan/GLENet](https://github.com/Eaphan/GLENet) - GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation [IJCV2023]
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
@@ -5368,7 +5367,7 @@
 
 ## penetration-testing 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 ## php 
 
@@ -5461,7 +5460,7 @@
 - [joffman/ros_object_recognition](https://github.com/joffman/ros_object_recognition) - A framework for ROS-based 2D and 3D object recognition.
 - [cantools/cantools](https://github.com/cantools/cantools) - CAN bus tools.
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [waveform80/pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [hpi-xnor/bitorch](https://github.com/hpi-xnor/bitorch) - BITorch: Open-Source Implementation of Binary Neural Networks with PyTorch
@@ -5640,7 +5639,7 @@
 - [ajhamdi/mvtorch](https://github.com/ajhamdi/mvtorch) - a Pytorch library for multi-view 3D understanding and generation
 - [median-research-group/LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
 - [VITA-Group/SLaK](https://github.com/VITA-Group/SLaK) - [ICLR 2023] "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity"; [ICML 2023] "Are Large Kernels  Better Teachers than Transformers for ConvNets?"
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [zjhellofss/KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 校招、秋招、春招、实习好项目！带你从零实现一个高性能的深度学习推理库，支持大模型 llama2 、Unet、Yolov5、Resnet等模型的推理。Implement a high-performance deep learning inference library step by step
 - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) - YOLO 3D Object Detection for Autonomous Driving Vehicle
 - [megvii-research/RevCol](https://github.com/megvii-research/RevCol) - Official Code of Paper "Reversible Column Networks" "RevColv2"
@@ -6044,7 +6043,7 @@
 
 ## security 
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
 - [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 
