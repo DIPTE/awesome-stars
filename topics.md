@@ -3944,7 +3944,6 @@
 - [autonomousvision/occupancy_networks](https://github.com/autonomousvision/occupancy_networks) - This repository contains the code for the paper "Occupancy Networks - Learning 3D Reconstruction in Function Space"
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 - [zetane/viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [steven9046/minimal_for_arm](https://github.com/steven9046/minimal_for_arm) - 
 - [fengzhenHIT/OpenCV_Projects](https://github.com/fengzhenHIT/OpenCV_Projects) - OpenCV实现计算机视觉项目
 - [legolas123/cv-tricks.com](https://github.com/legolas123/cv-tricks.com) - Repository for all the tutorials and codes shared at cv-tricks.com
