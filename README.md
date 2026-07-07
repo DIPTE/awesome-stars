@@ -339,7 +339,7 @@
 - [liangheming/VoxelMapPlus_FASTLIO2](https://github.com/liangheming/VoxelMapPlus_FASTLIO2) - FAST-LIO 2 with VoxelMapPlus and STD
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
-- [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - [IROS 2025] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU.
+- [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - [IROS 2025] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU
 - [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - [TRO 2025] AirVO upgrades to AirSLAM
 - [gisbi-kim/SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM) - Robust LiDAR SLAM with a versatile plug-and-play loop closing and pose-graph optimization.
 - [ZikangYuan/sr_lio](https://github.com/ZikangYuan/sr_lio) - [IROS 2024] A  LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency
@@ -1420,6 +1420,7 @@
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio 
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## HTML 
@@ -1440,7 +1441,6 @@
 - [VITA-Group/SLaK](https://github.com/VITA-Group/SLaK) - [ICLR 2023] "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity"; [ICML 2023] "Are Large Kernels  Better Teachers than Transformers for ConvNets?"
 - [Oneflow-Inc/oneflow-yolo-doc](https://github.com/Oneflow-Inc/oneflow-yolo-doc) - https://start.oneflow.org/oneflow-yolo-doc
 - [yushen-liu/yushen-liu.github.io](https://github.com/yushen-liu/yushen-liu.github.io) - 刘玉身的个人主页
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [moveit/moveit_tutorials](https://github.com/moveit/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [zhukao/AI-EXPRESS](https://github.com/zhukao/AI-EXPRESS) - 
@@ -1471,6 +1471,7 @@
 
 ## JavaScript 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
@@ -2085,7 +2086,7 @@
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching [ECCV 26]
 - [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
-- [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+- [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - [ECCV 2026] RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026 Highlight] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
@@ -4243,7 +4244,6 @@
 
 ## Shell 
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [fly-apps/ollama-open-webui](https://github.com/fly-apps/ollama-open-webui) - Self-host a ChatGPT-style web interface for Ollama 🦙
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
