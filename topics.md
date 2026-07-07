@@ -2397,7 +2397,7 @@
 - [DataXujing/YOLO26-TensorRT](https://github.com/DataXujing/YOLO26-TensorRT) - YOLO26模型介绍和TensorRT模型加速
 - [cvdong/trtinfer_yolo26](https://github.com/cvdong/trtinfer_yolo26) - yolo26 TensorRT 推理 🤡
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching [ECCV 26]
-- [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - Official implementation of RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+- [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - [ECCV 2026] RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026 Highlight] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
@@ -2669,7 +2669,7 @@
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [huangwl18/ReKep](https://github.com/huangwl18/ReKep) - ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation
 - [SLAMWang/fasterGICP](https://github.com/SLAMWang/fasterGICP) - an improvement of  fast_gicp
-- [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - [IROS 2025] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU.
+- [yuhaozhang7/NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM) - [IROS 2025] NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU
 - [AssafSinger94/dino-tracker](https://github.com/AssafSinger94/dino-tracker) - Official Pytorch Implementation for “DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video” (ECCV 2024)
 - [HR-zju/LiCROcc](https://github.com/HR-zju/LiCROcc) - 
 - [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - [TRO 2025] AirVO upgrades to AirSLAM
