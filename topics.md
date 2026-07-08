@@ -4405,7 +4405,7 @@
 - [open-mmlab/mim](https://github.com/open-mmlab/mim) - MIM Installs OpenMMLab Packages
 - [extreme-assistant/ECCV2022-Paper-Code-Interpretation](https://github.com/extreme-assistant/ECCV2022-Paper-Code-Interpretation) - ECCV2022 论文/代码/解读合集，极市团队整理
 - [zehuichen123/AutoAlignV2](https://github.com/zehuichen123/AutoAlignV2) - [ECCV2022, IJCAI2022] AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection
-- [ShenZheng2000/PointNorm-for-Point-Cloud-Analysis](https://github.com/ShenZheng2000/PointNorm-for-Point-Cloud-Analysis) - This is the official Pytorch implementation of our paper "PointNorm: Normalization is All You Need for Point Cloud Analysis""
+- [ShenZheng2000/PointNorm-for-Point-Cloud-Analysis](https://github.com/ShenZheng2000/PointNorm-for-Point-Cloud-Analysis) - [IJCNN 2023 Oral] PointNorm: Normalization is All You Need for Point Cloud Analysis
 - [a1600012888/MUTR3D](https://github.com/a1600012888/MUTR3D) - Code for Paper,  MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries.  https://tsinghua-mars-lab.github.io/mutr3d/
 - [Tsinghua-MARS-Lab/futr3d](https://github.com/Tsinghua-MARS-Lab/futr3d) - Code for paper: FUTR3D: a unified sensor fusion framework for 3d detection
 - [Tsinghua-MARS-Lab/DenseTNT](https://github.com/Tsinghua-MARS-Lab/DenseTNT) - 
