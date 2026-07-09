@@ -7,6 +7,7 @@
 
 - [Arc](#arc)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [BitBake](#bitbake)
 - [C](#c)
@@ -71,6 +72,10 @@
 ## Assembly 
 
 - [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
+
+## Astro 
+
+- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 
 ## Batchfile 
 
@@ -1911,7 +1916,6 @@
 - [lymhust/awesome-parking-slot-detection](https://github.com/lymhust/awesome-parking-slot-detection) - papers and codes about parking slot detection
 - [SysCV/TrafficBots](https://github.com/SysCV/TrafficBots) - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction. ICRA 2023. Code is now available at https://github.com/zhejz/TrafficBots
 - [ai4ce/V2X-Sim](https://github.com/ai4ce/V2X-Sim) - [RA-L2022] V2X-Sim Dataset and Benchmark
-- [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 - [apoorv-ml/Vision-RADAR-Fusion-BEV-Survey](https://github.com/apoorv-ml/Vision-RADAR-Fusion-BEV-Survey) - Vision-RADAR fusion for Robotics BEV Perception: A Survey
 - [apoorv-ml/VisionBEVDetectionSurvey](https://github.com/apoorv-ml/VisionBEVDetectionSurvey) - 
 - [luanshiyinyang/awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) - Resources for Multiple Object Tracking (MOT)
@@ -3347,7 +3351,7 @@
 - [JIA-Lab-research/DeepVision3D](https://github.com/JIA-Lab-research/DeepVision3D) - DeepVision3D is an open source toolbox for point-cloud understanding.
 - [open-mmlab/mim](https://github.com/open-mmlab/mim) - MIM Installs OpenMMLab Packages
 - [zehuichen123/AutoAlignV2](https://github.com/zehuichen123/AutoAlignV2) - [ECCV2022, IJCAI2022] AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection
-- [ShenZheng2000/PointNorm-for-Point-Cloud-Analysis](https://github.com/ShenZheng2000/PointNorm-for-Point-Cloud-Analysis) - This is the official Pytorch implementation of our paper "PointNorm: Normalization is All You Need for Point Cloud Analysis""
+- [ShenZheng2000/PointNorm-for-Point-Cloud-Analysis](https://github.com/ShenZheng2000/PointNorm-for-Point-Cloud-Analysis) - [IJCNN 2023 Oral] PointNorm: Normalization is All You Need for Point Cloud Analysis
 - [a1600012888/MUTR3D](https://github.com/a1600012888/MUTR3D) - Code for Paper,  MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries.  https://tsinghua-mars-lab.github.io/mutr3d/
 - [Tsinghua-MARS-Lab/futr3d](https://github.com/Tsinghua-MARS-Lab/futr3d) - Code for paper: FUTR3D: a unified sensor fusion framework for 3d detection
 - [Tsinghua-MARS-Lab/DenseTNT](https://github.com/Tsinghua-MARS-Lab/DenseTNT) - 
