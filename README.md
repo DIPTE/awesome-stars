@@ -56,7 +56,6 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [SystemVerilog](#systemverilog)
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -1496,6 +1495,7 @@
 - [DiT-3D/FastDiT-3D](https://github.com/DiT-3D/FastDiT-3D) - 
 - [drive-anywhere/drive-anywhere.github.io](https://github.com/drive-anywhere/drive-anywhere.github.io) - 
 - [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understand
+- [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 - [OpenMask3D/openmask3d.github.io](https://github.com/OpenMask3D/openmask3d.github.io) - 
 - [pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools) - Tools for emulating transistor-level netlists on FPGAs
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -4300,12 +4300,9 @@
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 
-## SystemVerilog 
-
-- [Xilinx/kria-vitis-platforms](https://github.com/Xilinx/kria-vitis-platforms) - Kria Vitis platforms and overlays
-
 ## Tcl 
 
+- [Xilinx/kria-vitis-platforms](https://github.com/Xilinx/kria-vitis-platforms) - Kria Vitis platforms and overlays
 - [Xilinx/DPU-PYNQ](https://github.com/Xilinx/DPU-PYNQ) - DPU on PYNQ
 - [smarttofsdk/SDK](https://github.com/smarttofsdk/SDK) - SmartTof module software develop kit
 
