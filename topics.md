@@ -102,6 +102,7 @@
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jquery](#jquery)
+- [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
@@ -1035,6 +1036,7 @@
 
 ## css 
 
+- [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## cybersecurity 
@@ -1678,6 +1680,7 @@
 
 ## html 
 
+- [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## http 
@@ -1768,6 +1771,10 @@
 ## jquery 
 
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+
+## js 
+
+- [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 
 ## json 
 
