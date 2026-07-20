@@ -2372,6 +2372,8 @@
 
 ## others 
 
+- [ika-rwth-aachen/ros2-depth-anything-v3-trt](https://github.com/ika-rwth-aachen/ros2-depth-anything-v3-trt) - ROS2 TensorRT Node for Monocular Metric Depth estimation and Point Cloud generation from camera images with Depth Anything V3
+- [mudler/depth-anything.cpp](https://github.com/mudler/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
 - [waveshareteam/Pico_MircoPython_Examples](https://github.com/waveshareteam/Pico_MircoPython_Examples) - 本仓库用于存放微雪电子发布的Pico系列教程使用的MircoPython例程。
 - [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - One-Click Install All
 - [greluoqixi/cc-switch-web](https://github.com/greluoqixi/cc-switch-web) - 
