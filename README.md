@@ -253,6 +253,8 @@
 
 ## C++ 
 
+- [ika-rwth-aachen/ros2-depth-anything-v3-trt](https://github.com/ika-rwth-aachen/ros2-depth-anything-v3-trt) - ROS2 TensorRT Node for Monocular Metric Depth estimation and Point Cloud generation from camera images with Depth Anything V3
+- [mudler/depth-anything.cpp](https://github.com/mudler/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
 - [dji-sdk/FlightRecordParsingLib](https://github.com/dji-sdk/FlightRecordParsingLib) - DJI Flight Record Parsing Lib
 - [DataXujing/YOLO26-TensorRT](https://github.com/DataXujing/YOLO26-TensorRT) - YOLO26模型介绍和TensorRT模型加速
 - [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
