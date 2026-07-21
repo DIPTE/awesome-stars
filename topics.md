@@ -672,6 +672,7 @@
 
 ## claude-code 
 
+- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,C
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
@@ -2372,10 +2373,10 @@
 
 ## others 
 
+- [fabiotosi92/ZipDepth](https://github.com/fabiotosi92/ZipDepth) - [ECCV 2026] Official implementation of "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device". A compact 6.1M-parameter network for zero-shot monocular depth estimation, ru
 - [ika-rwth-aachen/ros2-depth-anything-v3-trt](https://github.com/ika-rwth-aachen/ros2-depth-anything-v3-trt) - ROS2 TensorRT Node for Monocular Metric Depth estimation and Point Cloud generation from camera images with Depth Anything V3
 - [mudler/depth-anything.cpp](https://github.com/mudler/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
 - [waveshareteam/Pico_MircoPython_Examples](https://github.com/waveshareteam/Pico_MircoPython_Examples) - 本仓库用于存放微雪电子发布的Pico系列教程使用的MircoPython例程。
-- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - One-Click Install All
 - [greluoqixi/cc-switch-web](https://github.com/greluoqixi/cc-switch-web) - 
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [huashu996/DJFlightRecordParsing2TXT](https://github.com/huashu996/DJFlightRecordParsing2TXT) - get txt document
