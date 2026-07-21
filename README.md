@@ -671,6 +671,7 @@
 - [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
 - [rgaufman/live555](https://github.com/rgaufman/live555) - An unofficial fork of the live555 source code.
 - [Z-Xiong/LightTrack-ncnn](https://github.com/Z-Xiong/LightTrack-ncnn) - Ncnn version demo of [CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search
+- [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, Y
 - [nvpro-samples/vk_video_samples](https://github.com/nvpro-samples/vk_video_samples) - Vulkan video samples
 - [openMVG/openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 - [zhuyuliang/gst_rtsp_client](https://github.com/zhuyuliang/gst_rtsp_client) - gstreamer rtsp client support rockchip and jetson nx for C/C++ Python
@@ -2068,6 +2069,7 @@
 
 ## Python 
 
+- [fabiotosi92/ZipDepth](https://github.com/fabiotosi92/ZipDepth) - [ECCV 2026] Official implementation of "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device". A compact 6.1M-parameter network for zero-shot monocular depth estimation, ru
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
 - [waveshareteam/Pico_MircoPython_Examples](https://github.com/waveshareteam/Pico_MircoPython_Examples) - 本仓库用于存放微雪电子发布的Pico系列教程使用的MircoPython例程。
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
@@ -2768,7 +2770,6 @@
 - [lyclyc52/NeRF_RPN](https://github.com/lyclyc52/NeRF_RPN) - [CVPR2023] NeRF-RPN: A general framework for object detection in NeRFs
 - [AIR-THU/DAIR-V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) - 
 - [Nightmare-n/PVT-SSD](https://github.com/Nightmare-n/PVT-SSD) - PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer (CVPR 2023)
-- [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, Y
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [qcraftai/pillar-motion](https://github.com/qcraftai/pillar-motion) - Self-Supervised Pillar Motion Learning for Autonomous Driving (CVPR 2021)
@@ -4224,7 +4225,7 @@
 
 ## Rust 
 
-- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - One-Click Install All
+- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,C
 - [greluoqixi/cc-switch-web](https://github.com/greluoqixi/cc-switch-web) - 
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
