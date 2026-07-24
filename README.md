@@ -1993,7 +1993,6 @@
 - [Hub-Tian/Awesome-3D-Detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors) - Paperlist of awesome 3D detection methods
 - [Icecream-blue-sky/Past-and-present-small-object-detection](https://github.com/Icecream-blue-sky/Past-and-present-small-object-detection) - Latest paper about small object detection
 - [donnyruixu/pc-elm-ae](https://github.com/donnyruixu/pc-elm-ae) - 
-- [XiwuChen/PRA-Net](https://github.com/XiwuChen/PRA-Net) - The source code of PRA-Net.
 - [jialeli1/MGAF-3DSSD](https://github.com/jialeli1/MGAF-3DSSD) - The official implementation of "Anchor-free 3D Single Stage Detector with Mask-Guided Attention for Point Cloud" in ACM MM 2021.
 - [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo) - Apollo notes (Apollo学习笔记) - Apollo learning notes for beginners.
 - [tolgabirdal/qenetworks](https://github.com/tolgabirdal/qenetworks) - Official implementation of Quaternion Equivariant Capsule Networks for 3D Point Clouds
@@ -3564,6 +3563,7 @@
 - [lxh829/PointCloud-recognition](https://github.com/lxh829/PointCloud-recognition) - Use your own model to recognition
 - [qinglew/FoldingNet](https://github.com/qinglew/FoldingNet) - This is the implementation for FoldingNet——an autoencoder for point cloud in PyTorch.
 - [townim-faisal/lwf-3D](https://github.com/townim-faisal/lwf-3D) - [IWANN 2021] Reducing catastrophic forgetting in 3D point cloud objects with help of semantic information
+- [XiwuChen/PRA-Net](https://github.com/XiwuChen/PRA-Net) - The source code of PRA-Net.
 - [WangYueFt/detr3d](https://github.com/WangYueFt/detr3d) - 
 - [tomas789/kitti2bag](https://github.com/tomas789/kitti2bag) - Convert KITTI dataset to ROS bag file the easy way!
 - [utiasSTARS/pykitti](https://github.com/utiasSTARS/pykitti) - Python tools for working with KITTI data.
@@ -3648,7 +3648,7 @@
 - [blzq/tf_rodrigues](https://github.com/blzq/tf_rodrigues) - TensorFlow implementation of Rodrigues rotation conversion from axis-angle (rotation vector) to rotation matrix which supports batch inputs
 - [Banconxuan/RTS3D](https://github.com/Banconxuan/RTS3D) - RTS3D: Real-time Stereo 3D Detection from 4D Feature-Consistency Embedding Space for Autonomous Driving
 - [simon3dv/frustum_pointnets_pytorch](https://github.com/simon3dv/frustum_pointnets_pytorch) - A pytorch version of frustum-pointnets
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable python and c++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable Python and C++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
 - [atyshka/Lasernet](https://github.com/atyshka/Lasernet) - Implementing Uber's Lasernet LIDAR detector in Tensorflow 2.0
 - [kareemalsawah/Modified_LaserNet_Pytorch](https://github.com/kareemalsawah/Modified_LaserNet_Pytorch) - This is an implementation of the LaserNet paper, a CNN for Lidar 3D object detection
 - [MartinHahner/SeeingThroughFog](https://github.com/MartinHahner/SeeingThroughFog) - 
