@@ -182,7 +182,7 @@
 - [autoas/as](https://github.com/autoas/as) - Simple AUTOSAR Basic Software
 - [armink/FreeModbus_Slave-Master-RTT-STM32](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32) - Add master mode to FreeModbus. | 在 FreeModbus 中添加主机模式
 - [but0n/Avem](https://github.com/but0n/Avem) - 🚁 轻量级无人机飞控-[Drone]-[STM32]-[PID]-[BLDC]
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [k0suke-murakami/autoware_perception](https://github.com/k0suke-murakami/autoware_perception) - 
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [unicap/unicap](https://github.com/unicap/unicap) - unicap provides a uniform interface to video capture devices.
@@ -1117,7 +1117,6 @@
 - [ser94mor/lidar-obstacle-detection](https://github.com/ser94mor/lidar-obstacle-detection) - Project: Lidar Obstacle Detection || Udacity: Sensor Fusion Engineer Nanodegree
 - [intel/OpenVINO-optimization-for-PointPillars](https://github.com/intel/OpenVINO-optimization-for-PointPillars) - OpenVINO™ optimization for PointPillars*
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
@@ -3375,6 +3374,7 @@
 - [NVIDIA-AI-IOT/yolo_deepstream](https://github.com/NVIDIA-AI-IOT/yolo_deepstream) - yolo model qat and deploy with deepstream&tensorrt
 - [onnx/onnxmltools](https://github.com/onnx/onnxmltools) - ONNXMLTools enables conversion of models to ONNX
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
+- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [autowarefoundation/modelzoo](https://github.com/autowarefoundation/modelzoo) - A collection of machine-learned models for use in autonomous driving applications.
 - [hpcaitech/ColossalAI-Examples](https://github.com/hpcaitech/ColossalAI-Examples) - Examples of training models with hybrid parallelism using ColossalAI
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
