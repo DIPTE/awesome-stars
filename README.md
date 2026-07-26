@@ -270,7 +270,7 @@
 - [ADrownFish/RoboticUserInterface](https://github.com/ADrownFish/RoboticUserInterface) - Qt自定义机器人上位机软件，内置默认插件或自定义插件。多种通信方式（TCP/UDP/蓝牙/串口）和协议解析方案（插件/蓝牙/浮点数/Json/Csv）。具备大数据量并行可视化曲线、串口调试、原始数据流、Urdf模型加载及椭球拟合。Qt custom robot host software, built-in default plug-ins or custom plug-ins. TCP/UDP/
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交软件)
-- [APRIL-ZJU/Gaussian-LIC](https://github.com/APRIL-ZJU/Gaussian-LIC) - [ICRA 2025] Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion
+- [APRIL-ZJU/Gaussian-LIC](https://github.com/APRIL-ZJU/Gaussian-LIC) - [ICRA 2025 & IJRR 2026] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM (in Real Time)
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [Laka-3DV/TurboReg](https://github.com/Laka-3DV/TurboReg) - [ICCV-2025] TurboReg: TurboClique for Robust and Efficient Point Cloud Registration
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
@@ -2076,10 +2076,10 @@
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [Hamidreza-Hashempoor/FastTracker](https://github.com/Hamidreza-Hashempoor/FastTracker) - FastTracker: Real-Time and Accurate Visual Tracking
-- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Quality-First Skill Hub for AI Agents" -- https://open-space.cloud/
+- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [Intellindust-AI-Lab/FT-FSOD](https://github.com/Intellindust-AI-Lab/FT-FSOD) - [CVPR 2026] A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps
-- [IdolLab/RAGTrack](https://github.com/IdolLab/RAGTrack) - [CVPR2026] RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation
+- [IdolLab/RAGTrack](https://github.com/IdolLab/RAGTrack) - [CVPR 2026] RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation
 - [altair199797/CPUBone](https://github.com/altair199797/CPUBone) - CPU-efficient Vision Backbone Architecture, from the CPUBone paper, accepted at CVPR Findings 2026
 - [GPT-AGI/Clawd-Code](https://github.com/GPT-AGI/Clawd-Code) - Claude-Code-Python: Reconstructing Claude Code in Python
 - [apple/ml-kpconvx](https://github.com/apple/ml-kpconvx) - 
