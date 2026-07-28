@@ -254,7 +254,7 @@
 ## C++ 
 
 - [ika-rwth-aachen/ros2-depth-anything-v3-trt](https://github.com/ika-rwth-aachen/ros2-depth-anything-v3-trt) - ROS2 TensorRT Node for Monocular Metric Depth estimation and Point Cloud generation from camera images with Depth Anything V3
-- [mudler/depth-anything.cpp](https://github.com/mudler/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
+- [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
 - [dji-sdk/FlightRecordParsingLib](https://github.com/dji-sdk/FlightRecordParsingLib) - DJI Flight Record Parsing Lib
 - [DataXujing/YOLO26-TensorRT](https://github.com/DataXujing/YOLO26-TensorRT) - YOLO26模型介绍和TensorRT模型加速
 - [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
@@ -505,7 +505,7 @@
 - [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio) - Faster-LIO: Lightweight Tightly Coupled Lidar-inertial Odometry using Parallel Sparse Incremental Voxels
 - [gisbi-kim/SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM) - LiDAR-inertial SLAM: Scan Context + LIO-SAM
 - [lausen001/LIO-SAM-DetailedNote](https://github.com/lausen001/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
-- [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android
+- [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - A free, open-source media player library for Qt, powered by FFmpeg for Linux, Windows, macOS, iOS and Android
 - [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
@@ -2333,7 +2333,6 @@
 - [RUCAIBox/LLMBox](https://github.com/RUCAIBox/LLMBox) - A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [KellerJordan/cifar10-airbench](https://github.com/KellerJordan/cifar10-airbench) - CIFAR-10 speedruns: 94% in 2.6 seconds and 96% in 27 seconds
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet) - [TIP 2025] FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation
 - [AIR-THU/DAIR-RCooper](https://github.com/AIR-THU/DAIR-RCooper) - [CVPR2024] Official implementation of "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 - [explosion5/Dolphins](https://github.com/explosion5/Dolphins) - Main code of Dolphins dataset
@@ -4331,6 +4330,7 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [someu/aigotools](https://github.com/someu/aigotools) - AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It all
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [zju3dv/Wis3D](https://github.com/zju3dv/Wis3D) - A web-based 3D visualization tool for 3D computer vision.
 - [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) - 
