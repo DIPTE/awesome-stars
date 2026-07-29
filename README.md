@@ -117,7 +117,7 @@
 - [qaiu/c4droid-code](https://github.com/qaiu/c4droid-code) - C4droid代码实例 C/C++代码实例/教程
 - [TsingWei/stm32_iot_light_sensor](https://github.com/TsingWei/stm32_iot_light_sensor) - 使用CubeMX(HAL)，STM32+ESP8266+BH1750 通过MQTT协议实现的智能街灯（模拟）
 - [Niyunfeng/PID](https://github.com/Niyunfeng/PID) - 增量式PID算法C语言实现
-- [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) - An MLIR-based toolchain for AMD AI Engine-enabled devices.
+- [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) - A close-to-metal Python API for programming AMD Ryzen™ AI NPUs (AI Engines), built on an open-source MLIR-based compiler toolchain.
 - [OpenXiangShan/NEMU](https://github.com/OpenXiangShan/NEMU) - Super fast RISC-V ISA emulator for XiangShan processor
 - [nnstreamer/nnstreamer-example](https://github.com/nnstreamer/nnstreamer-example) - Example applications of nnstreamer. Note that we have to enable the 'apptest" CI module in the near future.
 - [Caesar-github/gstreamer-rockchip](https://github.com/Caesar-github/gstreamer-rockchip) - The Gstreamer hardware encoder/decoder plugins for Rockchip platform
@@ -1478,7 +1478,7 @@
 ## JavaScript 
 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding Course Beginners to Master Step by Step.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
