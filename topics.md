@@ -1764,7 +1764,7 @@
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [open-mmlab/labelbee](https://github.com/open-mmlab/labelbee) - LabelBee is an annotation Library
@@ -1772,7 +1772,7 @@
 
 ## jquery 
 
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 
 ## js 
 
@@ -2485,7 +2485,7 @@
 - [XingxingZuo/gaussian_lic2](https://github.com/XingxingZuo/gaussian_lic2) - The project page of Gaussian-LIC2
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - [ICLR 2026] Streaming 4D Visual Geometry Transformer
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
 - [xenkuo/comNG](https://github.com/xenkuo/comNG) - A modern and powerful serial port tool.
 - [KevinZ0217/fast_dinov2](https://github.com/KevinZ0217/fast_dinov2) - [NeurIPS '25] FastDINOv2: Frequency Based Curriculum Learning Improves Robustness and Training Speed
 - [CN-ADLab/SAM4D](https://github.com/CN-ADLab/SAM4D) - [ICCV 2025] SAM4D: Segment Anything in Camera and LiDAR Streams
@@ -3767,7 +3767,7 @@
 - [VincentCheungM/Run_based_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
 - [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE) - The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic functions for x86 target systems using SIMD up to AVX2 intrinsic functions
 - [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon) - A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.
 - [jxbbb/ADAPT](https://github.com/jxbbb/ADAPT) - This repository is an official implementation of ADAPT: Action-aware Driving Caption Transformer, accepted by ICRA 2023.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your device from anywhere via the web.
 - [simpleinvariance/UniversalNetwork](https://github.com/simpleinvariance/UniversalNetwork) - 
@@ -5924,18 +5924,18 @@
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 
 ## react-native 
 
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 
 ## reactjs 
 
 - [teleporthq/teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 
 ## reinforcement-learning 
 
@@ -6127,7 +6127,7 @@
 ## stable-diffusion 
 
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
+- [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion.
 
 ## statistics 
 
@@ -6257,7 +6257,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 
@@ -6349,7 +6349,7 @@
 ## vue 
 
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 
 ## vuejs 
