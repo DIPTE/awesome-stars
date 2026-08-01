@@ -217,6 +217,7 @@
 
 ## 3d 
 
+- [UVA-Computer-Vision-Lab/point_moe](https://github.com/UVA-Computer-Vision-Lab/point_moe) - [ICLR 2026] Official Code Release for  Point-MoE: Large-Scale Multi-Dataset Training with Mixture-of-Experts for 3D Semantic Segmentation
 - [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
 - [MIT-SPARK/BUFFER-X](https://github.com/MIT-SPARK/BUFFER-X) - [ICCV 2025, Highlight] BUFFER-X: Zero-Shot Point Cloud Registration
 - [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - [ICCV 2025] From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
@@ -2392,6 +2393,22 @@
 
 ## others 
 
+- [sun-robot/anygrasp](https://github.com/sun-robot/anygrasp) - 基于anygrasp_sdk的UR3e臂抓取
+- [graspnet/anygrasp_sdk](https://github.com/graspnet/anygrasp_sdk) - 
+- [NVlabs/contact_graspnet](https://github.com/NVlabs/contact_graspnet) - Efficient 6-DoF Grasp Generation in Cluttered Scenes
+- [THU-DA-6D-Pose-Group/GDR-Net](https://github.com/THU-DA-6D-Pose-Group/GDR-Net) - GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. (CVPR 2021)
+- [sychina/FastPillars_TensorRT](https://github.com/sychina/FastPillars_TensorRT) - TensorRT for FastPillars
+- [yester31/Monocular_Depth_Estimation_TRT](https://github.com/yester31/Monocular_Depth_Estimation_TRT) - Optimizing Monocular Depth Estimation with TensorRT: Model Conversion, Inference Acceleration, and 3D Reconstruction
+- [YushengEdward/yolo26depth-rknn](https://github.com/YushengEdward/yolo26depth-rknn) - 
+- [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp) - Port of Nvidia LocateAnything-3B on ggml
+- [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) - 
+- [UVA-Computer-Vision-Lab/LabelAny3D](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) - [NeurIPS 2025] LabelAny3D: Label Any Object 3D in the Wild
+- [UVA-Computer-Vision-Lab/3d_annotator](https://github.com/UVA-Computer-Vision-Lab/3d_annotator) - 3D BBox refinement interface used in LabelAny3D (NeurIPS 2025)
+- [cszyzhang/RISurConv](https://github.com/cszyzhang/RISurConv) - Official codes for ECCV2024 paper: RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation
+- [Anthony-ECPKN/SkyEvent](https://github.com/Anthony-ECPKN/SkyEvent) - This is a code and dataset base for event camera in large-scale 3D reconstruction
+- [Point-Cloud-Learning/PointLearner](https://github.com/Point-Cloud-Learning/PointLearner) - Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation
+- [princeton-vl/FOSSA](https://github.com/princeton-vl/FOSSA) - [ECCV 26] Official code for Zero-Shot Depth from Defocus (https://arxiv.org/abs/2603.26658)
+- [XianzheFan/Any3D-VLA](https://github.com/XianzheFan/Any3D-VLA) - (ICML 2026) Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds
 - [sumuru789/S2AM3D](https://github.com/sumuru789/S2AM3D) - [CVPR 2026 Oral] Official implementation for "S²AM3D: Scale-controllable Part Segmentation of 3D Point Clouds"
 - [jiaxunguo/ga4dpf](https://github.com/jiaxunguo/ga4dpf) - 
 - [fabiotosi92/ZipDepth](https://github.com/fabiotosi92/ZipDepth) - [ECCV 2026] Official implementation of "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device". A compact 6.1M-parameter network for zero-shot monocular depth estimation, ru
@@ -5981,6 +5998,7 @@
 
 ## robotics 
 
+- [real-stanford/diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 - [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
 - [aelmiger/LINE-MOD-Pipeline](https://github.com/aelmiger/LINE-MOD-Pipeline) - Pipeline to detect the 3D pose of known objects. It builds upon the opencv implementation of the LINE-MOD algorithm.
 - [PRBonn/PIN_SLAM](https://github.com/PRBonn/PIN_SLAM) - 📍PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency [TRO 24]
