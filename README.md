@@ -253,6 +253,9 @@
 
 ## C++ 
 
+- [sychina/FastPillars_TensorRT](https://github.com/sychina/FastPillars_TensorRT) - TensorRT for FastPillars
+- [YushengEdward/yolo26depth-rknn](https://github.com/YushengEdward/yolo26depth-rknn) - 
+- [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp) - Port of Nvidia LocateAnything-3B on ggml
 - [leggedrobotics/icp_localization](https://github.com/leggedrobotics/icp_localization) - This package provides localization in a pre-built map using ICP and odometry (or the IMU measurements).
 - [ika-rwth-aachen/ros2-depth-anything-v3-trt](https://github.com/ika-rwth-aachen/ros2-depth-anything-v3-trt) - ROS2 TensorRT Node for Monocular Metric Depth estimation and Point Cloud generation from camera images with Depth Anything V3
 - [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
@@ -1799,6 +1802,8 @@
 
 ## Others 
 
+- [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) - 
+- [Anthony-ECPKN/SkyEvent](https://github.com/Anthony-ECPKN/SkyEvent) - This is a code and dataset base for event camera in large-scale 3D reconstruction
 - [SENSING-Technology/SensingCaptureV3](https://github.com/SENSING-Technology/SensingCaptureV3) - Host Software Tools for Use with the Panda Device
 - [SENSING-Technology/nvidia-drive-camera-drivers](https://github.com/SENSING-Technology/nvidia-drive-camera-drivers) - Camera Drivers For NVIDIA Drive Devices.
 - [chensi-cs/LLM-Interview-Guidebook](https://github.com/chensi-cs/LLM-Interview-Guidebook) - 本仓库是一份面向大模型算法工程师的面试宝典，系统梳理了大模型的核心知识点，帮助读者快速掌握大模型面试中的重点和难点
@@ -2069,6 +2074,18 @@
 
 ## Python 
 
+- [real-stanford/diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
+- [sun-robot/anygrasp](https://github.com/sun-robot/anygrasp) - 基于anygrasp_sdk的UR3e臂抓取
+- [graspnet/anygrasp_sdk](https://github.com/graspnet/anygrasp_sdk) - 
+- [NVlabs/contact_graspnet](https://github.com/NVlabs/contact_graspnet) - Efficient 6-DoF Grasp Generation in Cluttered Scenes
+- [THU-DA-6D-Pose-Group/GDR-Net](https://github.com/THU-DA-6D-Pose-Group/GDR-Net) - GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation. (CVPR 2021)
+- [yester31/Monocular_Depth_Estimation_TRT](https://github.com/yester31/Monocular_Depth_Estimation_TRT) - Optimizing Monocular Depth Estimation with TensorRT: Model Conversion, Inference Acceleration, and 3D Reconstruction
+- [UVA-Computer-Vision-Lab/LabelAny3D](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) - [NeurIPS 2025] LabelAny3D: Label Any Object 3D in the Wild
+- [cszyzhang/RISurConv](https://github.com/cszyzhang/RISurConv) - Official codes for ECCV2024 paper: RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation
+- [Point-Cloud-Learning/PointLearner](https://github.com/Point-Cloud-Learning/PointLearner) - Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation
+- [princeton-vl/FOSSA](https://github.com/princeton-vl/FOSSA) - [ECCV 26] Official code for Zero-Shot Depth from Defocus (https://arxiv.org/abs/2603.26658)
+- [XianzheFan/Any3D-VLA](https://github.com/XianzheFan/Any3D-VLA) - (ICML 2026) Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds
+- [UVA-Computer-Vision-Lab/point_moe](https://github.com/UVA-Computer-Vision-Lab/point_moe) - [ICLR 2026] Official Code Release for  Point-MoE: Large-Scale Multi-Dataset Training with Mixture-of-Experts for 3D Semantic Segmentation
 - [sumuru789/S2AM3D](https://github.com/sumuru789/S2AM3D) - [CVPR 2026 Oral] Official implementation for "S²AM3D: Scale-controllable Part Segmentation of 3D Point Clouds"
 - [zhaoyang97/Paper-Notes](https://github.com/zhaoyang97/Paper-Notes) - 📚 数千篇 AI、LLM、NLP、CV 顶会论文解读，每篇 5 分钟读懂核心思想。
 - [jiaxunguo/ga4dpf](https://github.com/jiaxunguo/ga4dpf) - 
@@ -4321,6 +4338,7 @@
 
 ## TypeScript 
 
+- [UVA-Computer-Vision-Lab/3d_annotator](https://github.com/UVA-Computer-Vision-Lab/3d_annotator) - 3D BBox refinement interface used in LabelAny3D (NeurIPS 2025)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
