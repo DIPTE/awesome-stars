@@ -510,7 +510,7 @@
 - [gisbi-kim/SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM) - LiDAR-inertial SLAM: Scan Context + LIO-SAM
 - [lausen001/LIO-SAM-DetailedNote](https://github.com/lausen001/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 - [valbok/QtAVPlayer](https://github.com/valbok/QtAVPlayer) - A free, open-source media player library for Qt, powered by FFmpeg for Linux, Windows, macOS, iOS and Android
-- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
+- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework based on CV models & mLLM.
 - [kyou2016/ROS_LaneDetectionWithBEV](https://github.com/kyou2016/ROS_LaneDetectionWithBEV) - Use Ros, Wecar lane Detection and Yolo Object Detection(Bus Stop) with my friends
 - [MaybeShewill-CV/MNN-LaneNet](https://github.com/MaybeShewill-CV/MNN-LaneNet) - Lane detection model for mobile device via MNN project
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
@@ -1435,6 +1435,10 @@
 
 ## HTML 
 
+- [worldbench/awesome-agentic-world-model](https://github.com/worldbench/awesome-agentic-world-model) - 🔥 Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents
+- [worldbench/awesome-vla-for-ad](https://github.com/worldbench/awesome-vla-for-ad) - 🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future
+- [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) - 🔥 A Survey on AI Auto-Research
+- [worldbench/awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models) - [TPAMI 2026] 3D and 4D World Modeling: A Survey
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [xifen523/OmniTrack](https://github.com/xifen523/OmniTrack) - The official implementation of OmniTrack: Omnidirectional Multi-Object Tracking (CVPR 2025)
 - [skindhu/Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
@@ -2074,6 +2078,7 @@
 
 ## Python 
 
+- [pi3det/Pi3DET-Visualization](https://github.com/pi3det/Pi3DET-Visualization) - Visualization toolkit for Pi3DET-Dataset
 - [real-stanford/diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 - [sun-robot/anygrasp](https://github.com/sun-robot/anygrasp) - 基于anygrasp_sdk的UR3e臂抓取
 - [graspnet/anygrasp_sdk](https://github.com/graspnet/anygrasp_sdk) - 
