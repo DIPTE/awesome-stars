@@ -1364,7 +1364,7 @@
 - [naraharip2017/ros_tsdf](https://github.com/naraharip2017/ros_tsdf) - 
 - [ZhenshengLee/ga_points_downsampler](https://github.com/ZhenshengLee/ga_points_downsampler) - ros package points_downsampler using cupoch api
 - [uga-ssrl/SSRLCV](https://github.com/uga-ssrl/SSRLCV) - The UGA SSRL's Computer Vision Software Collection
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.
 - [Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx) - Collection of PyTorch customized operators.
 - [jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT) - SE-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) - how to optimize some algorithm in cuda.
@@ -1806,6 +1806,7 @@
 
 ## Others 
 
+- [meituan-longcat/LongCat-2.0](https://github.com/meituan-longcat/LongCat-2.0) - 
 - [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) - 
 - [Anthony-ECPKN/SkyEvent](https://github.com/Anthony-ECPKN/SkyEvent) - This is a code and dataset base for event camera in large-scale 3D reconstruction
 - [SENSING-Technology/SensingCaptureV3](https://github.com/SENSING-Technology/SensingCaptureV3) - Host Software Tools for Use with the Panda Device
@@ -2262,7 +2263,7 @@
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 - [OpenTeleVision/TeleVision](https://github.com/OpenTeleVision/TeleVision) - [CoRL 2024] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.
 - [dxyang/DQN_pytorch](https://github.com/dxyang/DQN_pytorch) - Vanilla DQN, Double DQN, and Dueling DQN implemented in PyTorch
 - [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨[NeurIPS 2025] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction
 - [emidan19/deep-tempest](https://github.com/emidan19/deep-tempest) - Restoration for TEMPEST images using deep-learning
