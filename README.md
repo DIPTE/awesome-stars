@@ -1487,7 +1487,7 @@
 
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding Course Beginners to Master Step by Step.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  The first course for AI-native product builders.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
@@ -2174,7 +2174,7 @@
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [linkangheng/PR1](https://github.com/linkangheng/PR1) - [NeurIPS 2025] Official code implementation of Perception R1: Pioneering Perception Policy with Reinforcement Learning
 - [niki-amini-naieni/CountVid](https://github.com/niki-amini-naieni/CountVid) - Includes the VideoCount dataset and CountVid code for the paper Open-World Object Counting in Videos.
-- [deepreinforce-ai/CUDA-L1](https://github.com/deepreinforce-ai/CUDA-L1) - CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning
+- [ornith-ai/CUDA-L1](https://github.com/ornith-ai/CUDA-L1) - CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning
 - [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
