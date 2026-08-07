@@ -1828,7 +1828,7 @@
 - [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [xuqingyuan2000/LP-ICP](https://github.com/xuqingyuan2000/LP-ICP) - 
-- [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
+- [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", TPAMI 2026.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [NEU-REAL/4D-CS](https://github.com/NEU-REAL/4D-CS) - 
 - [sheng00125/LIV-GaussMap](https://github.com/sheng00125/LIV-GaussMap) - 
