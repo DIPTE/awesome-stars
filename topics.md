@@ -2604,7 +2604,7 @@
 - [xuqingyuan2000/LP-ICP](https://github.com/xuqingyuan2000/LP-ICP) - 
 - [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) - Code for "DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT"
 - [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) - 
-- [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
+- [zju3dv/MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", TPAMI 2026.
 - [weijielyu/Gaga](https://github.com/weijielyu/Gaga) - [TMLR 2026] Gaga: Group Any Gaussians via 3D-aware Memory Bank
 - [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
