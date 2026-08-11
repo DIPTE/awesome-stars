@@ -3196,7 +3196,7 @@
 - [sesmfs/360-Surround-View-CUDA-Project](https://github.com/sesmfs/360-Surround-View-CUDA-Project) - 10000 fps 🚀 for 360 Surround-View CUDA Solution
 - [darkpgmr/DarkLabel](https://github.com/darkpgmr/DarkLabel) - Video/Image Labeling and Annotation Tool
 - [VisualComputingInstitute/mots_tools](https://github.com/VisualComputingInstitute/mots_tools) - Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
-- [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - [ICLR 2024] TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning
+- [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - [ICLR 2024 & T-PAMI] TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning
 - [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
 - [onnx/optimizer](https://github.com/onnx/optimizer) - ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
