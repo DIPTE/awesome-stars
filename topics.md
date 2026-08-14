@@ -4005,7 +4005,6 @@
 - [wangyancheng90/PointCloudProcessTool](https://github.com/wangyancheng90/PointCloudProcessTool) - Some tools for point cloud segmentation/filtering/classification/recognition/detection...
 - [TarcisioLOliveira/PointCloud](https://github.com/TarcisioLOliveira/PointCloud) - Simple OpenGL/C++ point cloud implementation
 - [ethz-asl/volumetric_mapping](https://github.com/ethz-asl/volumetric_mapping) - A repository for 3D volumetric (occupancy) maps, providing a generic interface for disparity map and pointcloud insertion, and support for custom sensor error models.
-- [eglrp/PointCloudClassifier](https://github.com/eglrp/PointCloudClassifier) - 
 - [sining1989/PointCloudTools](https://github.com/sining1989/PointCloudTools) - PointCloudTools是一款在Windows平台基于VS2017、Qt5.9.5、PCL1.8.1、VTK8.0.0源码编译开发的专门处理点云（.pcd、.ply、.obj等格式）文件的可视化工具。 该工具点云可视化使用的是vtk8.0.0编译生成的QVTKWidget窗口控件，使用PCL可以对点云进行滤波(filter)、特征提取(features)、关键点(keypoint)、 分割(
 - [latte-z/PointCloudTool](https://github.com/latte-z/PointCloudTool) - 基于Qt和PCL开发的点云处理软件
 - [Maswor/PointCloud-Skeletonization](https://github.com/Maswor/PointCloud-Skeletonization) - Algorithm to extract the visual skeleton of the scanned objects. Mirror from the research group's private repo.
