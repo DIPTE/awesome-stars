@@ -68,6 +68,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [embedded](#embedded)
@@ -401,6 +402,7 @@
 
 ## ai-agents 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
@@ -1540,6 +1542,10 @@
 
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 
+## dsh-plugin 
+
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+
 ## education 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -2410,6 +2416,7 @@
 
 ## others 
 
+- [AlexGeControl/2025-Shanghai-AI-Engineer-Certification](https://github.com/AlexGeControl/2025-Shanghai-AI-Engineer-Certification) - Training materials for 2025 Shanghai AI Engineer Certification
 - [meituan-longcat/LongCat-2.0](https://github.com/meituan-longcat/LongCat-2.0) - 
 - [pi3det/Pi3DET-Visualization](https://github.com/pi3det/Pi3DET-Visualization) - Visualization toolkit for Pi3DET-Dataset
 - [sun-robot/anygrasp](https://github.com/sun-robot/anygrasp) - 基于anygrasp_sdk的UR3e臂抓取
@@ -4153,7 +4160,7 @@
 - [xmba15/obstacle_detection_stixelnet](https://github.com/xmba15/obstacle_detection_stixelnet) - stixelnet for obstacle region detection of road scenes
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [AlbinZhu/yolov7-polygon-detection](https://github.com/AlbinZhu/yolov7-polygon-detection) - yolov7-polygon-detection
-- [NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes) - 
+- [NVIDIA-TAO/tao_toolkit_recipes](https://github.com/NVIDIA-TAO/tao_toolkit_recipes) - 
 - [xiezhihua001/dldt-samples](https://github.com/xiezhihua001/dldt-samples) - 
 - [elvin-n/dldt_tools](https://github.com/elvin-n/dldt_tools) - Place for dldt based tools, samples and demos
 - [linxie47/dldt-c_api](https://github.com/linxie47/dldt-c_api) - 
@@ -4267,7 +4274,7 @@
 - [ArjunNarayan2066/WatoContiRadarCollaboration](https://github.com/ArjunNarayan2066/WatoContiRadarCollaboration) - 
 - [WATonomous/Wato_Conti_Radar_Collab](https://github.com/WATonomous/Wato_Conti_Radar_Collab) - WATonomous radar driver code for collaboration with Continental.
 - [gloryhry/Ecal-to-ROS](https://github.com/gloryhry/Ecal-to-ROS) - ARS430 Radar ROS Msg
-- [NVIDIA-AI-IOT/ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars) - ROS2 node for 3D object detection using TAO-PointPillars.
+- [NVIDIA-TAO/ros2_tao_pointpillars](https://github.com/NVIDIA-TAO/ros2_tao_pointpillars) - ROS2 node for 3D object detection using TAO-PointPillars.
 - [NVIDIA-AI-IOT/viz_3Dbbox_ros2_pointpillars](https://github.com/NVIDIA-AI-IOT/viz_3Dbbox_ros2_pointpillars) - Visualization tool for 3D bounding box results of TAO-PointPillars
 - [csehydrogen/Winograd-OpenCL](https://github.com/csehydrogen/Winograd-OpenCL) - Winograd-based convolution implementation in OpenCL
 - [andravin/wincnn](https://github.com/andravin/wincnn) - Winograd minimal convolution algorithm generator for convolutional neural networks.
