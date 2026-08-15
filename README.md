@@ -883,7 +883,6 @@
 - [wangyancheng90/PointCloudProcessTool](https://github.com/wangyancheng90/PointCloudProcessTool) - Some tools for point cloud segmentation/filtering/classification/recognition/detection...
 - [TarcisioLOliveira/PointCloud](https://github.com/TarcisioLOliveira/PointCloud) - Simple OpenGL/C++ point cloud implementation
 - [ethz-asl/volumetric_mapping](https://github.com/ethz-asl/volumetric_mapping) - A repository for 3D volumetric (occupancy) maps, providing a generic interface for disparity map and pointcloud insertion, and support for custom sensor error models.
-- [eglrp/PointCloudClassifier](https://github.com/eglrp/PointCloudClassifier) - 
 - [sining1989/PointCloudTools](https://github.com/sining1989/PointCloudTools) - PointCloudTools是一款在Windows平台基于VS2017、Qt5.9.5、PCL1.8.1、VTK8.0.0源码编译开发的专门处理点云（.pcd、.ply、.obj等格式）文件的可视化工具。 该工具点云可视化使用的是vtk8.0.0编译生成的QVTKWidget窗口控件，使用PCL可以对点云进行滤波(filter)、特征提取(features)、关键点(keypoint)、 分割(
 - [latte-z/PointCloudTool](https://github.com/latte-z/PointCloudTool) - 基于Qt和PCL开发的点云处理软件
 - [Maswor/PointCloud-Skeletonization](https://github.com/Maswor/PointCloud-Skeletonization) - Algorithm to extract the visual skeleton of the scanned objects. Mirror from the research group's private repo.
@@ -1009,7 +1008,7 @@
 - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
 - [ArjunNarayan2066/WatoContiRadarCollaboration](https://github.com/ArjunNarayan2066/WatoContiRadarCollaboration) - 
 - [WATonomous/Wato_Conti_Radar_Collab](https://github.com/WATonomous/Wato_Conti_Radar_Collab) - WATonomous radar driver code for collaboration with Continental.
-- [NVIDIA-AI-IOT/ros2_tao_pointpillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars) - ROS2 node for 3D object detection using TAO-PointPillars.
+- [NVIDIA-TAO/ros2_tao_pointpillars](https://github.com/NVIDIA-TAO/ros2_tao_pointpillars) - ROS2 node for 3D object detection using TAO-PointPillars.
 - [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 - [aravindSwamy94/Robotic-Manipulation](https://github.com/aravindSwamy94/Robotic-Manipulation) - Robotic Manipulation exercises- Robot motion planning, Pick and place object, Object hold
 - [ctu-vras/visuo-haptic-shape-completion](https://github.com/ctu-vras/visuo-haptic-shape-completion) - Simulation, benchmark, and dataset for active uncertainty-driven visuo-haptic shape completion.
@@ -1354,7 +1353,6 @@
 - [qdLMF/LIO-SAM-GPU-ScanToMapOpt](https://github.com/qdLMF/LIO-SAM-GPU-ScanToMapOpt) - A CUDA reimplementation of the line/plane odometry of LIO-SAM. A point cloud hash map (inspired by iVox of Faster-LIO) on GPU is used to accelerate 5-neighbour KNN search. Run on Jetson Orin NX 8GB.
 - [Tony-Tan/CUDA_Freshman](https://github.com/Tony-Tan/CUDA_Freshman) - 
 - [Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes](https://github.com/Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes) - CUDA C 编程权威指南代码实现 包含了书上第二章到第八章的大部分代码实现和作者笔记，全由作者本人手动实现，难免有错误的地方，请大家谨慎参考，非常欢迎对错误的指正。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！
-- [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) - Causal depthwise conv1d in CUDA, with a PyTorch interface
 - [UofT-EcoSystem/Minuet](https://github.com/UofT-EcoSystem/Minuet) - [EuroSys'24] Minuet: Accelerating 3D Sparse Convolutions on GPUs
 - [dkotfis/Octree-SLAM](https://github.com/dkotfis/Octree-SLAM) - Large octree map construction and rendering with CUDA and OpenGL
 - [HKUST-Aerial-Robotics/open_quadtree_mapping](https://github.com/HKUST-Aerial-Robotics/open_quadtree_mapping) - This is a monocular dense mapping system corresponding to IROS 2018 "Quadtree-accelerated Real-time Monocular Dense Mapping"
@@ -1611,7 +1609,7 @@
 - [candle-org/d2l-mindspore](https://github.com/candle-org/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [xmba15/obstacle_detection_stixelnet](https://github.com/xmba15/obstacle_detection_stixelnet) - stixelnet for obstacle region detection of road scenes
 - [AlbinZhu/yolov7-polygon-detection](https://github.com/AlbinZhu/yolov7-polygon-detection) - yolov7-polygon-detection
-- [NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes) - 
+- [NVIDIA-TAO/tao_toolkit_recipes](https://github.com/NVIDIA-TAO/tao_toolkit_recipes) - 
 - [CodingSheep1229/openpilot-lane-detection](https://github.com/CodingSheep1229/openpilot-lane-detection) - an end to end lane detection based on openpilot model https://comma.ai/
 - [Divadi/simple_plot3d](https://github.com/Divadi/simple_plot3d) - A simple 3D & BEV visualizer for point clouds and 3D boxes.
 - [StanfordASL/Trajectron-plus-plus](https://github.com/StanfordASL/Trajectron-plus-plus) - Code accompanying the ECCV 2020 paper "Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data" by Tim Salzmann*, Boris Ivanovic*, Punarjay Chakravarty, and Marco Pavone (* d
@@ -1806,6 +1804,7 @@
 
 ## Others 
 
+- [AlexGeControl/2025-Shanghai-AI-Engineer-Certification](https://github.com/AlexGeControl/2025-Shanghai-AI-Engineer-Certification) - Training materials for 2025 Shanghai AI Engineer Certification
 - [meituan-longcat/LongCat-2.0](https://github.com/meituan-longcat/LongCat-2.0) - 
 - [NVlabs/LocateAnything3D](https://github.com/NVlabs/LocateAnything3D) - 
 - [Anthony-ECPKN/SkyEvent](https://github.com/Anthony-ECPKN/SkyEvent) - This is a code and dataset base for event camera in large-scale 3D reconstruction
@@ -2432,6 +2431,7 @@
 - [LMD0311/PointMamba](https://github.com/LMD0311/PointMamba) - [NeurIPS 2024] PointMamba: A Simple State Space Model for Point Cloud Analysis
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
+- [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) - Causal depthwise conv1d in CUDA, with a PyTorch interface
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
@@ -4344,6 +4344,7 @@
 
 ## TypeScript 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [UVA-Computer-Vision-Lab/3d_annotator](https://github.com/UVA-Computer-Vision-Lab/3d_annotator) - 3D BBox refinement interface used in LabelAny3D (NeurIPS 2025)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
