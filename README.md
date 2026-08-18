@@ -1008,7 +1008,6 @@
 - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
 - [ArjunNarayan2066/WatoContiRadarCollaboration](https://github.com/ArjunNarayan2066/WatoContiRadarCollaboration) - 
 - [WATonomous/Wato_Conti_Radar_Collab](https://github.com/WATonomous/Wato_Conti_Radar_Collab) - WATonomous radar driver code for collaboration with Continental.
-- [NVIDIA-TAO/ros2_tao_pointpillars](https://github.com/NVIDIA-TAO/ros2_tao_pointpillars) - ROS2 node for 3D object detection using TAO-PointPillars.
 - [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 - [aravindSwamy94/Robotic-Manipulation](https://github.com/aravindSwamy94/Robotic-Manipulation) - Robotic Manipulation exercises- Robot motion planning, Pick and place object, Object hold
 - [ctu-vras/visuo-haptic-shape-completion](https://github.com/ctu-vras/visuo-haptic-shape-completion) - Simulation, benchmark, and dataset for active uncertainty-driven visuo-haptic shape completion.
@@ -1609,7 +1608,6 @@
 - [candle-org/d2l-mindspore](https://github.com/candle-org/d2l-mindspore) - 《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。
 - [xmba15/obstacle_detection_stixelnet](https://github.com/xmba15/obstacle_detection_stixelnet) - stixelnet for obstacle region detection of road scenes
 - [AlbinZhu/yolov7-polygon-detection](https://github.com/AlbinZhu/yolov7-polygon-detection) - yolov7-polygon-detection
-- [NVIDIA-TAO/tao_toolkit_recipes](https://github.com/NVIDIA-TAO/tao_toolkit_recipes) - 
 - [CodingSheep1229/openpilot-lane-detection](https://github.com/CodingSheep1229/openpilot-lane-detection) - an end to end lane detection based on openpilot model https://comma.ai/
 - [Divadi/simple_plot3d](https://github.com/Divadi/simple_plot3d) - A simple 3D & BEV visualizer for point clouds and 3D boxes.
 - [StanfordASL/Trajectron-plus-plus](https://github.com/StanfordASL/Trajectron-plus-plus) - Code accompanying the ECCV 2020 paper "Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data" by Tim Salzmann*, Boris Ivanovic*, Punarjay Chakravarty, and Marco Pavone (* d
