@@ -1209,7 +1209,7 @@
 - [NVlabs/FasterViT](https://github.com/NVlabs/FasterViT) - [ICLR 2024] Official PyTorch implementation of FasterViT: Fast Vision Transformers with Hierarchical Attention
 - [NVlabs/FB-BEV](https://github.com/NVlabs/FB-BEV) - Official PyTorch implementation of FB-BEV & FB-OCC - Forward-backward view transformation for vision-centric autonomous driving perception
 - [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
-- [hailo-ai/hailo-apps-core](https://github.com/hailo-ai/hailo-apps-core) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
+- [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [ViTAE-Transformer/SimDistill](https://github.com/ViTAE-Transformer/SimDistill) - The official repo for [AAAI 2024] "SimDistill: Simulated Multi-modal Distillation for BEV 3D Object Detection""
 - [pyg-team/pyg-lib](https://github.com/pyg-team/pyg-lib) - Low-Level Graph Neural Network Operators for PyG
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
@@ -2016,7 +2016,7 @@
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning Server and CLI for Torch and TensorRT
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) - Arm NN ML Software.
-- [hailo-ai/hailo-apps-core](https://github.com/hailo-ai/hailo-apps-core) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
+- [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [sotetsuk/pgx](https://github.com/sotetsuk/pgx) - ♟️ Vectorized RL game environments in JAX
 - [karimknaebel/point2vec](https://github.com/karimknaebel/point2vec) - [GCPR 2023 | CVPR 2023 Workshop] Self-Supervised Representation Learning on Point Clouds
 - [PKU-DAIR/Hetu](https://github.com/PKU-DAIR/Hetu) - A high-performance distributed deep learning system targeting large-scale and automated distributed training.
