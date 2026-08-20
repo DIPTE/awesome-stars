@@ -696,7 +696,7 @@
 - [zeal-up/Simple-LIO-SAM](https://github.com/zeal-up/Simple-LIO-SAM) - Code for simplified LIO-SAM
 - [m-schuetz/CudaLOD](https://github.com/m-schuetz/CudaLOD) - CUDA-accelerated LOD construction for point clouds
 - [ntklink/rknn-ffmpeg-tutorial](https://github.com/ntklink/rknn-ffmpeg-tutorial) - ffmpeg-&gt;rockchip mpp decoding-&gt;rknpu rknn-&gt;opencv opengl rendering
-- [hailo-ai/hailo-apps-core](https://github.com/hailo-ai/hailo-apps-core) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
+- [hailo-ai/tappas](https://github.com/hailo-ai/tappas) - High-performance, optimized pre-trained template AI application pipelines for systems using Hailo devices
 - [NVIDIA-AI-IOT/deepstream_tao_apps](https://github.com/NVIDIA-AI-IOT/deepstream_tao_apps) - Sample apps to demonstrate how to deploy models trained with TAO on DeepStream
 - [OuyangJunyuan/pointcloud-3d-detector-tensorrt](https://github.com/OuyangJunyuan/pointcloud-3d-detector-tensorrt) - The first tensorrt implementation for point-based 3d detector, i.e., 3DSSD,SASA,IA-SSD.
 - [KhronosGroup/OpenCL-SDK](https://github.com/KhronosGroup/OpenCL-SDK) - OpenCL SDK
@@ -1119,6 +1119,7 @@
 - [ser94mor/lidar-obstacle-detection](https://github.com/ser94mor/lidar-obstacle-detection) - Project: Lidar Obstacle Detection || Udacity: Sensor Fusion Engineer Nanodegree
 - [intel/OpenVINO-optimization-for-PointPillars](https://github.com/intel/OpenVINO-optimization-for-PointPillars) - OpenVINO™ optimization for PointPillars*
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion.
@@ -3399,7 +3400,6 @@
 - [NVIDIA-AI-IOT/yolo_deepstream](https://github.com/NVIDIA-AI-IOT/yolo_deepstream) - yolo model qat and deploy with deepstream&tensorrt
 - [onnx/onnxmltools](https://github.com/onnx/onnxmltools) - ONNXMLTools enables conversion of models to ONNX
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [onnxsim/onnxsim](https://github.com/onnxsim/onnxsim) - Simplify your onnx model
 - [autowarefoundation/modelzoo](https://github.com/autowarefoundation/modelzoo) - A collection of machine-learned models for use in autonomous driving applications.
 - [hpcaitech/ColossalAI-Examples](https://github.com/hpcaitech/ColossalAI-Examples) - Examples of training models with hybrid parallelism using ColossalAI
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -4255,7 +4255,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
