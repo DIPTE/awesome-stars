@@ -258,7 +258,7 @@
 - [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp) - Port of Nvidia LocateAnything-3B on ggml
 - [leggedrobotics/icp_localization](https://github.com/leggedrobotics/icp_localization) - This package provides localization in a pre-built map using ICP and odometry (or the IMU measurements).
 - [ika-rwth-aachen/ros2-depth-anything-v3-trt](https://github.com/ika-rwth-aachen/ros2-depth-anything-v3-trt) - ROS2 TensorRT Node for Monocular Metric Depth estimation and Point Cloud generation from camera images with Depth Anything V3
-- [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
+- [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 2 and 3 (ByteDance)
 - [dji-sdk/FlightRecordParsingLib](https://github.com/dji-sdk/FlightRecordParsingLib) - DJI Flight Record Parsing Lib
 - [DataXujing/YOLO26-TensorRT](https://github.com/DataXujing/YOLO26-TensorRT) - YOLO26模型介绍和TensorRT模型加速
 - [amov-lab/SpireCV](https://github.com/amov-lab/SpireCV) - https://github.com/amov-lab/SpireCV
