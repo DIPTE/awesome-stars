@@ -214,7 +214,7 @@
 - [BBuf/Darknet](https://github.com/BBuf/Darknet) - Source-code notes for AlexeyAB Darknet (legacy)
 - [ChenCVer/darknet](https://github.com/ChenCVer/darknet) - Darknet(AB版)框架源码解析：详尽的中文注释(逐句)和原理分析！
 - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) - Open Neural Network Exchange to C compiler.
-- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting the latest instruction set extensions such as AVX10.2 and ACE
 - [SiliconLabs/mltk](https://github.com/SiliconLabs/mltk) - A Python package with command-line utilities and scripts to aid the development  of machine learning models for Silicon Lab's embedded platforms
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [dut-media-lab/Image-Stitching](https://github.com/dut-media-lab/Image-Stitching) - Leveraging Line-point Consistence to Preserve Structures for Wide Parallax Image Stitching
@@ -278,7 +278,7 @@
 - [APRIL-ZJU/Gaussian-LIC](https://github.com/APRIL-ZJU/Gaussian-LIC) - [ICRA 2025 & IJRR 2026] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM (in Real Time)
 - [Seyond-Inc/inno-lidar-sdk](https://github.com/Seyond-Inc/inno-lidar-sdk) - Seyond LiDAR SDK for advanced development
 - [Laka-3DV/TurboReg](https://github.com/Laka-3DV/TurboReg) - [ICCV-2025] TurboReg: TurboClique for Robust and Efficient Point Cloud Registration
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [ZikangYuan/voxel_svio](https://github.com/ZikangYuan/voxel_svio) - [RA-L 2025 Accept without Revision] A stereo visual-inertial odometry system based on voxel map
 - [hku-mars/FAST-Calib](https://github.com/hku-mars/FAST-Calib) - A Handy Extrinsic Calibration Tool for LiDAR-camera Systems.
