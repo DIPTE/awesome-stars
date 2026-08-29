@@ -49,6 +49,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
@@ -222,7 +223,7 @@
 - [worldbench/awesome-vla-for-ad](https://github.com/worldbench/awesome-vla-for-ad) - 🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future
 - [worldbench/awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models) - [TPAMI 2026] 3D and 4D World Modeling: A Survey
 - [UVA-Computer-Vision-Lab/point_moe](https://github.com/UVA-Computer-Vision-Lab/point_moe) - [ICLR 2026] Official Code Release for  Point-MoE: Large-Scale Multi-Dataset Training with Mixture-of-Experts for 3D Semantic Segmentation
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [MIT-SPARK/BUFFER-X](https://github.com/MIT-SPARK/BUFFER-X) - [ICCV 2025, Highlight] BUFFER-X: Zero-Shot Point Cloud Registration
 - [buaacyw/MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - [ICCV 2025] From anything to mesh like human artists. Official impl. of "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization"
 - [qizekun/VPP](https://github.com/qizekun/VPP) - [NeurIPS 2023] VPP: Efficient Conditional 3D Generation via Voxel-Point Progressive Representation
@@ -967,7 +968,7 @@
 ## cpp 
 
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [OroChippw/LightGlue-OnnxRunner](https://github.com/OroChippw/LightGlue-OnnxRunner) - LightGlue-OnnxRunner is a repository hosts the C++ inference code of LightGlue in ONNX format，supporting end-to-end/decouple model inference of SuperPoint/DISK + LightGlue
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
@@ -1064,6 +1065,10 @@
 
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
+
+## csharp 
+
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 
 ## css 
 
@@ -1847,7 +1852,7 @@
 
 ## library 
 
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [csiro-robotics/raycloudtools](https://github.com/csiro-robotics/raycloudtools) - Command line tools for processing ray clouds, together with an associated C++ library. Ray clouds are point clouds with sensor location included per point.
 - [libLAS/libLAS](https://github.com/libLAS/libLAS) - C++ library and programs for reading and writing ASPRS LAS format with LiDAR data
 - [ossrs/state-threads](https://github.com/ossrs/state-threads) - Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.
@@ -4435,7 +4440,7 @@
 - [littledeep/YOLOv5-RK3399Pro](https://github.com/littledeep/YOLOv5-RK3399Pro) - PyTorch--&gt;ONNX--&gt;RKNN
 - [hpc203/bytetrack-opencv-onnxruntime](https://github.com/hpc203/bytetrack-opencv-onnxruntime) - 分别使用OpenCV、ONNXRuntime部署YOLOX+ByteTrack目标跟踪，包含C++和Python两个版本的程序
 - [ucb-bar/onnxruntime-riscv](https://github.com/ucb-bar/onnxruntime-riscv) - Fork of upstream onnxruntime focused on supporting risc-v accelerators
-- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting FPU, MMX, SSE (1-4), AVX (1-2, 512), APX, and AVX10.2
+- [herumi/xbyak](https://github.com/herumi/xbyak) - A JIT assembler for x86/x64 architectures supporting the latest instruction set extensions such as AVX10.2 and ACE
 - [htshinichi/caffe-onnx](https://github.com/htshinichi/caffe-onnx) - caffe model convert to onnx model
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [kamanphoebe/MotionDetection](https://github.com/kamanphoebe/MotionDetection) - Optical Flow Based Motion Detection for Autonomous Driving
@@ -5502,7 +5507,7 @@
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.
-- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - Mesh processing library
+- [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib) - 3D geometry processing SDK: fast mesh boolean, mesh repair, decimation, remeshing, offset, point cloud triangulation and ICP registration. C++ with Python, C#, C and JavaScript bindings.
 - [TUMFTM/OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) - Zero-Drift Point Cloud Mapping using Map Priors
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
