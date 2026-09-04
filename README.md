@@ -44,7 +44,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [Prolog](#prolog)
 - [PureBasic](#purebasic)
 - [Python](#python)
 - [R](#r)
@@ -268,7 +267,7 @@
 - [PRBonn/rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 - [DCSI2022/AFLI_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 - [DCSI2022/DALI_SLAM](https://github.com/DCSI2022/DALI_SLAM) - DALI-SLAM: Degeneracy-Aware LiDAR-inertial SLAM with novel distortion correction and accurate multi-constraint pose graph optimization
-- [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
+- [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - CUDA-accelerated visual odometry and SLAM library for fast, accurate, low-latency camera tracking
 - [hku-mars/GS-SDF](https://github.com/hku-mars/GS-SDF) - [IROS 2025] LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction
 - [ethz-asl/versavis](https://github.com/ethz-asl/versavis) - An Open Versatile Multi-Camera Visual-Inertial Sensor Suite
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -1444,6 +1443,7 @@
 - [Tsinghua-MARS-Lab/DriveVLM](https://github.com/Tsinghua-MARS-Lab/DriveVLM) - 
 - [NVlabs/M2BEV](https://github.com/NVlabs/M2BEV) - 
 - [sophgo/tpu_compiler](https://github.com/sophgo/tpu_compiler) - cvitek ai compiler base on MLIR
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) - [ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering
 - [lqfarmer/Awesome-DeepLearning-500FAQ](https://github.com/lqfarmer/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 - [sangnekim/SMPConv](https://github.com/sangnekim/SMPConv) - [CVPR2023] "SMPConv: Self-moving Point Representations for Continuous Convolution"
@@ -2064,10 +2064,6 @@
 ## PowerShell 
 
 - [RapidAI/OnnxruntimeBuilder](https://github.com/RapidAI/OnnxruntimeBuilder) - Onnxruntime Builder
-
-## Prolog 
-
-- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 
 ## PureBasic 
 
@@ -4347,7 +4343,7 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [romgX/openrelay](https://github.com/romgX/openrelay) - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
