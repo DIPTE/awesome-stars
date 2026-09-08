@@ -2525,7 +2525,7 @@
 - [ethz-asl/versavis](https://github.com/ethz-asl/versavis) - An Open Versatile Multi-Camera Visual-Inertial Sensor Suite
 - [pbonazzi/picosam3](https://github.com/pbonazzi/picosam3) - [SENSORS 2025] PicoSAM2 and PicoSAM3 are segmentation models running in-sensor on the Sony IMX500.
 - [sallymmx/TrackAny3D](https://github.com/sallymmx/TrackAny3D) - This is the publish  code of TrackAny3D (ICCV2025).
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM5: SOTA on-device LLMs, small yet powerful.
 - [HaoyiZhu/SPA](https://github.com/HaoyiZhu/SPA) - [ICLR 2025] SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 - [yxltya/PointDGRWKV](https://github.com/yxltya/PointDGRWKV) - 
 - [zxcv616/GeoSAM2](https://github.com/zxcv616/GeoSAM2) - 
