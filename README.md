@@ -2081,7 +2081,7 @@
 - [UVA-Computer-Vision-Lab/LabelAny3D](https://github.com/UVA-Computer-Vision-Lab/LabelAny3D) - [NeurIPS 2025] LabelAny3D: Label Any Object 3D in the Wild
 - [cszyzhang/RISurConv](https://github.com/cszyzhang/RISurConv) - Official codes for ECCV2024 paper: RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation
 - [Point-Cloud-Learning/PointLearner](https://github.com/Point-Cloud-Learning/PointLearner) - Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation
-- [princeton-vl/FOSSA](https://github.com/princeton-vl/FOSSA) - [ECCV 26] Official code for Zero-Shot Depth from Defocus (https://arxiv.org/abs/2603.26658)
+- [princeton-vl/FOSSA](https://github.com/princeton-vl/FOSSA) - [ECCV 26 Spotlight] Official code for Zero-Shot Depth from Defocus (https://arxiv.org/abs/2603.26658)
 - [XianzheFan/Any3D-VLA](https://github.com/XianzheFan/Any3D-VLA) - (ICML 2026) Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds
 - [UVA-Computer-Vision-Lab/point_moe](https://github.com/UVA-Computer-Vision-Lab/point_moe) - [ICLR 2026] Official Code Release for  Point-MoE: Large-Scale Multi-Dataset Training with Mixture-of-Experts for 3D Semantic Segmentation
 - [sumuru789/S2AM3D](https://github.com/sumuru789/S2AM3D) - [CVPR 2026 Oral] Official implementation for "S²AM3D: Scale-controllable Part Segmentation of 3D Point Clouds"
@@ -2093,7 +2093,7 @@
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [Hamidreza-Hashempoor/FastTracker](https://github.com/Hamidreza-Hashempoor/FastTracker) - FastTracker: Real-Time and Accurate Visual Tracking
 - [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
