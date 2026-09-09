@@ -2440,7 +2440,7 @@
 - [cszyzhang/RISurConv](https://github.com/cszyzhang/RISurConv) - Official codes for ECCV2024 paper: RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation
 - [Anthony-ECPKN/SkyEvent](https://github.com/Anthony-ECPKN/SkyEvent) - This is a code and dataset base for event camera in large-scale 3D reconstruction
 - [Point-Cloud-Learning/PointLearner](https://github.com/Point-Cloud-Learning/PointLearner) - Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation
-- [princeton-vl/FOSSA](https://github.com/princeton-vl/FOSSA) - [ECCV 26] Official code for Zero-Shot Depth from Defocus (https://arxiv.org/abs/2603.26658)
+- [princeton-vl/FOSSA](https://github.com/princeton-vl/FOSSA) - [ECCV 26 Spotlight] Official code for Zero-Shot Depth from Defocus (https://arxiv.org/abs/2603.26658)
 - [XianzheFan/Any3D-VLA](https://github.com/XianzheFan/Any3D-VLA) - (ICML 2026) Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds
 - [sumuru789/S2AM3D](https://github.com/sumuru789/S2AM3D) - [CVPR 2026 Oral] Official implementation for "S²AM3D: Scale-controllable Part Segmentation of 3D Point Clouds"
 - [jiaxunguo/ga4dpf](https://github.com/jiaxunguo/ga4dpf) - 
@@ -2453,7 +2453,7 @@
 - [huashu996/DJFlightRecordParsing2TXT](https://github.com/huashu996/DJFlightRecordParsing2TXT) - get txt document
 - [dji-sdk/FlightRecordParsingLib](https://github.com/dji-sdk/FlightRecordParsingLib) - DJI Flight Record Parsing Lib
 - [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [SENSING-Technology/SensingCaptureV3](https://github.com/SENSING-Technology/SensingCaptureV3) - Host Software Tools for Use with the Panda Device
 - [SENSING-Technology/CoaxCapture-CCG3](https://github.com/SENSING-Technology/CoaxCapture-CCG3) - Driver and sources for using SENSING GMSL Video Capture Card
 - [SENSING-Technology/nvidia-drive-camera-drivers](https://github.com/SENSING-Technology/nvidia-drive-camera-drivers) - Camera Drivers For NVIDIA Drive Devices.
