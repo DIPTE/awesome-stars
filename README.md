@@ -2949,7 +2949,7 @@
 - [ai4ce/DeepMapping2](https://github.com/ai4ce/DeepMapping2) - [CVPR2023] DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization
 - [tarashakhurana/4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting) - CVPR 2023: Official code for `Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'
 - [JOP-Lee/READ](https://github.com/JOP-Lee/READ) - AAAI2023，implementation of "READ:  Large-Scale Neural Scene Rendering for Autonomous Driving", the experimental results are significantly better than Nerf-based methods
-- [nomewang/M3DM](https://github.com/nomewang/M3DM) - 
+- [wynoxos/M3DM](https://github.com/wynoxos/M3DM) - 
 - [I2-Multimedia-Lab/ProxyFormer](https://github.com/I2-Multimedia-Lab/ProxyFormer) - ProxyFormer (CVPR 2023)
 - [pranavkdm/R-PointHop](https://github.com/pranavkdm/R-PointHop) - R-PointHop: A Green, Accurate and Unsupervised Point Cloud Registration Method
 - [NVlabs/SegFormer](https://github.com/NVlabs/SegFormer) - Official PyTorch implementation of SegFormer
@@ -4249,6 +4249,7 @@
 - [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [ViliamVadocz/nvidia-video-codec-sdk](https://github.com/ViliamVadocz/nvidia-video-codec-sdk) - Rust bindings for NVIDIA Video Codec SDK
@@ -4345,7 +4346,6 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
