@@ -3753,7 +3753,7 @@
 - [JOP-Lee/READ](https://github.com/JOP-Lee/READ) - AAAI2023，implementation of "READ:  Large-Scale Neural Scene Rendering for Autonomous Driving", the experimental results are significantly better than Nerf-based methods
 - [jinwandou/-KalmanFilter-](https://github.com/jinwandou/-KalmanFilter-) - OpenCV2——卡尔曼滤波(KalmanFilter)详解
 - [apoorv-ml/Transformers-Sensor-Fusion](https://github.com/apoorv-ml/Transformers-Sensor-Fusion) - This repo holds trending techniques for sensor fusion task using Transformers
-- [nomewang/M3DM](https://github.com/nomewang/M3DM) - 
+- [wynoxos/M3DM](https://github.com/wynoxos/M3DM) - 
 - [I2-Multimedia-Lab/ProxyFormer](https://github.com/I2-Multimedia-Lab/ProxyFormer) - ProxyFormer (CVPR 2023)
 - [pranavkdm/R-PointHop](https://github.com/pranavkdm/R-PointHop) - R-PointHop: A Green, Accurate and Unsupervised Point Cloud Registration Method
 - [Done4/FFmpegMPPDecoder](https://github.com/Done4/FFmpegMPPDecoder) - h264的软解和硬解，基于FFmpeg和MPP
