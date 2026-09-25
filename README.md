@@ -444,7 +444,7 @@
 - [flanggut/smvs](https://github.com/flanggut/smvs) - Shading-aware Multi-view Stereo
 - [pmoulon/CMVS-PMVS](https://github.com/pmoulon/CMVS-PMVS) - This software (CMVS) takes the output of a structure-from-motion (SfM) software as input, then decomposes the input images into a set of image clusters of managable size. An MVS software can be used t
 - [simonfuhrmann/mve](https://github.com/simonfuhrmann/mve) - The Multi-View Environment: End-to-end image-based reconstruction (SfM, MVS, surface reconstruction)
-- [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
+- [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Structure-fom-Motion and Multi-View Stereo reconstruction library
 - [publicsite/COLMAP-OpenMVS-Pipeline](https://github.com/publicsite/COLMAP-OpenMVS-Pipeline) - A CPU 3D Reconstruction pipeline using COLMAP and OpenMVS
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学！
