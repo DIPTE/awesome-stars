@@ -2196,7 +2196,7 @@
 - [MIT-SPARK/BUFFER-X](https://github.com/MIT-SPARK/BUFFER-X) - [ICCV 2025, Highlight] BUFFER-X: Zero-Shot Point Cloud Registration
 - [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - [NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 - [Yaepiii/M2UD](https://github.com/Yaepiii/M2UD) - 
 - [dk-liang/UniFuture](https://github.com/dk-liang/UniFuture) - [ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception
