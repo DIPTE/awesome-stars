@@ -1067,7 +1067,6 @@
 - [PaddlePaddle/Paddle-Lite-Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo) - lib, demo, model, data
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11 to C++26 On the Fly | https://changkun.de/modern-cpp/
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [onnx/onnx-mlir](https://github.com/onnx/onnx-mlir) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [Oneflow-Inc/oneflow-xrt](https://github.com/Oneflow-Inc/oneflow-xrt) - 
@@ -1768,6 +1767,7 @@
 - [iree-org/iree-nvgpu](https://github.com/iree-org/iree-nvgpu) - 
 - [bytedance/byteir](https://github.com/bytedance/byteir) - A model compilation solution for various hardware
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+- [onnx/onnx-mlir](https://github.com/onnx/onnx-mlir) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure
 
 ## Makefile 
 
@@ -2576,9 +2576,9 @@
 - [hejiawei2023/UG3DMOT](https://github.com/hejiawei2023/UG3DMOT) - 
 - [ocetintas/MPNTrackSeg](https://github.com/ocetintas/MPNTrackSeg) - [IJCV 2022] Multi-Object Tracking and Segmentation via Neural Message Passing
 - [tobiasfshr/MOTSFusion](https://github.com/tobiasfshr/MOTSFusion) - MOTSFusion: Track to Reconstruct and Reconstruct to Track
-- [VisualComputingInstitute/TrackR-CNN](https://github.com/VisualComputingInstitute/TrackR-CNN) - TrackR-CNN baseline method for Multi-Object Tracking and Segmentation (MOTS)
+- [RWTHVision/TrackR-CNN](https://github.com/RWTHVision/TrackR-CNN) - TrackR-CNN baseline method for Multi-Object Tracking and Segmentation (MOTS)
 - [qa276390/SearchTrack](https://github.com/qa276390/SearchTrack) - [BMVC 2022] SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features
-- [VisualComputingInstitute/mots_tools](https://github.com/VisualComputingInstitute/mots_tools) - Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
+- [RWTHVision/mots_tools](https://github.com/RWTHVision/mots_tools) - Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task
 - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
 - [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - [ICLR 2024 & T-PAMI] TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning
 - [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
