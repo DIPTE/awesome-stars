@@ -2688,7 +2688,7 @@
 - [AXERA-TECH/RT-DETR](https://github.com/AXERA-TECH/RT-DETR) - Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
 - [lyuwenyu/RT-DETR](https://github.com/lyuwenyu/RT-DETR) - [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
 - [sunshuofeng/X-3D](https://github.com/sunshuofeng/X-3D) - X-3D:  Explicit 3D Structure Modeling for Point Cloud Recognition (CVPR2024)
-- [Ilya-Fradlin/Interactive4D](https://github.com/Ilya-Fradlin/Interactive4D) - [ICRA 2025] Interactive4D: Interactive 4D LiDAR Segmentation
+- [ifradlin/Interactive4D](https://github.com/ifradlin/Interactive4D) - [ICRA 2025] Interactive4D: Interactive 4D LiDAR Segmentation
 - [jerryfeng2003/PointGST](https://github.com/jerryfeng2003/PointGST) - [IEEE TPAMI] Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning
 - [tiev-tongji/LIMOT](https://github.com/tiev-tongji/LIMOT) - A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking.
 - [PRBonn/MapClosures](https://github.com/PRBonn/MapClosures) - Effectively Detecting Loop Closures using Point Cloud Density Maps
