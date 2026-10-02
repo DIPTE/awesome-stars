@@ -1068,7 +1068,7 @@
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11 to C++26 On the Fly | https://changkun.de/modern-cpp/
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [Oneflow-Inc/oneflow-xrt](https://github.com/Oneflow-Inc/oneflow-xrt) - 
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
@@ -2174,7 +2174,7 @@
 - [jetteezhou/PhysVLM](https://github.com/jetteezhou/PhysVLM) - PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
 - [henry123-boy/SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2) - [ICCV 2025] SpatialTrackerV2: 3D Point Tracking Made Easy
 - [wzzheng/StreamVGGT](https://github.com/wzzheng/StreamVGGT) - [ICLR 2026] Streaming 4D Visual Geometry Transformer
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
 - [KevinZ0217/fast_dinov2](https://github.com/KevinZ0217/fast_dinov2) - [NeurIPS '25] FastDINOv2: Frequency Based Curriculum Learning Improves Robustness and Training Speed
 - [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) - Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception".
 - [ZhengXinyue/bilibili_project](https://github.com/ZhengXinyue/bilibili_project) - 和bilibili教学视频相关的一些源代码
