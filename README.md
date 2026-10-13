@@ -238,6 +238,7 @@
 
 ## C# # 
 
+- [yangzigy/com_mc](https://github.com/yangzigy/com_mc) - 通用测控上位机
 - [zllzll/UAVPlatform](https://github.com/zllzll/UAVPlatform) - UAVPlatform是雷达+基座(RTK)+无人机(RTK)搭建出来的真值环境实时显示
 - [luotengyuan/MyMapTools](https://github.com/luotengyuan/MyMapTools) - 由于工作中经常和地图、GPS坐标转换、GPS轨迹查看等内容相关，经常要借助一些在线网站和工具来查看地图和位置等，在一次偶然的机会中了解到一个[GMap.NET](https://github.com/radioman/greatmaps)开源的桌面地图库和基于GMap.NET实现的[MapDownloader](https://github.com/luxiaoxun/MapDownloader)
 - [ZhouZijie77/Unity-PointCloud-Navigation](https://github.com/ZhouZijie77/Unity-PointCloud-Navigation) - 使用Unity开发的显示点云及通过点云地图生成可通行区域并使用A*算法进行路径规划移动端应用程序。
@@ -1430,6 +1431,7 @@
 
 ## HTML 
 
+- [ringozzt/rea-research](https://github.com/ringozzt/rea-research) - REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链
 - [worldbench/awesome-agentic-world-model](https://github.com/worldbench/awesome-agentic-world-model) - 🔥 Quo Vadis, World Modeling? Towards Interactive World Proxies for Continually Improving Agents
 - [worldbench/awesome-vla-for-ad](https://github.com/worldbench/awesome-vla-for-ad) - 🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future
 - [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) - 🔥 A Survey on AI Auto-Research
@@ -1481,6 +1483,8 @@
 
 ## JavaScript 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  vibe coding 101｜The first course for AI-native product builders.
@@ -1562,7 +1566,7 @@
 - [HorizonRobotics/Sparse4D](https://github.com/HorizonRobotics/Sparse4D) - 
 - [hustvl/4DGaussians](https://github.com/hustvl/4DGaussians) - [CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - [ECCV 2024] Tokenize Anything via Prompting
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [MarkFzp/mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
 - [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -2071,6 +2075,13 @@
 
 ## Python 
 
+- [zexianzhang36-prog/cn-company-radar-toolbox](https://github.com/zexianzhang36-prog/cn-company-radar-toolbox) - 
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
+- [microsoft/Mage](https://github.com/microsoft/Mage) - 
+- [Maelic/RelateAnything](https://github.com/Maelic/RelateAnything) - RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs
+- [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
+- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
+- [thinson/RS-PaperClaw](https://github.com/thinson/RS-PaperClaw) - 🦞 Stop reading remote sensing papaers manually — RS-PaperClaw auto-tracks, auto-analyzes, and auto-digests remote sensing papers.
 - [pi3det/Pi3DET-Visualization](https://github.com/pi3det/Pi3DET-Visualization) - Visualization toolkit for Pi3DET-Dataset
 - [real-stanford/diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 - [sun-robot/anygrasp](https://github.com/sun-robot/anygrasp) - 基于anygrasp_sdk的UR3e臂抓取
@@ -4319,6 +4330,8 @@
 
 ## Swift 
 
+- [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
+- [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 - [apple-aiml-research/ml-mobileone](https://github.com/apple-aiml-research/ml-mobileone) - This repository contains the official implementation of the research paper, "An Improved One millisecond Mobile Backbone" CVPR 2023.
 - [kingreza/quantization](https://github.com/kingreza/quantization) - A deep dive into Apple's coremltools quantization and how to reduce the size of a Core ML model without losing accuracy and performance
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
@@ -4337,6 +4350,8 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [UVA-Computer-Vision-Lab/3d_annotator](https://github.com/UVA-Computer-Vision-Lab/3d_annotator) - 3D BBox refinement interface used in LabelAny3D (NeurIPS 2025)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
