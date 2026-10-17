@@ -1398,7 +1398,7 @@
 - [osrf/docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
 - [davibe/docker-gstreamer-raspbian-build](https://github.com/davibe/docker-gstreamer-raspbian-build) - Building latest git version of gstreamer and plugins for raspberry pi (raspbian)
 - [codebydant/pcl-docker](https://github.com/codebydant/pcl-docker) - Point Cloud Library docker container
-- [cartesi/image-toolchain](https://github.com/cartesi/image-toolchain) - Image with RISC-V toolchains
+- [cartesi/image-toolchain](https://github.com/cartesi/image-toolchain) - Deprecated: Cartesi projects now build with the RISC-V cross-compilers from Debian  and Ubuntu
 - [charming-byte/openresty-rtmp-ffmpeg-api](https://github.com/charming-byte/openresty-rtmp-ffmpeg-api) - Example implementation of a dockerized Media Streaming Server powered by nginx-rtmp, ffmpeg and a Go API
 - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) - darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
