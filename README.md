@@ -2493,7 +2493,7 @@
 - [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) - [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving
 - [ChenhongyiYang/WidthFormer](https://github.com/ChenhongyiYang/WidthFormer) - [IROS 2024 Oral Presentation] WidthFormer: Toward Efficient Transformer-based BEV View Transformation
 - [InternRobotics/HIMLoco](https://github.com/InternRobotics/HIMLoco) - Learning-based locomotion control from OpenRobotLab, including Hybrid Internal Model & H-Infinity Locomotion Control
-- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with stat
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Serenos/DI-V2X](https://github.com/Serenos/DI-V2X) - The official implementation of AAAI2024 paper DI-V2X.
 - [OpenDriveLab/ViDAR](https://github.com/OpenDriveLab/ViDAR) - [CVPR 2024 Highlight] Visual Point Cloud Forecasting
@@ -3042,7 +3042,7 @@
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
-- [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition.
+- [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition
 - [haomo-ai/MotionSeg3D](https://github.com/haomo-ai/MotionSeg3D) - [IROS 2022] Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
 - [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) - [ICRA 2024] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation
 - [hpi-xnor/bitorch](https://github.com/hpi-xnor/bitorch) - BITorch: Open-Source Implementation of Binary Neural Networks with PyTorch
