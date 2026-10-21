@@ -2078,7 +2078,7 @@
 - [anbeime/skill](https://github.com/anbeime/skill) - 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate
 - [prs-eth/ForPT](https://github.com/prs-eth/ForPT) - Toward A Foundation Model for Forest Point Clouds
 - [zexianzhang36-prog/cn-company-radar-toolbox](https://github.com/zexianzhang36-prog/cn-company-radar-toolbox) - 
-- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map 840+ social media identities across the web
 - [microsoft/Mage](https://github.com/microsoft/Mage) - 
 - [Maelic/RelateAnything](https://github.com/Maelic/RelateAnything) - RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs
 - [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
