@@ -591,7 +591,6 @@
 - [wangzhaode/mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn. This project has merged into MNN.
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
 - [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
-- [onnx/optimizer](https://github.com/onnx/optimizer) - ONNX Optimizer
 - [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Interface-Driven OS Kernel for AI-Assisted Learning | 面向 AI 的操作系统学习项目
 - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) - YOLOX + ROS2 object detection package (C++ only support)
 - [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) - ROS/ROS 2 package for Ultralytics YOLOv8 real-time object detection and segmentation. https://github.com/ultralytics/ultralytics
@@ -2597,6 +2596,7 @@
 - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) - yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
 - [wudongming97/TopoMLP](https://github.com/wudongming97/TopoMLP) - [ICLR 2024 & T-PAMI] TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning
 - [DayongRen/Spiking-PointNet](https://github.com/DayongRen/Spiking-PointNet) - Official PyTorch implementation for the following paper: Spiking PointNet: Spiking Neural Networks for Point Clouds.
+- [onnx/optimizer](https://github.com/onnx/optimizer) - ONNX Optimizer
 - [JiayuanWang-JW/YOLOv8-multi-task](https://github.com/JiayuanWang-JW/YOLOv8-multi-task) - 
 - [JeffWang987/DriveDreamer](https://github.com/JeffWang987/DriveDreamer) - [ECCV 2024] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 - [tyhuang0428/CLIP2Point](https://github.com/tyhuang0428/CLIP2Point) - [ICCV 2023] CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training
@@ -3042,7 +3042,7 @@
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving
 - [JeffWang987/ASAP](https://github.com/JeffWang987/ASAP) - [CVPR 2023] Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
-- [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL/IROS 2022]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition
+- [haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer) - [RAL & ESI Highly Cited 🏆]  OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition
 - [haomo-ai/MotionSeg3D](https://github.com/haomo-ai/MotionSeg3D) - [IROS 2022] Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation
 - [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) - [ICRA 2024] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation
 - [hpi-xnor/bitorch](https://github.com/hpi-xnor/bitorch) - BITorch: Open-Source Implementation of Binary Neural Networks with PyTorch
