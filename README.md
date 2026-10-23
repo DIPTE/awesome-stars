@@ -2349,7 +2349,7 @@
 - [pavlo-melnyk/tetrasphere](https://github.com/pavlo-melnyk/tetrasphere) - The official implementation of the "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis" paper, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (
 - [yinjunbo/IS-Fusion](https://github.com/yinjunbo/IS-Fusion) - This repository contains the PyTorch implementation of the CVPR'2024 paper (Highlight), IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection.
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
-- [ispc-lab/LiDAR4D](https://github.com/ispc-lab/LiDAR4D) - 💫 [CVPR 2024] LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis
+- [sii-pilab/LiDAR4D](https://github.com/sii-pilab/LiDAR4D) - 💫 [CVPR 2024] LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis
 - [CVMI-Lab/PLA](https://github.com/CVMI-Lab/PLA) - (CVPR 2023) PLA: Language-Driven Open-Vocabulary 3D Scene Understanding & (CVPR2024) RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding
 - [zhanggang001/HEDNet](https://github.com/zhanggang001/HEDNet) - HEDNet (NeurIPS 2023) & SAFDNet (CVPR 2024 Oral)
 - [ylwhxht/SRKD-DRET](https://github.com/ylwhxht/SRKD-DRET) - AAAI2024 - Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection
@@ -3612,7 +3612,7 @@
 - [AndyYuan96/HVNet](https://github.com/AndyYuan96/HVNet) - 
 - [TRAILab/CaDDN](https://github.com/TRAILab/CaDDN) - Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021 Oral)
 - [zhangxiaosong18/FreeAnchor](https://github.com/zhangxiaosong18/FreeAnchor) - FreeAnchor: Learning to Match Anchors for Visual Object Detection (NeurIPS 2019)
-- [ispc-lab/HRegNet](https://github.com/ispc-lab/HRegNet) - [ICCV 2021] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration
+- [sii-pilab/HRegNet](https://github.com/sii-pilab/HRegNet) - [ICCV 2021] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration
 - [bernwang/latte](https://github.com/bernwang/latte) - LATTE: Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking
 - [hasanari/sane](https://github.com/hasanari/sane) - SAnE: Smart annotation and evaluation tool for point cloud data
 - [gyubeomim/voxelnet_ros](https://github.com/gyubeomim/voxelnet_ros) - qianguih' voxelnet version with  ROS Implementation code
@@ -3714,7 +3714,7 @@
 - [aleksandrkim61/EagerMOT](https://github.com/aleksandrkim61/EagerMOT) - Official code for "EagerMOT: 3D Multi-Object Tracking via Sensor Fusion" [ICRA 2021]
 - [alextrevithick/GRF](https://github.com/alextrevithick/GRF) - 🔥 General Radiance Field (ICCV, 2021)
 - [AndyYuan96/End-to-End-Multi-View-Fusion-for-3D-Object-Detection-in-LiDAR-Point-Clouds](https://github.com/AndyYuan96/End-to-End-Multi-View-Fusion-for-3D-Object-Detection-in-LiDAR-Point-Clouds) - 
-- [ispc-lab/PointINet](https://github.com/ispc-lab/PointINet) - Source code of our paper: PointINet: Point Cloud Frame Interpolation Network
+- [sii-pilab/PointINet](https://github.com/sii-pilab/PointINet) - Source code of our paper: PointINet: Point Cloud Frame Interpolation Network
 - [Gaozhongpai/LSAConvMesh](https://github.com/Gaozhongpai/LSAConvMesh) - Official repository for the paper "Learning Local Neighboring Structure for Robust 3D Shape Representation"
 - [luost26/score-denoise](https://github.com/luost26/score-denoise) - :snowflake: Score-Based Point Cloud Denoising (ICCV 2021)
 - [SuperMHP/GUPNet](https://github.com/SuperMHP/GUPNet) - 
@@ -4261,7 +4261,7 @@
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one clic
 - [greluoqixi/cc-switch-web](https://github.com/greluoqixi/cc-switch-web) - 
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
