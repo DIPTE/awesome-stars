@@ -70,6 +70,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1578,6 +1579,12 @@
 ## dotnet 
 
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+
+## downloader 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [mediago-dev/mediago](https://github.com/mediago-dev/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
+- [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 
 ## dsh-plugin 
 
@@ -3442,7 +3449,6 @@
 - [OpenDriveLab/DriveAdapter](https://github.com/OpenDriveLab/DriveAdapter) - [ICCV 2023 Oral] A New Paradigm for End-to-end Autonomous Driving to Alleviate Causal Confusion
 - [IRMVLab/ASTA3DConv](https://github.com/IRMVLab/ASTA3DConv) - Codes for TIM2021 paper "Anchor-Based Spatio-Temporal Attention 3-D Convolutional Networks for Dynamic 3-D Point Cloud Sequences"
 - [s-duuu/pred_fusion](https://github.com/s-duuu/pred_fusion) - Object Trajectory Prediction using ROS, YOLOv5, PointPillars, CRAT-Pred
-- [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [jiaweihe1996/BA-Det](https://github.com/jiaweihe1996/BA-Det) - (CVPR 2023) Official PyTorch implementation of the paper: 3D Video Object Detection with Learnable Object-Centric Global Optimization.
 - [Robertwyq/Frustum](https://github.com/Robertwyq/Frustum) - [CVPR 2023] FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection
 - [zhuoxiao-chen/ReDB-DA-3Ddet](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet) - [ICCV 2023] Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling
