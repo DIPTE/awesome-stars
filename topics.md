@@ -3060,7 +3060,7 @@
 - [lhaof/nnMamba](https://github.com/lhaof/nnMamba) - 
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [AnythingInAnyScene/anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
-- [fudan-zvg/PARTNER](https://github.com/fudan-zvg/PARTNER) - [ICCV 2023 & IJCV 2026] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
+- [LogosIntelligenceLab/PARTNER](https://github.com/LogosIntelligenceLab/PARTNER) - [ICCV 2023 & IJCV 2026] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
 - [biter0088/pc-nerf](https://github.com/biter0088/pc-nerf) - 
 - [HaydenYu/MM-Point](https://github.com/HaydenYu/MM-Point) - MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding (AAAI 2024)
 - [baaivision/tokenize-anything](https://github.com/baaivision/tokenize-anything) - [ECCV 2024] Tokenize Anything via Prompting
@@ -4141,7 +4141,7 @@
 - [beedotkiran/Lidar_For_AD_references](https://github.com/beedotkiran/Lidar_For_AD_references) - A list of references on lidar point cloud processing for autonomous driving
 - [LeoQLi/Lidar_For_AD_references](https://github.com/LeoQLi/Lidar_For_AD_references) - A list of references on lidar point cloud processing for autonomous driving
 - [LeoQLi/HSurf-Net](https://github.com/LeoQLi/HSurf-Net) - HSurf-Net: Normal Estimation for 3D Point Clouds by Learning Hyper Surfaces
-- [fudan-zvg/PolarFormer](https://github.com/fudan-zvg/PolarFormer) - [AAAI 2023] PolarFormer: Multi-camera 3D Object Detection with Polar Transformers
+- [LogosIntelligenceLab/PolarFormer](https://github.com/LogosIntelligenceLab/PolarFormer) - [AAAI 2023] PolarFormer: Multi-camera 3D Object Detection with Polar Transformers
 - [weixmath/PDG](https://github.com/weixmath/PDG) - 
 - [3db/blog_demo](https://github.com/3db/blog_demo) - Data, configs, and code for the walkthrough from the 3DB blogpost: https://gradientscience.org/3db
 - [3db/3db](https://github.com/3db/3db) - A framework for analyzing computer vision models with simulated data
@@ -4348,8 +4348,8 @@
 - [nachiket92/P2T](https://github.com/nachiket92/P2T) - Code for "Trajectory Forecasts in Unknown Environments Conditioned on Grid-Based Plans" https://arxiv.org/abs/2001.00735
 - [ldkong1205/PointCloud-C](https://github.com/ldkong1205/PointCloud-C) - Benchmarking and Analyzing Point Cloud Perception Robustness under Corruptions
 - [worldbench/LaserMix](https://github.com/worldbench/LaserMix) - [CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
-- [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - [ECCV 2022] Learning Ego 3D Representation as Ray Tracing
-- [fudan-zvg/DeepInteraction](https://github.com/fudan-zvg/DeepInteraction) - [NeurIPS 2022 & TPAMI 2025] DeepInteraction: 3D Object Detection via Modality Interaction
+- [LogosIntelligenceLab/Ego3RT](https://github.com/LogosIntelligenceLab/Ego3RT) - [ECCV 2022] Learning Ego 3D Representation as Ray Tracing
+- [LogosIntelligenceLab/DeepInteraction](https://github.com/LogosIntelligenceLab/DeepInteraction) - [NeurIPS 2022 & TPAMI 2025] DeepInteraction: 3D Object Detection via Modality Interaction
 - [jingyue202205/CIA-SSD-AI-TRT](https://github.com/jingyue202205/CIA-SSD-AI-TRT) - CIA-SSD ALL IN TensorRT,NMS not implemented in TensorRT,implemented in c++
 - [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
