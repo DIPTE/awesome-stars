@@ -2447,7 +2447,7 @@
 - [lhaof/nnMamba](https://github.com/lhaof/nnMamba) - 
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [AnythingInAnyScene/anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
-- [fudan-zvg/PARTNER](https://github.com/fudan-zvg/PARTNER) - [ICCV 2023 & IJCV 2026] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
+- [LogosIntelligenceLab/PARTNER](https://github.com/LogosIntelligenceLab/PARTNER) - [ICCV 2023 & IJCV 2026] PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection
 - [biter0088/pc-nerf](https://github.com/biter0088/pc-nerf) - 
 - [UniBwTAS/YOLOPoint](https://github.com/UniBwTAS/YOLOPoint) - Joint Keypoint and Object Detection
 - [fkluger/parsac](https://github.com/fkluger/parsac) - PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus
@@ -3128,7 +3128,7 @@
 - [CVMI-Lab/FS3D](https://github.com/CVMI-Lab/FS3D) - (NeurlPS 2022) Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [LeoQLi/HSurf-Net](https://github.com/LeoQLi/HSurf-Net) - HSurf-Net: Normal Estimation for 3D Point Clouds by Learning Hyper Surfaces
-- [fudan-zvg/PolarFormer](https://github.com/fudan-zvg/PolarFormer) - [AAAI 2023] PolarFormer: Multi-camera 3D Object Detection with Polar Transformers
+- [LogosIntelligenceLab/PolarFormer](https://github.com/LogosIntelligenceLab/PolarFormer) - [AAAI 2023] PolarFormer: Multi-camera 3D Object Detection with Polar Transformers
 - [weixmath/PDG](https://github.com/weixmath/PDG) - 
 - [3db/blog_demo](https://github.com/3db/blog_demo) - Data, configs, and code for the walkthrough from the 3DB blogpost: https://gradientscience.org/3db
 - [3db/3db](https://github.com/3db/3db) - A framework for analyzing computer vision models with simulated data
@@ -3239,8 +3239,8 @@
 - [ldkong1205/PointCloud-C](https://github.com/ldkong1205/PointCloud-C) - Benchmarking and Analyzing Point Cloud Perception Robustness under Corruptions
 - [worldbench/LaserMix](https://github.com/worldbench/LaserMix) - [CVPR 2023 Highlight] LaserMix for Semi-Supervised LiDAR Semantic Segmentation
 - [cardwing/Codes-for-PVKD](https://github.com/cardwing/Codes-for-PVKD) - Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation (CVPR 2022)
-- [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - [ECCV 2022] Learning Ego 3D Representation as Ray Tracing
-- [fudan-zvg/DeepInteraction](https://github.com/fudan-zvg/DeepInteraction) - [NeurIPS 2022 & TPAMI 2025] DeepInteraction: 3D Object Detection via Modality Interaction
+- [LogosIntelligenceLab/Ego3RT](https://github.com/LogosIntelligenceLab/Ego3RT) - [ECCV 2022] Learning Ego 3D Representation as Ray Tracing
+- [LogosIntelligenceLab/DeepInteraction](https://github.com/LogosIntelligenceLab/DeepInteraction) - [NeurIPS 2022 & TPAMI 2025] DeepInteraction: 3D Object Detection via Modality Interaction
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
 - [jhli2019/CVproject](https://github.com/jhli2019/CVproject) - 抖音项目源码分享
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
