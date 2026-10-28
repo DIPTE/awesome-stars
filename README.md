@@ -2125,7 +2125,7 @@
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching [ECCV 26]
 - [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
-- [RT-DETRs/RT-DETRv4](https://github.com/RT-DETRs/RT-DETRv4) - [ECCV 2026] RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+- [AIMIA-EAI/RT-DETRv4](https://github.com/AIMIA-EAI/RT-DETRv4) - [ECCV 2026] RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026 Highlight] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
@@ -3155,8 +3155,6 @@
 - [imransai/TWISE](https://github.com/imransai/TWISE) - Code for CVPR 2021 Submission of our paper 'Depth Completion with Twin Surface Extrapolation at Occlusion Boundaries'
 - [LittlePey/SFD](https://github.com/LittlePey/SFD) - Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion (CVPR 2022, Oral)
 - [cgtuebingen/SpatialDETR](https://github.com/cgtuebingen/SpatialDETR) - Official implementation of SpatialDETR. The paper will be presented at ECCV 2022
-- [Ascend/ModelZoo-PyTorch](https://github.com/Ascend/ModelZoo-PyTorch) - 
-- [Ascend/ModelZoo-TensorFlow](https://github.com/Ascend/ModelZoo-TensorFlow) - 
 - [amazon-science/tracking-dataset](https://github.com/amazon-science/tracking-dataset) - 
 - [BorealisAI/DT-Fixup](https://github.com/BorealisAI/DT-Fixup) - Optimizing Deeper Transformers on Small Datasets https://arxiv.org/abs/2012.15355
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
