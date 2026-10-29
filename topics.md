@@ -3240,7 +3240,7 @@
 - [yiningzeng/hikvision-darknet-demo](https://github.com/yiningzeng/hikvision-darknet-demo) - 海康威视相机+yolov3 实现实时检测demo
 - [wayveai/Driving-with-LLMs](https://github.com/wayveai/Driving-with-LLMs) - PyTorch implementation for the paper "Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving"
 - [hikvision-research/3DVision](https://github.com/hikvision-research/3DVision) - 
-- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [meta/folly](https://github.com/meta/folly) - An open-source C++ library developed and used at Facebook.
 - [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 - [deepspeedai/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples) - Example models using DeepSpeed
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
