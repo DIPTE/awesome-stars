@@ -3115,7 +3115,7 @@
 - [DataXujing/lanenet-tensorrt](https://github.com/DataXujing/lanenet-tensorrt) - :fire: :fire: :fire: 车道线检测Lanenet TensorRT加速C++实现
 - [Wolfwjs/GANet](https://github.com/Wolfwjs/GANet) - A Keypoint-based Global Association Network for Lane Detection. Accepted by CVPR 2022
 - [ChenZjut/ROS_LaneATT](https://github.com/ChenZjut/ROS_LaneATT) - 
-- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR'24 Oral] Official repository of Point Transformer V3 (PTv3)
+- [Pointcept/PointTransformerV3](https://github.com/Pointcept/PointTransformerV3) - [CVPR'24 Oral] Official repository of Point Transformer V3 (PTv3). Also a pip-installable PyTorch + Triton package with pretrained Sonata, Concerto, and Utonia encoders.
 - [tusen-ai/EchoFusion](https://github.com/tusen-ai/EchoFusion) - 
 - [wep21/CUDA-TransFusion](https://github.com/wep21/CUDA-TransFusion) - 
 - [CYYAI/AiInfer](https://github.com/CYYAI/AiInfer) - 
