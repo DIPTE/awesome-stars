@@ -2707,7 +2707,6 @@
 - [subake/DAPS3D](https://github.com/subake/DAPS3D) - DAPS3D: Domain Adaptive Projective Segmentation of 3D LiDAR Point Clouds
 - [OpenDriveLab/DriveAdapter](https://github.com/OpenDriveLab/DriveAdapter) - [ICCV 2023 Oral] A New Paradigm for End-to-end Autonomous Driving to Alleviate Causal Confusion
 - [IRMVLab/ASTA3DConv](https://github.com/IRMVLab/ASTA3DConv) - Codes for TIM2021 paper "Anchor-Based Spatio-Temporal Attention 3-D Convolutional Networks for Dynamic 3-D Point Cloud Sequences"
-- [s-duuu/pred_fusion](https://github.com/s-duuu/pred_fusion) - Object Trajectory Prediction using ROS, YOLOv5, PointPillars, CRAT-Pred
 - [aydnzn/Enhancing-LiDAR-based-3D-Object-Detection](https://github.com/aydnzn/Enhancing-LiDAR-based-3D-Object-Detection) - This repository contains a Master's Thesis on enhancing LiDAR-based 3D Object Detection in autonomous vehicles using synthetic data. The research explores the use of the Ansys AVxcelerate Sensors Simu
 - [Robertwyq/Frustum](https://github.com/Robertwyq/Frustum) - [CVPR 2023] FrustumFormer: Adaptive Instance-aware Resampling for Multi-view 3D Detection
 - [zhuoxiao-chen/ReDB-DA-3Ddet](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet) - [ICCV 2023] Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling
@@ -3309,7 +3308,6 @@
 - [kylevedder/SparsePointPillars](https://github.com/kylevedder/SparsePointPillars) - 
 - [CSL-KU/Anytime-Lidar](https://github.com/CSL-KU/Anytime-Lidar) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [mindspore-ai/models](https://github.com/mindspore-ai/models) - 
-- [ljie-PI/lidar-perception-models](https://github.com/ljie-PI/lidar-perception-models) - 
 - [AbangLZU/PointPillars-TF](https://github.com/AbangLZU/PointPillars-TF) - PointPillars implementation using TensorFlow.
 - [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
 - [open-mmlab/mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.
