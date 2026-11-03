@@ -16,6 +16,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [archlinux](#archlinux)
 - [arduino](#arduino)
@@ -479,6 +480,10 @@
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - High Performance Chinese License Plate Recognition Framework.
+
+## android-app 
+
+- [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) - 🍅🍅🍅YOLOv5-Lite: Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.7M (fp16). Reach 15 FPS on the Raspberry Pi 4B~
 
 ## angular 
 
@@ -2232,6 +2237,7 @@
 
 ## microsoft 
 
+- [microsoft/Mage](https://github.com/microsoft/Mage) - 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 
@@ -2505,9 +2511,8 @@
 ## others 
 
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
-- [prs-eth/ForPT](https://github.com/prs-eth/ForPT) - Toward A Foundation Model for Forest Point Clouds
+- [prs-eth/ForPT](https://github.com/prs-eth/ForPT) - [ArXiv 2026]Toward A Foundation Model for Forest Point Clouds
 - [zexianzhang36-prog/cn-company-radar-toolbox](https://github.com/zexianzhang36-prog/cn-company-radar-toolbox) - 
-- [microsoft/Mage](https://github.com/microsoft/Mage) - 
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
 - [ringozzt/rea-research](https://github.com/ringozzt/rea-research) - REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链
 - [Maelic/RelateAnything](https://github.com/Maelic/RelateAnything) - RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs
@@ -6098,6 +6103,7 @@
 
 ## reinforcement-learning 
 
+- [microsoft/Mage](https://github.com/microsoft/Mage) - 
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
 - [JIA-Lab-research/Seg-Zero](https://github.com/JIA-Lab-research/Seg-Zero) - Project Page For "Seg-Zero: Reasoning-Chain Guided  Segmentation via Cognitive Reinforcement"
 - [JIA-Lab-research/VisionReasoner](https://github.com/JIA-Lab-research/VisionReasoner) - [ICLR 2026] VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning
