@@ -1619,6 +1619,7 @@
 
 ## embedded 
 
+- [SunJary/NetAssistant](https://github.com/SunJary/NetAssistant) - Cross-platform TCP/UDP/MQTT debug tool for packet send, socket testing & protocol debugging. 全平台 TCP/UDP/MQTT 网络调试工具。
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [CANopenNode/CANopenLinux](https://github.com/CANopenNode/CANopenLinux) - CANopenNode on Linux devices
@@ -1732,6 +1733,7 @@
 
 ## gui 
 
+- [SunJary/NetAssistant](https://github.com/SunJary/NetAssistant) - Cross-platform TCP/UDP/MQTT debug tool for packet send, socket testing & protocol debugging. 全平台 TCP/UDP/MQTT 网络调试工具。
 - [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
 - [koide3/interactive_slam](https://github.com/koide3/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
@@ -1830,6 +1832,7 @@
 
 ## iot 
 
+- [SunJary/NetAssistant](https://github.com/SunJary/NetAssistant) - Cross-platform TCP/UDP/MQTT debug tool for packet send, socket testing & protocol debugging. 全平台 TCP/UDP/MQTT 网络调试工具。
 - [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmony）开发技术交流，最全鸿蒙技术资料库，手册，指南，共建国产操作系统万物互联新生态。
@@ -2511,7 +2514,7 @@
 ## others 
 
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
-- [prs-eth/ForPT](https://github.com/prs-eth/ForPT) - [ArXiv 2026]Toward A Foundation Model for Forest Point Clouds
+- [prs-eth/ForPT](https://github.com/prs-eth/ForPT) - [ArXiv 2026] Toward A Foundation Model for Forest Point Clouds
 - [zexianzhang36-prog/cn-company-radar-toolbox](https://github.com/zexianzhang36-prog/cn-company-radar-toolbox) - 
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
 - [ringozzt/rea-research](https://github.com/ringozzt/rea-research) - REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链
