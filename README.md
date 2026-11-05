@@ -1816,7 +1816,6 @@
 - [ziv-lin/rxlive_handheld](https://github.com/ziv-lin/rxlive_handheld) - 
 - [hku-mars/Livox_handheld](https://github.com/hku-mars/Livox_handheld) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-- [yxltya/PointDGRWKV](https://github.com/yxltya/PointDGRWKV) - 
 - [TripleJoy/SAM2MOT](https://github.com/TripleJoy/SAM2MOT) - [AAAI 2026] Code for "SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation".
 - [suhaisheng/UniMamba](https://github.com/suhaisheng/UniMamba) - Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection
 - [hanlin-cheng/slam-study-note](https://github.com/hanlin-cheng/slam-study-note) - 生活不易，靓仔叹气（做好笔记）
@@ -2027,6 +2026,7 @@
 - [TencentYoutuResearch/FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD) - see details at https://github.com/Tencent/FaceDetection-DSFD
 - [SHI-Labs/3D-Point-Cloud-Learning](https://github.com/SHI-Labs/3D-Point-Cloud-Learning) - 
 - [3DSceneRetrieval/3D-Scene-Retrieval-Methods-Source-Code](https://github.com/3DSceneRetrieval/3D-Scene-Retrieval-Methods-Source-Code) - This is the source code repository for the methods evaluated in the paper "A comparison of methods for 3D scene shape retrieval".
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [amusi/YOLO-Reproduce-Summary](https://github.com/amusi/YOLO-Reproduce-Summary) - YOLO reproduce summary (now based on YOLOv3)
 - [lslrh/multi-view](https://github.com/lslrh/multi-view) - 
 - [Banconxuan/awesome-semantic-segmentation](https://github.com/Banconxuan/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
@@ -2207,7 +2207,7 @@
 - [MIT-SPARK/BUFFER-X](https://github.com/MIT-SPARK/BUFFER-X) - [ICCV 2025, Highlight] BUFFER-X: Zero-Shot Point Cloud Registration
 - [PRBonn/kiss-slam](https://github.com/PRBonn/kiss-slam) - A LiDAR SLAM system that just works
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - [NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 - [Yaepiii/M2UD](https://github.com/Yaepiii/M2UD) - 
 - [dk-liang/UniFuture](https://github.com/dk-liang/UniFuture) - [ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception
@@ -3938,7 +3938,6 @@
 - [hkust-vgd/lcd](https://github.com/hkust-vgd/lcd) - [AAAI'20] LCD: Learned Cross-Domain Descriptors for 2D-3D Matching
 - [hkust-vgd/pointwise](https://github.com/hkust-vgd/pointwise) - Code for Pointwise Convolutional Neural Networks, CVPR 2018
 - [hkust-vgd/riconv](https://github.com/hkust-vgd/riconv) - Rotation Invariant Convolutions for 3D Point Clouds Deep Learning
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [RPFey/voxelnet_pytorch](https://github.com/RPFey/voxelnet_pytorch) - modification of voxelnet
 - [WangYueFt/pillar-od](https://github.com/WangYueFt/pillar-od) - 
 - [JiageWang/face-recognition-system](https://github.com/JiageWang/face-recognition-system) - It is a face recognition system using mtcnn and arcface in pytorch
