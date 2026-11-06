@@ -2106,7 +2106,7 @@
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [Hamidreza-Hashempoor/FastTracker](https://github.com/Hamidreza-Hashempoor/FastTracker) - FastTracker: Real-Time and Accurate Visual Tracking
-- [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot) - AgentPilot: Better Next Moves for Your Agent. Get Things Done Faster.
+- [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot) - AgentPilot: Let a 9B Model Guide Your Agent’s Next Move—Better and Faster
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [Intellindust-AI-Lab/FT-FSOD](https://github.com/Intellindust-AI-Lab/FT-FSOD) - [CVPR 2026] A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps
 - [IdolLab/RAGTrack](https://github.com/IdolLab/RAGTrack) - [CVPR 2026] RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation
@@ -4355,7 +4355,6 @@
 - [UVA-Computer-Vision-Lab/3d_annotator](https://github.com/UVA-Computer-Vision-Lab/3d_annotator) - 3D BBox refinement interface used in LabelAny3D (NeurIPS 2025)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
-- [romgX/openrelay](https://github.com/romgX/openrelay) - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
