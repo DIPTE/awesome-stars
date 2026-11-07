@@ -2106,7 +2106,7 @@
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [Hamidreza-Hashempoor/FastTracker](https://github.com/Hamidreza-Hashempoor/FastTracker) - FastTracker: Real-Time and Accurate Visual Tracking
-- [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot) - AgentPilot: Let a 9B Model Guide Your Agent’s Next Move—Better and Faster
+- [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot) - AgentPilot: Make Your Agents Move Better and Faster
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [Intellindust-AI-Lab/FT-FSOD](https://github.com/Intellindust-AI-Lab/FT-FSOD) - [CVPR 2026] A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps
 - [IdolLab/RAGTrack](https://github.com/IdolLab/RAGTrack) - [CVPR 2026] RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation
@@ -2531,6 +2531,7 @@
 - [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch
 - [lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 - [waymo-research/waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
@@ -4330,7 +4331,6 @@
 
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
 - [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer) - The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [apple-aiml-research/ml-mobileone](https://github.com/apple-aiml-research/ml-mobileone) - This repository contains the official implementation of the research paper, "An Improved One millisecond Mobile Backbone" CVPR 2023.
 - [kingreza/quantization](https://github.com/kingreza/quantization) - A deep dive into Apple's coremltools quantization and how to reduce the size of a Core ML model without losing accuracy and performance
 - [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.
