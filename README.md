@@ -2026,7 +2026,6 @@
 - [TencentYoutuResearch/FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD) - see details at https://github.com/Tencent/FaceDetection-DSFD
 - [SHI-Labs/3D-Point-Cloud-Learning](https://github.com/SHI-Labs/3D-Point-Cloud-Learning) - 
 - [3DSceneRetrieval/3D-Scene-Retrieval-Methods-Source-Code](https://github.com/3DSceneRetrieval/3D-Scene-Retrieval-Methods-Source-Code) - This is the source code repository for the methods evaluated in the paper "A comparison of methods for 3D scene shape retrieval".
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [amusi/YOLO-Reproduce-Summary](https://github.com/amusi/YOLO-Reproduce-Summary) - YOLO reproduce summary (now based on YOLOv3)
 - [lslrh/multi-view](https://github.com/lslrh/multi-view) - 
 - [Banconxuan/awesome-semantic-segmentation](https://github.com/Banconxuan/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
@@ -2075,7 +2074,7 @@
 - [anbeime/skill](https://github.com/anbeime/skill) - 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate
 - [prs-eth/ForPT](https://github.com/prs-eth/ForPT) - [ArXiv 2026] Toward A Foundation Model for Forest Point Clouds
 - [zexianzhang36-prog/cn-company-radar-toolbox](https://github.com/zexianzhang36-prog/cn-company-radar-toolbox) - 
-- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map 840+ social media identities across the web
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map  7,700+ social media identities across the web
 - [microsoft/Mage](https://github.com/microsoft/Mage) - 
 - [Maelic/RelateAnything](https://github.com/Maelic/RelateAnything) - RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs
 - [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
@@ -2123,7 +2122,7 @@
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 - [PRBonn/RAP](https://github.com/PRBonn/RAP) - 🎤 Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching [ECCV 26]
 - [worldbench/Pi3DET](https://github.com/worldbench/Pi3DET) - [ICCV 2025] Perspective-Invariant 3D Object Detection
-- [AIMIA-EAI/RT-DETRv4](https://github.com/AIMIA-EAI/RT-DETRv4) - [ECCV 2026] RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+- [AIMIA-PKU/RT-DETRv4](https://github.com/AIMIA-PKU/RT-DETRv4) - [ECCV 2026] RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
 - [prs-eth/LitePT](https://github.com/prs-eth/LitePT) - [CVPR 2026 Highlight] LitePT: Lighter Yet Stronger Point Transformer
 - [lixiaoyu2000/HAT](https://github.com/lixiaoyu2000/HAT) - Official Repo For AAAI 2026 Accepted Paper "Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception"
 - [Intellindust-AI-Lab/DEIM](https://github.com/Intellindust-AI-Lab/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
@@ -3939,6 +3938,7 @@
 - [hkust-vgd/lcd](https://github.com/hkust-vgd/lcd) - [AAAI'20] LCD: Learned Cross-Domain Descriptors for 2D-3D Matching
 - [hkust-vgd/pointwise](https://github.com/hkust-vgd/pointwise) - Code for Pointwise Convolutional Neural Networks, CVPR 2018
 - [hkust-vgd/riconv](https://github.com/hkust-vgd/riconv) - Rotation Invariant Convolutions for 3D Point Clouds Deep Learning
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [RPFey/voxelnet_pytorch](https://github.com/RPFey/voxelnet_pytorch) - modification of voxelnet
 - [WangYueFt/pillar-od](https://github.com/WangYueFt/pillar-od) - 
 - [JiageWang/face-recognition-system](https://github.com/JiageWang/face-recognition-system) - It is a face recognition system using mtcnn and arcface in pytorch
