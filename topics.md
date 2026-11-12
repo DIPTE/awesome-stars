@@ -2531,7 +2531,6 @@
 - [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 - [thinson/RS-PaperClaw](https://github.com/thinson/RS-PaperClaw) - 🦞 Stop reading remote sensing papaers manually — RS-PaperClaw auto-tracks, auto-analyzes, and auto-digests remote sensing papers.
 - [yangzigy/com_mc](https://github.com/yangzigy/com_mc) - 通用测控上位机
-- [zllzll/UAVPlatform](https://github.com/zllzll/UAVPlatform) - UAVPlatform是雷达+基座(RTK)+无人机(RTK)搭建出来的真值环境实时显示
 - [AlexGeControl/2025-Shanghai-AI-Engineer-Certification](https://github.com/AlexGeControl/2025-Shanghai-AI-Engineer-Certification) - Training materials for 2025 Shanghai AI Engineer Certification
 - [meituan-longcat/LongCat-2.0](https://github.com/meituan-longcat/LongCat-2.0) - 
 - [pi3det/Pi3DET-Visualization](https://github.com/pi3det/Pi3DET-Visualization) - Visualization toolkit for Pi3DET-Dataset
