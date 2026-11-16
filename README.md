@@ -32,6 +32,7 @@
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [MLIR](#mlir)
@@ -1299,7 +1300,6 @@
 - [DengMen/learnCGAL](https://github.com/DengMen/learnCGAL) - learn cgal by demo
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [CKchaos/scn2pointcloud_tool](https://github.com/CKchaos/scn2pointcloud_tool) - The toolbox implements the data conversion from CAD models (such as .obj/.off file) to point cloud(surface voxels) with RGB value and labels.
-- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 - [PaulBernier/obj2pcd](https://github.com/PaulBernier/obj2pcd) - Very basic converter from .obj file to .pcd file (and reverse)
 - [jiangwei221/obj2pcd](https://github.com/jiangwei221/obj2pcd) - Simple point cloud sampler for obj file
 - [cabraile/off2pcd](https://github.com/cabraile/off2pcd) - 
@@ -1708,6 +1708,10 @@
 
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
+## Lean 
+
+- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 
 ## Lua 
 
@@ -2961,7 +2965,7 @@
 - [ai4ce/DeepMapping2](https://github.com/ai4ce/DeepMapping2) - [CVPR2023] DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization
 - [tarashakhurana/4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting) - CVPR 2023: Official code for `Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'
 - [JOP-Lee/READ](https://github.com/JOP-Lee/READ) - AAAI2023，implementation of "READ:  Large-Scale Neural Scene Rendering for Autonomous Driving", the experimental results are significantly better than Nerf-based methods
-- [wynoxos/M3DM](https://github.com/wynoxos/M3DM) - 
+- [nomewang/M3DM](https://github.com/nomewang/M3DM) - 
 - [I2-Multimedia-Lab/ProxyFormer](https://github.com/I2-Multimedia-Lab/ProxyFormer) - ProxyFormer (CVPR 2023)
 - [pranavkdm/R-PointHop](https://github.com/pranavkdm/R-PointHop) - R-PointHop: A Green, Accurate and Unsupervised Point Cloud Registration Method
 - [NVlabs/SegFormer](https://github.com/NVlabs/SegFormer) - Official PyTorch implementation of SegFormer
