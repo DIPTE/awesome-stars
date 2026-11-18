@@ -246,7 +246,6 @@
 - [zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient) - This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn
 - [kendryte/nncase](https://github.com/kendryte/nncase) - Open deep learning compiler stack for Kendryte AI accelerators ✨
 - [kendryte/kendryte-flash-windows](https://github.com/kendryte/kendryte-flash-windows) - Kendryte flash utility for Windows
-- [microsoft/onnxruntime-training-examples](https://github.com/microsoft/onnxruntime-training-examples) - Examples for using ONNX Runtime for model training.
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
 - [acgessler/open3mod](https://github.com/acgessler/open3mod) - Open 3D Model Viewer - A quick and powerful 3D model viewer
@@ -860,7 +859,6 @@
 - [MapIV/rtklib_ros_bridge](https://github.com/MapIV/rtklib_ros_bridge) - ROS bridge for RTKLIB v2.4.3 b34
 - [victorbadenas/SimpleOnnxInference](https://github.com/victorbadenas/SimpleOnnxInference) - A simple c++ onnx application for inferencing images
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
-- [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) - onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime
 - [dog-qiuqiu/simple-rknn2](https://github.com/dog-qiuqiu/simple-rknn2) - The rknn2 API uses the secondary encapsulation of the process, which is easy for everyone to call. It is applicable to rk356x rk3588
 - [airockchip/RK3399Pro_npu](https://github.com/airockchip/RK3399Pro_npu) - 
 - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - Track vehicles and persons on rk3588 / rk3399pro.
@@ -1114,10 +1112,8 @@
 - [rogersce/cnpy](https://github.com/rogersce/cnpy) - library to read/write .npy and .npz files in C/C++
 - [pointpillars-on-openvino/pointpillars-on-openvino](https://github.com/pointpillars-on-openvino/pointpillars-on-openvino) - 
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
-- [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [ser94mor/lidar-obstacle-detection](https://github.com/ser94mor/lidar-obstacle-detection) - Project: Lidar Obstacle Detection || Udacity: Sensor Fusion Engineer Nanodegree
 - [intel/OpenVINO-optimization-for-PointPillars](https://github.com/intel/OpenVINO-optimization-for-PointPillars) - OpenVINO™ optimization for PointPillars*
-- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [RUSH-LAB/NegativeSampling](https://github.com/RUSH-LAB/NegativeSampling) - 
 - [keroro824/HashingDeepLearning](https://github.com/keroro824/HashingDeepLearning) - Codebase for "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems"
 - [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion.
@@ -1417,7 +1413,7 @@
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1881,7 +1877,6 @@
 - [liangyn22/MCUFormer](https://github.com/liangyn22/MCUFormer) - [NeurIPS 2023] MCUFormer: Deploying Vision Transformers on Microcontrollers with Limited Memory
 - [SherryJYC/paper-MTMC](https://github.com/SherryJYC/paper-MTMC) - A repo of awesome papers about multi target multi camera tracking
 - [Shaoqing26/FusionPainting](https://github.com/Shaoqing26/FusionPainting) - 
-- [youngfly/Dynamic-Adjustment-Fusion](https://github.com/youngfly/Dynamic-Adjustment-Fusion) - 3D multi-modal detection
 - [AndyYuan96/YZLFusion](https://github.com/AndyYuan96/YZLFusion) - 
 - [chenchaoxu/UtransFusion](https://github.com/chenchaoxu/UtransFusion) - 
 - [ADLab-AutoDrive/FusionFormer](https://github.com/ADLab-AutoDrive/FusionFormer) - 
@@ -2578,6 +2573,7 @@
 - [talk2car/Talk2Car](https://github.com/talk2car/Talk2Car) - The official Talk2Car dataset repo
 - [Haiyang-W/DSVT](https://github.com/Haiyang-W/DSVT) - [CVPR2023] Official Implementation of "DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets"
 - [rasd3/3D-Dual-Fusion](https://github.com/rasd3/3D-Dual-Fusion) - [Arxiv 2022] This is the official implementation of 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection
+- [youngfly/Dynamic-Adjustment-Fusion](https://github.com/youngfly/Dynamic-Adjustment-Fusion) - 3D multi-modal detection
 - [jhkohpav/MGTANet](https://github.com/jhkohpav/MGTANet) - 
 - [ICEORY/PMF](https://github.com/ICEORY/PMF) - Perception-aware multi-sensor fusion for 3D LiDAR semantic segmentation (ICCV 2021)
 - [Robertwyq/PanoOcc](https://github.com/Robertwyq/PanoOcc) - [CVPR 2024] PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation
@@ -3067,7 +3063,6 @@
 - [Yuanchu/YOLO3D](https://github.com/Yuanchu/YOLO3D) - Implementation of a basic YOLO model for object detection in 3D
 - [ForestMa/SOPHGO-HVOD-Contest](https://github.com/ForestMa/SOPHGO-HVOD-Contest) - 
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
-- [microsoft/onnxscript](https://github.com/microsoft/onnxscript) - ONNX Script enables developers to naturally author ONNX functions and models using a subset of Python.
 - [sunjiahao1999/SPFormer](https://github.com/sunjiahao1999/SPFormer) - 
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
 - [PeizeSun/OneNet](https://github.com/PeizeSun/OneNet) - [ICML2021] What Makes for End-to-End Object Detection
@@ -4257,13 +4252,12 @@
 ## Rust 
 
 - [SunJary/NetAssistant](https://github.com/SunJary/NetAssistant) - Cross-platform TCP/UDP/MQTT debug tool for packet send, socket testing & protocol debugging. 全平台 TCP/UDP/MQTT 网络调试工具。
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonu
 - [greluoqixi/cc-switch-web](https://github.com/greluoqixi/cc-switch-web) - 
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [ViliamVadocz/nvidia-video-codec-sdk](https://github.com/ViliamVadocz/nvidia-video-codec-sdk) - Rust bindings for NVIDIA Video Codec SDK
@@ -4358,6 +4352,7 @@
 - [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [UVA-Computer-Vision-Lab/3d_annotator](https://github.com/UVA-Computer-Vision-Lab/3d_annotator) - 3D BBox refinement interface used in LabelAny3D (NeurIPS 2025)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -4385,7 +4380,6 @@
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.
-- [microsoft/onnxruntime-web-demo](https://github.com/microsoft/onnxruntime-web-demo) - demos to show the capabilities of ONNX Runtime Web
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [TheAlgorithms/website](https://github.com/TheAlgorithms/website) - The Algorithms website providing GitHub's largest open-source algorithm library.
