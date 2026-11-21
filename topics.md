@@ -475,6 +475,7 @@
 
 ## android 
 
+- [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
@@ -1433,7 +1434,7 @@
 - [OmidPoursaeed/Self_supervised_Learning_Point_Clouds](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds) - Self-supervised Learning of Point Clouds via Orientation Estimation (3DV 2020)
 - [ajhamdi/MVTN](https://github.com/ajhamdi/MVTN) - pytorch implementation of the ICCV'21 paper "MVTN: Multi-View Transformation Network for 3D Shape Recognition"
 - [dkoguciuk/mesh2pointcloud](https://github.com/dkoguciuk/mesh2pointcloud) - A mini scripts to sample ModelNet40 or ShapeNetCore55v2 meshes into 3D point clouds
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable Python and C++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable multi-object tracking in Python and C++ for axis-aligned and oriented boxes, now with Helm deployment for continuous camera tracking on Kubernetes.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [shanjiayao/PTT](https://github.com/shanjiayao/PTT) - Official PyTorch Implementation for "PTT: Point-Track-Transformer Module for 3D Single Object Trackingin Point Clouds"
 - [datamllab/autovideo](https://github.com/datamllab/autovideo) - AutoVideo: An Automated Video Action Recognition System
@@ -1940,6 +1941,7 @@
 
 ## linux 
 
+- [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
 - [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map  7,700+ social media identities across the web
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -2172,7 +2174,7 @@
 - [BlackHC/tfpyth](https://github.com/BlackHC/tfpyth) - Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters).
 - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [dkoguciuk/mesh2pointcloud](https://github.com/dkoguciuk/mesh2pointcloud) - A mini scripts to sample ModelNet40 or ShapeNetCore55v2 meshes into 3D point clouds
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable Python and C++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable multi-object tracking in Python and C++ for axis-aligned and oriented boxes, now with Helm deployment for continuous camera tracking on Kubernetes.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [xinshuoweng/AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - (IROS 2020, ECCVW 2020) Official Python Implementation for "3D Multi-Object Tracking: A Baseline and New Evaluation Metrics"
 - [extreme-assistant/Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team) - 国内外优秀的计算机视觉团队汇总，极市团队整理
@@ -2209,6 +2211,7 @@
 
 ## macos 
 
+- [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS
@@ -6041,6 +6044,7 @@
 
 ## qt 
 
+- [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
@@ -6568,6 +6572,7 @@
 
 ## windows 
 
+- [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
