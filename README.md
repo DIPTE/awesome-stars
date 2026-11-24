@@ -254,6 +254,7 @@
 
 ## C++ 
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
 - [jghh2/GPDXmonitor](https://github.com/jghh2/GPDXmonitor) - QT写的股票高抛低吸监控软件
 - [sychina/FastPillars_TensorRT](https://github.com/sychina/FastPillars_TensorRT) - TensorRT for FastPillars
