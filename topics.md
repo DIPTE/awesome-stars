@@ -4499,7 +4499,7 @@
 - [NVIDIA-AI-IOT/deepstream_parallel_inference_app](https://github.com/NVIDIA-AI-IOT/deepstream_parallel_inference_app) - A project demonstrating how to use nvmetamux to run multiple models in parallel.
 - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson
 - [engcang/ros-yolo-sort](https://github.com/engcang/ros-yolo-sort) - YOLO v3, v4, v5, v6, v7 + SORT tracking + ROS platform. Supporting: YOLO with Darknet, OpenCV(DNN), OpenVINO, TensorRT(tkDNN). SORT supports python(original) and C++. (Not Deep SORT)
-- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [mindspore-ai/mindspore-bk](https://github.com/mindspore-ai/mindspore-bk) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [FeiGeChuanShu/YOLOPv2-ncnn](https://github.com/FeiGeChuanShu/YOLOPv2-ncnn) - 
 - [FeiGeChuanShu/yolov5-seg-ncnn](https://github.com/FeiGeChuanShu/yolov5-seg-ncnn) - c++ version of yolov5 segmentation with ncnn
 - [Ghostish/MM-Track](https://github.com/Ghostish/MM-Track) - The project page of MMTrack (CVPR2022 ORAL)
