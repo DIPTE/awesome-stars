@@ -1054,7 +1054,7 @@
 - [ttanzhiqiang/onnx_tensorrt_project](https://github.com/ttanzhiqiang/onnx_tensorrt_project) - Support Yolov5(4.0)/Yolov5(5.0)/YoloR/YoloX/Yolov4/Yolov3/CenterNet/CenterFace/RetinaFace/Classify/Unet. use darknet/libtorch/pytorch/mxnet to onnx to tensorrt
 - [engcang/ros-yolo-sort](https://github.com/engcang/ros-yolo-sort) - YOLO v3, v4, v5, v6, v7 + SORT tracking + ROS platform. Supporting: YOLO with Darknet, OpenCV(DNN), OpenVINO, TensorRT(tkDNN). SORT supports python(original) and C++. (Not Deep SORT)
 - [iwatake2222/rotation_master](https://github.com/iwatake2222/rotation_master) - Provide conversion between the major representations of 3D rotation and visualize the orientation of a rigid body
-- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [mindspore-ai/mindspore-bk](https://github.com/mindspore-ai/mindspore-bk) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [iwatake2222/InferenceHelper](https://github.com/iwatake2222/InferenceHelper) - C++ Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, OpenVINO, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
 - [iwatake2222/InferenceHelper_Sample](https://github.com/iwatake2222/InferenceHelper_Sample) - Sample projects for InferenceHelper, a Helper Class for Deep Learning Inference Frameworks: TensorFlow Lite, TensorRT, OpenCV, ncnn, MNN, SNPE, Arm NN, NNabla, ONNX Runtime, LibTorch, TensorFlow
 - [FeiGeChuanShu/YOLOPv2-ncnn](https://github.com/FeiGeChuanShu/YOLOPv2-ncnn) - 
@@ -4254,7 +4254,6 @@
 ## Rust 
 
 - [SunJary/NetAssistant](https://github.com/SunJary/NetAssistant) - Cross-platform TCP/UDP/MQTT debug tool for packet send, socket testing & protocol debugging. 全平台 TCP/UDP/MQTT 网络调试工具。
-- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonu
 - [greluoqixi/cc-switch-web](https://github.com/greluoqixi/cc-switch-web) - 
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
@@ -4355,6 +4354,7 @@
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [UVA-Computer-Vision-Lab/3d_annotator](https://github.com/UVA-Computer-Vision-Lab/3d_annotator) - 3D BBox refinement interface used in LabelAny3D (NeurIPS 2025)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) - All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonu
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
